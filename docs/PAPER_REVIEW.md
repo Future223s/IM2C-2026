@@ -8,6 +8,45 @@ Numbers marked "verified" were re-read from the CSV tables.
 
 ---
 
+## 0. Model summary (final model, for the paper's abstract and model section)
+
+Full detail: `analysis/delta_model/DELTA_MODEL.md`. Figures D1–D5 are in `analysis/delta_model/figures/`.
+
+**Structure:** `predicted peak(l, y) = μ(l, y) + δ(l, y)`. The target is the MODIS MCD12Q2 mid-greendown day of year: the median over deciduous/mixed forest pixels in a 40 km circle around each of 11 Appalachian locations, clipped to the local EPA ecoregion, 2001–2025.
+
+- **μ (baseline):** the location's mean peak over the **previous 3 years**. The window was chosen by a forward backtest (2011–2025) comparing 3, 5 and 10 years and all prior years.
+- **δ (this year's departure):** shared-slope ridge regression on within-location weather anomalies (x′ = x − the site's 2001–2025 mean). The features are forecast-safe (each window ends before the typical peak at every site) and selected by forward selection on leave-one-year-out MAE (≤ 5 terms):
+
+| Anomaly | Weight | Direction |
+|---|---|---|
+| Spring warmth, GDD5 Mar–May (°C·d) | −0.039 d per °C·d | warm spring → earlier |
+| Cold degree-days, 30 d before typical peak (°C·d) | −0.055 d per °C·d | cool pre-peak → earlier |
+| August max temperature (°C) | +1.33 d per °C | hot August → later |
+| Mar–Apr mean temperature (°C) | +0.67 d per °C | partly offsets GDD5 (r = 0.62); interpret jointly |
+| Jun–Jul max temperature (°C) | −0.83 d per °C | 95% CI crosses 0 |
+
+- **No location × weather interactions.** None improved held-out error: 30 environmental tests, Sebastian's M4, and FIA species × weather. Location and species composition enter only through μ.
+
+**Accuracy (out-of-sample only):**
+- Nested leave-one-year-out MAE: **2.68 d** vs 3.34 d for climatology (**−20%**).
+- Forward backtest 2011–2025: **2.83 d** vs 3.15 d (−10%); RMSE 3.54 d; bias −0.73 d.
+
+**Certainty:**
+- **80% prediction interval: forecast −5.3 d to +2.9 d** (asymmetric because of the bias). 90%: −6.3 to +5.2 d.
+- P(within ±3 d) = **61%**; P(within ±5 d) = 82%.
+- The 80% interval built from 2011–2018 covered 96% of 2019–2025, so it is conservative.
+
+**2026 forecast (proxy dates):** δ is negative everywhere (−0.3 to −3.1 d), so 2026 is near normal to slightly early.
+- Forecasts run from Sep 25 (Montpelier) to Oct 6 (Shenandoah). Example: Asheville μ Oct 6, δ −2.1 → **Oct 4**, 80% interval Sep 29–Oct 7.
+- Using an all-years μ instead moves every forecast 0.5–3.1 d later. Report both.
+
+**Must-state caveats:**
+- These are satellite proxy dates. The offset to visually reported peak (assumed 1–3 weeks later) is **not calibrated**.
+- The 2026 MODIS product is not yet released, so the 2026 forecast is not yet verifiable against the target.
+- MODIS and VIIRS disagree on trend (gap +7.3 d/decade), which limits the 10-year accuracy claim. Re-estimate μ every year.
+
+---
+
 ## 1. Executive summary (the honest story)
 
 - **What we model is a satellite proxy, not the date a tourist would call "peak".** The target is MODIS MCD12Q2 mid-greendown (the median over the forest pixels
@@ -18,8 +57,8 @@ Numbers marked "verified" were re-read from the CSV tables.
 - **Between-site differences follow climate.** The site's climatological "cool-down date" (Tmean < 15 °C) explains μ with r = 0.91 and leave-one-location-out (LOLO) MAE 1.33 d,
   against 3.32 d for the grand mean. Latitude + elevation gives LOLO MAE 1.50 d. These are correlational results from n = 11 sites.
 - **Year-to-year departures are small and only modestly predictable.** Year-to-year SD is about 4 d. Forecast-safe late-summer heat gives about +1.0 d/°C
-  (`tmax_pre60to31`, pooled p = 0.036, `E15`). The delta-model tables (in progress) give a **nested** LOYO MAE of **2.68 d vs 3.34 d** for climatology (−20%).
-  An operational (forward-in-time, 2011–2025) backtest gives **2.83 d**, RMSE 3.54, bias −0.73 d, and an 80% interval of ±4.5 d
+  (`tmax_pre60to31`, pooled p = 0.036, `E15`). The delta model gives a **nested** LOYO MAE of **2.68 d vs 3.34 d** for climatology (−20%).
+  An operational (forward-in-time, 2011–2025) backtest gives **2.83 d**, RMSE 3.54, bias −0.73 d, and an 80% interval of −5.3 to +2.9 d (80% of absolute errors ≤ 4.5 d)
   (`analysis/delta_model/tables/D2`, `D6`). The δ signal is mostly **spring warmth → earlier** and **late-summer heat → later**.
   PhenoCam (Sebastian) independently finds a similar skill, −15%, but its predictor is **not forecast-safe** (Sep–Oct temperature).
 - **The analyses agree on structure.** The response to weather is the same everywhere: no location-varying slopes (Arin: 30 interaction tests with min p = 0.19;
@@ -69,7 +108,7 @@ Legend: ✅ supported · ⚠️ needs a caveat or rewording · ❌ wrong or unsu
 | 29 | Forecast-safe rule (window ends before P = round(mean peak)) | `DATASET_GUIDE.md` §5 | ⚠️ | P is the *mean*. In an early year (peak ~P−8) `*_pre30` windows still overlap the actual peak. Disclose this. Strictly forecast-safe means "issue date fixed before the earliest historical peak" (e.g., Sep 15). `dormancy_p50` and the `*_Sep1_Oct15` / `*_SepOct` / frost features must not appear in any forecast model. |
 | 30 | `peak_anom` / `peak_doy_mean` use all years | `HOW_TO_USE…` l.41 | ✅ | Correctly flagged. Verify DELTA_MODEL recomputes μ without the held-out year (E17 climatology 3.338 ≈ BUILD_LOG 3.34 suggests yes). |
 
-## 2b. Delta model (tables only; write-up pending): audit
+## 2b. Delta model audit (write-up now in DELTA_MODEL.md)
 
 | # | Item | Verdict | Evidence & fix |
 |---|---|---|---|
