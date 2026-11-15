@@ -8,42 +8,288 @@ Numbers marked "verified" were re-read from the CSV tables.
 
 ---
 
-## 0. Model summary (final model, for the paper's abstract and model section)
+## 0. Model summary (final model: source text for the paper's abstract, data, model, validation and results sections)
 
-Full detail: `analysis/delta_model/DELTA_MODEL.md`. Figures D1–D5 are in `analysis/delta_model/figures/`.
+Every number in this section was read from a results table. Sources: `analysis/delta_model/` (script `delta_model.py`, tables `D1–D10`, figures `D1–D5`, write-up `DELTA_MODEL.md`), `analysis/environmental/` (tables `E00–E24`, figures `E01–E24`, `FINDINGS.md`), `data/panel_v1/` (`BUILD_LOG.md`, `DATASET_GUIDE.md`), `tree_species_analysis/` and `multi_region_phenology/`. The whole pipeline reruns in about 3 minutes (fall-foliage conda env).
 
-**Structure:** `predicted peak(l, y) = μ(l, y) + δ(l, y)`. The target is the MODIS MCD12Q2 mid-greendown day of year: the median over deciduous/mixed forest pixels in a 40 km circle around each of 11 Appalachian locations, clipped to the local EPA ecoregion, 2001–2025.
+### 0.1 One-paragraph abstract (draft)
 
-- **μ (baseline):** the location's mean peak over the **previous 3 years**. The window was chosen by a forward backtest (2011–2025) comparing 3, 5 and 10 years and all prior years.
-- **δ (this year's departure):** shared-slope ridge regression on within-location weather anomalies (x′ = x − the site's 2001–2025 mean). The features are forecast-safe (each window ends before the typical peak at every site) and selected by forward selection on leave-one-year-out MAE (≤ 5 terms):
+We predict the date of peak autumn foliage at 11 Appalachian locations from Montpelier, VT to Asheville, NC. Each prediction is a location baseline μ (the mean of the previous three seasons) plus a weather-driven departure δ, a weighted sum of five pre-season weather anomalies. The target is the MODIS satellite "mid-greendown" date (2001–2025), the day forest greenness is halfway through its autumn decline. Location explains 45% of the variation in peak date and shared year-to-year weather 36%. Differences between sites track climate: the date a site's mean temperature falls below 15 °C explains 82% of them. Year-to-year departures follow spring warmth (warm spring → earlier), late-September chill (cool → earlier) and August heat (hot → later). None of these responses differs detectably between locations or forest types. On years it had never seen, the model's average error was 2.68 days, against 3.34 days for "predict the usual date" (20% better). Its 80% prediction interval runs from 5.3 days before to 2.9 days after the forecast. For 2026 every site is forecast near normal to slightly early (δ = −0.3 to −3.1 d), from Sep 25 in Vermont to Oct 6 at Shenandoah. These are satellite proxy dates. Peak color as people report it is assumed to come 1–3 weeks later, an offset we have not yet calibrated.
 
-| Anomaly | Weight | Direction |
+### 0.2 Data
+
+| Item | Detail |
+|---|---|
+| **Locations (11, north → south)** | Montpelier VT, Old Forge NY, Binghamton NY, Scranton PA, State College PA, Frostburg MD, Valley Head WV, Shenandoah VA, Roanoke VA, Boone NC, Asheville NC. New coordinates checked against OpenStreetMap (all within 0.01°). Shenandoah, Boone and Asheville keep the exact points of the earlier 4-region study. |
+| **Region per location** | 40 km radius circle clipped to the EPA Level III ecoregion containing the point. Areas range from 1,064 km² (Scranton) to 4,966 km² (Binghamton). No two regions overlap. |
+| **Forest mask** | NLCD 2021 deciduous (41) + mixed (43) forest. A 463 m MODIS pixel counts as forest if ≥ 50% of its 30 m NLCD pixels are forest. Forest pixel counts range from 3,215 (Scranton) to 18,346 (Boone). |
+| **Target (`peak_doy`)** | MODIS MCD12Q2 v061 `MidGreendown_1`, QA_Overall ≤ 1. Exact median over forest pixels whose center lies in the region (computed from per-region pixel histograms, not Earth Engine's approximate percentile). 2001–2025: 275 location-years, no gaps. Observed range DOY 262–291 (Sep 19 – Oct 18). |
+| **Weather** | gridMET daily tmin, tmax, precipitation, solar radiation and VPD, averaged over each clipped region (not forest-masked), Mar 1 – Nov 30, 2001–2026. 2026 runs to **Nov 11, 2026**. PDSI from GRIDMET/DROUGHT. |
+| **Robustness target** | VIIRS VNP22Q2 (2013–2025): +9.8 d later than MODIS on average. Within-location anomaly correlation with MODIS r = 0.67. The VIIRS − MODIS gap grows +7.3 d/decade. |
+| **Static descriptors** | SRTM elevation, slope and aspect over forest pixels; NLCD cover shares; LANDFIRE EVT (2016) forest-type groups; FIA species composition (Felix: 11 categories, 30-mile circles); gridMET climate normals; day length (Forsythe 1995). |
+| **Validation of the build** | Regression test against the earlier 4-region data: weather identical (max difference about 1e-12). Satellite percentiles within 1.0 d (mean 0.29 d); this difference comes from switching approximate → exact percentiles. All range, shape and missingness checks pass (`data/panel_v1/BUILD_LOG.md`). |
+
+### 0.3 Model equation
+
+```
+peak(l, y) = μ(l, y) + δ(l, y)
+
+μ(l, y)  = (1/3) Σ_{j=1..3} peak(l, y − j)                          rolling 3-year mean of the site's own record
+δ(l, y)  = Σ_k w_k · [ x_k(l, y) − x̄_k(l) ]                         shared weights, within-site anomalies
+x̄_k(l)   = mean of feature k at site l over the training years (2001–2025 for the final fit)
+```
+
+- One set of weights w_k applies to all locations (no site-specific slopes).
+- A positive δ means a later than usual peak.
+
+### 0.4 The baseline μ
+
+**Why a rolling mean, and why 3 years** (`tables/D5`, figure **D2**). Forward backtest: for every year 2011–2025, use only earlier years to build μ, choose the δ features and fit the weights, then predict that year.
+
+| μ window | μ alone, MAE (d) | μ + δ, MAE (d) |
 |---|---|---|
-| Spring warmth, GDD5 Mar–May (°C·d) | −0.039 d per °C·d | warm spring → earlier |
-| Cold degree-days, 30 d before typical peak (°C·d) | −0.055 d per °C·d | cool pre-peak → earlier |
-| August max temperature (°C) | +1.33 d per °C | hot August → later |
-| Mar–Apr mean temperature (°C) | +0.67 d per °C | partly offsets GDD5 (r = 0.62); interpret jointly |
-| Jun–Jul max temperature (°C) | −0.83 d per °C | 95% CI crosses 0 |
+| **3 years** | **3.15** | **2.83** |
+| 5 years | 3.23 | 3.07 |
+| 10 years | 3.30 | 3.08 |
+| All prior years | 3.25 | 3.09 |
 
-- **No location × weather interactions.** None improved held-out error: 30 environmental tests, Sebastian's M4, and FIA species × weather. Location and species composition enter only through μ.
+- **The 3-year window wins** because the MODIS record has drifted earlier recently (pooled 4-region trend −1.3 d/decade, not significant; clustered p = 0.20), and a short window follows that drift.
+- **Cost:** more sampling noise (year-to-year SD ≈ 4 d, so the SE of a 3-year mean ≈ 2.3 d).
+- **Caveat:** the drift is not confirmed by VIIRS. **Sensitivity:** an all-years μ moves every 2026 forecast 0.5–3.1 d later (§0.9).
 
-**Accuracy (out-of-sample only):**
-- Nested leave-one-year-out MAE: **2.68 d** vs 3.34 d for climatology (**−20%**).
-- Forward backtest 2011–2025: **2.83 d** vs 3.15 d (−10%); RMSE 3.54 d; bias −0.73 d.
+**Explaining μ across space** (environmental analysis, n = 11 sites). Needed for places without a long record and for "why is Vermont earlier than North Carolina?":
 
-**Certainty:**
-- **80% prediction interval: forecast −5.3 d to +2.9 d** (asymmetric because of the bias). 90%: −6.3 to +5.2 d.
-- P(within ±3 d) = **61%**; P(within ±5 d) = 82%.
-- The 80% interval built from 2011–2018 covered 96% of 2019–2025, so it is conservative.
+| Model of the site mean | Coefficients | R² | Leave-one-location-out MAE |
+|---|---|---|---|
+| Grand mean (benchmark) | — | — | 3.32 d |
+| **Latitude + median forest elevation** (pre-specified) | **−1.55 d per °N (p = 0.001); −1.10 d per +100 m (p = 0.024)** | 0.79 | **1.50 d** |
+| Thermal date: first DOY the climatological 15-day-smoothed Tmean < 15 °C | +0.33 d per day later cool-down (p = 0.0001) | 0.82 | 1.33 d (optimistic: threshold chosen by scan; r = 0.87–0.91 for any 8–18 °C threshold) |
+| September mean temperature normal | +1.99 d per °C | 0.80 | 1.47 d |
+| Northern-hardwood share (EVT) | −11.3 d per unit share | 0.64 | 1.93 d |
+| Best model searched inside each fold | — | — | 2.14 d (searching overfits with n = 11) |
 
-**2026 forecast (proxy dates):** δ is negative everywhere (−0.3 to −3.1 d), so 2026 is near normal to slightly early.
-- Forecasts run from Sep 25 (Montpelier) to Oct 6 (Shenandoah). Example: Asheville μ Oct 6, δ −2.1 → **Oct 4**, 80% interval Sep 29–Oct 7.
-- Using an all-years μ instead moves every forecast 0.5–3.1 d later. Report both.
+- **Geography lookup:** `μ ≈ 345.4 − 1.55·lat − 1.10·(elev/100 m)` (DOY; figure **E24**). Valid inside the sampled range: 35.6–44.3 °N, median forest elevation ~390–960 m.
+- **Elevation is masked when tested alone** (r = 0.21), because the southern sites are also the high ones.
+- **Hopkins ratio:** 1° latitude ≈ 141 m of elevation, close to Hopkins' bioclimatic ratio (≈ 122 m/°). The rates differ: Hopkins' spring rule is ~4 d/°, ours is 1.55 d/° for this autumn proxy.
+- **Mediation:** latitude and elevation lose significance once the thermal date is added. That is consistent with acting through temperature, but n = 11 can't prove it.
+- **Largest local residuals:** Shenandoah +3.7 d (in-sample; +4.4 d held out) and Roanoke −2.5 d. Every other site is within ±1.4 d (figure **E23**).
+- **Species and μ** (`tables/D9`, Felix's FIA shares, n = 11): later-peaking sites have more oak (r = +0.75), tupelo (+0.76) and yellow-poplar (+0.68). Earlier sites have more beech (r = −0.74), hard maple (−0.72) and evergreen (−0.66). Species composition is collinear with climate, so it can't be separated from temperature with 11 sites.
 
-**Must-state caveats:**
-- These are satellite proxy dates. The offset to visually reported peak (assumed 1–3 weeks later) is **not calibrated**.
-- The 2026 MODIS product is not yet released, so the 2026 forecast is not yet verifiable against the target.
-- MODIS and VIIRS disagree on trend (gap +7.3 d/decade), which limits the 10-year accuracy claim. Re-estimate μ every year.
+### 0.5 The departure δ
+
+**Eligible inputs: forecast-safe and available for 2026.** A feature qualifies only if its window ends before the typical peak at **every** location (`feature_timing.csv`) and it has a 2026 value. There were 13 candidates:
+
+- Spring: `tmean_MarApr`, `gdd5_MarMay`
+- Summer: `tmax_JunJul`, `precip_JunJul`, `tmax_Aug`
+- Windows anchored to the typical peak P: `tmean_pre30`, `tmin_pre30`, `cdd_pre30`, `cold_nights_pre30`, `tmax_pre60to31`, `precip_pre60`, `vpd_pre60`, `srad_pre30`
+
+**Excluded, and why:**
+- `mid_greenup_p50` (spring green-up date): predictive (+0.40 d/d, p = 0.0005) but **has no 2026 value**, because MODIS MCD12Q2 2026 is not released.
+- All September/October fixed windows: they overlap peak at Montpelier and Old Forge (typical peak Sep 28).
+- `first_frost_doy`: usually after peak.
+- `dormancy_p50`, `peak_doy_viirs` and other target-adjacent columns.
+
+**Estimator:**
+- Ridge regression (α = 1) on standardized within-location anomalies of both features and target.
+- Forward selection on leave-one-year-out (LOYO) MAE, all 11 sites held out together.
+- A feature enters only if MAE drops by ≥ 0.02 d; at most 5 features (`plan.md` budget: ≤ 5 main effects).
+
+**Selection path** (`tables/D1`; in-sample-selection LOYO MAE, optimistic; honest numbers in §0.6):
+
+| Step | Feature added | LOYO MAE |
+|---|---|---|
+| 0 | none (climatology) | 3.338 d |
+| 1 | Spring warmth GDD5, Mar–May | 2.988 d |
+| 2 | Cold degree-days, 30 d before peak | 2.708 d |
+| 3 | August max temperature | 2.523 d |
+| 4 | Mar–Apr mean temperature | 2.495 d |
+| 5 | Jun–Jul max temperature | 2.416 d |
+
+**Stability of selection** (`tables/D3`: how often each feature was chosen when selection was redone in each of the 25 nested folds):
+- `gdd5_MarMay` 25/25, `tmax_Aug` 25/25, `tmax_JunJul` 22/25, `cdd_pre30` 17/25
+- `precip_JunJul` 13/25, `tmean_MarApr` 11/25, `tmean_pre30` 8/25, `cold_nights_pre30` 2/25, `srad_pre30` 2/25
+- The spring-warmth and August-heat signals are rock-solid. The others are interchangeable proxies for "late-season chill" and "early-season warmth".
+
+**Final weights** (fit on all 275 location-years; 95% CIs from a 1,000-replicate bootstrap over years; `tables/D7`, figure **D1**):
+
+| Feature (anomaly vs site mean) | Weight (d per unit) | 95% CI | 1 SD of anomaly | Effect of a 1-SD anomaly | Share of δ variance |
+|---|---|---|---|---|---|
+| Spring warmth GDD5 Mar 1–May 31 (°C·d above 5 °C) | **−0.0393** | −0.0549 to −0.0254 | 66.3 °C·d | **−2.6 d** | 47% |
+| Cold degree-days (base 20 °C), P−30…P−1 | **−0.0546** | −0.0737 to −0.0344 | 32.5 °C·d | **−1.8 d** | 22% |
+| August mean daily max temperature (°C) | **+1.326** | +0.731 to +1.859 | 1.23 °C | **+1.6 d** | 19% |
+| Mar–Apr mean temperature (°C) | +0.668 | +0.087 to +1.174 | 1.41 °C | +0.9 d | 6% |
+| Jun–Jul mean daily max temperature (°C) | −0.832 | −1.409 to +0.025 | 1.09 °C | −0.9 d | 6% |
+
+**Physical interpretation:**
+1. **Warm spring → earlier autumn.** Earlier leaf-out and an earlier, longer growing season are followed by earlier senescence. Consistent with the carry-over effect of green-up date (+0.40 d per day of later green-up).
+2. **Chill before peak → earlier.** Accumulated cold below 20 °C in the month before the typical peak triggers senescence. This is the mechanism of degree-day senescence models (Delpierre et al. 2009).
+3. **Hot August → later.** It extends the active season. The same signal appeared in the 4-region study (+1.1 d/°C) and at every one of the 11 sites (pooled +1.0 d/°C for the peak-anchored version, p = 0.036).
+
+**Collinearity disclosure:**
+- The two spring terms have correlated anomalies (r = 0.62) and opposite signs. Holding Mar–Apr fixed, the GDD5 term mainly measures **May** warmth. Read them jointly, not separately.
+- **Simpler core:** spring GDD5 + pre-peak cold degree-days + August heat. In-sample-selection LOYO MAE 2.52 vs 2.42 d for the five-term model.
+
+**Tested and rejected for δ:**
+
+| Candidate | Result | Source |
+|---|---|---|
+| Location-specific slopes | Equal-slope F-tests p ≥ 0.57 for all 6 features tested | env `E15` |
+| Weather × {latitude, elevation, Sep normal, northern-hardwood share, oak–hickory share} | 30 tests; none has p < 0.05 (min p = 0.19); best LOYO change −0.02 d | env `E16`, `E17` |
+| Spring warmth × FIA species shares (evergreen, oak, hard maple, soft maple, beech, yellow-poplar) | best LOYO change −0.048 d (hard maple); none reaches the 0.05 d bar | `D8` |
+| Location-varying temperature sensitivity (PhenoCam) | worsens MAE 4.22 → 4.48 d | Sebastian M4 |
+| Linear time trend | did not improve LOYO in the 4-region study (3.30 vs 3.22 d) | `analysis/FINDINGS.md` §2 |
+| Precipitation and VPD windows | candidates, not selected | `D1`, `D3` |
+
+### 0.6 Validation (all out-of-sample)
+
+**Protocol 1, nested leave-one-year-out** (2001–2025, n = 275). Hold out a year (all 11 sites). Recompute μ from the other years and redo feature selection and weights on the training years only. Predict.
+
+**Protocol 2, operational forward backtest** (2011–2025, n = 165). Predict each year using only earlier years for μ (3-year), feature selection and weights. This mimics real use.
+
+| Metric | Protocol 1: μ only | Protocol 1: μ + δ | Protocol 2: μ only (3-yr) | Protocol 2: μ + δ |
+|---|---|---|---|---|
+| MAE | 3.34 d | **2.68 d (−20%)** | 3.15 d | **2.83 d (−10%)** |
+| RMSE | 4.13 d | **3.29 d** | — | **3.54 d** |
+| Bias (observed − predicted) | 0 | −0.20 d | — | −0.73 d |
+
+- **Correlation of predicted δ with the observed departure** (Protocol 1): r = 0.62. δ captures about 38% of year-to-year variance.
+- **Helene 2024** (Asheville, Boone): dropping those rows leaves nested MAE unchanged (2.68 d).
+
+**By location** (Protocol 1, MAE in days; the model beats climatology at all 11 sites):
+
+| Location | μ only | μ + δ |
+|---|---|---|
+| Montpelier | 2.78 | 2.58 |
+| Old Forge | 2.51 | 1.96 |
+| Binghamton | 3.27 | 2.46 |
+| Scranton | 3.18 | 3.07 |
+| State College | 3.39 | 2.58 |
+| Frostburg | 4.13 | 3.50 |
+| Valley Head | 3.55 | 2.79 |
+| Shenandoah | 3.45 | 2.73 |
+| Roanoke | 3.90 | 3.22 |
+| Boone | 3.27 | 2.32 |
+| Asheville | 3.28 | 2.32 |
+
+**By year** (Protocol 2, MAE in days across the 11 sites; 3-yr μ alone vs μ + δ):
+
+| Year | μ only | μ + δ |
+|---|---|---|
+| 2011 | 3.12 | 4.94 |
+| 2012 | 2.30 | 2.83 |
+| 2013 | 1.94 | 2.36 |
+| 2014 | 1.88 | 1.81 |
+| 2015 | 2.94 | 2.74 |
+| 2016 | 7.24 | **4.69** |
+| 2017 | 2.94 | 2.70 |
+| 2018 | 2.70 | 4.46 |
+| 2019 | 3.03 | 3.40 |
+| 2020 | 2.58 | 1.83 |
+| 2021 | 4.39 | **2.67** |
+| 2022 | 1.82 | 1.72 |
+| 2023 | 1.55 | 1.29 |
+| 2024 | 5.21 | **2.91** |
+| 2025 | 3.61 | 2.16 |
+
+- **δ earns its keep in anomalous years** (2016, 2021, 2024), cutting errors by 2–3 days.
+- **It does slightly worse in some normal years.** 2011, 2018 and 2012 are the misses (2011 also had the least training data).
+
+### 0.7 Uncertainty: the "% certainty" statement
+
+Empirical distribution of the 165 Protocol 2 errors (observed − predicted; `tables/D6`, figure **D3**):
+
+| Quantity | Value |
+|---|---|
+| 50% interval half-width (median \|error\|) | 2.5 d |
+| **80% prediction interval** | **forecast − 5.3 d to forecast + 2.9 d** |
+| 90% prediction interval | forecast − 6.3 d to forecast + 5.2 d |
+| P(\|error\| ≤ 2 d) | 42% |
+| **P(\|error\| ≤ 3 d)** | **61%** |
+| P(\|error\| ≤ 5 d) | 82% |
+| P(\|error\| ≤ 7 d) | 96% |
+| Calibration | the 80% interval from 2011–2018 errors covered **96%** of 2019–2025 cases, so it is conservative |
+
+- **Why the interval is asymmetric:** recent years came earlier than predicted (bias −0.73 d), so the interval reaches further on the early side.
+- **Suggested wording:** "We forecast Oct 4 (MODIS proxy) for Asheville. There is an 80% chance the date falls between Sep 29 and Oct 7, and roughly a 60% chance it is within 3 days of Oct 4."
+
+### 0.8 Within-location adjustments (for specific summits and slopes; environmental analysis, 1.08 M pixel-years)
+
+- **Southern Blue Ridge (Boone, Asheville):** flat to **1,300 m** (95% CI 1,250–1,300 m; +0.28 d per 100 m below), then **−2.92 d per 100 m above** (95% CI −3.27 to −2.48; year bootstrap with the break re-selected). This replicates the earlier 4-region rule (1,350 m, −2.93). Example: a 1,500 m ridge near Asheville peaks about 5 d earlier than the regional forecast.
+- **North and central sites:** little forest above ~800–1,200 m. Montpelier shows a steep segment above ~600 m (−2.5 d per 100 m). Elsewhere, slopes below the break are small and change sign between sites (−0.9 to +1.7 d per 100 m). **Don't adjust below ~1,000 m.**
+- **Aspect:** north-facing slopes peak earlier at all 11 sites, by 1.4–4.6 d per unit northness (all CIs exclude 0).
+
+### 0.9 2026 forecast (MODIS proxy dates; `tables/D10`, figures **D4**, **D5**)
+
+The 2026 weather inputs run to Nov 11, 2026. All selected windows end before each site's typical peak, so these forecasts could have been issued by mid-to-late September.
+
+| Location | μ (2023–25) | δ | **Forecast** | 80% interval | δ contributions (d): spring GDD5 / pre-peak chill / Aug heat / Mar–Apr / Jun–Jul | With all-years μ |
+|---|---|---|---|---|---|---|
+| Montpelier | Sep 26 | −0.3 | **Sep 25** | Sep 20 – Sep 28 | +0.1 / −1.0 / +0.4 / +0.9 / −0.7 | Sep 28 |
+| Old Forge | Sep 27 | −0.5 | **Sep 26** | Sep 21 – Sep 29 | −0.1 / −0.7 / −0.5 / +1.0 / −0.3 | Sep 27 |
+| Binghamton | Sep 28 | −1.6 | **Sep 27** | Sep 21 – Sep 30 | −2.0 / +0.2 / −0.6 / +1.4 / −0.6 | Sep 29 |
+| Scranton | Oct 4 | −0.8 | **Oct 3** | Sep 27 – Oct 6 | −2.0 / +0.6 / −0.1 / +1.3 / −0.6 | Oct 4 |
+| State College | Oct 1 | −1.4 | **Sep 29** | Sep 24 – Oct 2 | −3.2 / +1.1 / −0.7 / +1.8 / −0.3 | Oct 3 |
+| Frostburg | Sep 29 | −2.0 | **Sep 27** | Sep 22 – Sep 30 | −5.5 / +1.6 / −0.5 / +2.5 / −0.2 | Sep 30 |
+| Valley Head | Sep 29 | −0.4 | **Sep 29** | Sep 24 – Oct 2 | −5.5 / +2.6 / +0.9 / +2.3 / −0.7 | Oct 1 |
+| Shenandoah | Oct 9 | −3.1 | **Oct 6** | Sep 30 – Oct 9 | −5.5 / +0.4 / +0.3 / +2.1 / −0.4 | Oct 7 |
+| Roanoke | Oct 5 | −1.7 | **Oct 3** | Sep 28 – Oct 6 | −5.2 / +1.0 / +1.1 / +1.7 / −0.4 | Oct 4 |
+| Boone | Oct 4 | −1.2 | **Oct 2** | Sep 27 – Oct 5 | −6.3 / +2.1 / +1.2 / +2.1 / −0.4 | Oct 4 |
+| Asheville | Oct 6 | −2.1 | **Oct 4** | Sep 29 – Oct 7 | −6.6 / +1.8 / +1.1 / +2.0 / −0.3 | Oct 5 |
+
+**Reading the 2026 forecast:**
+- **A very warm 2026 spring,** especially May, pulls every site south of New York earlier by 2–7 d.
+- **That is partly cancelled** by a warm Mar–Apr (+1–2.5 d) and by the pre-peak chill and August heat terms.
+- **Net δ is small** (−0.3 to −3.1 d) compared with the interval, so 2026 is **near normal to slightly early everywhere**, with the largest early shifts at Shenandoah, Asheville and Frostburg.
+- **The 3-year μ** is itself 0.5–3.1 d earlier than the long-run mean, because 2023–2025 were early years.
+
+### 0.10 How the three team analyses enter the model
+
+| Analysis | Role | Key result used |
+|---|---|---|
+| **Environmental (Arin)** `analysis/environmental/` | explains μ; tests interactions; within-site elevation | Location 45% of variance (ANOVA F = 56.7); climate explains 82% of between-site μ; lat + elev geography model (R² 0.79); no location × weather interaction (30 tests); weather anomalies coherent over ~950 km (Mantel p = 0.0001); NC elevation break 1,300 m, −2.9 d per 100 m; north-facing slopes earlier. |
+| **Species (Felix)** `tree_species_analysis/` | explains μ (descriptive only) | Oak/tupelo/yellow-poplar shares go with later sites; beech/hard maple/evergreen with earlier sites. No species × weather interaction improves δ. His ridge model (19 predictors → species %, n = 11) has negative LOOCV R² for 7 of 11 categories, so use observed FIA shares, not predicted ones. |
+| **Temporal / PhenoCam (Sebastian)** `multi_region_phenology/` | independent confirmation of the structure | 12 PhenoCam sites, separate data: the location baseline is the main term (M1, MAE 4.95 d); a shared temperature shift adds 14.8% skill (M2, +2.75 d/°C for Sep–Oct; explanatory, not forecast-safe); location-varying slopes hurt (M4, 4.48 d); only timing, not curve shape, is predictable from weather (M5). |
+
+**Points of agreement to emphasize:**
+- Location dominates.
+- One shared weather response everywhere.
+- Warmer late season → later peak.
+- About 15–20% skill over climatology, independently, in two datasets with different sensors and sites.
+
+### 0.11 Limitations (state in the paper)
+
+1. **Proxy, not visual peak.** MODIS mid-greendown is the midpoint of the greenness decline. The assumed 1–3-week lag to news-reported peak color is **uncalibrated**. Every date in §0.9 is a proxy date.
+2. **2026 is not verifiable yet** against the target (MODIS MCD12Q2 2026 is released around mid-2027). The news-report comparison must be stated as done or pending.
+3. **Effective sample size ≈ 25 years.** The 11 sites share weather (anomaly correlation up to 0.96 between neighbors), so the 275 rows are not independent. Weight CIs use a bootstrap over years for this reason.
+4. **Modest skill.** δ cuts error by 10–20%. Year-to-year SD is ~4 d, and the 80% interval spans ~8 d.
+5. **Sensor dependence and trend.** MODIS and VIIRS disagree on the 2013–2025 trend (gap +7.3 d/decade on these sites). The 3-yr μ follows MODIS drift. MODIS is near end of mission, so an operational system needs a MODIS→VIIRS crosswalk.
+6. **n = 11 for the spatial claims.** Climate, latitude, species and elevation are collinear across sites. Causal attribution of μ differences is not possible.
+7. **Region-level weather.** gridMET averages are over the whole clipped region, not only forest pixels. Region sizes differ (1,064–4,966 km²).
+8. **Weights fit with hindsight.** The final weights use all 2001–2025 data. Protocol 2 gives the honest real-time accuracy.
+
+### 0.12 Ten-year outlook (input for the "10 years out" question)
+
+Error budget at a 10-year horizon:
+- **Model error** (Protocol 2): RMSE ≈ 3.5 d.
+- **Drift in μ:** the trend CI in the earlier analysis spans −3.2 to +0.7 d/decade, up to ~3 d after 10 years if μ is not updated.
+- **Climate moving the inputs outside their training range:** e.g. +1 °C August warming × 1.33 d/°C ≈ +1.3 d.
+- **Slow change in forest composition** (species analysis: oak vs maple shares; not quantified).
+
+Combining the first three in quadrature gives ≈ 4.8 d RMSE at 10 years if μ is frozen. With μ re-estimated every year the drift term mostly disappears, leaving ≈ 3.5–3.8 d. **Recommendation:** re-estimate μ annually and refit δ every few years.
+
+### 0.13 Figure and table map for the paper
+
+| Paper section | Figures | Tables |
+|---|---|---|
+| Study area & data | E01 (map), E02 (peak by location) | `BUILD_LOG.md` checks |
+| Why location matters | E03 (variance split), E04 (pairwise), E13 (coherence vs distance) | E01, E02 |
+| Explaining μ | E05, E06, E09, E10, E11, E12, E23, E24 | E05, E08–E13 |
+| δ model | D1 (weights), D2 (μ window), D5 (2026 breakdown) | D1, D3, D7 |
+| No location-specific response | E15, E16, E17 (+ Sebastian M4) | E15–E17, D8 |
+| Accuracy & uncertainty | D3 (backtest accuracy) | D2, D4, D5, D6 |
+| 2026 forecast | D4 | D10 |
+| Within-site elevation | E18, E20, E21 (E19, E22 appendix) | E20–E23 |
+| Appendix | E07, E08, E14, species LOOCV table, PhenoCam M1–M6 | `ridge_metrics.csv` |
 
 ---
 
