@@ -1,0 +1,13 @@
+
+===== pheno =====
+MODIS: years available 2001-2025 (25 years)
+  raw median MidGreendown_1 (2025) = 20361  ->  encoding: days_since_1970
+- MODIS: years 2001–2025 (25), encoding `days_since_1970`
+  MODIS 2001 done  MODIS 2002 done  MODIS 2003 done  MODIS 2004 done  MODIS 2005 done  MODIS 2006 done  MODIS 2007 done  MODIS 2008 done  MODIS 2009 done  MODIS 2010 done  MODIS 2011 done  MODIS 2012 done  MODIS 2013 done  MODIS 2014 done  MODIS 2015 done  MODIS 2016 done  MODIS 2017 done  MODIS 2018 done  MODIS 2019 done  MODIS 2020 done  MODIS 2021 done  MODIS 2022 done  MODIS 2023 done  MODIS 2024 done  MODIS 2025 done
+VIIRS: years available 2013-2025 (13 years)
+  raw median Date_Mid_Senescence_Phase_1 (2025) = 9418  ->  encoding: days_since_2000
+- VIIRS: years 2013–2025 (13), encoding `days_since_2000`
+  VIIRS 2013 done  VIIRS 2014 done  VIIRS 2015 done  VIIRS 2016 done  VIIRS 2017 done  VIIRS 2018 done  VIIRS 2019 done  VIIRS 2020 done  VIIRS 2021 done  VIIRS 2022 done  VIIRS 2023 done  VIIRS 2024 done  VIIRS 2025 done
+- MODIS MCD12Q2 most recent year: **2025**
+- MODIS 2025 target missing for: none
+- Rows with mid_greendown_p50 outside DOY 230–350: 0

@@ -1,0 +1,56 @@
+a,b,center_dist_km,overlap_km2
+Montpelier,Old Forge,200.8635649680034,0.0
+Montpelier,Binghamton,361.5439498845302,0.0
+Montpelier,Scranton,404.0383849425662,0.0
+Montpelier,State College,578.7378067592358,0.0
+Montpelier,Frostburg,732.0096139605548,0.0
+Montpelier,Valley Head,887.7821171146272,0.0
+Montpelier,Shenandoah,802.9689809647834,0.0
+Montpelier,Roanoke,992.5786676445417,0.0
+Montpelier,Boone,1180.049480336184,0.0
+Montpelier,Asheville,1280.0275089988168,0.0
+Old Forge,Binghamton,194.66121360532213,0.0
+Old Forge,Scranton,261.5671097888169,0.0
+Old Forge,State College,401.4249663674004,0.0
+Old Forge,Frostburg,556.6336547071052,0.0
+Old Forge,Valley Head,712.6720882281257,0.0
+Old Forge,Shenandoah,645.8285966854846,0.0
+Old Forge,Roanoke,828.7285835401794,0.0
+Old Forge,Boone,1008.8115659236837,0.0
+Old Forge,Asheville,1106.2557423551586,0.0
+Binghamton,Scranton,79.46955809632988,0.0
+Binghamton,State College,217.0795743468963,0.0
+Binghamton,Frostburg,370.44762944023773,0.0
+Binghamton,Valley Head,526.3533299812523,0.0
+Binghamton,Shenandoah,451.7369715799561,0.0
+Binghamton,Roanoke,636.6272993224425,0.0
+Binghamton,Boone,820.0466750855755,0.0
+Binghamton,Asheville,918.9126706102786,0.0
+Scranton,State College,196.1533404959974,0.0
+Scranton,Frostburg,337.1832632837209,0.0
+Scranton,Valley Head,489.3621113794326,0.0
+Scranton,Shenandoah,398.5930609646943,0.0
+Scranton,Roanoke,588.1425839178552,0.0
+Scranton,Boone,776.7534116502461,0.0
+Scranton,Asheville,877.303980967352,0.0
+State College,Frostburg,155.12807547449205,0.0
+State College,Valley Head,311.1378916292833,0.0
+State College,Shenandoah,258.8779978454019,0.0
+State College,Roanoke,430.1530793775969,0.0
+State College,Boone,606.8338192910211,0.0
+State College,Asheville,704.1931426640443,0.0
+Frostburg,Valley Head,156.08018542209928,0.0
+Frostburg,Shenandoah,136.25149416012493,0.0
+Frostburg,Roanoke,279.20178030215317,0.0
+Frostburg,Boone,451.69959719163444,0.0
+Frostburg,Asheville,548.9614102452481,0.0
+Valley Head,Shenandoah,141.661573578073,0.0
+Valley Head,Roanoke,141.7745105073896,0.0
+Valley Head,Boone,296.45834547501863,0.0
+Valley Head,Asheville,392.8749823309876,0.0
+Shenandoah,Roanoke,191.43209775781983,0.0
+Shenandoah,Boone,384.38547869117696,0.0
+Shenandoah,Asheville,486.1847770303105,0.0
+Roanoke,Boone,194.2160258347113,0.0
+Roanoke,Asheville,296.045895735207,0.0
+Boone,Asheville,101.84903146848886,0.0

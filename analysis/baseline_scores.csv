@@ -1,0 +1,22 @@
+subset,model,n,MAE,RMSE,bias
+Raleigh,climatology,25,3.08,4.019,-0.0
+Raleigh,trend_shared_slope,25,2.967,3.74,0.005
+Raleigh,trend_per_region_slope,25,2.962,3.619,-0.013
+Asheville,climatology,25,3.251,4.062,0.0
+Asheville,trend_shared_slope,25,3.47,4.246,0.005
+Asheville,trend_per_region_slope,25,3.416,4.247,0.028
+Boone,climatology,25,3.156,3.725,0.0
+Boone,trend_shared_slope,25,3.291,3.883,0.005
+Boone,trend_per_region_slope,25,3.292,3.88,0.02
+Shenandoah,climatology,25,3.399,4.004,0.0
+Shenandoah,trend_shared_slope,25,3.459,4.062,0.005
+Shenandoah,trend_per_region_slope,25,3.465,4.086,-0.014
+Overall,climatology,100,3.221,3.955,-0.0
+Overall,trend_shared_slope,100,3.297,3.987,0.005
+Overall,trend_per_region_slope,100,3.284,3.965,0.005
+"Overall, no Helene",climatology,98,3.192,3.939,-0.095
+"Overall, no Helene",trend_shared_slope,98,3.296,3.999,-0.062
+"Overall, no Helene",trend_per_region_slope,98,3.26,3.954,-0.085
+"Overall, 2016-2025 only",climatology,40,3.028,3.608,0.529
+"Overall, 2016-2025 only",trend_shared_slope,40,2.996,3.686,-0.459
+"Overall, 2016-2025 only",trend_per_region_slope,40,3.02,3.677,-0.459

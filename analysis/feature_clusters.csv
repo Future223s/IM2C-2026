@@ -1,0 +1,16 @@
+cluster,feature,timing,r_target,cluster_size,keep_any,keep_pre_peak
+1,cdd_Sep1_Oct15,partly,-0.378,4,True,False
+1,cdd_Sep,pre-peak,-0.262,4,False,True
+1,tmin_SepOct,post,0.19,4,False,False
+1,tmin_Sep,pre-peak,0.072,4,False,False
+2,srad_SepOct,post,0.143,1,True,False
+3,pdsi_AugSep,pre-peak,-0.266,1,True,True
+4,precip_AugSep,pre-peak,-0.312,1,True,True
+5,first_frost_doy,post,0.067,1,True,False
+6,mid_greenup_p50,pre-peak,0.319,1,True,True
+7,vpd_AugSep,pre-peak,0.293,1,True,True
+8,cold_nights_Sep1_Oct15,partly,-0.27,1,True,False
+9,tmax_Aug,pre-peak,0.393,1,True,True
+10,srad_Sep,pre-peak,0.292,1,True,True
+11,year,pre-peak,-0.241,1,True,True
+12,precip_Oct,post,0.139,1,True,False

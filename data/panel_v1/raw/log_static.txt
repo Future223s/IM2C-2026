@@ -1,0 +1,9 @@
+
+===== static =====
+  elev: Montpelier done        elev: Old Forge done        elev: Binghamton done        elev: Scranton done        elev: State College done        elev: Frostburg done        elev: Valley Head done        elev: Shenandoah done        elev: Roanoke done        elev: Boone done        elev: Asheville done      
+  terrain: Montpelier done        terrain: Old Forge done        terrain: Binghamton done        terrain: Scranton done        terrain: State College done        terrain: Frostburg done        terrain: Valley Head done        terrain: Shenandoah done        terrain: Roanoke done        terrain: Boone done        terrain: Asheville done      
+  cover: Montpelier done        cover: Old Forge done        cover: Binghamton done        cover: Scranton done        cover: State College done        cover: Frostburg done        cover: Valley Head done        cover: Shenandoah done        cover: Roanoke done        cover: Boone done        cover: Asheville done      
+  evt: Montpelier done        evt: Old Forge done        evt: Binghamton done        evt: Scranton done        evt: State College done        evt: Frostburg done        evt: Valley Head done        evt: Shenandoah done        evt: Roanoke done        evt: Boone done        evt: Asheville done      
+- LANDFIRE EVT asset: `LANDFIRE/Vegetation/EVT/v1_4_0` (image `CONUS`, LF 2016 Remap; the only EVT version in the Earth Engine catalog on 2026-11-15). Share of EVT forest pixels.
+- EVT classes present in the 11 regions: 113, of which forest: 60. Full mapping in `raw/evt_class_map.csv`.
+- static.csv: 11 locations × 23 columns

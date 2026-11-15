@@ -1,0 +1,738 @@
+name,evt_value,px,evt_name,is_forest,group
+Montpelier,3185,4.0,Introduced Forest Wetland,True,evt_other
+Montpelier,3191,816.0,Recently Logged-Herb and Grass Cover,False,
+Montpelier,3195,16.0,Recently Burned-Herb and Grass Cover,False,
+Montpelier,3274,5.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Montpelier,3275,25.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Montpelier,3276,405.2352941176471,Laurentian-Acadian Floodplain Herbaceous,False,
+Montpelier,3277,2297.0,Laurentian-Acadian Floodplain Shrubland,False,
+Montpelier,3278,274.0,Boreal Acidic Peatland Herbaceous,False,
+Montpelier,3279,2629.0,Boreal Acidic Peatland Shrubland,False,
+Montpelier,3280,325.0,Central Interior and Appalachian Swamp Shrubland,False,
+Montpelier,3281,789.7882352941176,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp Shrubland,False,
+Montpelier,3284,4931.156862745098,Laurentian-Acadian Herbaceous Wetlands,False,
+Montpelier,3285,18816.086274509806,Laurentian-Acadian Shrub Wetlands,False,
+Montpelier,3288,7055.9607843137255,Central Appalachian Rocky Shrubland,False,
+Montpelier,3292,45788.61568627451,Open Water,False,
+Montpelier,3294,7911.380392156862,Barren,False,
+Montpelier,3295,2711.9450980392157,Quarries-Strip Mines-Gravel Pits,False,
+Montpelier,3296,54242.117647058825,Developed-Low Intensity,False,
+Montpelier,3297,23119.945098039214,Developed-Medium Intensity,False,
+Montpelier,3298,6158.0,Developed-High Intensity,False,
+Montpelier,3299,200784.1607843137,Developed-Roads,False,
+Montpelier,3300,1.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Montpelier,3302,4777400.69019608,Laurentian-Acadian Northern Hardwoods Forest,True,evt_northern_hardwood
+Montpelier,3319,16.0,Central Interior and Appalachian Riparian Shrubland,False,
+Montpelier,3354,19.0,Northeastern Interior Pine Barrens,True,evt_pine
+Montpelier,3362,22146.498039215683,Laurentian-Acadian Northern Pine Forest,True,evt_pine
+Montpelier,3366,410240.0235294118,Laurentian-Acadian Pine-Hemlock Forest,True,evt_pine
+Montpelier,3369,4155.525490196078,Central Appalachian Dry Pine Forest,True,evt_pine
+Montpelier,3370,8679.670588235294,Appalachian Hemlock Forest,True,evt_spruce_fir
+Montpelier,3373,317662.8235294118,Acadian Low-Elevation Spruce-Fir Forest,True,evt_spruce_fir
+Montpelier,3374,496585.26274509815,Acadian-Appalachian Montane Spruce-Fir Forest,True,evt_spruce_fir
+Montpelier,3377,9312.929411764706,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Montpelier,3389,219.0,Acadian-Appalachian Subalpine Woodland,True,evt_other
+Montpelier,3402,14953.274509803923,Laurentian-Acadian Swamp Shrubland,False,
+Montpelier,3463,17072.972549019607,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Montpelier,3471,347.0,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Montpelier,3472,94.0,Central Interior and Appalachian Riparian Forest,True,evt_other
+Montpelier,3475,4925.654901960785,Laurentian-Acadian Floodplain Forest,True,evt_other
+Montpelier,3477,8813.192156862746,Boreal Acidic Peatland Forest,True,evt_other
+Montpelier,3479,962.4862745098039,Central Interior and Appalachian Swamp Forest,True,evt_other
+Montpelier,3480,3.0,Gulf and Atlantic Coastal Plain Swamp Systems,False,
+Montpelier,3481,686.4313725490197,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp Forest,True,evt_other
+Montpelier,3494,3621.7843137254904,Laurentian-Acadian Forested Wetlands,True,evt_other
+Montpelier,3497,5.0,Central Interior and Appalachian Sparsely Vegetated Systems,False,
+Montpelier,3499,18.0,Laurentian-Acadian Sparsely Vegetated Systems,False,
+Montpelier,3502,7368.36862745098,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Montpelier,3511,7493.125490196078,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Montpelier,3512,8884.890196078431,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Montpelier,3526,103296.12156862745,Laurentian-Acadian Swamp Woodland,True,evt_other
+Montpelier,3532,40914.305882352935,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Montpelier,3534,970.9019607843138,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Montpelier,3554,6369.380392156862,Acadian Low-Elevation Hardwood Forest,True,evt_northern_hardwood
+Montpelier,3555,119460.31764705885,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,True,evt_spruce_fir
+Montpelier,3556,8261.054901960784,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Montpelier,3557,4259.007843137255,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Montpelier,3905,11364.603921568627,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Montpelier,3906,15961.447058823529,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Montpelier,3907,16604.654901960785,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Montpelier,3908,49310.682352941185,Eastern Cool Temperate Urban Herbaceous,False,
+Montpelier,3909,38440.61568627451,Eastern Cool Temperate Urban Shrubland,False,
+Montpelier,3930,38352.76078431373,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Montpelier,3931,5400.835294117648,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Montpelier,3932,10143.682352941178,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Montpelier,3933,96696.76078431371,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Montpelier,3934,8278.113725490195,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Montpelier,3950,1619.0,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Montpelier,3951,279.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Montpelier,3952,576.635294117647,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Montpelier,3953,3861.2941176470586,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Montpelier,3954,391.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Montpelier,3970,233.0,Eastern Cool Temperate Orchard,False,
+Montpelier,3973,2004.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Montpelier,3974,43447.76470588236,Eastern Cool Temperate Row Crop,False,
+Montpelier,3975,4552.84705882353,Eastern Cool Temperate Close Grown Crop,False,
+Montpelier,3976,3240.7921568627453,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Montpelier,3977,547560.431372549,Eastern Cool Temperate Pasture and Hayland,False,
+Montpelier,3978,20.0,Eastern Cool Temperate Wheat,False,
+Old Forge,3191,5878.8549019607835,Recently Logged-Herb and Grass Cover,False,
+Old Forge,3192,8708.086274509804,Recently Logged-Shrub Cover,False,
+Old Forge,3193,105.0,Recently Logged-Tree Cover,False,
+Old Forge,3195,251.0,Recently Burned-Herb and Grass Cover,False,
+Old Forge,3274,2.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Old Forge,3275,2.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Old Forge,3276,1.0,Laurentian-Acadian Floodplain Herbaceous,False,
+Old Forge,3278,829.0,Boreal Acidic Peatland Herbaceous,False,
+Old Forge,3279,13481.776470588233,Boreal Acidic Peatland Shrubland,False,
+Old Forge,3280,28.0,Central Interior and Appalachian Swamp Shrubland,False,
+Old Forge,3284,14404.325490196077,Laurentian-Acadian Herbaceous Wetlands,False,
+Old Forge,3285,28565.784313725493,Laurentian-Acadian Shrub Wetlands,False,
+Old Forge,3288,305.8,Central Appalachian Rocky Shrubland,False,
+Old Forge,3292,383706.18039215694,Open Water,False,
+Old Forge,3294,671.0,Barren,False,
+Old Forge,3295,732.0,Quarries-Strip Mines-Gravel Pits,False,
+Old Forge,3296,774.4117647058823,Developed-Low Intensity,False,
+Old Forge,3297,644.3294117647059,Developed-Medium Intensity,False,
+Old Forge,3298,106.50980392156863,Developed-High Intensity,False,
+Old Forge,3299,14477.760784313728,Developed-Roads,False,
+Old Forge,3300,852.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Old Forge,3302,4813950.058823529,Laurentian-Acadian Northern Hardwoods Forest,True,evt_northern_hardwood
+Old Forge,3319,2569.298039215686,Central Interior and Appalachian Riparian Shrubland,False,
+Old Forge,3362,2604.588235294118,Laurentian-Acadian Northern Pine Forest,True,evt_pine
+Old Forge,3366,204347.74117647056,Laurentian-Acadian Pine-Hemlock Forest,True,evt_pine
+Old Forge,3369,6148.325490196078,Central Appalachian Dry Pine Forest,True,evt_pine
+Old Forge,3370,245.0078431372549,Appalachian Hemlock Forest,True,evt_spruce_fir
+Old Forge,3373,92148.67450980395,Acadian Low-Elevation Spruce-Fir Forest,True,evt_spruce_fir
+Old Forge,3374,567361.2431372551,Acadian-Appalachian Montane Spruce-Fir Forest,True,evt_spruce_fir
+Old Forge,3377,5740.709803921569,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Old Forge,3402,13303.984313725488,Laurentian-Acadian Swamp Shrubland,False,
+Old Forge,3463,128.0,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Old Forge,3471,2857.8745098039212,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Old Forge,3472,80900.49019607842,Central Interior and Appalachian Riparian Forest,True,evt_other
+Old Forge,3475,16748.164705882355,Laurentian-Acadian Floodplain Forest,True,evt_other
+Old Forge,3477,215962.65098039215,Boreal Acidic Peatland Forest,True,evt_other
+Old Forge,3479,694.1725490196078,Central Interior and Appalachian Swamp Forest,True,evt_other
+Old Forge,3494,616.364705882353,Laurentian-Acadian Forested Wetlands,True,evt_other
+Old Forge,3502,28.0,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Old Forge,3511,68.0078431372549,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Old Forge,3512,30.0,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Old Forge,3526,462333.1254901961,Laurentian-Acadian Swamp Woodland,True,evt_other
+Old Forge,3532,16443.83529411765,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Old Forge,3534,6036.623529411765,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Old Forge,3554,2862.3137254901962,Acadian Low-Elevation Hardwood Forest,True,evt_northern_hardwood
+Old Forge,3555,4405.3372549019605,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,True,evt_spruce_fir
+Old Forge,3556,6154.964705882353,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Old Forge,3557,896.6039215686274,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Old Forge,3905,877.4,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Old Forge,3906,1812.3529411764707,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Old Forge,3907,651.1529411764706,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Old Forge,3908,1272.364705882353,Eastern Cool Temperate Urban Herbaceous,False,
+Old Forge,3909,3928.9725490196074,Eastern Cool Temperate Urban Shrubland,False,
+Old Forge,3930,639.0117647058823,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Old Forge,3931,40.0,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Old Forge,3932,19.901960784313726,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Old Forge,3933,16071.074509803922,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Old Forge,3934,1388.8901960784315,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Old Forge,3950,1.0,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Old Forge,3953,30.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Old Forge,3954,4.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Old Forge,3973,56.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Old Forge,3974,16897.0431372549,Eastern Cool Temperate Row Crop,False,
+Old Forge,3975,5201.211764705882,Eastern Cool Temperate Close Grown Crop,False,
+Old Forge,3976,465.3137254901961,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Old Forge,3977,29659.188235294117,Eastern Cool Temperate Pasture and Hayland,False,
+Old Forge,3978,6.0,Eastern Cool Temperate Wheat,False,
+Binghamton,3191,38768.16470588235,Recently Logged-Herb and Grass Cover,False,
+Binghamton,3192,4207.941176470588,Recently Logged-Shrub Cover,False,
+Binghamton,3195,167.0,Recently Burned-Herb and Grass Cover,False,
+Binghamton,3199,698.0,Introduced Herbaceous Wetland,False,
+Binghamton,3274,13.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Binghamton,3275,596.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Binghamton,3276,5233.78431372549,Laurentian-Acadian Floodplain Herbaceous,False,
+Binghamton,3277,424.0,Laurentian-Acadian Floodplain Shrubland,False,
+Binghamton,3278,7.0,Boreal Acidic Peatland Herbaceous,False,
+Binghamton,3279,72.09411764705882,Boreal Acidic Peatland Shrubland,False,
+Binghamton,3280,13554.901960784315,Central Interior and Appalachian Swamp Shrubland,False,
+Binghamton,3281,861.8352941176471,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp Shrubland,False,
+Binghamton,3284,12365.61568627451,Laurentian-Acadian Herbaceous Wetlands,False,
+Binghamton,3285,2752.149019607843,Laurentian-Acadian Shrub Wetlands,False,
+Binghamton,3288,1.0,Central Appalachian Rocky Shrubland,False,
+Binghamton,3292,80669.50980392157,Open Water,False,
+Binghamton,3294,5156.2,Barren,False,
+Binghamton,3295,1760.0,Quarries-Strip Mines-Gravel Pits,False,
+Binghamton,3296,61229.3137254902,Developed-Low Intensity,False,
+Binghamton,3297,32530.454901960784,Developed-Medium Intensity,False,
+Binghamton,3298,9880.0,Developed-High Intensity,False,
+Binghamton,3299,264022.0666666666,Developed-Roads,False,
+Binghamton,3300,126.09803921568627,Central Interior and Appalachian Riparian Herbaceous,False,
+Binghamton,3302,2364484.0666666664,Laurentian-Acadian Northern Hardwoods Forest,True,evt_northern_hardwood
+Binghamton,3319,338.0,Central Interior and Appalachian Riparian Shrubland,False,
+Binghamton,3362,76689.74509803923,Laurentian-Acadian Northern Pine Forest,True,evt_pine
+Binghamton,3366,427741.0196078432,Laurentian-Acadian Pine-Hemlock Forest,True,evt_pine
+Binghamton,3369,69836.88235294119,Central Appalachian Dry Pine Forest,True,evt_pine
+Binghamton,3370,84990.07450980393,Appalachian Hemlock Forest,True,evt_spruce_fir
+Binghamton,3377,1574.7843137254902,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Binghamton,3402,96.0,Laurentian-Acadian Swamp Shrubland,False,
+Binghamton,3463,729977.4980392158,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Binghamton,3471,357.10196078431375,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Binghamton,3472,3099.0941176470587,Central Interior and Appalachian Riparian Forest,True,evt_other
+Binghamton,3475,5154.878431372549,Laurentian-Acadian Floodplain Forest,True,evt_other
+Binghamton,3477,14.0,Boreal Acidic Peatland Forest,True,evt_other
+Binghamton,3479,27192.203921568627,Central Interior and Appalachian Swamp Forest,True,evt_other
+Binghamton,3481,636.1333333333333,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp Forest,True,evt_other
+Binghamton,3494,1081.7450980392157,Laurentian-Acadian Forested Wetlands,True,evt_other
+Binghamton,3502,327218.08235294116,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Binghamton,3511,317390.2352941176,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Binghamton,3512,131160.32156862746,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Binghamton,3526,757.0,Laurentian-Acadian Swamp Woodland,True,evt_other
+Binghamton,3528,9654.827450980392,Ruderal Upland Shrubland,False,
+Binghamton,3532,183459.9607843138,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Binghamton,3534,14749.964705882354,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Binghamton,3556,4538.4862745098035,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Binghamton,3557,4884.18431372549,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Binghamton,3905,2978.0,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Binghamton,3906,16390.22745098039,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Binghamton,3907,14230.282352941174,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Binghamton,3908,96482.10196078432,Eastern Cool Temperate Urban Herbaceous,False,
+Binghamton,3909,11800.29411764706,Eastern Cool Temperate Urban Shrubland,False,
+Binghamton,3930,422727.41176470584,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Binghamton,3931,7875.980392156863,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Binghamton,3932,33898.490196078434,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Binghamton,3933,72969.7568627451,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Binghamton,3934,11098.313725490198,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Binghamton,3950,4079.086274509804,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Binghamton,3951,33.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Binghamton,3952,224.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Binghamton,3953,486.83921568627454,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Binghamton,3954,46.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Binghamton,3970,145.0,Eastern Cool Temperate Orchard,False,
+Binghamton,3971,22.0,Eastern Cool Temperate Vineyard,False,
+Binghamton,3972,40.0,Eastern Cool Temperate Bush fruit and berries,False,
+Binghamton,3973,1639.9137254901962,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Binghamton,3974,148998.76470588235,Eastern Cool Temperate Row Crop,False,
+Binghamton,3975,69233.58431372549,Eastern Cool Temperate Close Grown Crop,False,
+Binghamton,3976,31486.262745098044,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Binghamton,3977,1183333.8549019608,Eastern Cool Temperate Pasture and Hayland,False,
+Binghamton,3978,1529.3764705882354,Eastern Cool Temperate Wheat,False,
+Scranton,3185,1700.0,Introduced Forest Wetland,True,evt_other
+Scranton,3187,237.0,Introduced Upland Vegetation-Treed,True,evt_other
+Scranton,3191,1919.6980392156863,Recently Logged-Herb and Grass Cover,False,
+Scranton,3192,1462.6627450980393,Recently Logged-Shrub Cover,False,
+Scranton,3193,71.0,Recently Logged-Tree Cover,False,
+Scranton,3195,989.5921568627451,Recently Burned-Herb and Grass Cover,False,
+Scranton,3196,46.0,Introduced Shrub Wetland,False,
+Scranton,3199,206.0,Introduced Herbaceous Wetland,False,
+Scranton,3274,39.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Scranton,3275,366.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Scranton,3276,29.0,Laurentian-Acadian Floodplain Herbaceous,False,
+Scranton,3277,40.0,Laurentian-Acadian Floodplain Shrubland,False,
+Scranton,3280,454.98039215686276,Central Interior and Appalachian Swamp Shrubland,False,
+Scranton,3284,423.28235294117644,Laurentian-Acadian Herbaceous Wetlands,False,
+Scranton,3285,2140.1568627450984,Laurentian-Acadian Shrub Wetlands,False,
+Scranton,3292,37904.40784313725,Open Water,False,
+Scranton,3294,5105.4078431372545,Barren,False,
+Scranton,3295,24314.10196078431,Quarries-Strip Mines-Gravel Pits,False,
+Scranton,3296,90527.27450980393,Developed-Low Intensity,False,
+Scranton,3297,79392.46274509805,Developed-Medium Intensity,False,
+Scranton,3298,30660.09411764706,Developed-High Intensity,False,
+Scranton,3299,153758.25490196078,Developed-Roads,False,
+Scranton,3300,44.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Scranton,3302,361466.1215686274,Laurentian-Acadian Northern Hardwoods Forest,True,evt_northern_hardwood
+Scranton,3303,231849.76862745095,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+Scranton,3318,22.0,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Scranton,3319,272.98039215686276,Central Interior and Appalachian Riparian Shrubland,False,
+Scranton,3340,3.0,Appalachian Shale Barrens,False,
+Scranton,3352,2.0,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Scranton,3354,5.0,Northeastern Interior Pine Barrens,True,evt_pine
+Scranton,3362,662.2745098039215,Laurentian-Acadian Northern Pine Forest,True,evt_pine
+Scranton,3366,16646.76862745098,Laurentian-Acadian Pine-Hemlock Forest,True,evt_pine
+Scranton,3369,16453.560784313726,Central Appalachian Dry Pine Forest,True,evt_pine
+Scranton,3370,10295.003921568627,Appalachian Hemlock Forest,True,evt_spruce_fir
+Scranton,3373,35.0,Acadian Low-Elevation Spruce-Fir Forest,True,evt_spruce_fir
+Scranton,3377,4798.0470588235285,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Scranton,3400,578.7843137254903,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+Scranton,3402,200.32156862745097,Laurentian-Acadian Swamp Shrubland,False,
+Scranton,3463,97547.12156862744,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Scranton,3471,6055.458823529411,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Scranton,3472,14158.419607843136,Central Interior and Appalachian Riparian Forest,True,evt_other
+Scranton,3475,1306.3960784313726,Laurentian-Acadian Floodplain Forest,True,evt_other
+Scranton,3477,2.0,Boreal Acidic Peatland Forest,True,evt_other
+Scranton,3479,3628.9647058823525,Central Interior and Appalachian Swamp Forest,True,evt_other
+Scranton,3494,514.9529411764706,Laurentian-Acadian Forested Wetlands,True,evt_other
+Scranton,3497,4.0,Central Interior and Appalachian Sparsely Vegetated Systems,False,
+Scranton,3502,10765.756862745096,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Scranton,3511,75584.35294117646,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Scranton,3512,4407.223529411765,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Scranton,3518,433.0,North-Central Interior Wet Flatwoods,True,evt_other
+Scranton,3526,3684.1333333333328,Laurentian-Acadian Swamp Woodland,True,evt_other
+Scranton,3528,16.478431372549018,Ruderal Upland Shrubland,False,
+Scranton,3531,0.7607843137254902,Ruderal Upland Forest,True,evt_other
+Scranton,3532,104363.10980392157,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Scranton,3534,2464.290196078431,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Scranton,3554,103.0,Acadian Low-Elevation Hardwood Forest,True,evt_northern_hardwood
+Scranton,3555,12.207843137254901,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,True,evt_spruce_fir
+Scranton,3556,52757.42352941176,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Scranton,3557,543.7372549019608,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Scranton,3905,18036.866666666672,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Scranton,3906,7382.35294117647,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Scranton,3907,7483.360784313724,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Scranton,3908,20686.27058823529,Eastern Cool Temperate Urban Herbaceous,False,
+Scranton,3909,31294.121568627448,Eastern Cool Temperate Urban Shrubland,False,
+Scranton,3930,7056.29019607843,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Scranton,3931,30.76078431372549,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Scranton,3932,91.82352941176471,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Scranton,3933,5373.854901960785,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Scranton,3934,3161.0,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Scranton,3950,17.0,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Scranton,3953,3.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Scranton,3954,3.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Scranton,3970,112.9764705882353,Eastern Cool Temperate Orchard,False,
+Scranton,3973,453.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Scranton,3974,6400.956862745098,Eastern Cool Temperate Row Crop,False,
+Scranton,3975,371.2352941176471,Eastern Cool Temperate Close Grown Crop,False,
+Scranton,3976,921.1803921568627,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Scranton,3977,16530.75294117647,Eastern Cool Temperate Pasture and Hayland,False,
+Scranton,3978,43.035294117647055,Eastern Cool Temperate Wheat,False,
+State College,3181,242.0,Introduced Upland Vegetation-Annual Grassland,False,
+State College,3191,163.9921568627451,Recently Logged-Herb and Grass Cover,False,
+State College,3195,83.0,Recently Burned-Herb and Grass Cover,False,
+State College,3274,56.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+State College,3275,80.0,Central Interior and Appalachian Floodplain Shrubland,False,
+State College,3280,955.0,Central Interior and Appalachian Swamp Shrubland,False,
+State College,3292,40411.57647058823,Open Water,False,
+State College,3294,3102.929411764706,Barren,False,
+State College,3295,3531.658823529412,Quarries-Strip Mines-Gravel Pits,False,
+State College,3296,64400.50196078431,Developed-Low Intensity,False,
+State College,3297,27585.415686274508,Developed-Medium Intensity,False,
+State College,3298,8441.0,Developed-High Intensity,False,
+State College,3299,220066.71372549018,Developed-Roads,False,
+State College,3300,18.0,Central Interior and Appalachian Riparian Herbaceous,False,
+State College,3303,970955.0156862744,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+State College,3318,3655.1019607843136,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+State College,3319,11.0,Central Interior and Appalachian Riparian Shrubland,False,
+State College,3321,10.0,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+State College,3340,2445.4705882352937,Appalachian Shale Barrens,False,
+State College,3352,704.0,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+State College,3369,6189.074509803922,Central Appalachian Dry Pine Forest,True,evt_pine
+State College,3370,98727.49019607842,Appalachian Hemlock Forest,True,evt_spruce_fir
+State College,3377,3292.5372549019608,Central Appalachian Rocky Pine Woodland,True,evt_pine
+State College,3400,55162.38039215685,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+State College,3463,182036.40784313722,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+State College,3471,1749.0,Central Interior and Appalachian Floodplain Forest,True,evt_other
+State College,3472,366.0,Central Interior and Appalachian Riparian Forest,True,evt_other
+State College,3479,26418.4,Central Interior and Appalachian Swamp Forest,True,evt_other
+State College,3502,13943.078431372549,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+State College,3511,1106640.9529411767,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+State College,3512,67168.46274509803,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+State College,3518,1028.6313725490197,North-Central Interior Wet Flatwoods,True,evt_other
+State College,3528,225.0,Ruderal Upland Shrubland,False,
+State College,3532,1185811.4862745092,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+State College,3534,16652.86274509804,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+State College,3556,10508.792156862744,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+State College,3557,3033.964705882353,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+State College,3905,23409.76862745098,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+State College,3906,12786.72549019608,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+State College,3907,22427.20784313725,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+State College,3908,79643.73333333332,Eastern Cool Temperate Urban Herbaceous,False,
+State College,3909,30388.05490196078,Eastern Cool Temperate Urban Shrubland,False,
+State College,3930,70776.55294117647,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+State College,3931,236.0,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+State College,3932,147.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+State College,3933,5544.474509803922,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+State College,3934,12221.725490196077,Eastern Cool Temperate Developed Ruderal Grassland,False,
+State College,3950,2269.627450980392,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+State College,3951,15.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+State College,3952,4.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+State College,3953,179.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+State College,3954,355.5450980392157,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+State College,3970,243.0,Eastern Cool Temperate Orchard,False,
+State College,3973,2099.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+State College,3974,572995.1647058824,Eastern Cool Temperate Row Crop,False,
+State College,3975,127993.00000000001,Eastern Cool Temperate Close Grown Crop,False,
+State College,3976,11171.78823529412,Eastern Cool Temperate Fallow/Idle Cropland,False,
+State College,3977,482529.1098039216,Eastern Cool Temperate Pasture and Hayland,False,
+State College,3978,25469.25882352941,Eastern Cool Temperate Wheat,False,
+Frostburg,3181,967.0,Introduced Upland Vegetation-Annual Grassland,False,
+Frostburg,3191,1911.2980392156862,Recently Logged-Herb and Grass Cover,False,
+Frostburg,3195,179.0,Recently Burned-Herb and Grass Cover,False,
+Frostburg,3247,114.04705882352941,Southern Appalachian Grass Bald,False,
+Frostburg,3274,36.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Frostburg,3275,66.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Frostburg,3280,6312.666666666667,Central Interior and Appalachian Swamp Shrubland,False,
+Frostburg,3292,36667.113725490206,Open Water,False,
+Frostburg,3294,31023.192156862744,Barren,False,
+Frostburg,3295,51002.321568627456,Quarries-Strip Mines-Gravel Pits,False,
+Frostburg,3296,11591.486274509803,Developed-Low Intensity,False,
+Frostburg,3297,7953.870588235293,Developed-Medium Intensity,False,
+Frostburg,3298,1446.3490196078433,Developed-High Intensity,False,
+Frostburg,3299,91862.34117647061,Developed-Roads,False,
+Frostburg,3300,54.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Frostburg,3303,1182849.8705882353,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+Frostburg,3317,44.0,Allegheny-Cumberland Dry Oak Forest and Woodland,True,evt_oak_hickory
+Frostburg,3318,81996.8431372549,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Frostburg,3319,204.0,Central Interior and Appalachian Riparian Shrubland,False,
+Frostburg,3320,1626.6196078431371,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Frostburg,3321,172.60784313725492,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+Frostburg,3340,4076.639215686275,Appalachian Shale Barrens,False,
+Frostburg,3352,415.32156862745103,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Frostburg,3369,1479.8470588235293,Central Appalachian Dry Pine Forest,True,evt_pine
+Frostburg,3370,25778.737254901956,Appalachian Hemlock Forest,True,evt_spruce_fir
+Frostburg,3377,9438.164705882353,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Frostburg,3400,13309.721568627452,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+Frostburg,3414,169.85490196078433,Southern Appalachian Shrub Bald,False,
+Frostburg,3463,81083.88235294116,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Frostburg,3471,249.0,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Frostburg,3472,355.51372549019607,Central Interior and Appalachian Riparian Forest,True,evt_other
+Frostburg,3479,35974.023529411774,Central Interior and Appalachian Swamp Forest,True,evt_other
+Frostburg,3502,542.9058823529411,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Frostburg,3511,469236.23529411765,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Frostburg,3512,6235.937254901961,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Frostburg,3518,1460.870588235294,North-Central Interior Wet Flatwoods,True,evt_other
+Frostburg,3528,1357.6156862745097,Ruderal Upland Shrubland,False,
+Frostburg,3532,148818.64313725487,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Frostburg,3534,11668.949019607846,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Frostburg,3556,13403.61568627451,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Frostburg,3557,1864.5529411764708,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Frostburg,3905,14261.098039215687,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Frostburg,3906,4967.505882352942,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Frostburg,3907,8746.360784313725,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Frostburg,3908,32138.199999999993,Eastern Cool Temperate Urban Herbaceous,False,
+Frostburg,3909,18295.274509803923,Eastern Cool Temperate Urban Shrubland,False,
+Frostburg,3930,99757.9450980392,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Frostburg,3931,184.0156862745098,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Frostburg,3932,10.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Frostburg,3933,75.0,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Frostburg,3934,50301.96078431372,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Frostburg,3950,1997.5254901960784,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Frostburg,3951,6.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Frostburg,3952,1.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Frostburg,3953,7.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Frostburg,3954,266.81176470588235,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Frostburg,3970,8.0,Eastern Cool Temperate Orchard,False,
+Frostburg,3973,157.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Frostburg,3974,102567.53333333335,Eastern Cool Temperate Row Crop,False,
+Frostburg,3975,4027.5254901960784,Eastern Cool Temperate Close Grown Crop,False,
+Frostburg,3976,4062.929411764706,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Frostburg,3977,341791.8274509803,Eastern Cool Temperate Pasture and Hayland,False,
+Frostburg,3978,300.0,Eastern Cool Temperate Wheat,False,
+Valley Head,3181,95.0,Introduced Upland Vegetation-Annual Grassland,False,
+Valley Head,3191,1257.8784313725491,Recently Logged-Herb and Grass Cover,False,
+Valley Head,3195,292.0,Recently Burned-Herb and Grass Cover,False,
+Valley Head,3247,618.0,Southern Appalachian Grass Bald,False,
+Valley Head,3274,45.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Valley Head,3275,946.5764705882353,Central Interior and Appalachian Floodplain Shrubland,False,
+Valley Head,3280,1892.1254901960785,Central Interior and Appalachian Swamp Shrubland,False,
+Valley Head,3292,8734.796078431371,Open Water,False,
+Valley Head,3294,19011.92549019608,Barren,False,
+Valley Head,3295,41.72156862745098,Quarries-Strip Mines-Gravel Pits,False,
+Valley Head,3296,2771.9450980392157,Developed-Low Intensity,False,
+Valley Head,3297,1187.0980392156862,Developed-Medium Intensity,False,
+Valley Head,3298,231.31372549019608,Developed-High Intensity,False,
+Valley Head,3299,54332.88235294118,Developed-Roads,False,
+Valley Head,3300,32.86274509803921,Central Interior and Appalachian Riparian Herbaceous,False,
+Valley Head,3303,86340.4862745098,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+Valley Head,3309,900.0,Southern Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Valley Head,3317,2.0,Allegheny-Cumberland Dry Oak Forest and Woodland,True,evt_oak_hickory
+Valley Head,3318,447165.66666666657,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Valley Head,3319,1489.8784313725494,Central Interior and Appalachian Riparian Shrubland,False,
+Valley Head,3320,93475.20000000004,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Valley Head,3321,1.0,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+Valley Head,3340,101.00392156862745,Appalachian Shale Barrens,False,
+Valley Head,3350,32772.376470588235,Central and Southern Appalachian Spruce-Fir Forest,True,evt_spruce_fir
+Valley Head,3352,1297.6156862745097,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Valley Head,3369,11992.211764705884,Central Appalachian Dry Pine Forest,True,evt_pine
+Valley Head,3370,35184.105882352946,Appalachian Hemlock Forest,True,evt_spruce_fir
+Valley Head,3376,1469.078431372549,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,True,evt_other
+Valley Head,3377,4565.505882352941,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Valley Head,3400,4065.0470588235294,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+Valley Head,3414,624.0901960784314,Southern Appalachian Shrub Bald,False,
+Valley Head,3463,103898.80784313726,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Valley Head,3471,595.2823529411764,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Valley Head,3472,1873.4156862745099,Central Interior and Appalachian Riparian Forest,True,evt_other
+Valley Head,3479,35841.99215686274,Central Interior and Appalachian Swamp Forest,True,evt_other
+Valley Head,3502,13908.180392156863,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Valley Head,3511,1263954.4666666668,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Valley Head,3512,68780.34509803924,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Valley Head,3518,386.52156862745096,North-Central Interior Wet Flatwoods,True,evt_other
+Valley Head,3528,664.3372549019608,Ruderal Upland Shrubland,False,
+Valley Head,3532,15270.870588235295,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Valley Head,3534,4394.086274509804,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Valley Head,3556,15812.81176470588,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Valley Head,3557,6372.0,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Valley Head,3905,5892.345098039216,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Valley Head,3906,5964.764705882352,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Valley Head,3907,6285.58431372549,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Valley Head,3908,16521.423529411768,Eastern Cool Temperate Urban Herbaceous,False,
+Valley Head,3909,6313.368627450979,Eastern Cool Temperate Urban Shrubland,False,
+Valley Head,3930,9855.819607843137,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Valley Head,3931,45.0,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Valley Head,3932,15.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Valley Head,3933,557.7803921568627,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Valley Head,3934,2346.572549019608,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Valley Head,3950,152.0,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Valley Head,3951,11.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Valley Head,3952,9.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Valley Head,3954,6.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Valley Head,3970,1.0,Eastern Cool Temperate Orchard,False,
+Valley Head,3973,32.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Valley Head,3974,6713.282352941176,Eastern Cool Temperate Row Crop,False,
+Valley Head,3975,649.9019607843137,Eastern Cool Temperate Close Grown Crop,False,
+Valley Head,3976,53.0,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Valley Head,3977,179594.76470588232,Eastern Cool Temperate Pasture and Hayland,False,
+Valley Head,3978,5.0,Eastern Cool Temperate Wheat,False,
+Shenandoah,3181,52.247058823529414,Introduced Upland Vegetation-Annual Grassland,False,
+Shenandoah,3187,251.25882352941176,Introduced Upland Vegetation-Treed,True,evt_other
+Shenandoah,3191,47.0,Recently Logged-Herb and Grass Cover,False,
+Shenandoah,3195,60.0,Recently Burned-Herb and Grass Cover,False,
+Shenandoah,3247,15.0,Southern Appalachian Grass Bald,False,
+Shenandoah,3280,59.0,Central Interior and Appalachian Swamp Shrubland,False,
+Shenandoah,3292,863.4196078431372,Open Water,False,
+Shenandoah,3294,212.0,Barren,False,
+Shenandoah,3296,1745.043137254902,Developed-Low Intensity,False,
+Shenandoah,3297,126.69803921568628,Developed-Medium Intensity,False,
+Shenandoah,3298,19.0,Developed-High Intensity,False,
+Shenandoah,3299,30186.254901960787,Developed-Roads,False,
+Shenandoah,3303,383033.59607843147,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+Shenandoah,3316,52.0078431372549,Southern Piedmont Mesic Forest,True,evt_cove_mesic
+Shenandoah,3318,156233.4862745098,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Shenandoah,3320,23689.0,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Shenandoah,3340,5839.313725490196,Appalachian Shale Barrens,False,
+Shenandoah,3350,210.0,Central and Southern Appalachian Spruce-Fir Forest,True,evt_spruce_fir
+Shenandoah,3352,1068.443137254902,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Shenandoah,3369,13204.913725490196,Central Appalachian Dry Pine Forest,True,evt_pine
+Shenandoah,3370,18537.968627450984,Appalachian Hemlock Forest,True,evt_spruce_fir
+Shenandoah,3377,6694.870588235293,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Shenandoah,3400,5734.117647058824,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+Shenandoah,3406,3.8588235294117648,Southern Piedmont Dry Oak Forest,True,evt_oak_hickory
+Shenandoah,3414,24.0,Southern Appalachian Shrub Bald,False,
+Shenandoah,3463,373227.51372549013,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Shenandoah,3471,16.15686274509804,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Shenandoah,3472,114.08627450980393,Central Interior and Appalachian Riparian Forest,True,evt_other
+Shenandoah,3479,1834.964705882353,Central Interior and Appalachian Swamp Forest,True,evt_other
+Shenandoah,3502,8072.8823529411775,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Shenandoah,3511,385132.4784313725,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Shenandoah,3512,7705.701960784313,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Shenandoah,3518,51.0,North-Central Interior Wet Flatwoods,True,evt_other
+Shenandoah,3528,3.0,Ruderal Upland Shrubland,False,
+Shenandoah,3532,153845.50196078428,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Shenandoah,3534,38712.2,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Shenandoah,3556,30180.64705882351,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Shenandoah,3557,2834.9764705882358,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Shenandoah,3905,7871.792156862745,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Shenandoah,3906,1013.1176470588235,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Shenandoah,3907,3789.9882352941167,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Shenandoah,3908,5022.172549019608,Eastern Cool Temperate Urban Herbaceous,False,
+Shenandoah,3909,3675.5882352941176,Eastern Cool Temperate Urban Shrubland,False,
+Shenandoah,3930,5003.858823529412,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Shenandoah,3931,267.88235294117646,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Shenandoah,3932,53.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Shenandoah,3933,5.0,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Shenandoah,3934,30.0,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Shenandoah,3950,381.78823529411767,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Shenandoah,3951,9.815686274509805,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Shenandoah,3952,1.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Shenandoah,3953,2.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Shenandoah,3970,107.7921568627451,Eastern Cool Temperate Orchard,False,
+Shenandoah,3973,23.23137254901961,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Shenandoah,3974,688.1098039215685,Eastern Cool Temperate Row Crop,False,
+Shenandoah,3975,40.7764705882353,Eastern Cool Temperate Close Grown Crop,False,
+Shenandoah,3976,384.0509803921569,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Shenandoah,3977,51647.007843137246,Eastern Cool Temperate Pasture and Hayland,False,
+Shenandoah,3978,10.0,Eastern Cool Temperate Wheat,False,
+Roanoke,3181,323.43529411764706,Introduced Upland Vegetation-Annual Grassland,False,
+Roanoke,3187,9294.623529411763,Introduced Upland Vegetation-Treed,True,evt_other
+Roanoke,3191,1113.0862745098038,Recently Logged-Herb and Grass Cover,False,
+Roanoke,3195,6213.462745098039,Recently Burned-Herb and Grass Cover,False,
+Roanoke,3247,13.0,Southern Appalachian Grass Bald,False,
+Roanoke,3274,2.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Roanoke,3275,58.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Roanoke,3280,116.0,Central Interior and Appalachian Swamp Shrubland,False,
+Roanoke,3292,17738.86274509804,Open Water,False,
+Roanoke,3294,810.7019607843138,Barren,False,
+Roanoke,3295,3016.376470588235,Quarries-Strip Mines-Gravel Pits,False,
+Roanoke,3296,139653.32549019612,Developed-Low Intensity,False,
+Roanoke,3297,48084.47843137255,Developed-Medium Intensity,False,
+Roanoke,3298,19807.360784313725,Developed-High Intensity,False,
+Roanoke,3299,180984.61568627457,Developed-Roads,False,
+Roanoke,3300,1.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Roanoke,3303,726001.545098039,Northeastern Interior Dry-Mesic Oak Forest,True,evt_oak_hickory
+Roanoke,3315,1460.1215686274509,Southern Appalachian Oak Forest,True,evt_oak_hickory
+Roanoke,3316,21987.333333333336,Southern Piedmont Mesic Forest,True,evt_cove_mesic
+Roanoke,3317,201.39999999999998,Allegheny-Cumberland Dry Oak Forest and Woodland,True,evt_oak_hickory
+Roanoke,3318,246574.03529411764,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Roanoke,3319,10.0,Central Interior and Appalachian Riparian Shrubland,False,
+Roanoke,3320,20896.415686274508,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Roanoke,3321,12845.462745098039,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+Roanoke,3340,32249.545098039212,Appalachian Shale Barrens,False,
+Roanoke,3350,9.0,Central and Southern Appalachian Spruce-Fir Forest,True,evt_spruce_fir
+Roanoke,3352,4362.7411764705885,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Roanoke,3353,617.8509803921569,Southern Appalachian Low-Elevation Pine Forest,True,evt_pine
+Roanoke,3368,422.0,Southern Piedmont Dry Pine Forest,True,evt_pine
+Roanoke,3369,16496.713725490197,Central Appalachian Dry Pine Forest,True,evt_pine
+Roanoke,3370,4254.941176470588,Appalachian Hemlock Forest,True,evt_spruce_fir
+Roanoke,3375,730.8039215686275,Eastern Serpentine Woodland,True,evt_other
+Roanoke,3376,8343.219607843137,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,True,evt_other
+Roanoke,3377,4028.823529411765,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Roanoke,3400,53092.972549019614,Central Appalachian Alkaline Glade and Woodland,True,evt_other
+Roanoke,3406,8754.909803921571,Southern Piedmont Dry Oak Forest,True,evt_oak_hickory
+Roanoke,3414,1.0,Southern Appalachian Shrub Bald,False,
+Roanoke,3448,600.2980392156862,Southern Piedmont Dry Oak-Pine Forest,True,evt_oak_hickory
+Roanoke,3463,476601.09019607847,Central Appalachian Dry Oak Forest,True,evt_oak_hickory
+Roanoke,3471,884.1529411764706,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Roanoke,3472,822.0941176470589,Central Interior and Appalachian Riparian Forest,True,evt_other
+Roanoke,3479,4815.121568627452,Central Interior and Appalachian Swamp Forest,True,evt_other
+Roanoke,3502,7841.654901960785,Central Appalachian Dry Oak-Pine Forest,True,evt_oak_hickory
+Roanoke,3511,117545.5019607843,Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Roanoke,3512,1918.81568627451,Appalachian Hemlock-Northern Hardwood Forest,True,evt_northern_hardwood
+Roanoke,3518,1515.8627450980393,North-Central Interior Wet Flatwoods,True,evt_other
+Roanoke,3528,61.0,Ruderal Upland Shrubland,False,
+Roanoke,3532,261721.8392156863,Ruderal Forest-Northern and Central Hardwood and Conifer,True,evt_other
+Roanoke,3533,88.87843137254902,Ruderal Forest-Southeast Hardwood and Conifer,True,evt_other
+Roanoke,3534,45894.082352941165,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group,True,evt_other
+Roanoke,3535,12.0,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group,True,evt_other
+Roanoke,3556,54289.458823529414,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Roanoke,3557,2732.9333333333334,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Roanoke,3905,16186.741176470588,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Roanoke,3906,13805.078431372549,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Roanoke,3907,19205.16862745098,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Roanoke,3908,75082.79999999999,Eastern Cool Temperate Urban Herbaceous,False,
+Roanoke,3909,14086.400000000001,Eastern Cool Temperate Urban Shrubland,False,
+Roanoke,3930,39938.3725490196,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Roanoke,3931,1490.2980392156865,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Roanoke,3932,341.5843137254902,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Roanoke,3933,155.7843137254902,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Roanoke,3934,4500.054901960784,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Roanoke,3950,1649.756862745098,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Roanoke,3951,60.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Roanoke,3952,14.0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest,True,evt_other
+Roanoke,3954,153.0,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Roanoke,3970,962.8745098039217,Eastern Cool Temperate Orchard,False,
+Roanoke,3973,1187.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Roanoke,3974,14361.84705882353,Eastern Cool Temperate Row Crop,False,
+Roanoke,3975,7958.474509803922,Eastern Cool Temperate Close Grown Crop,False,
+Roanoke,3976,5488.1882352941175,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Roanoke,3977,449594.58039215684,Eastern Cool Temperate Pasture and Hayland,False,
+Roanoke,3978,457.0392156862745,Eastern Cool Temperate Wheat,False,
+Boone,3182,1331.7882352941176,Introduced Upland Vegetation-Perennial Grassland and Forbland,False,
+Boone,3186,0.3647058823529412,Introduced Upland Vegetation-Shrub,False,
+Boone,3191,8784.78431372549,Recently Logged-Herb and Grass Cover,False,
+Boone,3195,2096.329411764706,Recently Burned-Herb and Grass Cover,False,
+Boone,3247,103.0,Southern Appalachian Grass Bald,False,
+Boone,3274,20.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Boone,3275,79.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Boone,3292,35816.23529411765,Open Water,False,
+Boone,3294,9233.207843137256,Barren,False,
+Boone,3295,713.0,Quarries-Strip Mines-Gravel Pits,False,
+Boone,3296,12300.227450980392,Developed-Low Intensity,False,
+Boone,3297,10291.69019607843,Developed-Medium Intensity,False,
+Boone,3298,2314.0,Developed-High Intensity,False,
+Boone,3299,205223.54117647067,Developed-Roads,False,
+Boone,3300,393.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Boone,3309,213989.69803921564,Southern Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Boone,3315,1737536.5058823526,Southern Appalachian Oak Forest,True,evt_oak_hickory
+Boone,3316,41324.81960784313,Southern Piedmont Mesic Forest,True,evt_cove_mesic
+Boone,3317,6275.8,Allegheny-Cumberland Dry Oak Forest and Woodland,True,evt_oak_hickory
+Boone,3318,2643682.3960784315,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Boone,3319,1082.6392156862744,Central Interior and Appalachian Riparian Shrubland,False,
+Boone,3320,247416.45490196074,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Boone,3321,18510.278431372542,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+Boone,3350,12080.576470588236,Central and Southern Appalachian Spruce-Fir Forest,True,evt_spruce_fir
+Boone,3352,154417.74117647062,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Boone,3353,17983.03921568628,Southern Appalachian Low-Elevation Pine Forest,True,evt_pine
+Boone,3368,1981.999999999999,Southern Piedmont Dry Pine Forest,True,evt_pine
+Boone,3375,27827.05490196079,Eastern Serpentine Woodland,True,evt_other
+Boone,3376,21616.035294117646,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,True,evt_other
+Boone,3377,425.9686274509804,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Boone,3406,13620.188235294121,Southern Piedmont Dry Oak Forest,True,evt_oak_hickory
+Boone,3414,202.0,Southern Appalachian Shrub Bald,False,
+Boone,3448,1082.4901960784314,Southern Piedmont Dry Oak-Pine Forest,True,evt_oak_hickory
+Boone,3471,2708.0,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Boone,3472,18884.53333333333,Central Interior and Appalachian Riparian Forest,True,evt_other
+Boone,3533,31050.850980392155,Ruderal Forest-Southeast Hardwood and Conifer,True,evt_other
+Boone,3535,5490.517647058823,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group,True,evt_other
+Boone,3556,547.0313725490196,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Boone,3557,90.0,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Boone,3905,18099.933333333334,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Boone,3906,13135.137254901962,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Boone,3907,20320.83529411765,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Boone,3908,49127.46274509805,Eastern Cool Temperate Urban Herbaceous,False,
+Boone,3909,37844.81568627451,Eastern Cool Temperate Urban Shrubland,False,
+Boone,3930,157199.40784313728,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Boone,3931,351.0,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Boone,3932,88.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Boone,3933,9598.282352941176,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Boone,3934,123028.32156862748,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Boone,3950,850.3568627450979,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Boone,3953,37.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Boone,3954,479.01176470588234,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Boone,3970,4093.4901960784314,Eastern Cool Temperate Orchard,False,
+Boone,3972,2.0,Eastern Cool Temperate Bush fruit and berries,False,
+Boone,3973,682.078431372549,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Boone,3974,25274.980392156864,Eastern Cool Temperate Row Crop,False,
+Boone,3975,421.3137254901961,Eastern Cool Temperate Close Grown Crop,False,
+Boone,3976,3956.0784313725494,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Boone,3977,365285.9294117648,Eastern Cool Temperate Pasture and Hayland,False,
+Boone,3978,44.0,Eastern Cool Temperate Wheat,False,
+Boone,3979,1.0,Eastern Cool Temperate Aquaculture,False,
+Asheville,3182,2268.1725490196077,Introduced Upland Vegetation-Perennial Grassland and Forbland,False,
+Asheville,3191,5175.745098039216,Recently Logged-Herb and Grass Cover,False,
+Asheville,3195,2977.109803921569,Recently Burned-Herb and Grass Cover,False,
+Asheville,3247,8.0,Southern Appalachian Grass Bald,False,
+Asheville,3274,260.0,Central Interior and Appalachian Floodplain Herbaceous,False,
+Asheville,3275,863.0,Central Interior and Appalachian Floodplain Shrubland,False,
+Asheville,3292,21571.694117647054,Open Water,False,
+Asheville,3294,5426.596078431373,Barren,False,
+Asheville,3295,1858.0,Quarries-Strip Mines-Gravel Pits,False,
+Asheville,3296,73190.94509803921,Developed-Low Intensity,False,
+Asheville,3297,40737.850980392155,Developed-Medium Intensity,False,
+Asheville,3298,13278.75294117647,Developed-High Intensity,False,
+Asheville,3299,362229.9019607842,Developed-Roads,False,
+Asheville,3300,105.0,Central Interior and Appalachian Riparian Herbaceous,False,
+Asheville,3309,187718.52156862745,Southern Appalachian Northern Hardwood Forest,True,evt_northern_hardwood
+Asheville,3315,1730856.0509803924,Southern Appalachian Oak Forest,True,evt_oak_hickory
+Asheville,3316,292.0705882352941,Southern Piedmont Mesic Forest,True,evt_cove_mesic
+Asheville,3317,40649.04313725491,Allegheny-Cumberland Dry Oak Forest and Woodland,True,evt_oak_hickory
+Asheville,3318,2326565.490196078,Southern and Central Appalachian Cove Forest,True,evt_cove_mesic
+Asheville,3319,827.5372549019608,Central Interior and Appalachian Riparian Shrubland,False,
+Asheville,3320,287883.0274509804,Central and Southern Appalachian Montane Oak Forest,True,evt_oak_hickory
+Asheville,3321,19448.176470588238,South-Central Interior Mesophytic Forest,True,evt_cove_mesic
+Asheville,3350,58585.70196078431,Central and Southern Appalachian Spruce-Fir Forest,True,evt_spruce_fir
+Asheville,3352,141661.27843137257,Southern Appalachian Montane Pine Forest and Woodland,True,evt_pine
+Asheville,3353,7539.643137254902,Southern Appalachian Low-Elevation Pine Forest,True,evt_pine
+Asheville,3368,54.984313725490196,Southern Piedmont Dry Pine Forest,True,evt_pine
+Asheville,3375,56198.84705882352,Eastern Serpentine Woodland,True,evt_other
+Asheville,3376,11475.93725490196,Southern Ridge and Valley/Cumberland Dry Calcareous Forest,True,evt_other
+Asheville,3377,229.0,Central Appalachian Rocky Pine Woodland,True,evt_pine
+Asheville,3406,130.4941176470588,Southern Piedmont Dry Oak Forest,True,evt_oak_hickory
+Asheville,3414,9.0,Southern Appalachian Shrub Bald,False,
+Asheville,3448,14.0,Southern Piedmont Dry Oak-Pine Forest,True,evt_oak_hickory
+Asheville,3471,20357.576470588236,Central Interior and Appalachian Floodplain Forest,True,evt_other
+Asheville,3472,36006.19607843137,Central Interior and Appalachian Riparian Forest,True,evt_other
+Asheville,3533,56400.01176470587,Ruderal Forest-Southeast Hardwood and Conifer,True,evt_other
+Asheville,3535,10551.0,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group,True,evt_other
+Asheville,3556,254.0,Central Appalachian Rocky Oak Woodland,True,evt_oak_hickory
+Asheville,3557,81.0,Central Appalachian Rocky Pine-Oak Woodland,True,evt_pine
+Asheville,3905,43461.96078431372,Eastern Cool Temperate Urban Deciduous Forest,True,evt_other
+Asheville,3906,40112.96470588236,Eastern Cool Temperate Urban Evergreen Forest,True,evt_other
+Asheville,3907,71237.64313725491,Eastern Cool Temperate Urban Mixed Forest,True,evt_other
+Asheville,3908,104096.30980392154,Eastern Cool Temperate Urban Herbaceous,False,
+Asheville,3909,128351.86274509801,Eastern Cool Temperate Urban Shrubland,False,
+Asheville,3930,126748.65490196078,Eastern Cool Temperate Developed Ruderal Deciduous Forest,True,evt_other
+Asheville,3931,1722.0,Eastern Cool Temperate Developed Ruderal Evergreen Forest,True,evt_other
+Asheville,3932,203.0,Eastern Cool Temperate Developed Ruderal Mixed Forest,True,evt_other
+Asheville,3933,7307.929411764706,Eastern Cool Temperate Developed Ruderal Shrubland,False,
+Asheville,3934,215230.12156862742,Eastern Cool Temperate Developed Ruderal Grassland,False,
+Asheville,3950,506.00392156862745,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest,True,evt_other
+Asheville,3951,2.0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest,True,evt_other
+Asheville,3953,32.0,Eastern Cool Temperate Undeveloped Ruderal Shrubland,False,
+Asheville,3954,856.1333333333333,Eastern Cool Temperate Undeveloped Ruderal Grassland,False,
+Asheville,3970,60445.04705882354,Eastern Cool Temperate Orchard,False,
+Asheville,3972,10.0,Eastern Cool Temperate Bush fruit and berries,False,
+Asheville,3973,3904.0,Eastern Cool Temperate Row Crop - Close Grown Crop,False,
+Asheville,3974,84410.76078431371,Eastern Cool Temperate Row Crop,False,
+Asheville,3975,2549.0,Eastern Cool Temperate Close Grown Crop,False,
+Asheville,3976,11614.82745098039,Eastern Cool Temperate Fallow/Idle Cropland,False,
+Asheville,3977,373356.831372549,Eastern Cool Temperate Pasture and Hayland,False,
+Asheville,3978,139.0,Eastern Cool Temperate Wheat,False,
+Asheville,3979,153.0,Eastern Cool Temperate Aquaculture,False,

@@ -1,0 +1,8 @@
+model,slope_days_per_decade,ci95_lo,ci95_hi,p,n
+Raleigh,-2.8529,-4.8056,-0.9001,0.0061,25
+Asheville,-0.4364,-2.7614,1.8885,0.7013,25
+Boone,-0.6666,-2.7863,1.4531,0.5218,25
+Shenandoah,-1.1267,-3.3737,1.1204,0.3104,25
+pooled (OLS SE),-1.2706,-2.3113,-0.23,0.0172,100
+pooled (year-clustered SE),-1.2706,-3.1969,0.6556,0.196,100
+"pooled, no Helene (clustered SE)",-1.1293,-3.1192,0.8605,0.266,98

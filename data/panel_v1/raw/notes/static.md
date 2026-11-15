@@ -1,0 +1,4 @@
+- Elevation p10/p50/p90 are EXACT (unweighted 30 m forest-pixel histogram of integer SRTM metres); `elev_mean_m` uses the notebook's mean reducer.
+- LANDFIRE EVT asset: `LANDFIRE/Vegetation/EVT/v1_4_0` (image `CONUS`, LF 2016 Remap; the only EVT version in the Earth Engine catalog on 2026-11-15). Share of EVT forest pixels.
+- EVT classes present in the 11 regions: 113, of which forest: 60. Full mapping in `raw/evt_class_map.csv`.
+- static.csv: 11 locations × 23 columns

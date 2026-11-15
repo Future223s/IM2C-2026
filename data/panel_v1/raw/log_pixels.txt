@@ -1,0 +1,15 @@
+
+===== pixels =====
+MODIS years 2001-2025, scale 463.3 m
+Old Forge: 4000 forest pixels sampled
+Binghamton: 4000 forest pixels sampled
+Scranton: 3215 forest pixels sampled
+State College: 4000 forest pixels sampled
+Frostburg: 4000 forest pixels sampled
+Valley Head: 4000 forest pixels sampled
+Shenandoah: 4000 forest pixels sampled
+Roanoke: 4000 forest pixels sampled
+Boone: 4000 forest pixels sampled
+Asheville: 4000 forest pixels sampled
+wrote /Users/akathapurkar/Coding/IMMC/data/panel_v1/pixels.csv: 1,080,330 pixel-year rows
+share of peak_doy in 260-330: 98.9%

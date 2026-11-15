@@ -1,0 +1,6 @@
+- panel.csv: 286 rows × 45 cols
+- locations.csv: 11 rows × 37 cols
+- weather_daily.csv: 78,441 rows; pdsi.csv: 15,686 rows
+- feature_timing.csv: 275 rows
+- panel_v1/DATASET_GUIDE.md kept (it holds the build's deviations from docs/ version)
+- pixels.csv (Stage 3d): 1,080,330 pixel-year rows, 4,000 forest pixels per location, 98.9% of peak_doy in DOY 260–330. Shipped separately as panel_v1_pixels.zip.

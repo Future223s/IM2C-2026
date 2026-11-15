@@ -1,0 +1,2937 @@
+name,year,product,band,value,n
+Montpelier,2024,VIIRS,mid_greenup,101.0,1
+Montpelier,2024,VIIRS,mid_greenup,103.0,1
+Montpelier,2024,VIIRS,mid_greenup,109.0,1
+Montpelier,2024,VIIRS,mid_greenup,110.0,1
+Montpelier,2024,VIIRS,mid_greenup,118.0,1
+Montpelier,2024,VIIRS,mid_greenup,119.0,1
+Montpelier,2024,VIIRS,mid_greenup,121.0,2
+Montpelier,2024,VIIRS,mid_greenup,126.0,1
+Montpelier,2024,VIIRS,mid_greenup,131.0,3
+Montpelier,2024,VIIRS,mid_greenup,132.0,2
+Montpelier,2024,VIIRS,mid_greenup,133.0,3
+Montpelier,2024,VIIRS,mid_greenup,134.0,1
+Montpelier,2024,VIIRS,mid_greenup,135.0,2
+Montpelier,2024,VIIRS,mid_greenup,136.0,2
+Montpelier,2024,VIIRS,mid_greenup,137.0,2
+Montpelier,2024,VIIRS,mid_greenup,138.0,4
+Montpelier,2024,VIIRS,mid_greenup,139.0,1
+Montpelier,2024,VIIRS,mid_greenup,140.0,8
+Montpelier,2024,VIIRS,mid_greenup,141.0,8
+Montpelier,2024,VIIRS,mid_greenup,142.0,12
+Montpelier,2024,VIIRS,mid_greenup,143.0,13
+Montpelier,2024,VIIRS,mid_greenup,144.0,27
+Montpelier,2024,VIIRS,mid_greenup,145.0,54
+Montpelier,2024,VIIRS,mid_greenup,146.0,65
+Montpelier,2024,VIIRS,mid_greenup,147.0,130
+Montpelier,2024,VIIRS,mid_greenup,148.0,209
+Montpelier,2024,VIIRS,mid_greenup,149.0,287
+Montpelier,2024,VIIRS,mid_greenup,150.0,394
+Montpelier,2024,VIIRS,mid_greenup,151.0,546
+Montpelier,2024,VIIRS,mid_greenup,152.0,672
+Montpelier,2024,VIIRS,mid_greenup,153.0,718
+Montpelier,2024,VIIRS,mid_greenup,154.0,728
+Montpelier,2024,VIIRS,mid_greenup,155.0,700
+Montpelier,2024,VIIRS,mid_greenup,156.0,623
+Montpelier,2024,VIIRS,mid_greenup,157.0,549
+Montpelier,2024,VIIRS,mid_greenup,158.0,396
+Montpelier,2024,VIIRS,mid_greenup,159.0,279
+Montpelier,2024,VIIRS,mid_greenup,160.0,263
+Montpelier,2024,VIIRS,mid_greenup,161.0,190
+Montpelier,2024,VIIRS,mid_greenup,162.0,148
+Montpelier,2024,VIIRS,mid_greenup,163.0,97
+Montpelier,2024,VIIRS,mid_greenup,164.0,81
+Montpelier,2024,VIIRS,mid_greenup,165.0,61
+Montpelier,2024,VIIRS,mid_greenup,166.0,52
+Montpelier,2024,VIIRS,mid_greenup,167.0,48
+Montpelier,2024,VIIRS,mid_greenup,168.0,32
+Montpelier,2024,VIIRS,mid_greenup,169.0,32
+Montpelier,2024,VIIRS,mid_greenup,170.0,15
+Montpelier,2024,VIIRS,mid_greenup,171.0,9
+Montpelier,2024,VIIRS,mid_greenup,172.0,10
+Montpelier,2024,VIIRS,mid_greenup,173.0,5
+Montpelier,2024,VIIRS,mid_greenup,174.0,5
+Montpelier,2024,VIIRS,mid_greenup,175.0,1
+Montpelier,2024,VIIRS,mid_greenup,178.0,1
+Montpelier,2024,VIIRS,mid_greenup,179.0,2
+Montpelier,2024,VIIRS,mid_greenup,180.0,2
+Montpelier,2024,VIIRS,mid_greenup,182.0,1
+Montpelier,2024,VIIRS,mid_greenup,185.0,1
+Montpelier,2024,VIIRS,senescence,188.0,1
+Montpelier,2024,VIIRS,senescence,193.0,1
+Montpelier,2024,VIIRS,senescence,195.0,1
+Montpelier,2024,VIIRS,senescence,196.0,1
+Montpelier,2024,VIIRS,senescence,198.0,1
+Montpelier,2024,VIIRS,senescence,200.0,1
+Montpelier,2024,VIIRS,senescence,201.0,1
+Montpelier,2024,VIIRS,senescence,202.0,2
+Montpelier,2024,VIIRS,senescence,203.0,2
+Montpelier,2024,VIIRS,senescence,205.0,1
+Montpelier,2024,VIIRS,senescence,206.0,4
+Montpelier,2024,VIIRS,senescence,207.0,2
+Montpelier,2024,VIIRS,senescence,208.0,4
+Montpelier,2024,VIIRS,senescence,209.0,4
+Montpelier,2024,VIIRS,senescence,210.0,7
+Montpelier,2024,VIIRS,senescence,211.0,1
+Montpelier,2024,VIIRS,senescence,212.0,10
+Montpelier,2024,VIIRS,senescence,213.0,14
+Montpelier,2024,VIIRS,senescence,214.0,11
+Montpelier,2024,VIIRS,senescence,215.0,8
+Montpelier,2024,VIIRS,senescence,216.0,15
+Montpelier,2024,VIIRS,senescence,217.0,30
+Montpelier,2024,VIIRS,senescence,218.0,34
+Montpelier,2024,VIIRS,senescence,219.0,28
+Montpelier,2024,VIIRS,senescence,220.0,31
+Montpelier,2024,VIIRS,senescence,221.0,41
+Montpelier,2024,VIIRS,senescence,222.0,44
+Montpelier,2024,VIIRS,senescence,223.0,55
+Montpelier,2024,VIIRS,senescence,224.0,52
+Montpelier,2024,VIIRS,senescence,225.0,91
+Montpelier,2024,VIIRS,senescence,226.0,88
+Montpelier,2024,VIIRS,senescence,227.0,92
+Montpelier,2024,VIIRS,senescence,228.0,124
+Montpelier,2024,VIIRS,senescence,229.0,117
+Montpelier,2024,VIIRS,senescence,230.0,141
+Montpelier,2024,VIIRS,senescence,231.0,156
+Montpelier,2024,VIIRS,senescence,232.0,185
+Montpelier,2024,VIIRS,senescence,233.0,180
+Montpelier,2024,VIIRS,senescence,234.0,186
+Montpelier,2024,VIIRS,senescence,235.0,191
+Montpelier,2024,VIIRS,senescence,236.0,199
+Montpelier,2024,VIIRS,senescence,237.0,228
+Montpelier,2024,VIIRS,senescence,238.0,254
+Montpelier,2024,VIIRS,senescence,239.0,277
+Montpelier,2024,VIIRS,senescence,240.0,262
+Montpelier,2024,VIIRS,senescence,241.0,275
+Montpelier,2024,VIIRS,senescence,242.0,287
+Montpelier,2024,VIIRS,senescence,243.0,273
+Montpelier,2024,VIIRS,senescence,244.0,281
+Montpelier,2024,VIIRS,senescence,245.0,284
+Montpelier,2024,VIIRS,senescence,246.0,283
+Montpelier,2024,VIIRS,senescence,247.0,266
+Montpelier,2024,VIIRS,senescence,248.0,266
+Montpelier,2024,VIIRS,senescence,249.0,225
+Montpelier,2024,VIIRS,senescence,250.0,243
+Montpelier,2024,VIIRS,senescence,251.0,192
+Montpelier,2024,VIIRS,senescence,252.0,192
+Montpelier,2024,VIIRS,senescence,253.0,198
+Montpelier,2024,VIIRS,senescence,254.0,163
+Montpelier,2024,VIIRS,senescence,255.0,142
+Montpelier,2024,VIIRS,senescence,256.0,107
+Montpelier,2024,VIIRS,senescence,257.0,116
+Montpelier,2024,VIIRS,senescence,258.0,94
+Montpelier,2024,VIIRS,senescence,259.0,80
+Montpelier,2024,VIIRS,senescence,260.0,74
+Montpelier,2024,VIIRS,senescence,261.0,50
+Montpelier,2024,VIIRS,senescence,262.0,54
+Montpelier,2024,VIIRS,senescence,263.0,30
+Montpelier,2024,VIIRS,senescence,264.0,34
+Montpelier,2024,VIIRS,senescence,265.0,25
+Montpelier,2024,VIIRS,senescence,266.0,25
+Montpelier,2024,VIIRS,senescence,267.0,20
+Montpelier,2024,VIIRS,senescence,268.0,12
+Montpelier,2024,VIIRS,senescence,269.0,7
+Montpelier,2024,VIIRS,senescence,270.0,7
+Montpelier,2024,VIIRS,senescence,271.0,9
+Montpelier,2024,VIIRS,senescence,272.0,3
+Montpelier,2024,VIIRS,senescence,273.0,3
+Montpelier,2024,VIIRS,senescence,274.0,2
+Montpelier,2024,VIIRS,senescence,276.0,1
+Montpelier,2024,VIIRS,senescence,277.0,2
+Montpelier,2024,VIIRS,mid_greendown,256.0,2
+Montpelier,2024,VIIRS,mid_greendown,257.0,1
+Montpelier,2024,VIIRS,mid_greendown,258.0,1
+Montpelier,2024,VIIRS,mid_greendown,259.0,3
+Montpelier,2024,VIIRS,mid_greendown,260.0,1
+Montpelier,2024,VIIRS,mid_greendown,261.0,2
+Montpelier,2024,VIIRS,mid_greendown,262.0,6
+Montpelier,2024,VIIRS,mid_greendown,263.0,3
+Montpelier,2024,VIIRS,mid_greendown,264.0,7
+Montpelier,2024,VIIRS,mid_greendown,265.0,7
+Montpelier,2024,VIIRS,mid_greendown,266.0,17
+Montpelier,2024,VIIRS,mid_greendown,267.0,21
+Montpelier,2024,VIIRS,mid_greendown,268.0,28
+Montpelier,2024,VIIRS,mid_greendown,269.0,44
+Montpelier,2024,VIIRS,mid_greendown,270.0,47
+Montpelier,2024,VIIRS,mid_greendown,271.0,70
+Montpelier,2024,VIIRS,mid_greendown,272.0,91
+Montpelier,2024,VIIRS,mid_greendown,273.0,108
+Montpelier,2024,VIIRS,mid_greendown,274.0,156
+Montpelier,2024,VIIRS,mid_greendown,275.0,198
+Montpelier,2024,VIIRS,mid_greendown,276.0,228
+Montpelier,2024,VIIRS,mid_greendown,277.0,314
+Montpelier,2024,VIIRS,mid_greendown,278.0,375
+Montpelier,2024,VIIRS,mid_greendown,279.0,439
+Montpelier,2024,VIIRS,mid_greendown,280.0,490
+Montpelier,2024,VIIRS,mid_greendown,281.0,532
+Montpelier,2024,VIIRS,mid_greendown,282.0,514
+Montpelier,2024,VIIRS,mid_greendown,283.0,538
+Montpelier,2024,VIIRS,mid_greendown,284.0,484
+Montpelier,2024,VIIRS,mid_greendown,285.0,526
+Montpelier,2024,VIIRS,mid_greendown,286.0,440
+Montpelier,2024,VIIRS,mid_greendown,287.0,423
+Montpelier,2024,VIIRS,mid_greendown,288.0,317
+Montpelier,2024,VIIRS,mid_greendown,289.0,267
+Montpelier,2024,VIIRS,mid_greendown,290.0,225
+Montpelier,2024,VIIRS,mid_greendown,291.0,164
+Montpelier,2024,VIIRS,mid_greendown,292.0,109
+Montpelier,2024,VIIRS,mid_greendown,293.0,92
+Montpelier,2024,VIIRS,mid_greendown,294.0,61
+Montpelier,2024,VIIRS,mid_greendown,295.0,45
+Montpelier,2024,VIIRS,mid_greendown,296.0,27
+Montpelier,2024,VIIRS,mid_greendown,297.0,23
+Montpelier,2024,VIIRS,mid_greendown,298.0,18
+Montpelier,2024,VIIRS,mid_greendown,299.0,12
+Montpelier,2024,VIIRS,mid_greendown,300.0,8
+Montpelier,2024,VIIRS,mid_greendown,301.0,4
+Montpelier,2024,VIIRS,mid_greendown,302.0,3
+Montpelier,2024,VIIRS,mid_greendown,303.0,3
+Montpelier,2024,VIIRS,mid_greendown,304.0,2
+Montpelier,2024,VIIRS,mid_greendown,305.0,1
+Montpelier,2024,VIIRS,mid_greendown,307.0,2
+Montpelier,2024,VIIRS,mid_greendown,308.0,3
+Montpelier,2024,VIIRS,mid_greendown,311.0,1
+Montpelier,2024,VIIRS,dormancy,290.0,1
+Montpelier,2024,VIIRS,dormancy,293.0,1
+Montpelier,2024,VIIRS,dormancy,296.0,2
+Montpelier,2024,VIIRS,dormancy,297.0,1
+Montpelier,2024,VIIRS,dormancy,299.0,4
+Montpelier,2024,VIIRS,dormancy,300.0,1
+Montpelier,2024,VIIRS,dormancy,301.0,1
+Montpelier,2024,VIIRS,dormancy,302.0,2
+Montpelier,2024,VIIRS,dormancy,303.0,3
+Montpelier,2024,VIIRS,dormancy,304.0,6
+Montpelier,2024,VIIRS,dormancy,305.0,8
+Montpelier,2024,VIIRS,dormancy,306.0,12
+Montpelier,2024,VIIRS,dormancy,307.0,19
+Montpelier,2024,VIIRS,dormancy,308.0,26
+Montpelier,2024,VIIRS,dormancy,309.0,37
+Montpelier,2024,VIIRS,dormancy,310.0,66
+Montpelier,2024,VIIRS,dormancy,311.0,74
+Montpelier,2024,VIIRS,dormancy,312.0,102
+Montpelier,2024,VIIRS,dormancy,313.0,121
+Montpelier,2024,VIIRS,dormancy,314.0,151
+Montpelier,2024,VIIRS,dormancy,315.0,215
+Montpelier,2024,VIIRS,dormancy,316.0,249
+Montpelier,2024,VIIRS,dormancy,317.0,300
+Montpelier,2024,VIIRS,dormancy,318.0,384
+Montpelier,2024,VIIRS,dormancy,319.0,436
+Montpelier,2024,VIIRS,dormancy,320.0,434
+Montpelier,2024,VIIRS,dormancy,321.0,498
+Montpelier,2024,VIIRS,dormancy,322.0,519
+Montpelier,2024,VIIRS,dormancy,323.0,521
+Montpelier,2024,VIIRS,dormancy,324.0,493
+Montpelier,2024,VIIRS,dormancy,325.0,477
+Montpelier,2024,VIIRS,dormancy,326.0,406
+Montpelier,2024,VIIRS,dormancy,327.0,316
+Montpelier,2024,VIIRS,dormancy,328.0,285
+Montpelier,2024,VIIRS,dormancy,329.0,242
+Montpelier,2024,VIIRS,dormancy,330.0,225
+Montpelier,2024,VIIRS,dormancy,331.0,162
+Montpelier,2024,VIIRS,dormancy,332.0,151
+Montpelier,2024,VIIRS,dormancy,333.0,106
+Montpelier,2024,VIIRS,dormancy,334.0,88
+Montpelier,2024,VIIRS,dormancy,335.0,76
+Montpelier,2024,VIIRS,dormancy,336.0,74
+Montpelier,2024,VIIRS,dormancy,337.0,37
+Montpelier,2024,VIIRS,dormancy,338.0,32
+Montpelier,2024,VIIRS,dormancy,339.0,31
+Montpelier,2024,VIIRS,dormancy,340.0,26
+Montpelier,2024,VIIRS,dormancy,341.0,21
+Montpelier,2024,VIIRS,dormancy,342.0,17
+Montpelier,2024,VIIRS,dormancy,343.0,5
+Montpelier,2024,VIIRS,dormancy,344.0,7
+Montpelier,2024,VIIRS,dormancy,345.0,7
+Montpelier,2024,VIIRS,dormancy,346.0,3
+Montpelier,2024,VIIRS,dormancy,347.0,4
+Montpelier,2024,VIIRS,dormancy,348.0,1
+Montpelier,2024,VIIRS,dormancy,349.0,3
+Montpelier,2024,VIIRS,dormancy,350.0,5
+Montpelier,2024,VIIRS,dormancy,351.0,1
+Montpelier,2024,VIIRS,dormancy,353.0,4
+Montpelier,2024,VIIRS,dormancy,354.0,1
+Montpelier,2024,VIIRS,dormancy,355.0,1
+Montpelier,2024,VIIRS,dormancy,357.0,1
+Montpelier,2024,VIIRS,dormancy,365.0,1
+Montpelier,2024,VIIRS,forest_px,1.0,16052
+Old Forge,2024,VIIRS,mid_greenup,114.0,1
+Old Forge,2024,VIIRS,mid_greenup,116.0,1
+Old Forge,2024,VIIRS,mid_greenup,118.0,2
+Old Forge,2024,VIIRS,mid_greenup,122.0,2
+Old Forge,2024,VIIRS,mid_greenup,124.0,2
+Old Forge,2024,VIIRS,mid_greenup,125.0,1
+Old Forge,2024,VIIRS,mid_greenup,126.0,2
+Old Forge,2024,VIIRS,mid_greenup,129.0,5
+Old Forge,2024,VIIRS,mid_greenup,130.0,3
+Old Forge,2024,VIIRS,mid_greenup,131.0,1
+Old Forge,2024,VIIRS,mid_greenup,133.0,2
+Old Forge,2024,VIIRS,mid_greenup,134.0,1
+Old Forge,2024,VIIRS,mid_greenup,135.0,4
+Old Forge,2024,VIIRS,mid_greenup,136.0,3
+Old Forge,2024,VIIRS,mid_greenup,137.0,2
+Old Forge,2024,VIIRS,mid_greenup,138.0,3
+Old Forge,2024,VIIRS,mid_greenup,139.0,5
+Old Forge,2024,VIIRS,mid_greenup,140.0,5
+Old Forge,2024,VIIRS,mid_greenup,141.0,3
+Old Forge,2024,VIIRS,mid_greenup,142.0,13
+Old Forge,2024,VIIRS,mid_greenup,143.0,6
+Old Forge,2024,VIIRS,mid_greenup,144.0,26
+Old Forge,2024,VIIRS,mid_greenup,145.0,40
+Old Forge,2024,VIIRS,mid_greenup,146.0,62
+Old Forge,2024,VIIRS,mid_greenup,147.0,107
+Old Forge,2024,VIIRS,mid_greenup,148.0,181
+Old Forge,2024,VIIRS,mid_greenup,149.0,300
+Old Forge,2024,VIIRS,mid_greenup,150.0,499
+Old Forge,2024,VIIRS,mid_greenup,151.0,725
+Old Forge,2024,VIIRS,mid_greenup,152.0,911
+Old Forge,2024,VIIRS,mid_greenup,153.0,916
+Old Forge,2024,VIIRS,mid_greenup,154.0,768
+Old Forge,2024,VIIRS,mid_greenup,155.0,545
+Old Forge,2024,VIIRS,mid_greenup,156.0,455
+Old Forge,2024,VIIRS,mid_greenup,157.0,279
+Old Forge,2024,VIIRS,mid_greenup,158.0,227
+Old Forge,2024,VIIRS,mid_greenup,159.0,151
+Old Forge,2024,VIIRS,mid_greenup,160.0,110
+Old Forge,2024,VIIRS,mid_greenup,161.0,76
+Old Forge,2024,VIIRS,mid_greenup,162.0,42
+Old Forge,2024,VIIRS,mid_greenup,163.0,37
+Old Forge,2024,VIIRS,mid_greenup,164.0,23
+Old Forge,2024,VIIRS,mid_greenup,165.0,11
+Old Forge,2024,VIIRS,mid_greenup,166.0,11
+Old Forge,2024,VIIRS,mid_greenup,167.0,6
+Old Forge,2024,VIIRS,mid_greenup,168.0,5
+Old Forge,2024,VIIRS,mid_greenup,169.0,2
+Old Forge,2024,VIIRS,mid_greenup,170.0,3
+Old Forge,2024,VIIRS,mid_greenup,171.0,1
+Old Forge,2024,VIIRS,mid_greenup,172.0,2
+Old Forge,2024,VIIRS,mid_greenup,173.0,1
+Old Forge,2024,VIIRS,mid_greenup,174.0,1
+Old Forge,2024,VIIRS,senescence,169.0,1
+Old Forge,2024,VIIRS,senescence,198.0,3
+Old Forge,2024,VIIRS,senescence,199.0,2
+Old Forge,2024,VIIRS,senescence,200.0,2
+Old Forge,2024,VIIRS,senescence,201.0,2
+Old Forge,2024,VIIRS,senescence,202.0,3
+Old Forge,2024,VIIRS,senescence,203.0,1
+Old Forge,2024,VIIRS,senescence,204.0,7
+Old Forge,2024,VIIRS,senescence,205.0,2
+Old Forge,2024,VIIRS,senescence,206.0,5
+Old Forge,2024,VIIRS,senescence,207.0,3
+Old Forge,2024,VIIRS,senescence,208.0,10
+Old Forge,2024,VIIRS,senescence,209.0,7
+Old Forge,2024,VIIRS,senescence,210.0,5
+Old Forge,2024,VIIRS,senescence,211.0,13
+Old Forge,2024,VIIRS,senescence,212.0,19
+Old Forge,2024,VIIRS,senescence,213.0,16
+Old Forge,2024,VIIRS,senescence,214.0,16
+Old Forge,2024,VIIRS,senescence,215.0,19
+Old Forge,2024,VIIRS,senescence,216.0,18
+Old Forge,2024,VIIRS,senescence,217.0,33
+Old Forge,2024,VIIRS,senescence,218.0,26
+Old Forge,2024,VIIRS,senescence,219.0,36
+Old Forge,2024,VIIRS,senescence,220.0,39
+Old Forge,2024,VIIRS,senescence,221.0,56
+Old Forge,2024,VIIRS,senescence,222.0,66
+Old Forge,2024,VIIRS,senescence,223.0,57
+Old Forge,2024,VIIRS,senescence,224.0,83
+Old Forge,2024,VIIRS,senescence,225.0,91
+Old Forge,2024,VIIRS,senescence,226.0,100
+Old Forge,2024,VIIRS,senescence,227.0,112
+Old Forge,2024,VIIRS,senescence,228.0,112
+Old Forge,2024,VIIRS,senescence,229.0,130
+Old Forge,2024,VIIRS,senescence,230.0,143
+Old Forge,2024,VIIRS,senescence,231.0,159
+Old Forge,2024,VIIRS,senescence,232.0,164
+Old Forge,2024,VIIRS,senescence,233.0,184
+Old Forge,2024,VIIRS,senescence,234.0,211
+Old Forge,2024,VIIRS,senescence,235.0,203
+Old Forge,2024,VIIRS,senescence,236.0,236
+Old Forge,2024,VIIRS,senescence,237.0,231
+Old Forge,2024,VIIRS,senescence,238.0,242
+Old Forge,2024,VIIRS,senescence,239.0,266
+Old Forge,2024,VIIRS,senescence,240.0,251
+Old Forge,2024,VIIRS,senescence,241.0,256
+Old Forge,2024,VIIRS,senescence,242.0,270
+Old Forge,2024,VIIRS,senescence,243.0,245
+Old Forge,2024,VIIRS,senescence,244.0,210
+Old Forge,2024,VIIRS,senescence,245.0,227
+Old Forge,2024,VIIRS,senescence,246.0,234
+Old Forge,2024,VIIRS,senescence,247.0,198
+Old Forge,2024,VIIRS,senescence,248.0,181
+Old Forge,2024,VIIRS,senescence,249.0,167
+Old Forge,2024,VIIRS,senescence,250.0,173
+Old Forge,2024,VIIRS,senescence,251.0,163
+Old Forge,2024,VIIRS,senescence,252.0,110
+Old Forge,2024,VIIRS,senescence,253.0,127
+Old Forge,2024,VIIRS,senescence,254.0,116
+Old Forge,2024,VIIRS,senescence,255.0,95
+Old Forge,2024,VIIRS,senescence,256.0,92
+Old Forge,2024,VIIRS,senescence,257.0,51
+Old Forge,2024,VIIRS,senescence,258.0,49
+Old Forge,2024,VIIRS,senescence,259.0,39
+Old Forge,2024,VIIRS,senescence,260.0,45
+Old Forge,2024,VIIRS,senescence,261.0,39
+Old Forge,2024,VIIRS,senescence,262.0,18
+Old Forge,2024,VIIRS,senescence,263.0,22
+Old Forge,2024,VIIRS,senescence,264.0,22
+Old Forge,2024,VIIRS,senescence,265.0,11
+Old Forge,2024,VIIRS,senescence,266.0,10
+Old Forge,2024,VIIRS,senescence,267.0,7
+Old Forge,2024,VIIRS,senescence,268.0,12
+Old Forge,2024,VIIRS,senescence,269.0,7
+Old Forge,2024,VIIRS,senescence,270.0,1
+Old Forge,2024,VIIRS,senescence,271.0,1
+Old Forge,2024,VIIRS,senescence,275.0,2
+Old Forge,2024,VIIRS,senescence,276.0,3
+Old Forge,2024,VIIRS,senescence,279.0,1
+Old Forge,2024,VIIRS,senescence,282.0,1
+Old Forge,2024,VIIRS,mid_greendown,247.0,1
+Old Forge,2024,VIIRS,mid_greendown,248.0,1
+Old Forge,2024,VIIRS,mid_greendown,251.0,1
+Old Forge,2024,VIIRS,mid_greendown,258.0,1
+Old Forge,2024,VIIRS,mid_greendown,260.0,3
+Old Forge,2024,VIIRS,mid_greendown,261.0,4
+Old Forge,2024,VIIRS,mid_greendown,262.0,4
+Old Forge,2024,VIIRS,mid_greendown,263.0,7
+Old Forge,2024,VIIRS,mid_greendown,264.0,9
+Old Forge,2024,VIIRS,mid_greendown,265.0,11
+Old Forge,2024,VIIRS,mid_greendown,266.0,20
+Old Forge,2024,VIIRS,mid_greendown,267.0,13
+Old Forge,2024,VIIRS,mid_greendown,268.0,39
+Old Forge,2024,VIIRS,mid_greendown,269.0,51
+Old Forge,2024,VIIRS,mid_greendown,270.0,77
+Old Forge,2024,VIIRS,mid_greendown,271.0,100
+Old Forge,2024,VIIRS,mid_greendown,272.0,112
+Old Forge,2024,VIIRS,mid_greendown,273.0,158
+Old Forge,2024,VIIRS,mid_greendown,274.0,214
+Old Forge,2024,VIIRS,mid_greendown,275.0,225
+Old Forge,2024,VIIRS,mid_greendown,276.0,298
+Old Forge,2024,VIIRS,mid_greendown,277.0,364
+Old Forge,2024,VIIRS,mid_greendown,278.0,393
+Old Forge,2024,VIIRS,mid_greendown,279.0,465
+Old Forge,2024,VIIRS,mid_greendown,280.0,488
+Old Forge,2024,VIIRS,mid_greendown,281.0,477
+Old Forge,2024,VIIRS,mid_greendown,282.0,470
+Old Forge,2024,VIIRS,mid_greendown,283.0,481
+Old Forge,2024,VIIRS,mid_greendown,284.0,417
+Old Forge,2024,VIIRS,mid_greendown,285.0,367
+Old Forge,2024,VIIRS,mid_greendown,286.0,335
+Old Forge,2024,VIIRS,mid_greendown,287.0,283
+Old Forge,2024,VIIRS,mid_greendown,288.0,214
+Old Forge,2024,VIIRS,mid_greendown,289.0,147
+Old Forge,2024,VIIRS,mid_greendown,290.0,124
+Old Forge,2024,VIIRS,mid_greendown,291.0,84
+Old Forge,2024,VIIRS,mid_greendown,292.0,44
+Old Forge,2024,VIIRS,mid_greendown,293.0,40
+Old Forge,2024,VIIRS,mid_greendown,294.0,18
+Old Forge,2024,VIIRS,mid_greendown,295.0,14
+Old Forge,2024,VIIRS,mid_greendown,296.0,9
+Old Forge,2024,VIIRS,mid_greendown,297.0,4
+Old Forge,2024,VIIRS,mid_greendown,298.0,1
+Old Forge,2024,VIIRS,mid_greendown,300.0,1
+Old Forge,2024,VIIRS,mid_greendown,305.0,1
+Old Forge,2024,VIIRS,dormancy,290.0,1
+Old Forge,2024,VIIRS,dormancy,291.0,1
+Old Forge,2024,VIIRS,dormancy,292.0,2
+Old Forge,2024,VIIRS,dormancy,294.0,2
+Old Forge,2024,VIIRS,dormancy,297.0,2
+Old Forge,2024,VIIRS,dormancy,299.0,1
+Old Forge,2024,VIIRS,dormancy,301.0,2
+Old Forge,2024,VIIRS,dormancy,302.0,4
+Old Forge,2024,VIIRS,dormancy,303.0,2
+Old Forge,2024,VIIRS,dormancy,304.0,6
+Old Forge,2024,VIIRS,dormancy,305.0,14
+Old Forge,2024,VIIRS,dormancy,306.0,15
+Old Forge,2024,VIIRS,dormancy,307.0,21
+Old Forge,2024,VIIRS,dormancy,308.0,30
+Old Forge,2024,VIIRS,dormancy,309.0,45
+Old Forge,2024,VIIRS,dormancy,310.0,70
+Old Forge,2024,VIIRS,dormancy,311.0,84
+Old Forge,2024,VIIRS,dormancy,312.0,128
+Old Forge,2024,VIIRS,dormancy,313.0,157
+Old Forge,2024,VIIRS,dormancy,314.0,181
+Old Forge,2024,VIIRS,dormancy,315.0,225
+Old Forge,2024,VIIRS,dormancy,316.0,256
+Old Forge,2024,VIIRS,dormancy,317.0,277
+Old Forge,2024,VIIRS,dormancy,318.0,313
+Old Forge,2024,VIIRS,dormancy,319.0,386
+Old Forge,2024,VIIRS,dormancy,320.0,413
+Old Forge,2024,VIIRS,dormancy,321.0,431
+Old Forge,2024,VIIRS,dormancy,322.0,427
+Old Forge,2024,VIIRS,dormancy,323.0,457
+Old Forge,2024,VIIRS,dormancy,324.0,422
+Old Forge,2024,VIIRS,dormancy,325.0,372
+Old Forge,2024,VIIRS,dormancy,326.0,338
+Old Forge,2024,VIIRS,dormancy,327.0,288
+Old Forge,2024,VIIRS,dormancy,328.0,285
+Old Forge,2024,VIIRS,dormancy,329.0,216
+Old Forge,2024,VIIRS,dormancy,330.0,167
+Old Forge,2024,VIIRS,dormancy,331.0,158
+Old Forge,2024,VIIRS,dormancy,332.0,125
+Old Forge,2024,VIIRS,dormancy,333.0,79
+Old Forge,2024,VIIRS,dormancy,334.0,69
+Old Forge,2024,VIIRS,dormancy,335.0,46
+Old Forge,2024,VIIRS,dormancy,336.0,30
+Old Forge,2024,VIIRS,dormancy,337.0,13
+Old Forge,2024,VIIRS,dormancy,338.0,8
+Old Forge,2024,VIIRS,dormancy,339.0,10
+Old Forge,2024,VIIRS,dormancy,340.0,4
+Old Forge,2024,VIIRS,dormancy,341.0,2
+Old Forge,2024,VIIRS,dormancy,342.0,1
+Old Forge,2024,VIIRS,dormancy,343.0,1
+Old Forge,2024,VIIRS,dormancy,344.0,1
+Old Forge,2024,VIIRS,dormancy,345.0,2
+Old Forge,2024,VIIRS,forest_px,1.0,14576
+Binghamton,2024,VIIRS,mid_greenup,103.0,1
+Binghamton,2024,VIIRS,mid_greenup,107.0,1
+Binghamton,2024,VIIRS,mid_greenup,108.0,2
+Binghamton,2024,VIIRS,mid_greenup,110.0,1
+Binghamton,2024,VIIRS,mid_greenup,116.0,2
+Binghamton,2024,VIIRS,mid_greenup,117.0,4
+Binghamton,2024,VIIRS,mid_greenup,118.0,2
+Binghamton,2024,VIIRS,mid_greenup,119.0,4
+Binghamton,2024,VIIRS,mid_greenup,120.0,2
+Binghamton,2024,VIIRS,mid_greenup,121.0,3
+Binghamton,2024,VIIRS,mid_greenup,122.0,2
+Binghamton,2024,VIIRS,mid_greenup,123.0,1
+Binghamton,2024,VIIRS,mid_greenup,124.0,2
+Binghamton,2024,VIIRS,mid_greenup,125.0,1
+Binghamton,2024,VIIRS,mid_greenup,126.0,3
+Binghamton,2024,VIIRS,mid_greenup,127.0,4
+Binghamton,2024,VIIRS,mid_greenup,128.0,8
+Binghamton,2024,VIIRS,mid_greenup,129.0,9
+Binghamton,2024,VIIRS,mid_greenup,130.0,2
+Binghamton,2024,VIIRS,mid_greenup,131.0,7
+Binghamton,2024,VIIRS,mid_greenup,132.0,6
+Binghamton,2024,VIIRS,mid_greenup,133.0,10
+Binghamton,2024,VIIRS,mid_greenup,134.0,10
+Binghamton,2024,VIIRS,mid_greenup,135.0,13
+Binghamton,2024,VIIRS,mid_greenup,136.0,23
+Binghamton,2024,VIIRS,mid_greenup,137.0,36
+Binghamton,2024,VIIRS,mid_greenup,138.0,56
+Binghamton,2024,VIIRS,mid_greenup,139.0,100
+Binghamton,2024,VIIRS,mid_greenup,140.0,140
+Binghamton,2024,VIIRS,mid_greenup,141.0,220
+Binghamton,2024,VIIRS,mid_greenup,142.0,285
+Binghamton,2024,VIIRS,mid_greenup,143.0,429
+Binghamton,2024,VIIRS,mid_greenup,144.0,577
+Binghamton,2024,VIIRS,mid_greenup,145.0,650
+Binghamton,2024,VIIRS,mid_greenup,146.0,800
+Binghamton,2024,VIIRS,mid_greenup,147.0,834
+Binghamton,2024,VIIRS,mid_greenup,148.0,726
+Binghamton,2024,VIIRS,mid_greenup,149.0,677
+Binghamton,2024,VIIRS,mid_greenup,150.0,529
+Binghamton,2024,VIIRS,mid_greenup,151.0,382
+Binghamton,2024,VIIRS,mid_greenup,152.0,213
+Binghamton,2024,VIIRS,mid_greenup,153.0,116
+Binghamton,2024,VIIRS,mid_greenup,154.0,84
+Binghamton,2024,VIIRS,mid_greenup,155.0,41
+Binghamton,2024,VIIRS,mid_greenup,156.0,30
+Binghamton,2024,VIIRS,mid_greenup,157.0,14
+Binghamton,2024,VIIRS,mid_greenup,158.0,17
+Binghamton,2024,VIIRS,mid_greenup,159.0,7
+Binghamton,2024,VIIRS,mid_greenup,160.0,5
+Binghamton,2024,VIIRS,mid_greenup,161.0,3
+Binghamton,2024,VIIRS,mid_greenup,162.0,3
+Binghamton,2024,VIIRS,mid_greenup,163.0,3
+Binghamton,2024,VIIRS,mid_greenup,164.0,1
+Binghamton,2024,VIIRS,mid_greenup,165.0,1
+Binghamton,2024,VIIRS,mid_greenup,167.0,1
+Binghamton,2024,VIIRS,mid_greenup,171.0,1
+Binghamton,2024,VIIRS,senescence,168.0,1
+Binghamton,2024,VIIRS,senescence,174.0,1
+Binghamton,2024,VIIRS,senescence,178.0,1
+Binghamton,2024,VIIRS,senescence,181.0,2
+Binghamton,2024,VIIRS,senescence,182.0,2
+Binghamton,2024,VIIRS,senescence,185.0,1
+Binghamton,2024,VIIRS,senescence,186.0,1
+Binghamton,2024,VIIRS,senescence,187.0,3
+Binghamton,2024,VIIRS,senescence,188.0,2
+Binghamton,2024,VIIRS,senescence,189.0,6
+Binghamton,2024,VIIRS,senescence,190.0,3
+Binghamton,2024,VIIRS,senescence,191.0,5
+Binghamton,2024,VIIRS,senescence,192.0,9
+Binghamton,2024,VIIRS,senescence,193.0,6
+Binghamton,2024,VIIRS,senescence,194.0,11
+Binghamton,2024,VIIRS,senescence,195.0,11
+Binghamton,2024,VIIRS,senescence,196.0,11
+Binghamton,2024,VIIRS,senescence,197.0,8
+Binghamton,2024,VIIRS,senescence,198.0,10
+Binghamton,2024,VIIRS,senescence,199.0,10
+Binghamton,2024,VIIRS,senescence,200.0,17
+Binghamton,2024,VIIRS,senescence,201.0,16
+Binghamton,2024,VIIRS,senescence,202.0,18
+Binghamton,2024,VIIRS,senescence,203.0,22
+Binghamton,2024,VIIRS,senescence,204.0,30
+Binghamton,2024,VIIRS,senescence,205.0,23
+Binghamton,2024,VIIRS,senescence,206.0,33
+Binghamton,2024,VIIRS,senescence,207.0,28
+Binghamton,2024,VIIRS,senescence,208.0,35
+Binghamton,2024,VIIRS,senescence,209.0,40
+Binghamton,2024,VIIRS,senescence,210.0,53
+Binghamton,2024,VIIRS,senescence,211.0,56
+Binghamton,2024,VIIRS,senescence,212.0,79
+Binghamton,2024,VIIRS,senescence,213.0,72
+Binghamton,2024,VIIRS,senescence,214.0,93
+Binghamton,2024,VIIRS,senescence,215.0,79
+Binghamton,2024,VIIRS,senescence,216.0,97
+Binghamton,2024,VIIRS,senescence,217.0,113
+Binghamton,2024,VIIRS,senescence,218.0,133
+Binghamton,2024,VIIRS,senescence,219.0,126
+Binghamton,2024,VIIRS,senescence,220.0,130
+Binghamton,2024,VIIRS,senescence,221.0,148
+Binghamton,2024,VIIRS,senescence,222.0,169
+Binghamton,2024,VIIRS,senescence,223.0,182
+Binghamton,2024,VIIRS,senescence,224.0,206
+Binghamton,2024,VIIRS,senescence,225.0,204
+Binghamton,2024,VIIRS,senescence,226.0,174
+Binghamton,2024,VIIRS,senescence,227.0,216
+Binghamton,2024,VIIRS,senescence,228.0,215
+Binghamton,2024,VIIRS,senescence,229.0,205
+Binghamton,2024,VIIRS,senescence,230.0,226
+Binghamton,2024,VIIRS,senescence,231.0,224
+Binghamton,2024,VIIRS,senescence,232.0,218
+Binghamton,2024,VIIRS,senescence,233.0,218
+Binghamton,2024,VIIRS,senescence,234.0,187
+Binghamton,2024,VIIRS,senescence,235.0,192
+Binghamton,2024,VIIRS,senescence,236.0,229
+Binghamton,2024,VIIRS,senescence,237.0,217
+Binghamton,2024,VIIRS,senescence,238.0,171
+Binghamton,2024,VIIRS,senescence,239.0,195
+Binghamton,2024,VIIRS,senescence,240.0,174
+Binghamton,2024,VIIRS,senescence,241.0,166
+Binghamton,2024,VIIRS,senescence,242.0,166
+Binghamton,2024,VIIRS,senescence,243.0,154
+Binghamton,2024,VIIRS,senescence,244.0,138
+Binghamton,2024,VIIRS,senescence,245.0,122
+Binghamton,2024,VIIRS,senescence,246.0,111
+Binghamton,2024,VIIRS,senescence,247.0,115
+Binghamton,2024,VIIRS,senescence,248.0,91
+Binghamton,2024,VIIRS,senescence,249.0,86
+Binghamton,2024,VIIRS,senescence,250.0,71
+Binghamton,2024,VIIRS,senescence,251.0,72
+Binghamton,2024,VIIRS,senescence,252.0,59
+Binghamton,2024,VIIRS,senescence,253.0,48
+Binghamton,2024,VIIRS,senescence,254.0,34
+Binghamton,2024,VIIRS,senescence,255.0,38
+Binghamton,2024,VIIRS,senescence,256.0,25
+Binghamton,2024,VIIRS,senescence,257.0,41
+Binghamton,2024,VIIRS,senescence,258.0,27
+Binghamton,2024,VIIRS,senescence,259.0,34
+Binghamton,2024,VIIRS,senescence,260.0,29
+Binghamton,2024,VIIRS,senescence,261.0,13
+Binghamton,2024,VIIRS,senescence,262.0,21
+Binghamton,2024,VIIRS,senescence,263.0,14
+Binghamton,2024,VIIRS,senescence,264.0,8
+Binghamton,2024,VIIRS,senescence,265.0,4
+Binghamton,2024,VIIRS,senescence,266.0,7
+Binghamton,2024,VIIRS,senescence,267.0,6
+Binghamton,2024,VIIRS,senescence,268.0,8
+Binghamton,2024,VIIRS,senescence,269.0,4
+Binghamton,2024,VIIRS,senescence,270.0,8
+Binghamton,2024,VIIRS,senescence,271.0,4
+Binghamton,2024,VIIRS,senescence,272.0,3
+Binghamton,2024,VIIRS,senescence,273.0,1
+Binghamton,2024,VIIRS,senescence,274.0,2
+Binghamton,2024,VIIRS,senescence,275.0,1
+Binghamton,2024,VIIRS,senescence,277.0,3
+Binghamton,2024,VIIRS,senescence,278.0,1
+Binghamton,2024,VIIRS,senescence,279.0,1
+Binghamton,2024,VIIRS,senescence,282.0,1
+Binghamton,2024,VIIRS,mid_greendown,240.0,1
+Binghamton,2024,VIIRS,mid_greendown,244.0,2
+Binghamton,2024,VIIRS,mid_greendown,247.0,2
+Binghamton,2024,VIIRS,mid_greendown,249.0,3
+Binghamton,2024,VIIRS,mid_greendown,250.0,1
+Binghamton,2024,VIIRS,mid_greendown,251.0,1
+Binghamton,2024,VIIRS,mid_greendown,253.0,4
+Binghamton,2024,VIIRS,mid_greendown,255.0,1
+Binghamton,2024,VIIRS,mid_greendown,256.0,3
+Binghamton,2024,VIIRS,mid_greendown,257.0,7
+Binghamton,2024,VIIRS,mid_greendown,258.0,6
+Binghamton,2024,VIIRS,mid_greendown,259.0,9
+Binghamton,2024,VIIRS,mid_greendown,260.0,16
+Binghamton,2024,VIIRS,mid_greendown,261.0,15
+Binghamton,2024,VIIRS,mid_greendown,262.0,22
+Binghamton,2024,VIIRS,mid_greendown,263.0,27
+Binghamton,2024,VIIRS,mid_greendown,264.0,24
+Binghamton,2024,VIIRS,mid_greendown,265.0,42
+Binghamton,2024,VIIRS,mid_greendown,266.0,56
+Binghamton,2024,VIIRS,mid_greendown,267.0,55
+Binghamton,2024,VIIRS,mid_greendown,268.0,90
+Binghamton,2024,VIIRS,mid_greendown,269.0,100
+Binghamton,2024,VIIRS,mid_greendown,270.0,125
+Binghamton,2024,VIIRS,mid_greendown,271.0,155
+Binghamton,2024,VIIRS,mid_greendown,272.0,168
+Binghamton,2024,VIIRS,mid_greendown,273.0,212
+Binghamton,2024,VIIRS,mid_greendown,274.0,208
+Binghamton,2024,VIIRS,mid_greendown,275.0,261
+Binghamton,2024,VIIRS,mid_greendown,276.0,271
+Binghamton,2024,VIIRS,mid_greendown,277.0,336
+Binghamton,2024,VIIRS,mid_greendown,278.0,343
+Binghamton,2024,VIIRS,mid_greendown,279.0,338
+Binghamton,2024,VIIRS,mid_greendown,280.0,357
+Binghamton,2024,VIIRS,mid_greendown,281.0,384
+Binghamton,2024,VIIRS,mid_greendown,282.0,377
+Binghamton,2024,VIIRS,mid_greendown,283.0,358
+Binghamton,2024,VIIRS,mid_greendown,284.0,335
+Binghamton,2024,VIIRS,mid_greendown,285.0,351
+Binghamton,2024,VIIRS,mid_greendown,286.0,288
+Binghamton,2024,VIIRS,mid_greendown,287.0,282
+Binghamton,2024,VIIRS,mid_greendown,288.0,239
+Binghamton,2024,VIIRS,mid_greendown,289.0,209
+Binghamton,2024,VIIRS,mid_greendown,290.0,181
+Binghamton,2024,VIIRS,mid_greendown,291.0,167
+Binghamton,2024,VIIRS,mid_greendown,292.0,122
+Binghamton,2024,VIIRS,mid_greendown,293.0,114
+Binghamton,2024,VIIRS,mid_greendown,294.0,121
+Binghamton,2024,VIIRS,mid_greendown,295.0,63
+Binghamton,2024,VIIRS,mid_greendown,296.0,54
+Binghamton,2024,VIIRS,mid_greendown,297.0,34
+Binghamton,2024,VIIRS,mid_greendown,298.0,36
+Binghamton,2024,VIIRS,mid_greendown,299.0,26
+Binghamton,2024,VIIRS,mid_greendown,300.0,23
+Binghamton,2024,VIIRS,mid_greendown,301.0,9
+Binghamton,2024,VIIRS,mid_greendown,302.0,16
+Binghamton,2024,VIIRS,mid_greendown,303.0,10
+Binghamton,2024,VIIRS,mid_greendown,304.0,5
+Binghamton,2024,VIIRS,mid_greendown,305.0,2
+Binghamton,2024,VIIRS,mid_greendown,306.0,5
+Binghamton,2024,VIIRS,mid_greendown,307.0,5
+Binghamton,2024,VIIRS,mid_greendown,308.0,3
+Binghamton,2024,VIIRS,mid_greendown,309.0,3
+Binghamton,2024,VIIRS,mid_greendown,310.0,5
+Binghamton,2024,VIIRS,mid_greendown,311.0,4
+Binghamton,2024,VIIRS,mid_greendown,312.0,2
+Binghamton,2024,VIIRS,mid_greendown,313.0,1
+Binghamton,2024,VIIRS,mid_greendown,314.0,3
+Binghamton,2024,VIIRS,mid_greendown,315.0,2
+Binghamton,2024,VIIRS,mid_greendown,316.0,1
+Binghamton,2024,VIIRS,mid_greendown,317.0,1
+Binghamton,2024,VIIRS,mid_greendown,321.0,1
+Binghamton,2024,VIIRS,mid_greendown,322.0,1
+Binghamton,2024,VIIRS,dormancy,20.0,1
+Binghamton,2024,VIIRS,dormancy,26.0,2
+Binghamton,2024,VIIRS,dormancy,302.0,1
+Binghamton,2024,VIIRS,dormancy,306.0,1
+Binghamton,2024,VIIRS,dormancy,307.0,4
+Binghamton,2024,VIIRS,dormancy,308.0,3
+Binghamton,2024,VIIRS,dormancy,309.0,1
+Binghamton,2024,VIIRS,dormancy,310.0,7
+Binghamton,2024,VIIRS,dormancy,311.0,5
+Binghamton,2024,VIIRS,dormancy,312.0,8
+Binghamton,2024,VIIRS,dormancy,313.0,11
+Binghamton,2024,VIIRS,dormancy,314.0,19
+Binghamton,2024,VIIRS,dormancy,315.0,28
+Binghamton,2024,VIIRS,dormancy,316.0,37
+Binghamton,2024,VIIRS,dormancy,317.0,41
+Binghamton,2024,VIIRS,dormancy,318.0,58
+Binghamton,2024,VIIRS,dormancy,319.0,77
+Binghamton,2024,VIIRS,dormancy,320.0,113
+Binghamton,2024,VIIRS,dormancy,321.0,110
+Binghamton,2024,VIIRS,dormancy,322.0,164
+Binghamton,2024,VIIRS,dormancy,323.0,201
+Binghamton,2024,VIIRS,dormancy,324.0,250
+Binghamton,2024,VIIRS,dormancy,325.0,267
+Binghamton,2024,VIIRS,dormancy,326.0,345
+Binghamton,2024,VIIRS,dormancy,327.0,351
+Binghamton,2024,VIIRS,dormancy,328.0,404
+Binghamton,2024,VIIRS,dormancy,329.0,395
+Binghamton,2024,VIIRS,dormancy,330.0,432
+Binghamton,2024,VIIRS,dormancy,331.0,475
+Binghamton,2024,VIIRS,dormancy,332.0,446
+Binghamton,2024,VIIRS,dormancy,333.0,419
+Binghamton,2024,VIIRS,dormancy,334.0,379
+Binghamton,2024,VIIRS,dormancy,335.0,361
+Binghamton,2024,VIIRS,dormancy,336.0,327
+Binghamton,2024,VIIRS,dormancy,337.0,287
+Binghamton,2024,VIIRS,dormancy,338.0,192
+Binghamton,2024,VIIRS,dormancy,339.0,181
+Binghamton,2024,VIIRS,dormancy,340.0,128
+Binghamton,2024,VIIRS,dormancy,341.0,105
+Binghamton,2024,VIIRS,dormancy,342.0,110
+Binghamton,2024,VIIRS,dormancy,343.0,73
+Binghamton,2024,VIIRS,dormancy,344.0,41
+Binghamton,2024,VIIRS,dormancy,345.0,29
+Binghamton,2024,VIIRS,dormancy,346.0,38
+Binghamton,2024,VIIRS,dormancy,347.0,30
+Binghamton,2024,VIIRS,dormancy,348.0,16
+Binghamton,2024,VIIRS,dormancy,349.0,19
+Binghamton,2024,VIIRS,dormancy,350.0,13
+Binghamton,2024,VIIRS,dormancy,351.0,7
+Binghamton,2024,VIIRS,dormancy,352.0,8
+Binghamton,2024,VIIRS,dormancy,353.0,8
+Binghamton,2024,VIIRS,dormancy,354.0,11
+Binghamton,2024,VIIRS,dormancy,355.0,4
+Binghamton,2024,VIIRS,dormancy,356.0,2
+Binghamton,2024,VIIRS,dormancy,357.0,9
+Binghamton,2024,VIIRS,dormancy,358.0,2
+Binghamton,2024,VIIRS,dormancy,359.0,3
+Binghamton,2024,VIIRS,dormancy,360.0,7
+Binghamton,2024,VIIRS,dormancy,361.0,5
+Binghamton,2024,VIIRS,dormancy,362.0,2
+Binghamton,2024,VIIRS,dormancy,363.0,6
+Binghamton,2024,VIIRS,dormancy,364.0,4
+Binghamton,2024,VIIRS,dormancy,366.0,5
+Binghamton,2024,VIIRS,dormancy,367.0,1
+Binghamton,2024,VIIRS,dormancy,368.0,3
+Binghamton,2024,VIIRS,dormancy,369.0,2
+Binghamton,2024,VIIRS,dormancy,370.0,3
+Binghamton,2024,VIIRS,dormancy,372.0,1
+Binghamton,2024,VIIRS,dormancy,374.0,1
+Binghamton,2024,VIIRS,dormancy,375.0,3
+Binghamton,2024,VIIRS,dormancy,376.0,1
+Binghamton,2024,VIIRS,dormancy,377.0,1
+Binghamton,2024,VIIRS,forest_px,1.0,14947
+Scranton,2024,VIIRS,mid_greenup,124.0,1
+Scranton,2024,VIIRS,mid_greenup,128.0,1
+Scranton,2024,VIIRS,mid_greenup,132.0,1
+Scranton,2024,VIIRS,mid_greenup,135.0,2
+Scranton,2024,VIIRS,mid_greenup,136.0,1
+Scranton,2024,VIIRS,mid_greenup,137.0,3
+Scranton,2024,VIIRS,mid_greenup,138.0,7
+Scranton,2024,VIIRS,mid_greenup,139.0,12
+Scranton,2024,VIIRS,mid_greenup,140.0,11
+Scranton,2024,VIIRS,mid_greenup,141.0,28
+Scranton,2024,VIIRS,mid_greenup,142.0,32
+Scranton,2024,VIIRS,mid_greenup,143.0,52
+Scranton,2024,VIIRS,mid_greenup,144.0,71
+Scranton,2024,VIIRS,mid_greenup,145.0,99
+Scranton,2024,VIIRS,mid_greenup,146.0,114
+Scranton,2024,VIIRS,mid_greenup,147.0,129
+Scranton,2024,VIIRS,mid_greenup,148.0,147
+Scranton,2024,VIIRS,mid_greenup,149.0,141
+Scranton,2024,VIIRS,mid_greenup,150.0,146
+Scranton,2024,VIIRS,mid_greenup,151.0,128
+Scranton,2024,VIIRS,mid_greenup,152.0,119
+Scranton,2024,VIIRS,mid_greenup,153.0,109
+Scranton,2024,VIIRS,mid_greenup,154.0,75
+Scranton,2024,VIIRS,mid_greenup,155.0,45
+Scranton,2024,VIIRS,mid_greenup,156.0,34
+Scranton,2024,VIIRS,mid_greenup,157.0,17
+Scranton,2024,VIIRS,mid_greenup,158.0,19
+Scranton,2024,VIIRS,mid_greenup,159.0,12
+Scranton,2024,VIIRS,mid_greenup,160.0,5
+Scranton,2024,VIIRS,mid_greenup,161.0,4
+Scranton,2024,VIIRS,senescence,190.0,1
+Scranton,2024,VIIRS,senescence,192.0,1
+Scranton,2024,VIIRS,senescence,200.0,2
+Scranton,2024,VIIRS,senescence,201.0,2
+Scranton,2024,VIIRS,senescence,202.0,1
+Scranton,2024,VIIRS,senescence,205.0,3
+Scranton,2024,VIIRS,senescence,206.0,1
+Scranton,2024,VIIRS,senescence,207.0,3
+Scranton,2024,VIIRS,senescence,208.0,2
+Scranton,2024,VIIRS,senescence,209.0,4
+Scranton,2024,VIIRS,senescence,210.0,1
+Scranton,2024,VIIRS,senescence,211.0,6
+Scranton,2024,VIIRS,senescence,212.0,7
+Scranton,2024,VIIRS,senescence,213.0,7
+Scranton,2024,VIIRS,senescence,214.0,5
+Scranton,2024,VIIRS,senescence,215.0,5
+Scranton,2024,VIIRS,senescence,216.0,8
+Scranton,2024,VIIRS,senescence,217.0,10
+Scranton,2024,VIIRS,senescence,218.0,10
+Scranton,2024,VIIRS,senescence,219.0,10
+Scranton,2024,VIIRS,senescence,220.0,12
+Scranton,2024,VIIRS,senescence,221.0,10
+Scranton,2024,VIIRS,senescence,222.0,13
+Scranton,2024,VIIRS,senescence,223.0,19
+Scranton,2024,VIIRS,senescence,224.0,24
+Scranton,2024,VIIRS,senescence,225.0,24
+Scranton,2024,VIIRS,senescence,226.0,25
+Scranton,2024,VIIRS,senescence,227.0,29
+Scranton,2024,VIIRS,senescence,228.0,37
+Scranton,2024,VIIRS,senescence,229.0,38
+Scranton,2024,VIIRS,senescence,230.0,30
+Scranton,2024,VIIRS,senescence,231.0,32
+Scranton,2024,VIIRS,senescence,232.0,39
+Scranton,2024,VIIRS,senescence,233.0,33
+Scranton,2024,VIIRS,senescence,234.0,59
+Scranton,2024,VIIRS,senescence,235.0,53
+Scranton,2024,VIIRS,senescence,236.0,44
+Scranton,2024,VIIRS,senescence,237.0,55
+Scranton,2024,VIIRS,senescence,238.0,61
+Scranton,2024,VIIRS,senescence,239.0,51
+Scranton,2024,VIIRS,senescence,240.0,48
+Scranton,2024,VIIRS,senescence,241.0,51
+Scranton,2024,VIIRS,senescence,242.0,53
+Scranton,2024,VIIRS,senescence,243.0,39
+Scranton,2024,VIIRS,senescence,244.0,62
+Scranton,2024,VIIRS,senescence,245.0,53
+Scranton,2024,VIIRS,senescence,246.0,46
+Scranton,2024,VIIRS,senescence,247.0,36
+Scranton,2024,VIIRS,senescence,248.0,40
+Scranton,2024,VIIRS,senescence,249.0,32
+Scranton,2024,VIIRS,senescence,250.0,43
+Scranton,2024,VIIRS,senescence,251.0,29
+Scranton,2024,VIIRS,senescence,252.0,29
+Scranton,2024,VIIRS,senescence,253.0,27
+Scranton,2024,VIIRS,senescence,254.0,28
+Scranton,2024,VIIRS,senescence,255.0,27
+Scranton,2024,VIIRS,senescence,256.0,24
+Scranton,2024,VIIRS,senescence,257.0,16
+Scranton,2024,VIIRS,senescence,258.0,12
+Scranton,2024,VIIRS,senescence,259.0,16
+Scranton,2024,VIIRS,senescence,260.0,11
+Scranton,2024,VIIRS,senescence,261.0,9
+Scranton,2024,VIIRS,senescence,262.0,14
+Scranton,2024,VIIRS,senescence,263.0,7
+Scranton,2024,VIIRS,senescence,264.0,5
+Scranton,2024,VIIRS,senescence,265.0,5
+Scranton,2024,VIIRS,senescence,266.0,4
+Scranton,2024,VIIRS,senescence,267.0,4
+Scranton,2024,VIIRS,senescence,268.0,6
+Scranton,2024,VIIRS,senescence,269.0,1
+Scranton,2024,VIIRS,senescence,270.0,3
+Scranton,2024,VIIRS,senescence,271.0,2
+Scranton,2024,VIIRS,senescence,275.0,2
+Scranton,2024,VIIRS,senescence,276.0,1
+Scranton,2024,VIIRS,senescence,278.0,1
+Scranton,2024,VIIRS,senescence,284.0,2
+Scranton,2024,VIIRS,mid_greendown,258.0,1
+Scranton,2024,VIIRS,mid_greendown,259.0,1
+Scranton,2024,VIIRS,mid_greendown,262.0,1
+Scranton,2024,VIIRS,mid_greendown,263.0,1
+Scranton,2024,VIIRS,mid_greendown,265.0,1
+Scranton,2024,VIIRS,mid_greendown,266.0,1
+Scranton,2024,VIIRS,mid_greendown,267.0,2
+Scranton,2024,VIIRS,mid_greendown,268.0,3
+Scranton,2024,VIIRS,mid_greendown,269.0,2
+Scranton,2024,VIIRS,mid_greendown,270.0,2
+Scranton,2024,VIIRS,mid_greendown,271.0,5
+Scranton,2024,VIIRS,mid_greendown,272.0,5
+Scranton,2024,VIIRS,mid_greendown,273.0,7
+Scranton,2024,VIIRS,mid_greendown,274.0,14
+Scranton,2024,VIIRS,mid_greendown,275.0,14
+Scranton,2024,VIIRS,mid_greendown,276.0,17
+Scranton,2024,VIIRS,mid_greendown,277.0,33
+Scranton,2024,VIIRS,mid_greendown,278.0,28
+Scranton,2024,VIIRS,mid_greendown,279.0,34
+Scranton,2024,VIIRS,mid_greendown,280.0,40
+Scranton,2024,VIIRS,mid_greendown,281.0,53
+Scranton,2024,VIIRS,mid_greendown,282.0,56
+Scranton,2024,VIIRS,mid_greendown,283.0,77
+Scranton,2024,VIIRS,mid_greendown,284.0,77
+Scranton,2024,VIIRS,mid_greendown,285.0,79
+Scranton,2024,VIIRS,mid_greendown,286.0,108
+Scranton,2024,VIIRS,mid_greendown,287.0,95
+Scranton,2024,VIIRS,mid_greendown,288.0,90
+Scranton,2024,VIIRS,mid_greendown,289.0,94
+Scranton,2024,VIIRS,mid_greendown,290.0,95
+Scranton,2024,VIIRS,mid_greendown,291.0,96
+Scranton,2024,VIIRS,mid_greendown,292.0,80
+Scranton,2024,VIIRS,mid_greendown,293.0,72
+Scranton,2024,VIIRS,mid_greendown,294.0,47
+Scranton,2024,VIIRS,mid_greendown,295.0,62
+Scranton,2024,VIIRS,mid_greendown,296.0,35
+Scranton,2024,VIIRS,mid_greendown,297.0,36
+Scranton,2024,VIIRS,mid_greendown,298.0,25
+Scranton,2024,VIIRS,mid_greendown,299.0,16
+Scranton,2024,VIIRS,mid_greendown,300.0,18
+Scranton,2024,VIIRS,mid_greendown,301.0,12
+Scranton,2024,VIIRS,mid_greendown,302.0,11
+Scranton,2024,VIIRS,mid_greendown,303.0,5
+Scranton,2024,VIIRS,mid_greendown,304.0,3
+Scranton,2024,VIIRS,mid_greendown,305.0,2
+Scranton,2024,VIIRS,mid_greendown,306.0,2
+Scranton,2024,VIIRS,mid_greendown,307.0,3
+Scranton,2024,VIIRS,mid_greendown,308.0,3
+Scranton,2024,VIIRS,mid_greendown,311.0,1
+Scranton,2024,VIIRS,dormancy,303.0,1
+Scranton,2024,VIIRS,dormancy,314.0,1
+Scranton,2024,VIIRS,dormancy,318.0,1
+Scranton,2024,VIIRS,dormancy,319.0,2
+Scranton,2024,VIIRS,dormancy,320.0,1
+Scranton,2024,VIIRS,dormancy,321.0,4
+Scranton,2024,VIIRS,dormancy,322.0,4
+Scranton,2024,VIIRS,dormancy,323.0,7
+Scranton,2024,VIIRS,dormancy,324.0,12
+Scranton,2024,VIIRS,dormancy,325.0,18
+Scranton,2024,VIIRS,dormancy,326.0,18
+Scranton,2024,VIIRS,dormancy,327.0,28
+Scranton,2024,VIIRS,dormancy,328.0,45
+Scranton,2024,VIIRS,dormancy,329.0,62
+Scranton,2024,VIIRS,dormancy,330.0,60
+Scranton,2024,VIIRS,dormancy,331.0,85
+Scranton,2024,VIIRS,dormancy,332.0,84
+Scranton,2024,VIIRS,dormancy,333.0,118
+Scranton,2024,VIIRS,dormancy,334.0,93
+Scranton,2024,VIIRS,dormancy,335.0,110
+Scranton,2024,VIIRS,dormancy,336.0,110
+Scranton,2024,VIIRS,dormancy,337.0,127
+Scranton,2024,VIIRS,dormancy,338.0,98
+Scranton,2024,VIIRS,dormancy,339.0,96
+Scranton,2024,VIIRS,dormancy,340.0,84
+Scranton,2024,VIIRS,dormancy,341.0,63
+Scranton,2024,VIIRS,dormancy,342.0,43
+Scranton,2024,VIIRS,dormancy,343.0,42
+Scranton,2024,VIIRS,dormancy,344.0,33
+Scranton,2024,VIIRS,dormancy,345.0,33
+Scranton,2024,VIIRS,dormancy,346.0,23
+Scranton,2024,VIIRS,dormancy,347.0,18
+Scranton,2024,VIIRS,dormancy,348.0,12
+Scranton,2024,VIIRS,dormancy,349.0,9
+Scranton,2024,VIIRS,dormancy,350.0,6
+Scranton,2024,VIIRS,dormancy,351.0,4
+Scranton,2024,VIIRS,dormancy,352.0,3
+Scranton,2024,VIIRS,dormancy,353.0,3
+Scranton,2024,VIIRS,dormancy,354.0,1
+Scranton,2024,VIIRS,dormancy,355.0,1
+Scranton,2024,VIIRS,dormancy,359.0,1
+Scranton,2024,VIIRS,dormancy,374.0,1
+Scranton,2024,VIIRS,forest_px,1.0,3215
+State College,2024,VIIRS,mid_greenup,112.0,1
+State College,2024,VIIRS,mid_greenup,114.0,1
+State College,2024,VIIRS,mid_greenup,116.0,1
+State College,2024,VIIRS,mid_greenup,118.0,1
+State College,2024,VIIRS,mid_greenup,119.0,1
+State College,2024,VIIRS,mid_greenup,120.0,2
+State College,2024,VIIRS,mid_greenup,121.0,2
+State College,2024,VIIRS,mid_greenup,122.0,3
+State College,2024,VIIRS,mid_greenup,123.0,3
+State College,2024,VIIRS,mid_greenup,124.0,3
+State College,2024,VIIRS,mid_greenup,125.0,8
+State College,2024,VIIRS,mid_greenup,126.0,14
+State College,2024,VIIRS,mid_greenup,127.0,12
+State College,2024,VIIRS,mid_greenup,128.0,16
+State College,2024,VIIRS,mid_greenup,129.0,20
+State College,2024,VIIRS,mid_greenup,130.0,28
+State College,2024,VIIRS,mid_greenup,131.0,38
+State College,2024,VIIRS,mid_greenup,132.0,41
+State College,2024,VIIRS,mid_greenup,133.0,65
+State College,2024,VIIRS,mid_greenup,134.0,112
+State College,2024,VIIRS,mid_greenup,135.0,118
+State College,2024,VIIRS,mid_greenup,136.0,163
+State College,2024,VIIRS,mid_greenup,137.0,211
+State College,2024,VIIRS,mid_greenup,138.0,321
+State College,2024,VIIRS,mid_greenup,139.0,402
+State College,2024,VIIRS,mid_greenup,140.0,481
+State College,2024,VIIRS,mid_greenup,141.0,507
+State College,2024,VIIRS,mid_greenup,142.0,556
+State College,2024,VIIRS,mid_greenup,143.0,493
+State College,2024,VIIRS,mid_greenup,144.0,464
+State College,2024,VIIRS,mid_greenup,145.0,375
+State College,2024,VIIRS,mid_greenup,146.0,285
+State College,2024,VIIRS,mid_greenup,147.0,254
+State College,2024,VIIRS,mid_greenup,148.0,177
+State College,2024,VIIRS,mid_greenup,149.0,129
+State College,2024,VIIRS,mid_greenup,150.0,78
+State College,2024,VIIRS,mid_greenup,151.0,67
+State College,2024,VIIRS,mid_greenup,152.0,44
+State College,2024,VIIRS,mid_greenup,153.0,33
+State College,2024,VIIRS,mid_greenup,154.0,19
+State College,2024,VIIRS,mid_greenup,155.0,6
+State College,2024,VIIRS,mid_greenup,156.0,7
+State College,2024,VIIRS,mid_greenup,157.0,5
+State College,2024,VIIRS,mid_greenup,158.0,5
+State College,2024,VIIRS,mid_greenup,159.0,1
+State College,2024,VIIRS,mid_greenup,160.0,4
+State College,2024,VIIRS,mid_greenup,161.0,2
+State College,2024,VIIRS,mid_greenup,163.0,1
+State College,2024,VIIRS,mid_greenup,166.0,1
+State College,2024,VIIRS,mid_greenup,169.0,1
+State College,2024,VIIRS,mid_greenup,173.0,1
+State College,2024,VIIRS,mid_greenup,99.0,1
+State College,2024,VIIRS,senescence,178.0,1
+State College,2024,VIIRS,senescence,186.0,1
+State College,2024,VIIRS,senescence,191.0,1
+State College,2024,VIIRS,senescence,196.0,1
+State College,2024,VIIRS,senescence,197.0,1
+State College,2024,VIIRS,senescence,198.0,3
+State College,2024,VIIRS,senescence,199.0,1
+State College,2024,VIIRS,senescence,200.0,1
+State College,2024,VIIRS,senescence,201.0,1
+State College,2024,VIIRS,senescence,203.0,3
+State College,2024,VIIRS,senescence,204.0,1
+State College,2024,VIIRS,senescence,205.0,1
+State College,2024,VIIRS,senescence,206.0,9
+State College,2024,VIIRS,senescence,207.0,6
+State College,2024,VIIRS,senescence,208.0,7
+State College,2024,VIIRS,senescence,209.0,4
+State College,2024,VIIRS,senescence,210.0,7
+State College,2024,VIIRS,senescence,211.0,9
+State College,2024,VIIRS,senescence,212.0,19
+State College,2024,VIIRS,senescence,213.0,10
+State College,2024,VIIRS,senescence,214.0,18
+State College,2024,VIIRS,senescence,215.0,20
+State College,2024,VIIRS,senescence,216.0,25
+State College,2024,VIIRS,senescence,217.0,22
+State College,2024,VIIRS,senescence,218.0,24
+State College,2024,VIIRS,senescence,219.0,29
+State College,2024,VIIRS,senescence,220.0,37
+State College,2024,VIIRS,senescence,221.0,38
+State College,2024,VIIRS,senescence,222.0,54
+State College,2024,VIIRS,senescence,223.0,62
+State College,2024,VIIRS,senescence,224.0,68
+State College,2024,VIIRS,senescence,225.0,65
+State College,2024,VIIRS,senescence,226.0,70
+State College,2024,VIIRS,senescence,227.0,83
+State College,2024,VIIRS,senescence,228.0,98
+State College,2024,VIIRS,senescence,229.0,107
+State College,2024,VIIRS,senescence,230.0,100
+State College,2024,VIIRS,senescence,231.0,113
+State College,2024,VIIRS,senescence,232.0,143
+State College,2024,VIIRS,senescence,233.0,147
+State College,2024,VIIRS,senescence,234.0,159
+State College,2024,VIIRS,senescence,235.0,179
+State College,2024,VIIRS,senescence,236.0,148
+State College,2024,VIIRS,senescence,237.0,176
+State College,2024,VIIRS,senescence,238.0,185
+State College,2024,VIIRS,senescence,239.0,184
+State College,2024,VIIRS,senescence,240.0,187
+State College,2024,VIIRS,senescence,241.0,182
+State College,2024,VIIRS,senescence,242.0,170
+State College,2024,VIIRS,senescence,243.0,203
+State College,2024,VIIRS,senescence,244.0,187
+State College,2024,VIIRS,senescence,245.0,183
+State College,2024,VIIRS,senescence,246.0,183
+State College,2024,VIIRS,senescence,247.0,187
+State College,2024,VIIRS,senescence,248.0,166
+State College,2024,VIIRS,senescence,249.0,134
+State College,2024,VIIRS,senescence,250.0,155
+State College,2024,VIIRS,senescence,251.0,122
+State College,2024,VIIRS,senescence,252.0,115
+State College,2024,VIIRS,senescence,253.0,108
+State College,2024,VIIRS,senescence,254.0,104
+State College,2024,VIIRS,senescence,255.0,106
+State College,2024,VIIRS,senescence,256.0,78
+State College,2024,VIIRS,senescence,257.0,80
+State College,2024,VIIRS,senescence,258.0,62
+State College,2024,VIIRS,senescence,259.0,76
+State College,2024,VIIRS,senescence,260.0,59
+State College,2024,VIIRS,senescence,261.0,56
+State College,2024,VIIRS,senescence,262.0,52
+State College,2024,VIIRS,senescence,263.0,18
+State College,2024,VIIRS,senescence,264.0,27
+State College,2024,VIIRS,senescence,265.0,16
+State College,2024,VIIRS,senescence,266.0,25
+State College,2024,VIIRS,senescence,267.0,15
+State College,2024,VIIRS,senescence,268.0,11
+State College,2024,VIIRS,senescence,269.0,12
+State College,2024,VIIRS,senescence,270.0,8
+State College,2024,VIIRS,senescence,271.0,9
+State College,2024,VIIRS,senescence,272.0,11
+State College,2024,VIIRS,senescence,273.0,1
+State College,2024,VIIRS,senescence,274.0,5
+State College,2024,VIIRS,senescence,275.0,2
+State College,2024,VIIRS,senescence,276.0,8
+State College,2024,VIIRS,senescence,277.0,3
+State College,2024,VIIRS,senescence,278.0,2
+State College,2024,VIIRS,senescence,279.0,3
+State College,2024,VIIRS,senescence,280.0,2
+State College,2024,VIIRS,senescence,281.0,1
+State College,2024,VIIRS,senescence,283.0,1
+State College,2024,VIIRS,senescence,284.0,1
+State College,2024,VIIRS,senescence,285.0,2
+State College,2024,VIIRS,senescence,286.0,2
+State College,2024,VIIRS,senescence,287.0,2
+State College,2024,VIIRS,senescence,288.0,1
+State College,2024,VIIRS,mid_greendown,251.0,1
+State College,2024,VIIRS,mid_greendown,252.0,2
+State College,2024,VIIRS,mid_greendown,258.0,1
+State College,2024,VIIRS,mid_greendown,260.0,1
+State College,2024,VIIRS,mid_greendown,261.0,1
+State College,2024,VIIRS,mid_greendown,262.0,1
+State College,2024,VIIRS,mid_greendown,264.0,1
+State College,2024,VIIRS,mid_greendown,265.0,3
+State College,2024,VIIRS,mid_greendown,266.0,4
+State College,2024,VIIRS,mid_greendown,267.0,6
+State College,2024,VIIRS,mid_greendown,268.0,7
+State College,2024,VIIRS,mid_greendown,269.0,10
+State College,2024,VIIRS,mid_greendown,270.0,12
+State College,2024,VIIRS,mid_greendown,271.0,23
+State College,2024,VIIRS,mid_greendown,272.0,34
+State College,2024,VIIRS,mid_greendown,273.0,31
+State College,2024,VIIRS,mid_greendown,274.0,42
+State College,2024,VIIRS,mid_greendown,275.0,67
+State College,2024,VIIRS,mid_greendown,276.0,68
+State College,2024,VIIRS,mid_greendown,277.0,101
+State College,2024,VIIRS,mid_greendown,278.0,120
+State College,2024,VIIRS,mid_greendown,279.0,125
+State College,2024,VIIRS,mid_greendown,280.0,208
+State College,2024,VIIRS,mid_greendown,281.0,204
+State College,2024,VIIRS,mid_greendown,282.0,264
+State College,2024,VIIRS,mid_greendown,283.0,286
+State College,2024,VIIRS,mid_greendown,284.0,316
+State College,2024,VIIRS,mid_greendown,285.0,325
+State College,2024,VIIRS,mid_greendown,286.0,324
+State College,2024,VIIRS,mid_greendown,287.0,377
+State College,2024,VIIRS,mid_greendown,288.0,376
+State College,2024,VIIRS,mid_greendown,289.0,356
+State College,2024,VIIRS,mid_greendown,290.0,313
+State College,2024,VIIRS,mid_greendown,291.0,296
+State College,2024,VIIRS,mid_greendown,292.0,245
+State College,2024,VIIRS,mid_greendown,293.0,213
+State College,2024,VIIRS,mid_greendown,294.0,194
+State College,2024,VIIRS,mid_greendown,295.0,163
+State College,2024,VIIRS,mid_greendown,296.0,109
+State College,2024,VIIRS,mid_greendown,297.0,82
+State College,2024,VIIRS,mid_greendown,298.0,59
+State College,2024,VIIRS,mid_greendown,299.0,48
+State College,2024,VIIRS,mid_greendown,300.0,42
+State College,2024,VIIRS,mid_greendown,301.0,20
+State College,2024,VIIRS,mid_greendown,302.0,14
+State College,2024,VIIRS,mid_greendown,303.0,20
+State College,2024,VIIRS,mid_greendown,304.0,11
+State College,2024,VIIRS,mid_greendown,305.0,7
+State College,2024,VIIRS,mid_greendown,306.0,4
+State College,2024,VIIRS,mid_greendown,307.0,1
+State College,2024,VIIRS,mid_greendown,308.0,6
+State College,2024,VIIRS,mid_greendown,309.0,6
+State College,2024,VIIRS,mid_greendown,311.0,4
+State College,2024,VIIRS,mid_greendown,312.0,7
+State College,2024,VIIRS,mid_greendown,313.0,1
+State College,2024,VIIRS,mid_greendown,314.0,4
+State College,2024,VIIRS,mid_greendown,315.0,4
+State College,2024,VIIRS,mid_greendown,316.0,2
+State College,2024,VIIRS,mid_greendown,317.0,2
+State College,2024,VIIRS,mid_greendown,318.0,2
+State College,2024,VIIRS,mid_greendown,320.0,1
+State College,2024,VIIRS,mid_greendown,321.0,1
+State College,2024,VIIRS,mid_greendown,322.0,2
+State College,2024,VIIRS,mid_greendown,323.0,1
+State College,2024,VIIRS,mid_greendown,325.0,1
+State College,2024,VIIRS,mid_greendown,326.0,1
+State College,2024,VIIRS,mid_greendown,327.0,1
+State College,2024,VIIRS,dormancy,20.0,1
+State College,2024,VIIRS,dormancy,21.0,1
+State College,2024,VIIRS,dormancy,292.0,2
+State College,2024,VIIRS,dormancy,300.0,1
+State College,2024,VIIRS,dormancy,308.0,2
+State College,2024,VIIRS,dormancy,309.0,1
+State College,2024,VIIRS,dormancy,310.0,1
+State College,2024,VIIRS,dormancy,311.0,3
+State College,2024,VIIRS,dormancy,312.0,3
+State College,2024,VIIRS,dormancy,313.0,7
+State College,2024,VIIRS,dormancy,314.0,10
+State College,2024,VIIRS,dormancy,315.0,11
+State College,2024,VIIRS,dormancy,316.0,10
+State College,2024,VIIRS,dormancy,317.0,13
+State College,2024,VIIRS,dormancy,318.0,22
+State College,2024,VIIRS,dormancy,319.0,36
+State College,2024,VIIRS,dormancy,320.0,43
+State College,2024,VIIRS,dormancy,321.0,62
+State College,2024,VIIRS,dormancy,322.0,84
+State College,2024,VIIRS,dormancy,323.0,91
+State College,2024,VIIRS,dormancy,324.0,124
+State College,2024,VIIRS,dormancy,325.0,171
+State College,2024,VIIRS,dormancy,326.0,192
+State College,2024,VIIRS,dormancy,327.0,216
+State College,2024,VIIRS,dormancy,328.0,266
+State College,2024,VIIRS,dormancy,329.0,328
+State College,2024,VIIRS,dormancy,330.0,341
+State College,2024,VIIRS,dormancy,331.0,354
+State College,2024,VIIRS,dormancy,332.0,371
+State College,2024,VIIRS,dormancy,333.0,343
+State College,2024,VIIRS,dormancy,334.0,365
+State College,2024,VIIRS,dormancy,335.0,338
+State College,2024,VIIRS,dormancy,336.0,329
+State College,2024,VIIRS,dormancy,337.0,289
+State College,2024,VIIRS,dormancy,338.0,243
+State College,2024,VIIRS,dormancy,339.0,201
+State College,2024,VIIRS,dormancy,340.0,163
+State College,2024,VIIRS,dormancy,341.0,116
+State College,2024,VIIRS,dormancy,342.0,102
+State College,2024,VIIRS,dormancy,343.0,71
+State College,2024,VIIRS,dormancy,344.0,59
+State College,2024,VIIRS,dormancy,345.0,37
+State College,2024,VIIRS,dormancy,346.0,27
+State College,2024,VIIRS,dormancy,347.0,28
+State College,2024,VIIRS,dormancy,348.0,13
+State College,2024,VIIRS,dormancy,349.0,8
+State College,2024,VIIRS,dormancy,350.0,11
+State College,2024,VIIRS,dormancy,351.0,12
+State College,2024,VIIRS,dormancy,352.0,9
+State College,2024,VIIRS,dormancy,353.0,7
+State College,2024,VIIRS,dormancy,354.0,3
+State College,2024,VIIRS,dormancy,355.0,4
+State College,2024,VIIRS,dormancy,356.0,3
+State College,2024,VIIRS,dormancy,357.0,3
+State College,2024,VIIRS,dormancy,358.0,3
+State College,2024,VIIRS,dormancy,360.0,3
+State College,2024,VIIRS,dormancy,362.0,2
+State College,2024,VIIRS,dormancy,363.0,1
+State College,2024,VIIRS,dormancy,364.0,3
+State College,2024,VIIRS,dormancy,365.0,1
+State College,2024,VIIRS,dormancy,366.0,3
+State College,2024,VIIRS,dormancy,367.0,3
+State College,2024,VIIRS,dormancy,368.0,4
+State College,2024,VIIRS,dormancy,370.0,4
+State College,2024,VIIRS,dormancy,371.0,1
+State College,2024,VIIRS,dormancy,372.0,1
+State College,2024,VIIRS,dormancy,374.0,1
+State College,2024,VIIRS,dormancy,375.0,1
+State College,2024,VIIRS,dormancy,377.0,1
+State College,2024,VIIRS,dormancy,382.0,1
+State College,2024,VIIRS,forest_px,1.0,11604
+Frostburg,2024,VIIRS,mid_greenup,106.0,2
+Frostburg,2024,VIIRS,mid_greenup,114.0,1
+Frostburg,2024,VIIRS,mid_greenup,115.0,2
+Frostburg,2024,VIIRS,mid_greenup,116.0,2
+Frostburg,2024,VIIRS,mid_greenup,117.0,1
+Frostburg,2024,VIIRS,mid_greenup,118.0,2
+Frostburg,2024,VIIRS,mid_greenup,119.0,1
+Frostburg,2024,VIIRS,mid_greenup,120.0,1
+Frostburg,2024,VIIRS,mid_greenup,121.0,5
+Frostburg,2024,VIIRS,mid_greenup,122.0,1
+Frostburg,2024,VIIRS,mid_greenup,123.0,3
+Frostburg,2024,VIIRS,mid_greenup,124.0,5
+Frostburg,2024,VIIRS,mid_greenup,125.0,5
+Frostburg,2024,VIIRS,mid_greenup,126.0,7
+Frostburg,2024,VIIRS,mid_greenup,127.0,8
+Frostburg,2024,VIIRS,mid_greenup,128.0,13
+Frostburg,2024,VIIRS,mid_greenup,129.0,13
+Frostburg,2024,VIIRS,mid_greenup,130.0,17
+Frostburg,2024,VIIRS,mid_greenup,131.0,15
+Frostburg,2024,VIIRS,mid_greenup,132.0,21
+Frostburg,2024,VIIRS,mid_greenup,133.0,40
+Frostburg,2024,VIIRS,mid_greenup,134.0,37
+Frostburg,2024,VIIRS,mid_greenup,135.0,63
+Frostburg,2024,VIIRS,mid_greenup,136.0,93
+Frostburg,2024,VIIRS,mid_greenup,137.0,87
+Frostburg,2024,VIIRS,mid_greenup,138.0,105
+Frostburg,2024,VIIRS,mid_greenup,139.0,146
+Frostburg,2024,VIIRS,mid_greenup,140.0,178
+Frostburg,2024,VIIRS,mid_greenup,141.0,199
+Frostburg,2024,VIIRS,mid_greenup,142.0,209
+Frostburg,2024,VIIRS,mid_greenup,143.0,232
+Frostburg,2024,VIIRS,mid_greenup,144.0,225
+Frostburg,2024,VIIRS,mid_greenup,145.0,237
+Frostburg,2024,VIIRS,mid_greenup,146.0,207
+Frostburg,2024,VIIRS,mid_greenup,147.0,208
+Frostburg,2024,VIIRS,mid_greenup,148.0,178
+Frostburg,2024,VIIRS,mid_greenup,149.0,137
+Frostburg,2024,VIIRS,mid_greenup,150.0,118
+Frostburg,2024,VIIRS,mid_greenup,151.0,78
+Frostburg,2024,VIIRS,mid_greenup,152.0,54
+Frostburg,2024,VIIRS,mid_greenup,153.0,30
+Frostburg,2024,VIIRS,mid_greenup,154.0,34
+Frostburg,2024,VIIRS,mid_greenup,155.0,18
+Frostburg,2024,VIIRS,mid_greenup,156.0,17
+Frostburg,2024,VIIRS,mid_greenup,157.0,10
+Frostburg,2024,VIIRS,mid_greenup,158.0,8
+Frostburg,2024,VIIRS,mid_greenup,159.0,8
+Frostburg,2024,VIIRS,mid_greenup,160.0,4
+Frostburg,2024,VIIRS,mid_greenup,161.0,2
+Frostburg,2024,VIIRS,mid_greenup,162.0,3
+Frostburg,2024,VIIRS,mid_greenup,163.0,2
+Frostburg,2024,VIIRS,mid_greenup,164.0,1
+Frostburg,2024,VIIRS,mid_greenup,165.0,2
+Frostburg,2024,VIIRS,mid_greenup,166.0,2
+Frostburg,2024,VIIRS,mid_greenup,167.0,1
+Frostburg,2024,VIIRS,mid_greenup,168.0,2
+Frostburg,2024,VIIRS,mid_greenup,169.0,1
+Frostburg,2024,VIIRS,senescence,172.0,1
+Frostburg,2024,VIIRS,senescence,179.0,1
+Frostburg,2024,VIIRS,senescence,180.0,2
+Frostburg,2024,VIIRS,senescence,181.0,1
+Frostburg,2024,VIIRS,senescence,183.0,1
+Frostburg,2024,VIIRS,senescence,184.0,3
+Frostburg,2024,VIIRS,senescence,188.0,3
+Frostburg,2024,VIIRS,senescence,189.0,1
+Frostburg,2024,VIIRS,senescence,190.0,1
+Frostburg,2024,VIIRS,senescence,191.0,3
+Frostburg,2024,VIIRS,senescence,192.0,4
+Frostburg,2024,VIIRS,senescence,193.0,1
+Frostburg,2024,VIIRS,senescence,194.0,5
+Frostburg,2024,VIIRS,senescence,195.0,4
+Frostburg,2024,VIIRS,senescence,196.0,2
+Frostburg,2024,VIIRS,senescence,197.0,4
+Frostburg,2024,VIIRS,senescence,199.0,6
+Frostburg,2024,VIIRS,senescence,200.0,4
+Frostburg,2024,VIIRS,senescence,201.0,8
+Frostburg,2024,VIIRS,senescence,202.0,5
+Frostburg,2024,VIIRS,senescence,203.0,5
+Frostburg,2024,VIIRS,senescence,204.0,4
+Frostburg,2024,VIIRS,senescence,205.0,8
+Frostburg,2024,VIIRS,senescence,206.0,10
+Frostburg,2024,VIIRS,senescence,207.0,9
+Frostburg,2024,VIIRS,senescence,208.0,10
+Frostburg,2024,VIIRS,senescence,209.0,10
+Frostburg,2024,VIIRS,senescence,210.0,12
+Frostburg,2024,VIIRS,senescence,211.0,11
+Frostburg,2024,VIIRS,senescence,212.0,17
+Frostburg,2024,VIIRS,senescence,213.0,24
+Frostburg,2024,VIIRS,senescence,214.0,16
+Frostburg,2024,VIIRS,senescence,215.0,21
+Frostburg,2024,VIIRS,senescence,216.0,22
+Frostburg,2024,VIIRS,senescence,217.0,31
+Frostburg,2024,VIIRS,senescence,218.0,18
+Frostburg,2024,VIIRS,senescence,219.0,32
+Frostburg,2024,VIIRS,senescence,220.0,38
+Frostburg,2024,VIIRS,senescence,221.0,26
+Frostburg,2024,VIIRS,senescence,222.0,45
+Frostburg,2024,VIIRS,senescence,223.0,43
+Frostburg,2024,VIIRS,senescence,224.0,52
+Frostburg,2024,VIIRS,senescence,225.0,54
+Frostburg,2024,VIIRS,senescence,226.0,54
+Frostburg,2024,VIIRS,senescence,227.0,66
+Frostburg,2024,VIIRS,senescence,228.0,70
+Frostburg,2024,VIIRS,senescence,229.0,65
+Frostburg,2024,VIIRS,senescence,230.0,82
+Frostburg,2024,VIIRS,senescence,231.0,75
+Frostburg,2024,VIIRS,senescence,232.0,85
+Frostburg,2024,VIIRS,senescence,233.0,88
+Frostburg,2024,VIIRS,senescence,234.0,97
+Frostburg,2024,VIIRS,senescence,235.0,100
+Frostburg,2024,VIIRS,senescence,236.0,98
+Frostburg,2024,VIIRS,senescence,237.0,82
+Frostburg,2024,VIIRS,senescence,238.0,114
+Frostburg,2024,VIIRS,senescence,239.0,121
+Frostburg,2024,VIIRS,senescence,240.0,104
+Frostburg,2024,VIIRS,senescence,241.0,91
+Frostburg,2024,VIIRS,senescence,242.0,123
+Frostburg,2024,VIIRS,senescence,243.0,100
+Frostburg,2024,VIIRS,senescence,244.0,107
+Frostburg,2024,VIIRS,senescence,245.0,83
+Frostburg,2024,VIIRS,senescence,246.0,86
+Frostburg,2024,VIIRS,senescence,247.0,67
+Frostburg,2024,VIIRS,senescence,248.0,94
+Frostburg,2024,VIIRS,senescence,249.0,61
+Frostburg,2024,VIIRS,senescence,250.0,59
+Frostburg,2024,VIIRS,senescence,251.0,28
+Frostburg,2024,VIIRS,senescence,252.0,37
+Frostburg,2024,VIIRS,senescence,253.0,29
+Frostburg,2024,VIIRS,senescence,254.0,22
+Frostburg,2024,VIIRS,senescence,255.0,27
+Frostburg,2024,VIIRS,senescence,256.0,33
+Frostburg,2024,VIIRS,senescence,257.0,26
+Frostburg,2024,VIIRS,senescence,258.0,15
+Frostburg,2024,VIIRS,senescence,259.0,15
+Frostburg,2024,VIIRS,senescence,260.0,13
+Frostburg,2024,VIIRS,senescence,261.0,8
+Frostburg,2024,VIIRS,senescence,262.0,16
+Frostburg,2024,VIIRS,senescence,263.0,6
+Frostburg,2024,VIIRS,senescence,264.0,12
+Frostburg,2024,VIIRS,senescence,265.0,10
+Frostburg,2024,VIIRS,senescence,266.0,6
+Frostburg,2024,VIIRS,senescence,267.0,9
+Frostburg,2024,VIIRS,senescence,268.0,10
+Frostburg,2024,VIIRS,senescence,269.0,1
+Frostburg,2024,VIIRS,senescence,270.0,11
+Frostburg,2024,VIIRS,senescence,271.0,3
+Frostburg,2024,VIIRS,senescence,272.0,2
+Frostburg,2024,VIIRS,senescence,273.0,2
+Frostburg,2024,VIIRS,senescence,276.0,2
+Frostburg,2024,VIIRS,senescence,278.0,2
+Frostburg,2024,VIIRS,senescence,279.0,2
+Frostburg,2024,VIIRS,senescence,280.0,1
+Frostburg,2024,VIIRS,senescence,283.0,1
+Frostburg,2024,VIIRS,senescence,296.0,1
+Frostburg,2024,VIIRS,senescence,300.0,1
+Frostburg,2024,VIIRS,mid_greendown,233.0,1
+Frostburg,2024,VIIRS,mid_greendown,236.0,1
+Frostburg,2024,VIIRS,mid_greendown,237.0,1
+Frostburg,2024,VIIRS,mid_greendown,241.0,1
+Frostburg,2024,VIIRS,mid_greendown,249.0,1
+Frostburg,2024,VIIRS,mid_greendown,252.0,1
+Frostburg,2024,VIIRS,mid_greendown,253.0,1
+Frostburg,2024,VIIRS,mid_greendown,254.0,3
+Frostburg,2024,VIIRS,mid_greendown,255.0,3
+Frostburg,2024,VIIRS,mid_greendown,256.0,1
+Frostburg,2024,VIIRS,mid_greendown,257.0,3
+Frostburg,2024,VIIRS,mid_greendown,258.0,2
+Frostburg,2024,VIIRS,mid_greendown,259.0,4
+Frostburg,2024,VIIRS,mid_greendown,260.0,4
+Frostburg,2024,VIIRS,mid_greendown,261.0,6
+Frostburg,2024,VIIRS,mid_greendown,262.0,4
+Frostburg,2024,VIIRS,mid_greendown,263.0,5
+Frostburg,2024,VIIRS,mid_greendown,264.0,7
+Frostburg,2024,VIIRS,mid_greendown,265.0,13
+Frostburg,2024,VIIRS,mid_greendown,266.0,11
+Frostburg,2024,VIIRS,mid_greendown,267.0,20
+Frostburg,2024,VIIRS,mid_greendown,268.0,19
+Frostburg,2024,VIIRS,mid_greendown,269.0,21
+Frostburg,2024,VIIRS,mid_greendown,270.0,32
+Frostburg,2024,VIIRS,mid_greendown,271.0,32
+Frostburg,2024,VIIRS,mid_greendown,272.0,38
+Frostburg,2024,VIIRS,mid_greendown,273.0,47
+Frostburg,2024,VIIRS,mid_greendown,274.0,75
+Frostburg,2024,VIIRS,mid_greendown,275.0,78
+Frostburg,2024,VIIRS,mid_greendown,276.0,90
+Frostburg,2024,VIIRS,mid_greendown,277.0,95
+Frostburg,2024,VIIRS,mid_greendown,278.0,102
+Frostburg,2024,VIIRS,mid_greendown,279.0,126
+Frostburg,2024,VIIRS,mid_greendown,280.0,167
+Frostburg,2024,VIIRS,mid_greendown,281.0,186
+Frostburg,2024,VIIRS,mid_greendown,282.0,164
+Frostburg,2024,VIIRS,mid_greendown,283.0,203
+Frostburg,2024,VIIRS,mid_greendown,284.0,196
+Frostburg,2024,VIIRS,mid_greendown,285.0,177
+Frostburg,2024,VIIRS,mid_greendown,286.0,184
+Frostburg,2024,VIIRS,mid_greendown,287.0,161
+Frostburg,2024,VIIRS,mid_greendown,288.0,126
+Frostburg,2024,VIIRS,mid_greendown,289.0,126
+Frostburg,2024,VIIRS,mid_greendown,290.0,116
+Frostburg,2024,VIIRS,mid_greendown,291.0,91
+Frostburg,2024,VIIRS,mid_greendown,292.0,76
+Frostburg,2024,VIIRS,mid_greendown,293.0,70
+Frostburg,2024,VIIRS,mid_greendown,294.0,35
+Frostburg,2024,VIIRS,mid_greendown,295.0,25
+Frostburg,2024,VIIRS,mid_greendown,296.0,30
+Frostburg,2024,VIIRS,mid_greendown,297.0,19
+Frostburg,2024,VIIRS,mid_greendown,298.0,16
+Frostburg,2024,VIIRS,mid_greendown,299.0,15
+Frostburg,2024,VIIRS,mid_greendown,300.0,11
+Frostburg,2024,VIIRS,mid_greendown,301.0,16
+Frostburg,2024,VIIRS,mid_greendown,302.0,7
+Frostburg,2024,VIIRS,mid_greendown,303.0,12
+Frostburg,2024,VIIRS,mid_greendown,304.0,5
+Frostburg,2024,VIIRS,mid_greendown,305.0,2
+Frostburg,2024,VIIRS,mid_greendown,306.0,2
+Frostburg,2024,VIIRS,mid_greendown,307.0,4
+Frostburg,2024,VIIRS,mid_greendown,308.0,1
+Frostburg,2024,VIIRS,mid_greendown,310.0,2
+Frostburg,2024,VIIRS,mid_greendown,312.0,1
+Frostburg,2024,VIIRS,mid_greendown,313.0,4
+Frostburg,2024,VIIRS,mid_greendown,325.0,1
+Frostburg,2024,VIIRS,mid_greendown,326.0,1
+Frostburg,2024,VIIRS,mid_greendown,329.0,1
+Frostburg,2024,VIIRS,dormancy,268.0,1
+Frostburg,2024,VIIRS,dormancy,282.0,1
+Frostburg,2024,VIIRS,dormancy,286.0,2
+Frostburg,2024,VIIRS,dormancy,292.0,1
+Frostburg,2024,VIIRS,dormancy,295.0,1
+Frostburg,2024,VIIRS,dormancy,299.0,2
+Frostburg,2024,VIIRS,dormancy,305.0,1
+Frostburg,2024,VIIRS,dormancy,306.0,2
+Frostburg,2024,VIIRS,dormancy,307.0,1
+Frostburg,2024,VIIRS,dormancy,308.0,1
+Frostburg,2024,VIIRS,dormancy,309.0,2
+Frostburg,2024,VIIRS,dormancy,310.0,3
+Frostburg,2024,VIIRS,dormancy,311.0,4
+Frostburg,2024,VIIRS,dormancy,312.0,10
+Frostburg,2024,VIIRS,dormancy,313.0,12
+Frostburg,2024,VIIRS,dormancy,314.0,10
+Frostburg,2024,VIIRS,dormancy,315.0,18
+Frostburg,2024,VIIRS,dormancy,316.0,28
+Frostburg,2024,VIIRS,dormancy,317.0,43
+Frostburg,2024,VIIRS,dormancy,318.0,29
+Frostburg,2024,VIIRS,dormancy,319.0,53
+Frostburg,2024,VIIRS,dormancy,320.0,67
+Frostburg,2024,VIIRS,dormancy,321.0,66
+Frostburg,2024,VIIRS,dormancy,322.0,93
+Frostburg,2024,VIIRS,dormancy,323.0,111
+Frostburg,2024,VIIRS,dormancy,324.0,126
+Frostburg,2024,VIIRS,dormancy,325.0,146
+Frostburg,2024,VIIRS,dormancy,326.0,171
+Frostburg,2024,VIIRS,dormancy,327.0,144
+Frostburg,2024,VIIRS,dormancy,328.0,162
+Frostburg,2024,VIIRS,dormancy,329.0,161
+Frostburg,2024,VIIRS,dormancy,330.0,175
+Frostburg,2024,VIIRS,dormancy,331.0,171
+Frostburg,2024,VIIRS,dormancy,332.0,163
+Frostburg,2024,VIIRS,dormancy,333.0,157
+Frostburg,2024,VIIRS,dormancy,334.0,147
+Frostburg,2024,VIIRS,dormancy,335.0,150
+Frostburg,2024,VIIRS,dormancy,336.0,114
+Frostburg,2024,VIIRS,dormancy,337.0,104
+Frostburg,2024,VIIRS,dormancy,338.0,93
+Frostburg,2024,VIIRS,dormancy,339.0,60
+Frostburg,2024,VIIRS,dormancy,340.0,65
+Frostburg,2024,VIIRS,dormancy,341.0,45
+Frostburg,2024,VIIRS,dormancy,342.0,37
+Frostburg,2024,VIIRS,dormancy,343.0,28
+Frostburg,2024,VIIRS,dormancy,344.0,26
+Frostburg,2024,VIIRS,dormancy,345.0,13
+Frostburg,2024,VIIRS,dormancy,346.0,15
+Frostburg,2024,VIIRS,dormancy,347.0,12
+Frostburg,2024,VIIRS,dormancy,348.0,10
+Frostburg,2024,VIIRS,dormancy,349.0,5
+Frostburg,2024,VIIRS,dormancy,350.0,5
+Frostburg,2024,VIIRS,dormancy,351.0,4
+Frostburg,2024,VIIRS,dormancy,352.0,6
+Frostburg,2024,VIIRS,dormancy,353.0,2
+Frostburg,2024,VIIRS,dormancy,354.0,3
+Frostburg,2024,VIIRS,dormancy,356.0,4
+Frostburg,2024,VIIRS,dormancy,357.0,3
+Frostburg,2024,VIIRS,dormancy,358.0,1
+Frostburg,2024,VIIRS,dormancy,361.0,1
+Frostburg,2024,VIIRS,dormancy,362.0,3
+Frostburg,2024,VIIRS,dormancy,365.0,1
+Frostburg,2024,VIIRS,dormancy,368.0,1
+Frostburg,2024,VIIRS,dormancy,369.0,1
+Frostburg,2024,VIIRS,dormancy,373.0,2
+Frostburg,2024,VIIRS,dormancy,376.0,1
+Frostburg,2024,VIIRS,dormancy,378.0,1
+Frostburg,2024,VIIRS,forest_px,1.0,6893
+Valley Head,2024,VIIRS,mid_greenup,122.0,1
+Valley Head,2024,VIIRS,mid_greenup,124.0,1
+Valley Head,2024,VIIRS,mid_greenup,126.0,2
+Valley Head,2024,VIIRS,mid_greenup,127.0,1
+Valley Head,2024,VIIRS,mid_greenup,128.0,2
+Valley Head,2024,VIIRS,mid_greenup,129.0,2
+Valley Head,2024,VIIRS,mid_greenup,130.0,8
+Valley Head,2024,VIIRS,mid_greenup,131.0,8
+Valley Head,2024,VIIRS,mid_greenup,132.0,5
+Valley Head,2024,VIIRS,mid_greenup,133.0,3
+Valley Head,2024,VIIRS,mid_greenup,134.0,5
+Valley Head,2024,VIIRS,mid_greenup,135.0,3
+Valley Head,2024,VIIRS,mid_greenup,136.0,19
+Valley Head,2024,VIIRS,mid_greenup,137.0,22
+Valley Head,2024,VIIRS,mid_greenup,138.0,26
+Valley Head,2024,VIIRS,mid_greenup,139.0,26
+Valley Head,2024,VIIRS,mid_greenup,140.0,28
+Valley Head,2024,VIIRS,mid_greenup,141.0,49
+Valley Head,2024,VIIRS,mid_greenup,142.0,80
+Valley Head,2024,VIIRS,mid_greenup,143.0,150
+Valley Head,2024,VIIRS,mid_greenup,144.0,192
+Valley Head,2024,VIIRS,mid_greenup,145.0,254
+Valley Head,2024,VIIRS,mid_greenup,146.0,357
+Valley Head,2024,VIIRS,mid_greenup,147.0,339
+Valley Head,2024,VIIRS,mid_greenup,148.0,306
+Valley Head,2024,VIIRS,mid_greenup,149.0,241
+Valley Head,2024,VIIRS,mid_greenup,150.0,189
+Valley Head,2024,VIIRS,mid_greenup,151.0,174
+Valley Head,2024,VIIRS,mid_greenup,152.0,136
+Valley Head,2024,VIIRS,mid_greenup,153.0,101
+Valley Head,2024,VIIRS,mid_greenup,154.0,86
+Valley Head,2024,VIIRS,mid_greenup,155.0,69
+Valley Head,2024,VIIRS,mid_greenup,156.0,57
+Valley Head,2024,VIIRS,mid_greenup,157.0,41
+Valley Head,2024,VIIRS,mid_greenup,158.0,26
+Valley Head,2024,VIIRS,mid_greenup,159.0,27
+Valley Head,2024,VIIRS,mid_greenup,160.0,19
+Valley Head,2024,VIIRS,mid_greenup,161.0,19
+Valley Head,2024,VIIRS,mid_greenup,162.0,7
+Valley Head,2024,VIIRS,mid_greenup,163.0,8
+Valley Head,2024,VIIRS,mid_greenup,164.0,2
+Valley Head,2024,VIIRS,mid_greenup,165.0,6
+Valley Head,2024,VIIRS,mid_greenup,166.0,2
+Valley Head,2024,VIIRS,mid_greenup,167.0,1
+Valley Head,2024,VIIRS,mid_greenup,169.0,1
+Valley Head,2024,VIIRS,mid_greenup,170.0,1
+Valley Head,2024,VIIRS,senescence,178.0,1
+Valley Head,2024,VIIRS,senescence,179.0,1
+Valley Head,2024,VIIRS,senescence,183.0,1
+Valley Head,2024,VIIRS,senescence,184.0,1
+Valley Head,2024,VIIRS,senescence,185.0,1
+Valley Head,2024,VIIRS,senescence,186.0,1
+Valley Head,2024,VIIRS,senescence,193.0,1
+Valley Head,2024,VIIRS,senescence,195.0,1
+Valley Head,2024,VIIRS,senescence,196.0,1
+Valley Head,2024,VIIRS,senescence,198.0,1
+Valley Head,2024,VIIRS,senescence,199.0,2
+Valley Head,2024,VIIRS,senescence,200.0,3
+Valley Head,2024,VIIRS,senescence,201.0,2
+Valley Head,2024,VIIRS,senescence,202.0,4
+Valley Head,2024,VIIRS,senescence,203.0,3
+Valley Head,2024,VIIRS,senescence,204.0,3
+Valley Head,2024,VIIRS,senescence,205.0,2
+Valley Head,2024,VIIRS,senescence,206.0,6
+Valley Head,2024,VIIRS,senescence,207.0,5
+Valley Head,2024,VIIRS,senescence,208.0,3
+Valley Head,2024,VIIRS,senescence,209.0,9
+Valley Head,2024,VIIRS,senescence,210.0,11
+Valley Head,2024,VIIRS,senescence,211.0,9
+Valley Head,2024,VIIRS,senescence,212.0,11
+Valley Head,2024,VIIRS,senescence,213.0,14
+Valley Head,2024,VIIRS,senescence,214.0,17
+Valley Head,2024,VIIRS,senescence,215.0,10
+Valley Head,2024,VIIRS,senescence,216.0,20
+Valley Head,2024,VIIRS,senescence,217.0,16
+Valley Head,2024,VIIRS,senescence,218.0,32
+Valley Head,2024,VIIRS,senescence,219.0,23
+Valley Head,2024,VIIRS,senescence,220.0,40
+Valley Head,2024,VIIRS,senescence,221.0,31
+Valley Head,2024,VIIRS,senescence,222.0,32
+Valley Head,2024,VIIRS,senescence,223.0,52
+Valley Head,2024,VIIRS,senescence,224.0,52
+Valley Head,2024,VIIRS,senescence,225.0,56
+Valley Head,2024,VIIRS,senescence,226.0,66
+Valley Head,2024,VIIRS,senescence,227.0,60
+Valley Head,2024,VIIRS,senescence,228.0,56
+Valley Head,2024,VIIRS,senescence,229.0,80
+Valley Head,2024,VIIRS,senescence,230.0,65
+Valley Head,2024,VIIRS,senescence,231.0,97
+Valley Head,2024,VIIRS,senescence,232.0,98
+Valley Head,2024,VIIRS,senescence,233.0,102
+Valley Head,2024,VIIRS,senescence,234.0,93
+Valley Head,2024,VIIRS,senescence,235.0,115
+Valley Head,2024,VIIRS,senescence,236.0,122
+Valley Head,2024,VIIRS,senescence,237.0,106
+Valley Head,2024,VIIRS,senescence,238.0,127
+Valley Head,2024,VIIRS,senescence,239.0,122
+Valley Head,2024,VIIRS,senescence,240.0,119
+Valley Head,2024,VIIRS,senescence,241.0,136
+Valley Head,2024,VIIRS,senescence,242.0,104
+Valley Head,2024,VIIRS,senescence,243.0,114
+Valley Head,2024,VIIRS,senescence,244.0,86
+Valley Head,2024,VIIRS,senescence,245.0,81
+Valley Head,2024,VIIRS,senescence,246.0,84
+Valley Head,2024,VIIRS,senescence,247.0,62
+Valley Head,2024,VIIRS,senescence,248.0,76
+Valley Head,2024,VIIRS,senescence,249.0,74
+Valley Head,2024,VIIRS,senescence,250.0,52
+Valley Head,2024,VIIRS,senescence,251.0,47
+Valley Head,2024,VIIRS,senescence,252.0,54
+Valley Head,2024,VIIRS,senescence,253.0,32
+Valley Head,2024,VIIRS,senescence,254.0,33
+Valley Head,2024,VIIRS,senescence,255.0,28
+Valley Head,2024,VIIRS,senescence,256.0,17
+Valley Head,2024,VIIRS,senescence,257.0,21
+Valley Head,2024,VIIRS,senescence,258.0,14
+Valley Head,2024,VIIRS,senescence,259.0,20
+Valley Head,2024,VIIRS,senescence,260.0,13
+Valley Head,2024,VIIRS,senescence,261.0,9
+Valley Head,2024,VIIRS,senescence,262.0,9
+Valley Head,2024,VIIRS,senescence,263.0,5
+Valley Head,2024,VIIRS,senescence,264.0,4
+Valley Head,2024,VIIRS,senescence,265.0,4
+Valley Head,2024,VIIRS,senescence,266.0,4
+Valley Head,2024,VIIRS,senescence,268.0,4
+Valley Head,2024,VIIRS,senescence,269.0,2
+Valley Head,2024,VIIRS,senescence,270.0,1
+Valley Head,2024,VIIRS,senescence,272.0,3
+Valley Head,2024,VIIRS,senescence,274.0,1
+Valley Head,2024,VIIRS,senescence,275.0,1
+Valley Head,2024,VIIRS,senescence,279.0,1
+Valley Head,2024,VIIRS,mid_greendown,216.0,1
+Valley Head,2024,VIIRS,mid_greendown,227.0,1
+Valley Head,2024,VIIRS,mid_greendown,236.0,1
+Valley Head,2024,VIIRS,mid_greendown,242.0,1
+Valley Head,2024,VIIRS,mid_greendown,246.0,1
+Valley Head,2024,VIIRS,mid_greendown,251.0,2
+Valley Head,2024,VIIRS,mid_greendown,253.0,1
+Valley Head,2024,VIIRS,mid_greendown,257.0,1
+Valley Head,2024,VIIRS,mid_greendown,258.0,2
+Valley Head,2024,VIIRS,mid_greendown,260.0,6
+Valley Head,2024,VIIRS,mid_greendown,261.0,1
+Valley Head,2024,VIIRS,mid_greendown,262.0,5
+Valley Head,2024,VIIRS,mid_greendown,263.0,6
+Valley Head,2024,VIIRS,mid_greendown,264.0,7
+Valley Head,2024,VIIRS,mid_greendown,265.0,4
+Valley Head,2024,VIIRS,mid_greendown,266.0,6
+Valley Head,2024,VIIRS,mid_greendown,267.0,14
+Valley Head,2024,VIIRS,mid_greendown,268.0,21
+Valley Head,2024,VIIRS,mid_greendown,269.0,22
+Valley Head,2024,VIIRS,mid_greendown,270.0,27
+Valley Head,2024,VIIRS,mid_greendown,271.0,42
+Valley Head,2024,VIIRS,mid_greendown,272.0,40
+Valley Head,2024,VIIRS,mid_greendown,273.0,42
+Valley Head,2024,VIIRS,mid_greendown,274.0,54
+Valley Head,2024,VIIRS,mid_greendown,275.0,62
+Valley Head,2024,VIIRS,mid_greendown,276.0,83
+Valley Head,2024,VIIRS,mid_greendown,277.0,105
+Valley Head,2024,VIIRS,mid_greendown,278.0,115
+Valley Head,2024,VIIRS,mid_greendown,279.0,129
+Valley Head,2024,VIIRS,mid_greendown,280.0,130
+Valley Head,2024,VIIRS,mid_greendown,281.0,153
+Valley Head,2024,VIIRS,mid_greendown,282.0,178
+Valley Head,2024,VIIRS,mid_greendown,283.0,165
+Valley Head,2024,VIIRS,mid_greendown,284.0,165
+Valley Head,2024,VIIRS,mid_greendown,285.0,174
+Valley Head,2024,VIIRS,mid_greendown,286.0,163
+Valley Head,2024,VIIRS,mid_greendown,287.0,165
+Valley Head,2024,VIIRS,mid_greendown,288.0,130
+Valley Head,2024,VIIRS,mid_greendown,289.0,156
+Valley Head,2024,VIIRS,mid_greendown,290.0,125
+Valley Head,2024,VIIRS,mid_greendown,291.0,101
+Valley Head,2024,VIIRS,mid_greendown,292.0,88
+Valley Head,2024,VIIRS,mid_greendown,293.0,90
+Valley Head,2024,VIIRS,mid_greendown,294.0,65
+Valley Head,2024,VIIRS,mid_greendown,295.0,54
+Valley Head,2024,VIIRS,mid_greendown,296.0,36
+Valley Head,2024,VIIRS,mid_greendown,297.0,46
+Valley Head,2024,VIIRS,mid_greendown,298.0,28
+Valley Head,2024,VIIRS,mid_greendown,299.0,18
+Valley Head,2024,VIIRS,mid_greendown,300.0,20
+Valley Head,2024,VIIRS,mid_greendown,301.0,9
+Valley Head,2024,VIIRS,mid_greendown,302.0,10
+Valley Head,2024,VIIRS,mid_greendown,303.0,8
+Valley Head,2024,VIIRS,mid_greendown,304.0,3
+Valley Head,2024,VIIRS,mid_greendown,305.0,7
+Valley Head,2024,VIIRS,mid_greendown,306.0,4
+Valley Head,2024,VIIRS,mid_greendown,307.0,3
+Valley Head,2024,VIIRS,mid_greendown,308.0,2
+Valley Head,2024,VIIRS,mid_greendown,309.0,2
+Valley Head,2024,VIIRS,mid_greendown,320.0,2
+Valley Head,2024,VIIRS,dormancy,276.0,1
+Valley Head,2024,VIIRS,dormancy,277.0,1
+Valley Head,2024,VIIRS,dormancy,281.0,1
+Valley Head,2024,VIIRS,dormancy,284.0,1
+Valley Head,2024,VIIRS,dormancy,300.0,1
+Valley Head,2024,VIIRS,dormancy,301.0,1
+Valley Head,2024,VIIRS,dormancy,303.0,1
+Valley Head,2024,VIIRS,dormancy,306.0,3
+Valley Head,2024,VIIRS,dormancy,307.0,2
+Valley Head,2024,VIIRS,dormancy,308.0,6
+Valley Head,2024,VIIRS,dormancy,309.0,2
+Valley Head,2024,VIIRS,dormancy,310.0,4
+Valley Head,2024,VIIRS,dormancy,311.0,9
+Valley Head,2024,VIIRS,dormancy,312.0,4
+Valley Head,2024,VIIRS,dormancy,313.0,13
+Valley Head,2024,VIIRS,dormancy,314.0,10
+Valley Head,2024,VIIRS,dormancy,315.0,17
+Valley Head,2024,VIIRS,dormancy,316.0,25
+Valley Head,2024,VIIRS,dormancy,317.0,42
+Valley Head,2024,VIIRS,dormancy,318.0,37
+Valley Head,2024,VIIRS,dormancy,319.0,44
+Valley Head,2024,VIIRS,dormancy,320.0,53
+Valley Head,2024,VIIRS,dormancy,321.0,64
+Valley Head,2024,VIIRS,dormancy,322.0,89
+Valley Head,2024,VIIRS,dormancy,323.0,104
+Valley Head,2024,VIIRS,dormancy,324.0,111
+Valley Head,2024,VIIRS,dormancy,325.0,125
+Valley Head,2024,VIIRS,dormancy,326.0,150
+Valley Head,2024,VIIRS,dormancy,327.0,135
+Valley Head,2024,VIIRS,dormancy,328.0,148
+Valley Head,2024,VIIRS,dormancy,329.0,133
+Valley Head,2024,VIIRS,dormancy,330.0,128
+Valley Head,2024,VIIRS,dormancy,331.0,129
+Valley Head,2024,VIIRS,dormancy,332.0,143
+Valley Head,2024,VIIRS,dormancy,333.0,151
+Valley Head,2024,VIIRS,dormancy,334.0,128
+Valley Head,2024,VIIRS,dormancy,335.0,111
+Valley Head,2024,VIIRS,dormancy,336.0,118
+Valley Head,2024,VIIRS,dormancy,337.0,102
+Valley Head,2024,VIIRS,dormancy,338.0,100
+Valley Head,2024,VIIRS,dormancy,339.0,89
+Valley Head,2024,VIIRS,dormancy,340.0,87
+Valley Head,2024,VIIRS,dormancy,341.0,98
+Valley Head,2024,VIIRS,dormancy,342.0,73
+Valley Head,2024,VIIRS,dormancy,343.0,79
+Valley Head,2024,VIIRS,dormancy,344.0,47
+Valley Head,2024,VIIRS,dormancy,345.0,35
+Valley Head,2024,VIIRS,dormancy,346.0,35
+Valley Head,2024,VIIRS,dormancy,347.0,27
+Valley Head,2024,VIIRS,dormancy,348.0,20
+Valley Head,2024,VIIRS,dormancy,349.0,18
+Valley Head,2024,VIIRS,dormancy,350.0,14
+Valley Head,2024,VIIRS,dormancy,351.0,8
+Valley Head,2024,VIIRS,dormancy,352.0,8
+Valley Head,2024,VIIRS,dormancy,353.0,3
+Valley Head,2024,VIIRS,dormancy,354.0,5
+Valley Head,2024,VIIRS,dormancy,355.0,1
+Valley Head,2024,VIIRS,dormancy,357.0,3
+Valley Head,2024,VIIRS,dormancy,358.0,1
+Valley Head,2024,VIIRS,dormancy,360.0,1
+Valley Head,2024,VIIRS,dormancy,362.0,1
+Valley Head,2024,VIIRS,dormancy,365.0,1
+Valley Head,2024,VIIRS,dormancy,368.0,1
+Valley Head,2024,VIIRS,forest_px,1.0,7469
+Shenandoah,2024,VIIRS,mid_greenup,115.0,1
+Shenandoah,2024,VIIRS,mid_greenup,117.0,1
+Shenandoah,2024,VIIRS,mid_greenup,120.0,1
+Shenandoah,2024,VIIRS,mid_greenup,121.0,1
+Shenandoah,2024,VIIRS,mid_greenup,122.0,2
+Shenandoah,2024,VIIRS,mid_greenup,123.0,3
+Shenandoah,2024,VIIRS,mid_greenup,124.0,2
+Shenandoah,2024,VIIRS,mid_greenup,125.0,5
+Shenandoah,2024,VIIRS,mid_greenup,126.0,6
+Shenandoah,2024,VIIRS,mid_greenup,127.0,10
+Shenandoah,2024,VIIRS,mid_greenup,128.0,24
+Shenandoah,2024,VIIRS,mid_greenup,129.0,39
+Shenandoah,2024,VIIRS,mid_greenup,130.0,60
+Shenandoah,2024,VIIRS,mid_greenup,131.0,75
+Shenandoah,2024,VIIRS,mid_greenup,132.0,104
+Shenandoah,2024,VIIRS,mid_greenup,133.0,116
+Shenandoah,2024,VIIRS,mid_greenup,134.0,138
+Shenandoah,2024,VIIRS,mid_greenup,135.0,152
+Shenandoah,2024,VIIRS,mid_greenup,136.0,151
+Shenandoah,2024,VIIRS,mid_greenup,137.0,161
+Shenandoah,2024,VIIRS,mid_greenup,138.0,141
+Shenandoah,2024,VIIRS,mid_greenup,139.0,156
+Shenandoah,2024,VIIRS,mid_greenup,140.0,143
+Shenandoah,2024,VIIRS,mid_greenup,141.0,151
+Shenandoah,2024,VIIRS,mid_greenup,142.0,114
+Shenandoah,2024,VIIRS,mid_greenup,143.0,107
+Shenandoah,2024,VIIRS,mid_greenup,144.0,95
+Shenandoah,2024,VIIRS,mid_greenup,145.0,82
+Shenandoah,2024,VIIRS,mid_greenup,146.0,64
+Shenandoah,2024,VIIRS,mid_greenup,147.0,67
+Shenandoah,2024,VIIRS,mid_greenup,148.0,43
+Shenandoah,2024,VIIRS,mid_greenup,149.0,23
+Shenandoah,2024,VIIRS,mid_greenup,150.0,19
+Shenandoah,2024,VIIRS,mid_greenup,151.0,21
+Shenandoah,2024,VIIRS,mid_greenup,152.0,11
+Shenandoah,2024,VIIRS,mid_greenup,153.0,8
+Shenandoah,2024,VIIRS,mid_greenup,154.0,12
+Shenandoah,2024,VIIRS,mid_greenup,155.0,10
+Shenandoah,2024,VIIRS,mid_greenup,156.0,7
+Shenandoah,2024,VIIRS,mid_greenup,157.0,7
+Shenandoah,2024,VIIRS,mid_greenup,159.0,2
+Shenandoah,2024,VIIRS,mid_greenup,161.0,6
+Shenandoah,2024,VIIRS,mid_greenup,162.0,1
+Shenandoah,2024,VIIRS,mid_greenup,164.0,2
+Shenandoah,2024,VIIRS,mid_greenup,165.0,1
+Shenandoah,2024,VIIRS,mid_greenup,168.0,1
+Shenandoah,2024,VIIRS,mid_greenup,173.0,1
+Shenandoah,2024,VIIRS,senescence,166.0,1
+Shenandoah,2024,VIIRS,senescence,175.0,1
+Shenandoah,2024,VIIRS,senescence,178.0,1
+Shenandoah,2024,VIIRS,senescence,181.0,2
+Shenandoah,2024,VIIRS,senescence,182.0,1
+Shenandoah,2024,VIIRS,senescence,183.0,1
+Shenandoah,2024,VIIRS,senescence,186.0,1
+Shenandoah,2024,VIIRS,senescence,187.0,1
+Shenandoah,2024,VIIRS,senescence,189.0,2
+Shenandoah,2024,VIIRS,senescence,190.0,2
+Shenandoah,2024,VIIRS,senescence,192.0,1
+Shenandoah,2024,VIIRS,senescence,195.0,1
+Shenandoah,2024,VIIRS,senescence,196.0,1
+Shenandoah,2024,VIIRS,senescence,197.0,3
+Shenandoah,2024,VIIRS,senescence,199.0,1
+Shenandoah,2024,VIIRS,senescence,200.0,2
+Shenandoah,2024,VIIRS,senescence,201.0,4
+Shenandoah,2024,VIIRS,senescence,203.0,2
+Shenandoah,2024,VIIRS,senescence,204.0,2
+Shenandoah,2024,VIIRS,senescence,205.0,1
+Shenandoah,2024,VIIRS,senescence,206.0,3
+Shenandoah,2024,VIIRS,senescence,207.0,3
+Shenandoah,2024,VIIRS,senescence,208.0,5
+Shenandoah,2024,VIIRS,senescence,209.0,2
+Shenandoah,2024,VIIRS,senescence,210.0,2
+Shenandoah,2024,VIIRS,senescence,211.0,4
+Shenandoah,2024,VIIRS,senescence,212.0,6
+Shenandoah,2024,VIIRS,senescence,213.0,6
+Shenandoah,2024,VIIRS,senescence,214.0,3
+Shenandoah,2024,VIIRS,senescence,215.0,9
+Shenandoah,2024,VIIRS,senescence,216.0,7
+Shenandoah,2024,VIIRS,senescence,217.0,9
+Shenandoah,2024,VIIRS,senescence,218.0,12
+Shenandoah,2024,VIIRS,senescence,219.0,16
+Shenandoah,2024,VIIRS,senescence,220.0,8
+Shenandoah,2024,VIIRS,senescence,221.0,11
+Shenandoah,2024,VIIRS,senescence,222.0,11
+Shenandoah,2024,VIIRS,senescence,223.0,13
+Shenandoah,2024,VIIRS,senescence,224.0,21
+Shenandoah,2024,VIIRS,senescence,225.0,19
+Shenandoah,2024,VIIRS,senescence,226.0,26
+Shenandoah,2024,VIIRS,senescence,227.0,21
+Shenandoah,2024,VIIRS,senescence,228.0,28
+Shenandoah,2024,VIIRS,senescence,229.0,26
+Shenandoah,2024,VIIRS,senescence,230.0,32
+Shenandoah,2024,VIIRS,senescence,231.0,37
+Shenandoah,2024,VIIRS,senescence,232.0,43
+Shenandoah,2024,VIIRS,senescence,233.0,43
+Shenandoah,2024,VIIRS,senescence,234.0,56
+Shenandoah,2024,VIIRS,senescence,235.0,51
+Shenandoah,2024,VIIRS,senescence,236.0,64
+Shenandoah,2024,VIIRS,senescence,237.0,52
+Shenandoah,2024,VIIRS,senescence,238.0,69
+Shenandoah,2024,VIIRS,senescence,239.0,67
+Shenandoah,2024,VIIRS,senescence,240.0,62
+Shenandoah,2024,VIIRS,senescence,241.0,83
+Shenandoah,2024,VIIRS,senescence,242.0,84
+Shenandoah,2024,VIIRS,senescence,243.0,78
+Shenandoah,2024,VIIRS,senescence,244.0,59
+Shenandoah,2024,VIIRS,senescence,245.0,81
+Shenandoah,2024,VIIRS,senescence,246.0,89
+Shenandoah,2024,VIIRS,senescence,247.0,82
+Shenandoah,2024,VIIRS,senescence,248.0,80
+Shenandoah,2024,VIIRS,senescence,249.0,79
+Shenandoah,2024,VIIRS,senescence,250.0,69
+Shenandoah,2024,VIIRS,senescence,251.0,63
+Shenandoah,2024,VIIRS,senescence,252.0,63
+Shenandoah,2024,VIIRS,senescence,253.0,49
+Shenandoah,2024,VIIRS,senescence,254.0,69
+Shenandoah,2024,VIIRS,senescence,255.0,40
+Shenandoah,2024,VIIRS,senescence,256.0,49
+Shenandoah,2024,VIIRS,senescence,257.0,34
+Shenandoah,2024,VIIRS,senescence,258.0,43
+Shenandoah,2024,VIIRS,senescence,259.0,26
+Shenandoah,2024,VIIRS,senescence,260.0,35
+Shenandoah,2024,VIIRS,senescence,261.0,27
+Shenandoah,2024,VIIRS,senescence,262.0,27
+Shenandoah,2024,VIIRS,senescence,263.0,31
+Shenandoah,2024,VIIRS,senescence,264.0,14
+Shenandoah,2024,VIIRS,senescence,265.0,21
+Shenandoah,2024,VIIRS,senescence,266.0,12
+Shenandoah,2024,VIIRS,senescence,267.0,14
+Shenandoah,2024,VIIRS,senescence,268.0,13
+Shenandoah,2024,VIIRS,senescence,269.0,6
+Shenandoah,2024,VIIRS,senescence,270.0,7
+Shenandoah,2024,VIIRS,senescence,271.0,9
+Shenandoah,2024,VIIRS,senescence,272.0,8
+Shenandoah,2024,VIIRS,senescence,273.0,5
+Shenandoah,2024,VIIRS,senescence,274.0,3
+Shenandoah,2024,VIIRS,senescence,275.0,4
+Shenandoah,2024,VIIRS,senescence,276.0,3
+Shenandoah,2024,VIIRS,senescence,277.0,1
+Shenandoah,2024,VIIRS,senescence,278.0,3
+Shenandoah,2024,VIIRS,senescence,279.0,2
+Shenandoah,2024,VIIRS,senescence,280.0,2
+Shenandoah,2024,VIIRS,senescence,281.0,1
+Shenandoah,2024,VIIRS,senescence,282.0,1
+Shenandoah,2024,VIIRS,mid_greendown,245.0,1
+Shenandoah,2024,VIIRS,mid_greendown,251.0,2
+Shenandoah,2024,VIIRS,mid_greendown,254.0,2
+Shenandoah,2024,VIIRS,mid_greendown,255.0,1
+Shenandoah,2024,VIIRS,mid_greendown,256.0,1
+Shenandoah,2024,VIIRS,mid_greendown,259.0,2
+Shenandoah,2024,VIIRS,mid_greendown,261.0,1
+Shenandoah,2024,VIIRS,mid_greendown,262.0,2
+Shenandoah,2024,VIIRS,mid_greendown,263.0,2
+Shenandoah,2024,VIIRS,mid_greendown,264.0,1
+Shenandoah,2024,VIIRS,mid_greendown,265.0,1
+Shenandoah,2024,VIIRS,mid_greendown,266.0,1
+Shenandoah,2024,VIIRS,mid_greendown,267.0,3
+Shenandoah,2024,VIIRS,mid_greendown,268.0,2
+Shenandoah,2024,VIIRS,mid_greendown,269.0,3
+Shenandoah,2024,VIIRS,mid_greendown,270.0,6
+Shenandoah,2024,VIIRS,mid_greendown,271.0,6
+Shenandoah,2024,VIIRS,mid_greendown,272.0,4
+Shenandoah,2024,VIIRS,mid_greendown,273.0,13
+Shenandoah,2024,VIIRS,mid_greendown,274.0,5
+Shenandoah,2024,VIIRS,mid_greendown,275.0,5
+Shenandoah,2024,VIIRS,mid_greendown,276.0,8
+Shenandoah,2024,VIIRS,mid_greendown,277.0,10
+Shenandoah,2024,VIIRS,mid_greendown,278.0,20
+Shenandoah,2024,VIIRS,mid_greendown,279.0,13
+Shenandoah,2024,VIIRS,mid_greendown,280.0,26
+Shenandoah,2024,VIIRS,mid_greendown,281.0,24
+Shenandoah,2024,VIIRS,mid_greendown,282.0,33
+Shenandoah,2024,VIIRS,mid_greendown,283.0,44
+Shenandoah,2024,VIIRS,mid_greendown,284.0,57
+Shenandoah,2024,VIIRS,mid_greendown,285.0,72
+Shenandoah,2024,VIIRS,mid_greendown,286.0,76
+Shenandoah,2024,VIIRS,mid_greendown,287.0,81
+Shenandoah,2024,VIIRS,mid_greendown,288.0,103
+Shenandoah,2024,VIIRS,mid_greendown,289.0,98
+Shenandoah,2024,VIIRS,mid_greendown,290.0,106
+Shenandoah,2024,VIIRS,mid_greendown,291.0,155
+Shenandoah,2024,VIIRS,mid_greendown,292.0,133
+Shenandoah,2024,VIIRS,mid_greendown,293.0,130
+Shenandoah,2024,VIIRS,mid_greendown,294.0,145
+Shenandoah,2024,VIIRS,mid_greendown,295.0,132
+Shenandoah,2024,VIIRS,mid_greendown,296.0,100
+Shenandoah,2024,VIIRS,mid_greendown,297.0,121
+Shenandoah,2024,VIIRS,mid_greendown,298.0,100
+Shenandoah,2024,VIIRS,mid_greendown,299.0,86
+Shenandoah,2024,VIIRS,mid_greendown,300.0,79
+Shenandoah,2024,VIIRS,mid_greendown,301.0,68
+Shenandoah,2024,VIIRS,mid_greendown,302.0,61
+Shenandoah,2024,VIIRS,mid_greendown,303.0,45
+Shenandoah,2024,VIIRS,mid_greendown,304.0,43
+Shenandoah,2024,VIIRS,mid_greendown,305.0,33
+Shenandoah,2024,VIIRS,mid_greendown,306.0,21
+Shenandoah,2024,VIIRS,mid_greendown,307.0,11
+Shenandoah,2024,VIIRS,mid_greendown,308.0,10
+Shenandoah,2024,VIIRS,mid_greendown,309.0,12
+Shenandoah,2024,VIIRS,mid_greendown,310.0,13
+Shenandoah,2024,VIIRS,mid_greendown,311.0,4
+Shenandoah,2024,VIIRS,mid_greendown,312.0,6
+Shenandoah,2024,VIIRS,mid_greendown,313.0,3
+Shenandoah,2024,VIIRS,mid_greendown,318.0,1
+Shenandoah,2024,VIIRS,dormancy,312.0,1
+Shenandoah,2024,VIIRS,dormancy,313.0,1
+Shenandoah,2024,VIIRS,dormancy,317.0,1
+Shenandoah,2024,VIIRS,dormancy,318.0,1
+Shenandoah,2024,VIIRS,dormancy,319.0,2
+Shenandoah,2024,VIIRS,dormancy,320.0,2
+Shenandoah,2024,VIIRS,dormancy,321.0,2
+Shenandoah,2024,VIIRS,dormancy,322.0,3
+Shenandoah,2024,VIIRS,dormancy,323.0,3
+Shenandoah,2024,VIIRS,dormancy,324.0,5
+Shenandoah,2024,VIIRS,dormancy,325.0,12
+Shenandoah,2024,VIIRS,dormancy,326.0,12
+Shenandoah,2024,VIIRS,dormancy,327.0,15
+Shenandoah,2024,VIIRS,dormancy,328.0,17
+Shenandoah,2024,VIIRS,dormancy,329.0,39
+Shenandoah,2024,VIIRS,dormancy,330.0,30
+Shenandoah,2024,VIIRS,dormancy,331.0,46
+Shenandoah,2024,VIIRS,dormancy,332.0,47
+Shenandoah,2024,VIIRS,dormancy,333.0,87
+Shenandoah,2024,VIIRS,dormancy,334.0,47
+Shenandoah,2024,VIIRS,dormancy,335.0,86
+Shenandoah,2024,VIIRS,dormancy,336.0,69
+Shenandoah,2024,VIIRS,dormancy,337.0,108
+Shenandoah,2024,VIIRS,dormancy,338.0,105
+Shenandoah,2024,VIIRS,dormancy,339.0,125
+Shenandoah,2024,VIIRS,dormancy,340.0,124
+Shenandoah,2024,VIIRS,dormancy,341.0,123
+Shenandoah,2024,VIIRS,dormancy,342.0,140
+Shenandoah,2024,VIIRS,dormancy,343.0,126
+Shenandoah,2024,VIIRS,dormancy,344.0,116
+Shenandoah,2024,VIIRS,dormancy,345.0,126
+Shenandoah,2024,VIIRS,dormancy,346.0,139
+Shenandoah,2024,VIIRS,dormancy,347.0,119
+Shenandoah,2024,VIIRS,dormancy,348.0,96
+Shenandoah,2024,VIIRS,dormancy,349.0,74
+Shenandoah,2024,VIIRS,dormancy,350.0,67
+Shenandoah,2024,VIIRS,dormancy,351.0,61
+Shenandoah,2024,VIIRS,dormancy,352.0,48
+Shenandoah,2024,VIIRS,dormancy,353.0,34
+Shenandoah,2024,VIIRS,dormancy,354.0,27
+Shenandoah,2024,VIIRS,dormancy,355.0,22
+Shenandoah,2024,VIIRS,dormancy,356.0,13
+Shenandoah,2024,VIIRS,dormancy,357.0,5
+Shenandoah,2024,VIIRS,dormancy,358.0,6
+Shenandoah,2024,VIIRS,dormancy,359.0,6
+Shenandoah,2024,VIIRS,dormancy,360.0,4
+Shenandoah,2024,VIIRS,dormancy,361.0,2
+Shenandoah,2024,VIIRS,dormancy,362.0,1
+Shenandoah,2024,VIIRS,dormancy,363.0,2
+Shenandoah,2024,VIIRS,forest_px,1.0,5476
+Roanoke,2024,VIIRS,mid_greenup,109.0,2
+Roanoke,2024,VIIRS,mid_greenup,112.0,2
+Roanoke,2024,VIIRS,mid_greenup,113.0,2
+Roanoke,2024,VIIRS,mid_greenup,114.0,2
+Roanoke,2024,VIIRS,mid_greenup,115.0,2
+Roanoke,2024,VIIRS,mid_greenup,116.0,1
+Roanoke,2024,VIIRS,mid_greenup,117.0,1
+Roanoke,2024,VIIRS,mid_greenup,118.0,1
+Roanoke,2024,VIIRS,mid_greenup,119.0,1
+Roanoke,2024,VIIRS,mid_greenup,120.0,2
+Roanoke,2024,VIIRS,mid_greenup,121.0,3
+Roanoke,2024,VIIRS,mid_greenup,122.0,11
+Roanoke,2024,VIIRS,mid_greenup,123.0,9
+Roanoke,2024,VIIRS,mid_greenup,124.0,13
+Roanoke,2024,VIIRS,mid_greenup,125.0,11
+Roanoke,2024,VIIRS,mid_greenup,126.0,34
+Roanoke,2024,VIIRS,mid_greenup,127.0,36
+Roanoke,2024,VIIRS,mid_greenup,128.0,63
+Roanoke,2024,VIIRS,mid_greenup,129.0,52
+Roanoke,2024,VIIRS,mid_greenup,130.0,78
+Roanoke,2024,VIIRS,mid_greenup,131.0,126
+Roanoke,2024,VIIRS,mid_greenup,132.0,157
+Roanoke,2024,VIIRS,mid_greenup,133.0,165
+Roanoke,2024,VIIRS,mid_greenup,134.0,210
+Roanoke,2024,VIIRS,mid_greenup,135.0,217
+Roanoke,2024,VIIRS,mid_greenup,136.0,284
+Roanoke,2024,VIIRS,mid_greenup,137.0,279
+Roanoke,2024,VIIRS,mid_greenup,138.0,267
+Roanoke,2024,VIIRS,mid_greenup,139.0,284
+Roanoke,2024,VIIRS,mid_greenup,140.0,216
+Roanoke,2024,VIIRS,mid_greenup,141.0,152
+Roanoke,2024,VIIRS,mid_greenup,142.0,137
+Roanoke,2024,VIIRS,mid_greenup,143.0,86
+Roanoke,2024,VIIRS,mid_greenup,144.0,80
+Roanoke,2024,VIIRS,mid_greenup,145.0,54
+Roanoke,2024,VIIRS,mid_greenup,146.0,48
+Roanoke,2024,VIIRS,mid_greenup,147.0,34
+Roanoke,2024,VIIRS,mid_greenup,148.0,20
+Roanoke,2024,VIIRS,mid_greenup,149.0,15
+Roanoke,2024,VIIRS,mid_greenup,150.0,7
+Roanoke,2024,VIIRS,mid_greenup,151.0,8
+Roanoke,2024,VIIRS,mid_greenup,152.0,10
+Roanoke,2024,VIIRS,mid_greenup,153.0,1
+Roanoke,2024,VIIRS,mid_greenup,154.0,7
+Roanoke,2024,VIIRS,mid_greenup,155.0,1
+Roanoke,2024,VIIRS,mid_greenup,156.0,1
+Roanoke,2024,VIIRS,mid_greenup,158.0,1
+Roanoke,2024,VIIRS,mid_greenup,162.0,1
+Roanoke,2024,VIIRS,senescence,162.0,1
+Roanoke,2024,VIIRS,senescence,167.0,1
+Roanoke,2024,VIIRS,senescence,177.0,1
+Roanoke,2024,VIIRS,senescence,179.0,2
+Roanoke,2024,VIIRS,senescence,180.0,1
+Roanoke,2024,VIIRS,senescence,181.0,1
+Roanoke,2024,VIIRS,senescence,184.0,1
+Roanoke,2024,VIIRS,senescence,187.0,2
+Roanoke,2024,VIIRS,senescence,189.0,2
+Roanoke,2024,VIIRS,senescence,190.0,2
+Roanoke,2024,VIIRS,senescence,191.0,6
+Roanoke,2024,VIIRS,senescence,192.0,4
+Roanoke,2024,VIIRS,senescence,193.0,7
+Roanoke,2024,VIIRS,senescence,194.0,5
+Roanoke,2024,VIIRS,senescence,195.0,2
+Roanoke,2024,VIIRS,senescence,196.0,2
+Roanoke,2024,VIIRS,senescence,197.0,4
+Roanoke,2024,VIIRS,senescence,198.0,8
+Roanoke,2024,VIIRS,senescence,199.0,7
+Roanoke,2024,VIIRS,senescence,200.0,9
+Roanoke,2024,VIIRS,senescence,201.0,7
+Roanoke,2024,VIIRS,senescence,202.0,14
+Roanoke,2024,VIIRS,senescence,203.0,12
+Roanoke,2024,VIIRS,senescence,204.0,15
+Roanoke,2024,VIIRS,senescence,205.0,12
+Roanoke,2024,VIIRS,senescence,206.0,13
+Roanoke,2024,VIIRS,senescence,207.0,17
+Roanoke,2024,VIIRS,senescence,208.0,21
+Roanoke,2024,VIIRS,senescence,209.0,17
+Roanoke,2024,VIIRS,senescence,210.0,20
+Roanoke,2024,VIIRS,senescence,211.0,22
+Roanoke,2024,VIIRS,senescence,212.0,24
+Roanoke,2024,VIIRS,senescence,213.0,29
+Roanoke,2024,VIIRS,senescence,214.0,21
+Roanoke,2024,VIIRS,senescence,215.0,38
+Roanoke,2024,VIIRS,senescence,216.0,25
+Roanoke,2024,VIIRS,senescence,217.0,35
+Roanoke,2024,VIIRS,senescence,218.0,38
+Roanoke,2024,VIIRS,senescence,219.0,52
+Roanoke,2024,VIIRS,senescence,220.0,41
+Roanoke,2024,VIIRS,senescence,221.0,47
+Roanoke,2024,VIIRS,senescence,222.0,42
+Roanoke,2024,VIIRS,senescence,223.0,44
+Roanoke,2024,VIIRS,senescence,224.0,60
+Roanoke,2024,VIIRS,senescence,225.0,66
+Roanoke,2024,VIIRS,senescence,226.0,52
+Roanoke,2024,VIIRS,senescence,227.0,74
+Roanoke,2024,VIIRS,senescence,228.0,65
+Roanoke,2024,VIIRS,senescence,229.0,73
+Roanoke,2024,VIIRS,senescence,230.0,67
+Roanoke,2024,VIIRS,senescence,231.0,73
+Roanoke,2024,VIIRS,senescence,232.0,72
+Roanoke,2024,VIIRS,senescence,233.0,90
+Roanoke,2024,VIIRS,senescence,234.0,102
+Roanoke,2024,VIIRS,senescence,235.0,77
+Roanoke,2024,VIIRS,senescence,236.0,86
+Roanoke,2024,VIIRS,senescence,237.0,92
+Roanoke,2024,VIIRS,senescence,238.0,76
+Roanoke,2024,VIIRS,senescence,239.0,101
+Roanoke,2024,VIIRS,senescence,240.0,88
+Roanoke,2024,VIIRS,senescence,241.0,68
+Roanoke,2024,VIIRS,senescence,242.0,75
+Roanoke,2024,VIIRS,senescence,243.0,80
+Roanoke,2024,VIIRS,senescence,244.0,76
+Roanoke,2024,VIIRS,senescence,245.0,70
+Roanoke,2024,VIIRS,senescence,246.0,61
+Roanoke,2024,VIIRS,senescence,247.0,57
+Roanoke,2024,VIIRS,senescence,248.0,56
+Roanoke,2024,VIIRS,senescence,249.0,66
+Roanoke,2024,VIIRS,senescence,250.0,59
+Roanoke,2024,VIIRS,senescence,251.0,41
+Roanoke,2024,VIIRS,senescence,252.0,49
+Roanoke,2024,VIIRS,senescence,253.0,56
+Roanoke,2024,VIIRS,senescence,254.0,47
+Roanoke,2024,VIIRS,senescence,255.0,34
+Roanoke,2024,VIIRS,senescence,256.0,32
+Roanoke,2024,VIIRS,senescence,257.0,38
+Roanoke,2024,VIIRS,senescence,258.0,31
+Roanoke,2024,VIIRS,senescence,259.0,28
+Roanoke,2024,VIIRS,senescence,260.0,34
+Roanoke,2024,VIIRS,senescence,261.0,20
+Roanoke,2024,VIIRS,senescence,262.0,19
+Roanoke,2024,VIIRS,senescence,263.0,13
+Roanoke,2024,VIIRS,senescence,264.0,15
+Roanoke,2024,VIIRS,senescence,265.0,11
+Roanoke,2024,VIIRS,senescence,266.0,9
+Roanoke,2024,VIIRS,senescence,267.0,10
+Roanoke,2024,VIIRS,senescence,268.0,10
+Roanoke,2024,VIIRS,senescence,269.0,9
+Roanoke,2024,VIIRS,senescence,270.0,5
+Roanoke,2024,VIIRS,senescence,271.0,5
+Roanoke,2024,VIIRS,senescence,272.0,9
+Roanoke,2024,VIIRS,senescence,273.0,4
+Roanoke,2024,VIIRS,senescence,274.0,2
+Roanoke,2024,VIIRS,senescence,275.0,1
+Roanoke,2024,VIIRS,senescence,278.0,4
+Roanoke,2024,VIIRS,senescence,281.0,1
+Roanoke,2024,VIIRS,senescence,293.0,1
+Roanoke,2024,VIIRS,mid_greendown,169.0,1
+Roanoke,2024,VIIRS,mid_greendown,246.0,1
+Roanoke,2024,VIIRS,mid_greendown,249.0,1
+Roanoke,2024,VIIRS,mid_greendown,250.0,1
+Roanoke,2024,VIIRS,mid_greendown,252.0,3
+Roanoke,2024,VIIRS,mid_greendown,254.0,1
+Roanoke,2024,VIIRS,mid_greendown,255.0,2
+Roanoke,2024,VIIRS,mid_greendown,256.0,4
+Roanoke,2024,VIIRS,mid_greendown,257.0,1
+Roanoke,2024,VIIRS,mid_greendown,258.0,6
+Roanoke,2024,VIIRS,mid_greendown,259.0,4
+Roanoke,2024,VIIRS,mid_greendown,260.0,6
+Roanoke,2024,VIIRS,mid_greendown,261.0,10
+Roanoke,2024,VIIRS,mid_greendown,262.0,6
+Roanoke,2024,VIIRS,mid_greendown,263.0,9
+Roanoke,2024,VIIRS,mid_greendown,264.0,10
+Roanoke,2024,VIIRS,mid_greendown,265.0,15
+Roanoke,2024,VIIRS,mid_greendown,266.0,14
+Roanoke,2024,VIIRS,mid_greendown,267.0,15
+Roanoke,2024,VIIRS,mid_greendown,268.0,18
+Roanoke,2024,VIIRS,mid_greendown,269.0,25
+Roanoke,2024,VIIRS,mid_greendown,270.0,34
+Roanoke,2024,VIIRS,mid_greendown,271.0,21
+Roanoke,2024,VIIRS,mid_greendown,272.0,35
+Roanoke,2024,VIIRS,mid_greendown,273.0,23
+Roanoke,2024,VIIRS,mid_greendown,274.0,31
+Roanoke,2024,VIIRS,mid_greendown,275.0,53
+Roanoke,2024,VIIRS,mid_greendown,276.0,58
+Roanoke,2024,VIIRS,mid_greendown,277.0,67
+Roanoke,2024,VIIRS,mid_greendown,278.0,57
+Roanoke,2024,VIIRS,mid_greendown,279.0,70
+Roanoke,2024,VIIRS,mid_greendown,280.0,66
+Roanoke,2024,VIIRS,mid_greendown,281.0,84
+Roanoke,2024,VIIRS,mid_greendown,282.0,94
+Roanoke,2024,VIIRS,mid_greendown,283.0,89
+Roanoke,2024,VIIRS,mid_greendown,284.0,108
+Roanoke,2024,VIIRS,mid_greendown,285.0,104
+Roanoke,2024,VIIRS,mid_greendown,286.0,132
+Roanoke,2024,VIIRS,mid_greendown,287.0,138
+Roanoke,2024,VIIRS,mid_greendown,288.0,119
+Roanoke,2024,VIIRS,mid_greendown,289.0,126
+Roanoke,2024,VIIRS,mid_greendown,290.0,128
+Roanoke,2024,VIIRS,mid_greendown,291.0,133
+Roanoke,2024,VIIRS,mid_greendown,292.0,129
+Roanoke,2024,VIIRS,mid_greendown,293.0,123
+Roanoke,2024,VIIRS,mid_greendown,294.0,124
+Roanoke,2024,VIIRS,mid_greendown,295.0,105
+Roanoke,2024,VIIRS,mid_greendown,296.0,121
+Roanoke,2024,VIIRS,mid_greendown,297.0,100
+Roanoke,2024,VIIRS,mid_greendown,298.0,96
+Roanoke,2024,VIIRS,mid_greendown,299.0,92
+Roanoke,2024,VIIRS,mid_greendown,300.0,61
+Roanoke,2024,VIIRS,mid_greendown,301.0,73
+Roanoke,2024,VIIRS,mid_greendown,302.0,51
+Roanoke,2024,VIIRS,mid_greendown,303.0,46
+Roanoke,2024,VIIRS,mid_greendown,304.0,36
+Roanoke,2024,VIIRS,mid_greendown,305.0,23
+Roanoke,2024,VIIRS,mid_greendown,306.0,26
+Roanoke,2024,VIIRS,mid_greendown,307.0,13
+Roanoke,2024,VIIRS,mid_greendown,308.0,20
+Roanoke,2024,VIIRS,mid_greendown,309.0,10
+Roanoke,2024,VIIRS,mid_greendown,310.0,10
+Roanoke,2024,VIIRS,mid_greendown,311.0,4
+Roanoke,2024,VIIRS,mid_greendown,312.0,3
+Roanoke,2024,VIIRS,mid_greendown,313.0,1
+Roanoke,2024,VIIRS,mid_greendown,314.0,2
+Roanoke,2024,VIIRS,mid_greendown,317.0,1
+Roanoke,2024,VIIRS,mid_greendown,320.0,1
+Roanoke,2024,VIIRS,dormancy,176.0,1
+Roanoke,2024,VIIRS,dormancy,292.0,1
+Roanoke,2024,VIIRS,dormancy,294.0,1
+Roanoke,2024,VIIRS,dormancy,301.0,1
+Roanoke,2024,VIIRS,dormancy,302.0,1
+Roanoke,2024,VIIRS,dormancy,303.0,1
+Roanoke,2024,VIIRS,dormancy,305.0,2
+Roanoke,2024,VIIRS,dormancy,307.0,1
+Roanoke,2024,VIIRS,dormancy,308.0,2
+Roanoke,2024,VIIRS,dormancy,311.0,2
+Roanoke,2024,VIIRS,dormancy,312.0,3
+Roanoke,2024,VIIRS,dormancy,313.0,2
+Roanoke,2024,VIIRS,dormancy,314.0,4
+Roanoke,2024,VIIRS,dormancy,315.0,4
+Roanoke,2024,VIIRS,dormancy,316.0,6
+Roanoke,2024,VIIRS,dormancy,317.0,9
+Roanoke,2024,VIIRS,dormancy,318.0,6
+Roanoke,2024,VIIRS,dormancy,319.0,10
+Roanoke,2024,VIIRS,dormancy,320.0,9
+Roanoke,2024,VIIRS,dormancy,321.0,13
+Roanoke,2024,VIIRS,dormancy,322.0,9
+Roanoke,2024,VIIRS,dormancy,323.0,15
+Roanoke,2024,VIIRS,dormancy,324.0,23
+Roanoke,2024,VIIRS,dormancy,325.0,20
+Roanoke,2024,VIIRS,dormancy,326.0,24
+Roanoke,2024,VIIRS,dormancy,327.0,32
+Roanoke,2024,VIIRS,dormancy,328.0,43
+Roanoke,2024,VIIRS,dormancy,329.0,53
+Roanoke,2024,VIIRS,dormancy,330.0,53
+Roanoke,2024,VIIRS,dormancy,331.0,53
+Roanoke,2024,VIIRS,dormancy,332.0,64
+Roanoke,2024,VIIRS,dormancy,333.0,81
+Roanoke,2024,VIIRS,dormancy,334.0,99
+Roanoke,2024,VIIRS,dormancy,335.0,109
+Roanoke,2024,VIIRS,dormancy,336.0,107
+Roanoke,2024,VIIRS,dormancy,337.0,118
+Roanoke,2024,VIIRS,dormancy,338.0,130
+Roanoke,2024,VIIRS,dormancy,339.0,123
+Roanoke,2024,VIIRS,dormancy,340.0,160
+Roanoke,2024,VIIRS,dormancy,341.0,133
+Roanoke,2024,VIIRS,dormancy,342.0,161
+Roanoke,2024,VIIRS,dormancy,343.0,169
+Roanoke,2024,VIIRS,dormancy,344.0,163
+Roanoke,2024,VIIRS,dormancy,345.0,161
+Roanoke,2024,VIIRS,dormancy,346.0,134
+Roanoke,2024,VIIRS,dormancy,347.0,161
+Roanoke,2024,VIIRS,dormancy,348.0,126
+Roanoke,2024,VIIRS,dormancy,349.0,137
+Roanoke,2024,VIIRS,dormancy,350.0,112
+Roanoke,2024,VIIRS,dormancy,351.0,86
+Roanoke,2024,VIIRS,dormancy,352.0,60
+Roanoke,2024,VIIRS,dormancy,353.0,36
+Roanoke,2024,VIIRS,dormancy,354.0,60
+Roanoke,2024,VIIRS,dormancy,355.0,33
+Roanoke,2024,VIIRS,dormancy,356.0,22
+Roanoke,2024,VIIRS,dormancy,357.0,12
+Roanoke,2024,VIIRS,dormancy,358.0,11
+Roanoke,2024,VIIRS,dormancy,359.0,7
+Roanoke,2024,VIIRS,dormancy,360.0,4
+Roanoke,2024,VIIRS,dormancy,361.0,2
+Roanoke,2024,VIIRS,dormancy,362.0,4
+Roanoke,2024,VIIRS,dormancy,364.0,1
+Roanoke,2024,VIIRS,dormancy,365.0,2
+Roanoke,2024,VIIRS,dormancy,370.0,1
+Roanoke,2024,VIIRS,dormancy,373.0,1
+Roanoke,2024,VIIRS,forest_px,1.0,7055
+Boone,2024,VIIRS,mid_greenup,109.0,1
+Boone,2024,VIIRS,mid_greenup,113.0,2
+Boone,2024,VIIRS,mid_greenup,114.0,1
+Boone,2024,VIIRS,mid_greenup,117.0,1
+Boone,2024,VIIRS,mid_greenup,118.0,1
+Boone,2024,VIIRS,mid_greenup,119.0,2
+Boone,2024,VIIRS,mid_greenup,120.0,3
+Boone,2024,VIIRS,mid_greenup,121.0,3
+Boone,2024,VIIRS,mid_greenup,122.0,1
+Boone,2024,VIIRS,mid_greenup,123.0,3
+Boone,2024,VIIRS,mid_greenup,124.0,3
+Boone,2024,VIIRS,mid_greenup,125.0,1
+Boone,2024,VIIRS,mid_greenup,126.0,7
+Boone,2024,VIIRS,mid_greenup,127.0,14
+Boone,2024,VIIRS,mid_greenup,128.0,40
+Boone,2024,VIIRS,mid_greenup,129.0,54
+Boone,2024,VIIRS,mid_greenup,130.0,107
+Boone,2024,VIIRS,mid_greenup,131.0,134
+Boone,2024,VIIRS,mid_greenup,132.0,193
+Boone,2024,VIIRS,mid_greenup,133.0,242
+Boone,2024,VIIRS,mid_greenup,134.0,284
+Boone,2024,VIIRS,mid_greenup,135.0,305
+Boone,2024,VIIRS,mid_greenup,136.0,286
+Boone,2024,VIIRS,mid_greenup,137.0,287
+Boone,2024,VIIRS,mid_greenup,138.0,296
+Boone,2024,VIIRS,mid_greenup,139.0,299
+Boone,2024,VIIRS,mid_greenup,140.0,317
+Boone,2024,VIIRS,mid_greenup,141.0,361
+Boone,2024,VIIRS,mid_greenup,142.0,354
+Boone,2024,VIIRS,mid_greenup,143.0,360
+Boone,2024,VIIRS,mid_greenup,144.0,395
+Boone,2024,VIIRS,mid_greenup,145.0,378
+Boone,2024,VIIRS,mid_greenup,146.0,343
+Boone,2024,VIIRS,mid_greenup,147.0,307
+Boone,2024,VIIRS,mid_greenup,148.0,296
+Boone,2024,VIIRS,mid_greenup,149.0,251
+Boone,2024,VIIRS,mid_greenup,150.0,218
+Boone,2024,VIIRS,mid_greenup,151.0,188
+Boone,2024,VIIRS,mid_greenup,152.0,134
+Boone,2024,VIIRS,mid_greenup,153.0,116
+Boone,2024,VIIRS,mid_greenup,154.0,104
+Boone,2024,VIIRS,mid_greenup,155.0,76
+Boone,2024,VIIRS,mid_greenup,156.0,73
+Boone,2024,VIIRS,mid_greenup,157.0,60
+Boone,2024,VIIRS,mid_greenup,158.0,44
+Boone,2024,VIIRS,mid_greenup,159.0,41
+Boone,2024,VIIRS,mid_greenup,160.0,25
+Boone,2024,VIIRS,mid_greenup,161.0,22
+Boone,2024,VIIRS,mid_greenup,162.0,11
+Boone,2024,VIIRS,mid_greenup,163.0,14
+Boone,2024,VIIRS,mid_greenup,164.0,11
+Boone,2024,VIIRS,mid_greenup,165.0,8
+Boone,2024,VIIRS,mid_greenup,166.0,6
+Boone,2024,VIIRS,mid_greenup,167.0,4
+Boone,2024,VIIRS,mid_greenup,168.0,2
+Boone,2024,VIIRS,mid_greenup,169.0,1
+Boone,2024,VIIRS,mid_greenup,170.0,1
+Boone,2024,VIIRS,mid_greenup,171.0,1
+Boone,2024,VIIRS,mid_greenup,173.0,1
+Boone,2024,VIIRS,senescence,162.0,1
+Boone,2024,VIIRS,senescence,165.0,1
+Boone,2024,VIIRS,senescence,178.0,2
+Boone,2024,VIIRS,senescence,180.0,2
+Boone,2024,VIIRS,senescence,183.0,1
+Boone,2024,VIIRS,senescence,184.0,2
+Boone,2024,VIIRS,senescence,185.0,4
+Boone,2024,VIIRS,senescence,186.0,3
+Boone,2024,VIIRS,senescence,187.0,2
+Boone,2024,VIIRS,senescence,188.0,1
+Boone,2024,VIIRS,senescence,189.0,1
+Boone,2024,VIIRS,senescence,190.0,3
+Boone,2024,VIIRS,senescence,191.0,4
+Boone,2024,VIIRS,senescence,192.0,3
+Boone,2024,VIIRS,senescence,193.0,7
+Boone,2024,VIIRS,senescence,194.0,6
+Boone,2024,VIIRS,senescence,195.0,7
+Boone,2024,VIIRS,senescence,196.0,7
+Boone,2024,VIIRS,senescence,197.0,14
+Boone,2024,VIIRS,senescence,198.0,9
+Boone,2024,VIIRS,senescence,199.0,14
+Boone,2024,VIIRS,senescence,200.0,13
+Boone,2024,VIIRS,senescence,201.0,15
+Boone,2024,VIIRS,senescence,202.0,6
+Boone,2024,VIIRS,senescence,203.0,15
+Boone,2024,VIIRS,senescence,204.0,20
+Boone,2024,VIIRS,senescence,205.0,18
+Boone,2024,VIIRS,senescence,206.0,18
+Boone,2024,VIIRS,senescence,207.0,20
+Boone,2024,VIIRS,senescence,208.0,27
+Boone,2024,VIIRS,senescence,209.0,22
+Boone,2024,VIIRS,senescence,210.0,30
+Boone,2024,VIIRS,senescence,211.0,36
+Boone,2024,VIIRS,senescence,212.0,46
+Boone,2024,VIIRS,senescence,213.0,28
+Boone,2024,VIIRS,senescence,214.0,36
+Boone,2024,VIIRS,senescence,215.0,47
+Boone,2024,VIIRS,senescence,216.0,48
+Boone,2024,VIIRS,senescence,217.0,44
+Boone,2024,VIIRS,senescence,218.0,61
+Boone,2024,VIIRS,senescence,219.0,61
+Boone,2024,VIIRS,senescence,220.0,66
+Boone,2024,VIIRS,senescence,221.0,68
+Boone,2024,VIIRS,senescence,222.0,72
+Boone,2024,VIIRS,senescence,223.0,73
+Boone,2024,VIIRS,senescence,224.0,71
+Boone,2024,VIIRS,senescence,225.0,81
+Boone,2024,VIIRS,senescence,226.0,79
+Boone,2024,VIIRS,senescence,227.0,97
+Boone,2024,VIIRS,senescence,228.0,96
+Boone,2024,VIIRS,senescence,229.0,121
+Boone,2024,VIIRS,senescence,230.0,105
+Boone,2024,VIIRS,senescence,231.0,111
+Boone,2024,VIIRS,senescence,232.0,145
+Boone,2024,VIIRS,senescence,233.0,120
+Boone,2024,VIIRS,senescence,234.0,112
+Boone,2024,VIIRS,senescence,235.0,152
+Boone,2024,VIIRS,senescence,236.0,161
+Boone,2024,VIIRS,senescence,237.0,178
+Boone,2024,VIIRS,senescence,238.0,163
+Boone,2024,VIIRS,senescence,239.0,178
+Boone,2024,VIIRS,senescence,240.0,157
+Boone,2024,VIIRS,senescence,241.0,152
+Boone,2024,VIIRS,senescence,242.0,203
+Boone,2024,VIIRS,senescence,243.0,184
+Boone,2024,VIIRS,senescence,244.0,212
+Boone,2024,VIIRS,senescence,245.0,207
+Boone,2024,VIIRS,senescence,246.0,213
+Boone,2024,VIIRS,senescence,247.0,155
+Boone,2024,VIIRS,senescence,248.0,189
+Boone,2024,VIIRS,senescence,249.0,187
+Boone,2024,VIIRS,senescence,250.0,146
+Boone,2024,VIIRS,senescence,251.0,179
+Boone,2024,VIIRS,senescence,252.0,169
+Boone,2024,VIIRS,senescence,253.0,166
+Boone,2024,VIIRS,senescence,254.0,148
+Boone,2024,VIIRS,senescence,255.0,122
+Boone,2024,VIIRS,senescence,256.0,132
+Boone,2024,VIIRS,senescence,257.0,129
+Boone,2024,VIIRS,senescence,258.0,105
+Boone,2024,VIIRS,senescence,259.0,115
+Boone,2024,VIIRS,senescence,260.0,105
+Boone,2024,VIIRS,senescence,261.0,100
+Boone,2024,VIIRS,senescence,262.0,89
+Boone,2024,VIIRS,senescence,263.0,87
+Boone,2024,VIIRS,senescence,264.0,60
+Boone,2024,VIIRS,senescence,265.0,67
+Boone,2024,VIIRS,senescence,266.0,48
+Boone,2024,VIIRS,senescence,267.0,49
+Boone,2024,VIIRS,senescence,268.0,52
+Boone,2024,VIIRS,senescence,269.0,32
+Boone,2024,VIIRS,senescence,270.0,29
+Boone,2024,VIIRS,senescence,271.0,24
+Boone,2024,VIIRS,senescence,272.0,26
+Boone,2024,VIIRS,senescence,273.0,25
+Boone,2024,VIIRS,senescence,274.0,18
+Boone,2024,VIIRS,senescence,275.0,13
+Boone,2024,VIIRS,senescence,276.0,7
+Boone,2024,VIIRS,senescence,277.0,11
+Boone,2024,VIIRS,senescence,278.0,6
+Boone,2024,VIIRS,senescence,279.0,3
+Boone,2024,VIIRS,senescence,280.0,3
+Boone,2024,VIIRS,senescence,281.0,4
+Boone,2024,VIIRS,senescence,282.0,4
+Boone,2024,VIIRS,senescence,283.0,5
+Boone,2024,VIIRS,senescence,285.0,1
+Boone,2024,VIIRS,senescence,288.0,1
+Boone,2024,VIIRS,mid_greendown,170.0,1
+Boone,2024,VIIRS,mid_greendown,245.0,1
+Boone,2024,VIIRS,mid_greendown,249.0,2
+Boone,2024,VIIRS,mid_greendown,250.0,1
+Boone,2024,VIIRS,mid_greendown,251.0,2
+Boone,2024,VIIRS,mid_greendown,252.0,1
+Boone,2024,VIIRS,mid_greendown,253.0,3
+Boone,2024,VIIRS,mid_greendown,254.0,2
+Boone,2024,VIIRS,mid_greendown,255.0,3
+Boone,2024,VIIRS,mid_greendown,256.0,1
+Boone,2024,VIIRS,mid_greendown,257.0,3
+Boone,2024,VIIRS,mid_greendown,258.0,3
+Boone,2024,VIIRS,mid_greendown,259.0,1
+Boone,2024,VIIRS,mid_greendown,260.0,2
+Boone,2024,VIIRS,mid_greendown,261.0,7
+Boone,2024,VIIRS,mid_greendown,262.0,4
+Boone,2024,VIIRS,mid_greendown,263.0,15
+Boone,2024,VIIRS,mid_greendown,264.0,19
+Boone,2024,VIIRS,mid_greendown,265.0,12
+Boone,2024,VIIRS,mid_greendown,266.0,18
+Boone,2024,VIIRS,mid_greendown,267.0,29
+Boone,2024,VIIRS,mid_greendown,268.0,27
+Boone,2024,VIIRS,mid_greendown,269.0,30
+Boone,2024,VIIRS,mid_greendown,270.0,40
+Boone,2024,VIIRS,mid_greendown,271.0,42
+Boone,2024,VIIRS,mid_greendown,272.0,54
+Boone,2024,VIIRS,mid_greendown,273.0,62
+Boone,2024,VIIRS,mid_greendown,274.0,69
+Boone,2024,VIIRS,mid_greendown,275.0,70
+Boone,2024,VIIRS,mid_greendown,276.0,91
+Boone,2024,VIIRS,mid_greendown,277.0,103
+Boone,2024,VIIRS,mid_greendown,278.0,121
+Boone,2024,VIIRS,mid_greendown,279.0,160
+Boone,2024,VIIRS,mid_greendown,280.0,172
+Boone,2024,VIIRS,mid_greendown,281.0,208
+Boone,2024,VIIRS,mid_greendown,282.0,202
+Boone,2024,VIIRS,mid_greendown,283.0,239
+Boone,2024,VIIRS,mid_greendown,284.0,288
+Boone,2024,VIIRS,mid_greendown,285.0,298
+Boone,2024,VIIRS,mid_greendown,286.0,325
+Boone,2024,VIIRS,mid_greendown,287.0,317
+Boone,2024,VIIRS,mid_greendown,288.0,310
+Boone,2024,VIIRS,mid_greendown,289.0,335
+Boone,2024,VIIRS,mid_greendown,290.0,362
+Boone,2024,VIIRS,mid_greendown,291.0,370
+Boone,2024,VIIRS,mid_greendown,292.0,297
+Boone,2024,VIIRS,mid_greendown,293.0,349
+Boone,2024,VIIRS,mid_greendown,294.0,323
+Boone,2024,VIIRS,mid_greendown,295.0,257
+Boone,2024,VIIRS,mid_greendown,296.0,266
+Boone,2024,VIIRS,mid_greendown,297.0,230
+Boone,2024,VIIRS,mid_greendown,298.0,189
+Boone,2024,VIIRS,mid_greendown,299.0,168
+Boone,2024,VIIRS,mid_greendown,300.0,127
+Boone,2024,VIIRS,mid_greendown,301.0,120
+Boone,2024,VIIRS,mid_greendown,302.0,84
+Boone,2024,VIIRS,mid_greendown,303.0,72
+Boone,2024,VIIRS,mid_greendown,304.0,51
+Boone,2024,VIIRS,mid_greendown,305.0,43
+Boone,2024,VIIRS,mid_greendown,306.0,30
+Boone,2024,VIIRS,mid_greendown,307.0,20
+Boone,2024,VIIRS,mid_greendown,308.0,10
+Boone,2024,VIIRS,mid_greendown,309.0,9
+Boone,2024,VIIRS,mid_greendown,310.0,7
+Boone,2024,VIIRS,mid_greendown,311.0,3
+Boone,2024,VIIRS,mid_greendown,312.0,4
+Boone,2024,VIIRS,mid_greendown,313.0,4
+Boone,2024,VIIRS,mid_greendown,314.0,2
+Boone,2024,VIIRS,mid_greendown,315.0,1
+Boone,2024,VIIRS,mid_greendown,316.0,2
+Boone,2024,VIIRS,dormancy,177.0,1
+Boone,2024,VIIRS,dormancy,302.0,1
+Boone,2024,VIIRS,dormancy,303.0,1
+Boone,2024,VIIRS,dormancy,304.0,1
+Boone,2024,VIIRS,dormancy,305.0,1
+Boone,2024,VIIRS,dormancy,307.0,4
+Boone,2024,VIIRS,dormancy,308.0,3
+Boone,2024,VIIRS,dormancy,309.0,1
+Boone,2024,VIIRS,dormancy,310.0,3
+Boone,2024,VIIRS,dormancy,311.0,3
+Boone,2024,VIIRS,dormancy,312.0,8
+Boone,2024,VIIRS,dormancy,313.0,5
+Boone,2024,VIIRS,dormancy,314.0,12
+Boone,2024,VIIRS,dormancy,315.0,9
+Boone,2024,VIIRS,dormancy,316.0,12
+Boone,2024,VIIRS,dormancy,317.0,30
+Boone,2024,VIIRS,dormancy,318.0,28
+Boone,2024,VIIRS,dormancy,319.0,39
+Boone,2024,VIIRS,dormancy,320.0,55
+Boone,2024,VIIRS,dormancy,321.0,67
+Boone,2024,VIIRS,dormancy,322.0,88
+Boone,2024,VIIRS,dormancy,323.0,116
+Boone,2024,VIIRS,dormancy,324.0,131
+Boone,2024,VIIRS,dormancy,325.0,169
+Boone,2024,VIIRS,dormancy,326.0,180
+Boone,2024,VIIRS,dormancy,327.0,218
+Boone,2024,VIIRS,dormancy,328.0,267
+Boone,2024,VIIRS,dormancy,329.0,250
+Boone,2024,VIIRS,dormancy,330.0,304
+Boone,2024,VIIRS,dormancy,331.0,318
+Boone,2024,VIIRS,dormancy,332.0,322
+Boone,2024,VIIRS,dormancy,333.0,334
+Boone,2024,VIIRS,dormancy,334.0,348
+Boone,2024,VIIRS,dormancy,335.0,304
+Boone,2024,VIIRS,dormancy,336.0,329
+Boone,2024,VIIRS,dormancy,337.0,326
+Boone,2024,VIIRS,dormancy,338.0,317
+Boone,2024,VIIRS,dormancy,339.0,281
+Boone,2024,VIIRS,dormancy,340.0,282
+Boone,2024,VIIRS,dormancy,341.0,239
+Boone,2024,VIIRS,dormancy,342.0,228
+Boone,2024,VIIRS,dormancy,343.0,238
+Boone,2024,VIIRS,dormancy,344.0,196
+Boone,2024,VIIRS,dormancy,345.0,186
+Boone,2024,VIIRS,dormancy,346.0,152
+Boone,2024,VIIRS,dormancy,347.0,129
+Boone,2024,VIIRS,dormancy,348.0,113
+Boone,2024,VIIRS,dormancy,349.0,100
+Boone,2024,VIIRS,dormancy,350.0,73
+Boone,2024,VIIRS,dormancy,351.0,65
+Boone,2024,VIIRS,dormancy,352.0,69
+Boone,2024,VIIRS,dormancy,353.0,42
+Boone,2024,VIIRS,dormancy,354.0,25
+Boone,2024,VIIRS,dormancy,355.0,21
+Boone,2024,VIIRS,dormancy,356.0,15
+Boone,2024,VIIRS,dormancy,357.0,9
+Boone,2024,VIIRS,dormancy,358.0,10
+Boone,2024,VIIRS,dormancy,359.0,4
+Boone,2024,VIIRS,dormancy,360.0,3
+Boone,2024,VIIRS,dormancy,361.0,2
+Boone,2024,VIIRS,dormancy,363.0,3
+Boone,2024,VIIRS,dormancy,365.0,1
+Boone,2024,VIIRS,dormancy,368.0,1
+Boone,2024,VIIRS,dormancy,374.0,1
+Boone,2024,VIIRS,forest_px,1.0,18346
+Asheville,2024,VIIRS,mid_greenup,106.0,1
+Asheville,2024,VIIRS,mid_greenup,111.0,1
+Asheville,2024,VIIRS,mid_greenup,115.0,1
+Asheville,2024,VIIRS,mid_greenup,116.0,1
+Asheville,2024,VIIRS,mid_greenup,117.0,4
+Asheville,2024,VIIRS,mid_greenup,118.0,1
+Asheville,2024,VIIRS,mid_greenup,119.0,4
+Asheville,2024,VIIRS,mid_greenup,120.0,7
+Asheville,2024,VIIRS,mid_greenup,121.0,3
+Asheville,2024,VIIRS,mid_greenup,122.0,6
+Asheville,2024,VIIRS,mid_greenup,123.0,8
+Asheville,2024,VIIRS,mid_greenup,124.0,12
+Asheville,2024,VIIRS,mid_greenup,125.0,7
+Asheville,2024,VIIRS,mid_greenup,126.0,17
+Asheville,2024,VIIRS,mid_greenup,127.0,30
+Asheville,2024,VIIRS,mid_greenup,128.0,41
+Asheville,2024,VIIRS,mid_greenup,129.0,66
+Asheville,2024,VIIRS,mid_greenup,130.0,103
+Asheville,2024,VIIRS,mid_greenup,131.0,151
+Asheville,2024,VIIRS,mid_greenup,132.0,179
+Asheville,2024,VIIRS,mid_greenup,133.0,262
+Asheville,2024,VIIRS,mid_greenup,134.0,303
+Asheville,2024,VIIRS,mid_greenup,135.0,377
+Asheville,2024,VIIRS,mid_greenup,136.0,443
+Asheville,2024,VIIRS,mid_greenup,137.0,517
+Asheville,2024,VIIRS,mid_greenup,138.0,558
+Asheville,2024,VIIRS,mid_greenup,139.0,561
+Asheville,2024,VIIRS,mid_greenup,140.0,500
+Asheville,2024,VIIRS,mid_greenup,141.0,497
+Asheville,2024,VIIRS,mid_greenup,142.0,480
+Asheville,2024,VIIRS,mid_greenup,143.0,420
+Asheville,2024,VIIRS,mid_greenup,144.0,360
+Asheville,2024,VIIRS,mid_greenup,145.0,296
+Asheville,2024,VIIRS,mid_greenup,146.0,252
+Asheville,2024,VIIRS,mid_greenup,147.0,196
+Asheville,2024,VIIRS,mid_greenup,148.0,171
+Asheville,2024,VIIRS,mid_greenup,149.0,118
+Asheville,2024,VIIRS,mid_greenup,150.0,116
+Asheville,2024,VIIRS,mid_greenup,151.0,102
+Asheville,2024,VIIRS,mid_greenup,152.0,85
+Asheville,2024,VIIRS,mid_greenup,153.0,71
+Asheville,2024,VIIRS,mid_greenup,154.0,56
+Asheville,2024,VIIRS,mid_greenup,155.0,46
+Asheville,2024,VIIRS,mid_greenup,156.0,26
+Asheville,2024,VIIRS,mid_greenup,157.0,31
+Asheville,2024,VIIRS,mid_greenup,158.0,23
+Asheville,2024,VIIRS,mid_greenup,159.0,18
+Asheville,2024,VIIRS,mid_greenup,160.0,11
+Asheville,2024,VIIRS,mid_greenup,161.0,10
+Asheville,2024,VIIRS,mid_greenup,162.0,12
+Asheville,2024,VIIRS,mid_greenup,163.0,2
+Asheville,2024,VIIRS,mid_greenup,164.0,10
+Asheville,2024,VIIRS,mid_greenup,165.0,6
+Asheville,2024,VIIRS,mid_greenup,166.0,3
+Asheville,2024,VIIRS,mid_greenup,167.0,5
+Asheville,2024,VIIRS,mid_greenup,168.0,5
+Asheville,2024,VIIRS,mid_greenup,170.0,2
+Asheville,2024,VIIRS,mid_greenup,179.0,1
+Asheville,2024,VIIRS,senescence,172.0,1
+Asheville,2024,VIIRS,senescence,175.0,1
+Asheville,2024,VIIRS,senescence,176.0,1
+Asheville,2024,VIIRS,senescence,177.0,2
+Asheville,2024,VIIRS,senescence,178.0,1
+Asheville,2024,VIIRS,senescence,184.0,1
+Asheville,2024,VIIRS,senescence,185.0,1
+Asheville,2024,VIIRS,senescence,186.0,1
+Asheville,2024,VIIRS,senescence,189.0,2
+Asheville,2024,VIIRS,senescence,191.0,3
+Asheville,2024,VIIRS,senescence,192.0,3
+Asheville,2024,VIIRS,senescence,193.0,3
+Asheville,2024,VIIRS,senescence,194.0,7
+Asheville,2024,VIIRS,senescence,195.0,9
+Asheville,2024,VIIRS,senescence,196.0,5
+Asheville,2024,VIIRS,senescence,197.0,6
+Asheville,2024,VIIRS,senescence,198.0,7
+Asheville,2024,VIIRS,senescence,199.0,9
+Asheville,2024,VIIRS,senescence,200.0,13
+Asheville,2024,VIIRS,senescence,201.0,7
+Asheville,2024,VIIRS,senescence,202.0,12
+Asheville,2024,VIIRS,senescence,203.0,19
+Asheville,2024,VIIRS,senescence,204.0,19
+Asheville,2024,VIIRS,senescence,205.0,16
+Asheville,2024,VIIRS,senescence,206.0,20
+Asheville,2024,VIIRS,senescence,207.0,24
+Asheville,2024,VIIRS,senescence,208.0,29
+Asheville,2024,VIIRS,senescence,209.0,24
+Asheville,2024,VIIRS,senescence,210.0,31
+Asheville,2024,VIIRS,senescence,211.0,38
+Asheville,2024,VIIRS,senescence,212.0,31
+Asheville,2024,VIIRS,senescence,213.0,49
+Asheville,2024,VIIRS,senescence,214.0,39
+Asheville,2024,VIIRS,senescence,215.0,54
+Asheville,2024,VIIRS,senescence,216.0,52
+Asheville,2024,VIIRS,senescence,217.0,58
+Asheville,2024,VIIRS,senescence,218.0,69
+Asheville,2024,VIIRS,senescence,219.0,74
+Asheville,2024,VIIRS,senescence,220.0,76
+Asheville,2024,VIIRS,senescence,221.0,86
+Asheville,2024,VIIRS,senescence,222.0,90
+Asheville,2024,VIIRS,senescence,223.0,108
+Asheville,2024,VIIRS,senescence,224.0,101
+Asheville,2024,VIIRS,senescence,225.0,123
+Asheville,2024,VIIRS,senescence,226.0,117
+Asheville,2024,VIIRS,senescence,227.0,142
+Asheville,2024,VIIRS,senescence,228.0,138
+Asheville,2024,VIIRS,senescence,229.0,138
+Asheville,2024,VIIRS,senescence,230.0,142
+Asheville,2024,VIIRS,senescence,231.0,173
+Asheville,2024,VIIRS,senescence,232.0,172
+Asheville,2024,VIIRS,senescence,233.0,157
+Asheville,2024,VIIRS,senescence,234.0,178
+Asheville,2024,VIIRS,senescence,235.0,173
+Asheville,2024,VIIRS,senescence,236.0,189
+Asheville,2024,VIIRS,senescence,237.0,198
+Asheville,2024,VIIRS,senescence,238.0,205
+Asheville,2024,VIIRS,senescence,239.0,184
+Asheville,2024,VIIRS,senescence,240.0,180
+Asheville,2024,VIIRS,senescence,241.0,192
+Asheville,2024,VIIRS,senescence,242.0,179
+Asheville,2024,VIIRS,senescence,243.0,200
+Asheville,2024,VIIRS,senescence,244.0,174
+Asheville,2024,VIIRS,senescence,245.0,199
+Asheville,2024,VIIRS,senescence,246.0,155
+Asheville,2024,VIIRS,senescence,247.0,192
+Asheville,2024,VIIRS,senescence,248.0,183
+Asheville,2024,VIIRS,senescence,249.0,168
+Asheville,2024,VIIRS,senescence,250.0,151
+Asheville,2024,VIIRS,senescence,251.0,129
+Asheville,2024,VIIRS,senescence,252.0,134
+Asheville,2024,VIIRS,senescence,253.0,136
+Asheville,2024,VIIRS,senescence,254.0,140
+Asheville,2024,VIIRS,senescence,255.0,121
+Asheville,2024,VIIRS,senescence,256.0,121
+Asheville,2024,VIIRS,senescence,257.0,97
+Asheville,2024,VIIRS,senescence,258.0,118
+Asheville,2024,VIIRS,senescence,259.0,99
+Asheville,2024,VIIRS,senescence,260.0,86
+Asheville,2024,VIIRS,senescence,261.0,75
+Asheville,2024,VIIRS,senescence,262.0,80
+Asheville,2024,VIIRS,senescence,263.0,84
+Asheville,2024,VIIRS,senescence,264.0,73
+Asheville,2024,VIIRS,senescence,265.0,72
+Asheville,2024,VIIRS,senescence,266.0,49
+Asheville,2024,VIIRS,senescence,267.0,47
+Asheville,2024,VIIRS,senescence,268.0,57
+Asheville,2024,VIIRS,senescence,269.0,44
+Asheville,2024,VIIRS,senescence,270.0,40
+Asheville,2024,VIIRS,senescence,271.0,40
+Asheville,2024,VIIRS,senescence,272.0,28
+Asheville,2024,VIIRS,senescence,273.0,26
+Asheville,2024,VIIRS,senescence,274.0,18
+Asheville,2024,VIIRS,senescence,275.0,20
+Asheville,2024,VIIRS,senescence,276.0,5
+Asheville,2024,VIIRS,senescence,277.0,11
+Asheville,2024,VIIRS,senescence,278.0,10
+Asheville,2024,VIIRS,senescence,279.0,9
+Asheville,2024,VIIRS,senescence,280.0,5
+Asheville,2024,VIIRS,senescence,281.0,8
+Asheville,2024,VIIRS,senescence,282.0,2
+Asheville,2024,VIIRS,senescence,283.0,1
+Asheville,2024,VIIRS,senescence,284.0,1
+Asheville,2024,VIIRS,senescence,286.0,2
+Asheville,2024,VIIRS,senescence,288.0,2
+Asheville,2024,VIIRS,senescence,290.0,1
+Asheville,2024,VIIRS,mid_greendown,250.0,1
+Asheville,2024,VIIRS,mid_greendown,251.0,1
+Asheville,2024,VIIRS,mid_greendown,252.0,1
+Asheville,2024,VIIRS,mid_greendown,253.0,2
+Asheville,2024,VIIRS,mid_greendown,254.0,3
+Asheville,2024,VIIRS,mid_greendown,255.0,2
+Asheville,2024,VIIRS,mid_greendown,256.0,1
+Asheville,2024,VIIRS,mid_greendown,257.0,4
+Asheville,2024,VIIRS,mid_greendown,258.0,3
+Asheville,2024,VIIRS,mid_greendown,259.0,5
+Asheville,2024,VIIRS,mid_greendown,260.0,4
+Asheville,2024,VIIRS,mid_greendown,261.0,6
+Asheville,2024,VIIRS,mid_greendown,262.0,10
+Asheville,2024,VIIRS,mid_greendown,263.0,13
+Asheville,2024,VIIRS,mid_greendown,264.0,11
+Asheville,2024,VIIRS,mid_greendown,265.0,11
+Asheville,2024,VIIRS,mid_greendown,266.0,15
+Asheville,2024,VIIRS,mid_greendown,267.0,22
+Asheville,2024,VIIRS,mid_greendown,268.0,26
+Asheville,2024,VIIRS,mid_greendown,269.0,26
+Asheville,2024,VIIRS,mid_greendown,270.0,40
+Asheville,2024,VIIRS,mid_greendown,271.0,37
+Asheville,2024,VIIRS,mid_greendown,272.0,63
+Asheville,2024,VIIRS,mid_greendown,273.0,51
+Asheville,2024,VIIRS,mid_greendown,274.0,66
+Asheville,2024,VIIRS,mid_greendown,275.0,74
+Asheville,2024,VIIRS,mid_greendown,276.0,97
+Asheville,2024,VIIRS,mid_greendown,277.0,115
+Asheville,2024,VIIRS,mid_greendown,278.0,134
+Asheville,2024,VIIRS,mid_greendown,279.0,164
+Asheville,2024,VIIRS,mid_greendown,280.0,163
+Asheville,2024,VIIRS,mid_greendown,281.0,198
+Asheville,2024,VIIRS,mid_greendown,282.0,221
+Asheville,2024,VIIRS,mid_greendown,283.0,246
+Asheville,2024,VIIRS,mid_greendown,284.0,259
+Asheville,2024,VIIRS,mid_greendown,285.0,296
+Asheville,2024,VIIRS,mid_greendown,286.0,261
+Asheville,2024,VIIRS,mid_greendown,287.0,355
+Asheville,2024,VIIRS,mid_greendown,288.0,326
+Asheville,2024,VIIRS,mid_greendown,289.0,319
+Asheville,2024,VIIRS,mid_greendown,290.0,346
+Asheville,2024,VIIRS,mid_greendown,291.0,322
+Asheville,2024,VIIRS,mid_greendown,292.0,359
+Asheville,2024,VIIRS,mid_greendown,293.0,333
+Asheville,2024,VIIRS,mid_greendown,294.0,317
+Asheville,2024,VIIRS,mid_greendown,295.0,318
+Asheville,2024,VIIRS,mid_greendown,296.0,280
+Asheville,2024,VIIRS,mid_greendown,297.0,236
+Asheville,2024,VIIRS,mid_greendown,298.0,235
+Asheville,2024,VIIRS,mid_greendown,299.0,225
+Asheville,2024,VIIRS,mid_greendown,300.0,185
+Asheville,2024,VIIRS,mid_greendown,301.0,175
+Asheville,2024,VIIRS,mid_greendown,302.0,143
+Asheville,2024,VIIRS,mid_greendown,303.0,110
+Asheville,2024,VIIRS,mid_greendown,304.0,95
+Asheville,2024,VIIRS,mid_greendown,305.0,76
+Asheville,2024,VIIRS,mid_greendown,306.0,48
+Asheville,2024,VIIRS,mid_greendown,307.0,46
+Asheville,2024,VIIRS,mid_greendown,308.0,28
+Asheville,2024,VIIRS,mid_greendown,309.0,28
+Asheville,2024,VIIRS,mid_greendown,310.0,11
+Asheville,2024,VIIRS,mid_greendown,311.0,9
+Asheville,2024,VIIRS,mid_greendown,312.0,11
+Asheville,2024,VIIRS,mid_greendown,313.0,5
+Asheville,2024,VIIRS,mid_greendown,315.0,2
+Asheville,2024,VIIRS,dormancy,306.0,1
+Asheville,2024,VIIRS,dormancy,308.0,2
+Asheville,2024,VIIRS,dormancy,309.0,1
+Asheville,2024,VIIRS,dormancy,310.0,4
+Asheville,2024,VIIRS,dormancy,311.0,3
+Asheville,2024,VIIRS,dormancy,312.0,4
+Asheville,2024,VIIRS,dormancy,313.0,5
+Asheville,2024,VIIRS,dormancy,314.0,7
+Asheville,2024,VIIRS,dormancy,315.0,13
+Asheville,2024,VIIRS,dormancy,316.0,8
+Asheville,2024,VIIRS,dormancy,317.0,8
+Asheville,2024,VIIRS,dormancy,318.0,17
+Asheville,2024,VIIRS,dormancy,319.0,24
+Asheville,2024,VIIRS,dormancy,320.0,22
+Asheville,2024,VIIRS,dormancy,321.0,38
+Asheville,2024,VIIRS,dormancy,322.0,37
+Asheville,2024,VIIRS,dormancy,323.0,45
+Asheville,2024,VIIRS,dormancy,324.0,55
+Asheville,2024,VIIRS,dormancy,325.0,55
+Asheville,2024,VIIRS,dormancy,326.0,82
+Asheville,2024,VIIRS,dormancy,327.0,96
+Asheville,2024,VIIRS,dormancy,328.0,121
+Asheville,2024,VIIRS,dormancy,329.0,141
+Asheville,2024,VIIRS,dormancy,330.0,166
+Asheville,2024,VIIRS,dormancy,331.0,194
+Asheville,2024,VIIRS,dormancy,332.0,228
+Asheville,2024,VIIRS,dormancy,333.0,288
+Asheville,2024,VIIRS,dormancy,334.0,308
+Asheville,2024,VIIRS,dormancy,335.0,343
+Asheville,2024,VIIRS,dormancy,336.0,400
+Asheville,2024,VIIRS,dormancy,337.0,417
+Asheville,2024,VIIRS,dormancy,338.0,460
+Asheville,2024,VIIRS,dormancy,339.0,436
+Asheville,2024,VIIRS,dormancy,340.0,439
+Asheville,2024,VIIRS,dormancy,341.0,423
+Asheville,2024,VIIRS,dormancy,342.0,402
+Asheville,2024,VIIRS,dormancy,343.0,427
+Asheville,2024,VIIRS,dormancy,344.0,350
+Asheville,2024,VIIRS,dormancy,345.0,284
+Asheville,2024,VIIRS,dormancy,346.0,278
+Asheville,2024,VIIRS,dormancy,347.0,228
+Asheville,2024,VIIRS,dormancy,348.0,175
+Asheville,2024,VIIRS,dormancy,349.0,141
+Asheville,2024,VIIRS,dormancy,350.0,100
+Asheville,2024,VIIRS,dormancy,351.0,72
+Asheville,2024,VIIRS,dormancy,352.0,64
+Asheville,2024,VIIRS,dormancy,353.0,43
+Asheville,2024,VIIRS,dormancy,354.0,34
+Asheville,2024,VIIRS,dormancy,355.0,31
+Asheville,2024,VIIRS,dormancy,356.0,14
+Asheville,2024,VIIRS,dormancy,357.0,16
+Asheville,2024,VIIRS,dormancy,358.0,8
+Asheville,2024,VIIRS,dormancy,359.0,10
+Asheville,2024,VIIRS,dormancy,360.0,6
+Asheville,2024,VIIRS,dormancy,361.0,6
+Asheville,2024,VIIRS,dormancy,362.0,2
+Asheville,2024,VIIRS,dormancy,363.0,6
+Asheville,2024,VIIRS,dormancy,364.0,2
+Asheville,2024,VIIRS,dormancy,365.0,5
+Asheville,2024,VIIRS,forest_px,1.0,16973

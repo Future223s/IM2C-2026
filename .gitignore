@@ -1,0 +1,8 @@
+# OS / editor / Python junk
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Too big for GitHub (132 MB). The same data is in data/panel_v1_pixels.zip
+data/panel_v1/pixels.csv

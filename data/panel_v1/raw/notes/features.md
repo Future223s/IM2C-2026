@@ -1,0 +1,3 @@
+- Relative windows anchored at P = round(peak_doy_mean): Montpelier 272, Old Forge 271, Binghamton 274, Scranton 278, State College 277, Frostburg 275, Valley Head 275, Shenandoah 283, Roanoke 279, Boone 278, Asheville 281
+- Location-years with an incomplete 60-day relative window: 0
+- yearly features: 286 rows × 28 cols; location features: (11, 11)

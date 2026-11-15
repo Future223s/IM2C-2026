@@ -1,0 +1,4 @@
+series,slope_days_per_decade,ci95_lo,ci95_hi,p
+peak_doy,-0.8816,-5.0138,3.2505,0.6758
+peak_doy_viirs,6.8492,2.6484,11.0501,0.0014
+diff,7.7309,5.6621,9.7996,0.0

@@ -1,0 +1,4 @@
+- gridMET daily: 78,441 rows, 2001-03-01 → **2026-11-11** (last available date)
+- GRIDMET/DROUGHT pdsi: 15,686 rows, 2001-03-01 → 2026-11-06
+- Location-years (2001–2025) with < 275 days: 0
+- Missing daily values: none

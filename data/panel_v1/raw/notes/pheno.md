@@ -1,0 +1,6 @@
+- MODIS: years 2001–2025 (25), encoding `days_since_1970`
+- VIIRS: years 2013–2025 (13), encoding `days_since_2000`
+- Percentiles are EXACT (unweighted per-region pixel histograms of integer-day dates; numpy 'linear' percentile definition), not `ee.Reducer.percentile` (see deviations).
+- MODIS MCD12Q2 most recent year: **2025**
+- MODIS 2025 target missing for: none
+- Rows with mid_greendown_p50 outside DOY 230–350: 0

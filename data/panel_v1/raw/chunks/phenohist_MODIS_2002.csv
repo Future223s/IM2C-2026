@@ -1,0 +1,2694 @@
+name,year,product,band,value,n
+Montpelier,2002,MODIS,mid_greenup,121.0,1
+Montpelier,2002,MODIS,mid_greenup,122.0,1
+Montpelier,2002,MODIS,mid_greenup,123.0,3
+Montpelier,2002,MODIS,mid_greenup,124.0,7
+Montpelier,2002,MODIS,mid_greenup,125.0,12
+Montpelier,2002,MODIS,mid_greenup,126.0,18
+Montpelier,2002,MODIS,mid_greenup,127.0,20
+Montpelier,2002,MODIS,mid_greenup,128.0,37
+Montpelier,2002,MODIS,mid_greenup,129.0,74
+Montpelier,2002,MODIS,mid_greenup,130.0,112
+Montpelier,2002,MODIS,mid_greenup,131.0,151
+Montpelier,2002,MODIS,mid_greenup,132.0,227
+Montpelier,2002,MODIS,mid_greenup,133.0,286
+Montpelier,2002,MODIS,mid_greenup,134.0,422
+Montpelier,2002,MODIS,mid_greenup,135.0,578
+Montpelier,2002,MODIS,mid_greenup,136.0,647
+Montpelier,2002,MODIS,mid_greenup,137.0,783
+Montpelier,2002,MODIS,mid_greenup,138.0,933
+Montpelier,2002,MODIS,mid_greenup,139.0,992
+Montpelier,2002,MODIS,mid_greenup,140.0,1139
+Montpelier,2002,MODIS,mid_greenup,141.0,1090
+Montpelier,2002,MODIS,mid_greenup,142.0,1120
+Montpelier,2002,MODIS,mid_greenup,143.0,1176
+Montpelier,2002,MODIS,mid_greenup,144.0,1006
+Montpelier,2002,MODIS,mid_greenup,145.0,903
+Montpelier,2002,MODIS,mid_greenup,146.0,866
+Montpelier,2002,MODIS,mid_greenup,147.0,749
+Montpelier,2002,MODIS,mid_greenup,148.0,537
+Montpelier,2002,MODIS,mid_greenup,149.0,452
+Montpelier,2002,MODIS,mid_greenup,150.0,387
+Montpelier,2002,MODIS,mid_greenup,151.0,332
+Montpelier,2002,MODIS,mid_greenup,152.0,261
+Montpelier,2002,MODIS,mid_greenup,153.0,217
+Montpelier,2002,MODIS,mid_greenup,154.0,168
+Montpelier,2002,MODIS,mid_greenup,155.0,121
+Montpelier,2002,MODIS,mid_greenup,156.0,70
+Montpelier,2002,MODIS,mid_greenup,157.0,55
+Montpelier,2002,MODIS,mid_greenup,158.0,31
+Montpelier,2002,MODIS,mid_greenup,159.0,26
+Montpelier,2002,MODIS,mid_greenup,160.0,22
+Montpelier,2002,MODIS,mid_greenup,161.0,7
+Montpelier,2002,MODIS,mid_greenup,162.0,3
+Montpelier,2002,MODIS,mid_greenup,163.0,3
+Montpelier,2002,MODIS,mid_greenup,164.0,2
+Montpelier,2002,MODIS,mid_greenup,165.0,2
+Montpelier,2002,MODIS,mid_greenup,166.0,2
+Montpelier,2002,MODIS,mid_greenup,167.0,1
+Montpelier,2002,MODIS,senescence,202.0,1
+Montpelier,2002,MODIS,senescence,206.0,1
+Montpelier,2002,MODIS,senescence,207.0,2
+Montpelier,2002,MODIS,senescence,208.0,3
+Montpelier,2002,MODIS,senescence,209.0,4
+Montpelier,2002,MODIS,senescence,210.0,5
+Montpelier,2002,MODIS,senescence,211.0,5
+Montpelier,2002,MODIS,senescence,212.0,11
+Montpelier,2002,MODIS,senescence,213.0,27
+Montpelier,2002,MODIS,senescence,214.0,38
+Montpelier,2002,MODIS,senescence,215.0,50
+Montpelier,2002,MODIS,senescence,216.0,71
+Montpelier,2002,MODIS,senescence,217.0,103
+Montpelier,2002,MODIS,senescence,218.0,184
+Montpelier,2002,MODIS,senescence,219.0,206
+Montpelier,2002,MODIS,senescence,220.0,278
+Montpelier,2002,MODIS,senescence,221.0,365
+Montpelier,2002,MODIS,senescence,222.0,492
+Montpelier,2002,MODIS,senescence,223.0,585
+Montpelier,2002,MODIS,senescence,224.0,741
+Montpelier,2002,MODIS,senescence,225.0,828
+Montpelier,2002,MODIS,senescence,226.0,1016
+Montpelier,2002,MODIS,senescence,227.0,990
+Montpelier,2002,MODIS,senescence,228.0,1054
+Montpelier,2002,MODIS,senescence,229.0,1017
+Montpelier,2002,MODIS,senescence,230.0,1130
+Montpelier,2002,MODIS,senescence,231.0,997
+Montpelier,2002,MODIS,senescence,232.0,927
+Montpelier,2002,MODIS,senescence,233.0,854
+Montpelier,2002,MODIS,senescence,234.0,792
+Montpelier,2002,MODIS,senescence,235.0,619
+Montpelier,2002,MODIS,senescence,236.0,555
+Montpelier,2002,MODIS,senescence,237.0,469
+Montpelier,2002,MODIS,senescence,238.0,398
+Montpelier,2002,MODIS,senescence,239.0,266
+Montpelier,2002,MODIS,senescence,240.0,235
+Montpelier,2002,MODIS,senescence,241.0,182
+Montpelier,2002,MODIS,senescence,242.0,150
+Montpelier,2002,MODIS,senescence,243.0,130
+Montpelier,2002,MODIS,senescence,244.0,79
+Montpelier,2002,MODIS,senescence,245.0,68
+Montpelier,2002,MODIS,senescence,246.0,45
+Montpelier,2002,MODIS,senescence,247.0,20
+Montpelier,2002,MODIS,senescence,248.0,17
+Montpelier,2002,MODIS,senescence,249.0,17
+Montpelier,2002,MODIS,senescence,250.0,9
+Montpelier,2002,MODIS,senescence,251.0,4
+Montpelier,2002,MODIS,senescence,252.0,5
+Montpelier,2002,MODIS,senescence,253.0,4
+Montpelier,2002,MODIS,senescence,259.0,1
+Montpelier,2002,MODIS,senescence,262.0,1
+Montpelier,2002,MODIS,senescence,270.0,1
+Montpelier,2002,MODIS,mid_greendown,255.0,1
+Montpelier,2002,MODIS,mid_greendown,256.0,1
+Montpelier,2002,MODIS,mid_greendown,257.0,4
+Montpelier,2002,MODIS,mid_greendown,258.0,2
+Montpelier,2002,MODIS,mid_greendown,259.0,5
+Montpelier,2002,MODIS,mid_greendown,260.0,11
+Montpelier,2002,MODIS,mid_greendown,261.0,17
+Montpelier,2002,MODIS,mid_greendown,262.0,29
+Montpelier,2002,MODIS,mid_greendown,263.0,39
+Montpelier,2002,MODIS,mid_greendown,264.0,69
+Montpelier,2002,MODIS,mid_greendown,265.0,71
+Montpelier,2002,MODIS,mid_greendown,266.0,94
+Montpelier,2002,MODIS,mid_greendown,267.0,157
+Montpelier,2002,MODIS,mid_greendown,268.0,225
+Montpelier,2002,MODIS,mid_greendown,269.0,308
+Montpelier,2002,MODIS,mid_greendown,270.0,389
+Montpelier,2002,MODIS,mid_greendown,271.0,489
+Montpelier,2002,MODIS,mid_greendown,272.0,586
+Montpelier,2002,MODIS,mid_greendown,273.0,772
+Montpelier,2002,MODIS,mid_greendown,274.0,873
+Montpelier,2002,MODIS,mid_greendown,275.0,1029
+Montpelier,2002,MODIS,mid_greendown,276.0,1171
+Montpelier,2002,MODIS,mid_greendown,277.0,1200
+Montpelier,2002,MODIS,mid_greendown,278.0,1215
+Montpelier,2002,MODIS,mid_greendown,279.0,1234
+Montpelier,2002,MODIS,mid_greendown,280.0,1087
+Montpelier,2002,MODIS,mid_greendown,281.0,1007
+Montpelier,2002,MODIS,mid_greendown,282.0,944
+Montpelier,2002,MODIS,mid_greendown,283.0,760
+Montpelier,2002,MODIS,mid_greendown,284.0,640
+Montpelier,2002,MODIS,mid_greendown,285.0,478
+Montpelier,2002,MODIS,mid_greendown,286.0,312
+Montpelier,2002,MODIS,mid_greendown,287.0,245
+Montpelier,2002,MODIS,mid_greendown,288.0,150
+Montpelier,2002,MODIS,mid_greendown,289.0,134
+Montpelier,2002,MODIS,mid_greendown,290.0,84
+Montpelier,2002,MODIS,mid_greendown,291.0,64
+Montpelier,2002,MODIS,mid_greendown,292.0,45
+Montpelier,2002,MODIS,mid_greendown,293.0,41
+Montpelier,2002,MODIS,mid_greendown,294.0,28
+Montpelier,2002,MODIS,mid_greendown,295.0,17
+Montpelier,2002,MODIS,mid_greendown,296.0,11
+Montpelier,2002,MODIS,mid_greendown,297.0,7
+Montpelier,2002,MODIS,mid_greendown,298.0,3
+Montpelier,2002,MODIS,mid_greendown,299.0,3
+Montpelier,2002,MODIS,mid_greendown,304.0,1
+Montpelier,2002,MODIS,dormancy,280.0,1
+Montpelier,2002,MODIS,dormancy,286.0,1
+Montpelier,2002,MODIS,dormancy,288.0,3
+Montpelier,2002,MODIS,dormancy,289.0,3
+Montpelier,2002,MODIS,dormancy,290.0,3
+Montpelier,2002,MODIS,dormancy,291.0,8
+Montpelier,2002,MODIS,dormancy,292.0,24
+Montpelier,2002,MODIS,dormancy,293.0,15
+Montpelier,2002,MODIS,dormancy,294.0,33
+Montpelier,2002,MODIS,dormancy,295.0,61
+Montpelier,2002,MODIS,dormancy,296.0,75
+Montpelier,2002,MODIS,dormancy,297.0,107
+Montpelier,2002,MODIS,dormancy,298.0,144
+Montpelier,2002,MODIS,dormancy,299.0,227
+Montpelier,2002,MODIS,dormancy,300.0,285
+Montpelier,2002,MODIS,dormancy,301.0,352
+Montpelier,2002,MODIS,dormancy,302.0,480
+Montpelier,2002,MODIS,dormancy,303.0,557
+Montpelier,2002,MODIS,dormancy,304.0,682
+Montpelier,2002,MODIS,dormancy,305.0,779
+Montpelier,2002,MODIS,dormancy,306.0,904
+Montpelier,2002,MODIS,dormancy,307.0,981
+Montpelier,2002,MODIS,dormancy,308.0,1022
+Montpelier,2002,MODIS,dormancy,309.0,1003
+Montpelier,2002,MODIS,dormancy,310.0,1044
+Montpelier,2002,MODIS,dormancy,311.0,999
+Montpelier,2002,MODIS,dormancy,312.0,989
+Montpelier,2002,MODIS,dormancy,313.0,788
+Montpelier,2002,MODIS,dormancy,314.0,736
+Montpelier,2002,MODIS,dormancy,315.0,628
+Montpelier,2002,MODIS,dormancy,316.0,524
+Montpelier,2002,MODIS,dormancy,317.0,441
+Montpelier,2002,MODIS,dormancy,318.0,356
+Montpelier,2002,MODIS,dormancy,319.0,266
+Montpelier,2002,MODIS,dormancy,320.0,253
+Montpelier,2002,MODIS,dormancy,321.0,163
+Montpelier,2002,MODIS,dormancy,322.0,165
+Montpelier,2002,MODIS,dormancy,323.0,129
+Montpelier,2002,MODIS,dormancy,324.0,112
+Montpelier,2002,MODIS,dormancy,325.0,105
+Montpelier,2002,MODIS,dormancy,326.0,84
+Montpelier,2002,MODIS,dormancy,327.0,67
+Montpelier,2002,MODIS,dormancy,328.0,66
+Montpelier,2002,MODIS,dormancy,329.0,46
+Montpelier,2002,MODIS,dormancy,330.0,57
+Montpelier,2002,MODIS,dormancy,331.0,39
+Montpelier,2002,MODIS,dormancy,332.0,53
+Montpelier,2002,MODIS,dormancy,333.0,43
+Montpelier,2002,MODIS,dormancy,334.0,22
+Montpelier,2002,MODIS,dormancy,335.0,37
+Montpelier,2002,MODIS,dormancy,336.0,19
+Montpelier,2002,MODIS,dormancy,337.0,23
+Montpelier,2002,MODIS,dormancy,338.0,16
+Montpelier,2002,MODIS,dormancy,339.0,12
+Montpelier,2002,MODIS,dormancy,340.0,5
+Montpelier,2002,MODIS,dormancy,341.0,2
+Montpelier,2002,MODIS,dormancy,342.0,7
+Montpelier,2002,MODIS,dormancy,343.0,3
+Montpelier,2002,MODIS,dormancy,344.0,2
+Montpelier,2002,MODIS,dormancy,355.0,1
+Montpelier,2002,MODIS,forest_px,1.0,16052
+Old Forge,2002,MODIS,mid_greenup,1.0,1
+Old Forge,2002,MODIS,mid_greenup,125.0,3
+Old Forge,2002,MODIS,mid_greenup,126.0,3
+Old Forge,2002,MODIS,mid_greenup,128.0,1
+Old Forge,2002,MODIS,mid_greenup,129.0,1
+Old Forge,2002,MODIS,mid_greenup,130.0,4
+Old Forge,2002,MODIS,mid_greenup,131.0,5
+Old Forge,2002,MODIS,mid_greenup,132.0,8
+Old Forge,2002,MODIS,mid_greenup,133.0,16
+Old Forge,2002,MODIS,mid_greenup,134.0,15
+Old Forge,2002,MODIS,mid_greenup,135.0,15
+Old Forge,2002,MODIS,mid_greenup,136.0,33
+Old Forge,2002,MODIS,mid_greenup,137.0,41
+Old Forge,2002,MODIS,mid_greenup,138.0,49
+Old Forge,2002,MODIS,mid_greenup,139.0,93
+Old Forge,2002,MODIS,mid_greenup,140.0,126
+Old Forge,2002,MODIS,mid_greenup,141.0,183
+Old Forge,2002,MODIS,mid_greenup,142.0,235
+Old Forge,2002,MODIS,mid_greenup,143.0,362
+Old Forge,2002,MODIS,mid_greenup,144.0,465
+Old Forge,2002,MODIS,mid_greenup,145.0,638
+Old Forge,2002,MODIS,mid_greenup,146.0,820
+Old Forge,2002,MODIS,mid_greenup,147.0,1067
+Old Forge,2002,MODIS,mid_greenup,148.0,1261
+Old Forge,2002,MODIS,mid_greenup,149.0,1465
+Old Forge,2002,MODIS,mid_greenup,150.0,1492
+Old Forge,2002,MODIS,mid_greenup,151.0,1478
+Old Forge,2002,MODIS,mid_greenup,152.0,1394
+Old Forge,2002,MODIS,mid_greenup,153.0,1139
+Old Forge,2002,MODIS,mid_greenup,154.0,861
+Old Forge,2002,MODIS,mid_greenup,155.0,596
+Old Forge,2002,MODIS,mid_greenup,156.0,330
+Old Forge,2002,MODIS,mid_greenup,157.0,182
+Old Forge,2002,MODIS,mid_greenup,158.0,87
+Old Forge,2002,MODIS,mid_greenup,159.0,53
+Old Forge,2002,MODIS,mid_greenup,160.0,20
+Old Forge,2002,MODIS,mid_greenup,161.0,16
+Old Forge,2002,MODIS,mid_greenup,162.0,4
+Old Forge,2002,MODIS,mid_greenup,163.0,6
+Old Forge,2002,MODIS,mid_greenup,164.0,2
+Old Forge,2002,MODIS,mid_greenup,165.0,1
+Old Forge,2002,MODIS,mid_greenup,166.0,2
+Old Forge,2002,MODIS,mid_greenup,175.0,1
+Old Forge,2002,MODIS,mid_greenup,3.0,1
+Old Forge,2002,MODIS,mid_greenup,8.0,1
+Old Forge,2002,MODIS,senescence,199.0,1
+Old Forge,2002,MODIS,senescence,204.0,1
+Old Forge,2002,MODIS,senescence,206.0,1
+Old Forge,2002,MODIS,senescence,210.0,3
+Old Forge,2002,MODIS,senescence,211.0,4
+Old Forge,2002,MODIS,senescence,212.0,4
+Old Forge,2002,MODIS,senescence,213.0,6
+Old Forge,2002,MODIS,senescence,214.0,11
+Old Forge,2002,MODIS,senescence,215.0,10
+Old Forge,2002,MODIS,senescence,216.0,16
+Old Forge,2002,MODIS,senescence,217.0,28
+Old Forge,2002,MODIS,senescence,218.0,38
+Old Forge,2002,MODIS,senescence,219.0,49
+Old Forge,2002,MODIS,senescence,220.0,61
+Old Forge,2002,MODIS,senescence,221.0,92
+Old Forge,2002,MODIS,senescence,222.0,141
+Old Forge,2002,MODIS,senescence,223.0,188
+Old Forge,2002,MODIS,senescence,224.0,255
+Old Forge,2002,MODIS,senescence,225.0,362
+Old Forge,2002,MODIS,senescence,226.0,480
+Old Forge,2002,MODIS,senescence,227.0,560
+Old Forge,2002,MODIS,senescence,228.0,706
+Old Forge,2002,MODIS,senescence,229.0,889
+Old Forge,2002,MODIS,senescence,230.0,1080
+Old Forge,2002,MODIS,senescence,231.0,1150
+Old Forge,2002,MODIS,senescence,232.0,1169
+Old Forge,2002,MODIS,senescence,233.0,1214
+Old Forge,2002,MODIS,senescence,234.0,1119
+Old Forge,2002,MODIS,senescence,235.0,1049
+Old Forge,2002,MODIS,senescence,236.0,875
+Old Forge,2002,MODIS,senescence,237.0,702
+Old Forge,2002,MODIS,senescence,238.0,616
+Old Forge,2002,MODIS,senescence,239.0,458
+Old Forge,2002,MODIS,senescence,240.0,374
+Old Forge,2002,MODIS,senescence,241.0,225
+Old Forge,2002,MODIS,senescence,242.0,181
+Old Forge,2002,MODIS,senescence,243.0,142
+Old Forge,2002,MODIS,senescence,244.0,86
+Old Forge,2002,MODIS,senescence,245.0,69
+Old Forge,2002,MODIS,senescence,246.0,41
+Old Forge,2002,MODIS,senescence,247.0,37
+Old Forge,2002,MODIS,senescence,248.0,23
+Old Forge,2002,MODIS,senescence,249.0,23
+Old Forge,2002,MODIS,senescence,250.0,9
+Old Forge,2002,MODIS,senescence,251.0,7
+Old Forge,2002,MODIS,senescence,252.0,4
+Old Forge,2002,MODIS,senescence,253.0,2
+Old Forge,2002,MODIS,senescence,254.0,1
+Old Forge,2002,MODIS,senescence,255.0,3
+Old Forge,2002,MODIS,senescence,256.0,2
+Old Forge,2002,MODIS,senescence,257.0,1
+Old Forge,2002,MODIS,senescence,258.0,2
+Old Forge,2002,MODIS,senescence,259.0,1
+Old Forge,2002,MODIS,senescence,260.0,2
+Old Forge,2002,MODIS,senescence,52.0,1
+Old Forge,2002,MODIS,senescence,56.0,1
+Old Forge,2002,MODIS,senescence,59.0,1
+Old Forge,2002,MODIS,mid_greendown,253.0,1
+Old Forge,2002,MODIS,mid_greendown,258.0,5
+Old Forge,2002,MODIS,mid_greendown,259.0,2
+Old Forge,2002,MODIS,mid_greendown,260.0,4
+Old Forge,2002,MODIS,mid_greendown,261.0,4
+Old Forge,2002,MODIS,mid_greendown,262.0,6
+Old Forge,2002,MODIS,mid_greendown,263.0,14
+Old Forge,2002,MODIS,mid_greendown,264.0,12
+Old Forge,2002,MODIS,mid_greendown,265.0,21
+Old Forge,2002,MODIS,mid_greendown,266.0,37
+Old Forge,2002,MODIS,mid_greendown,267.0,57
+Old Forge,2002,MODIS,mid_greendown,268.0,101
+Old Forge,2002,MODIS,mid_greendown,269.0,171
+Old Forge,2002,MODIS,mid_greendown,270.0,251
+Old Forge,2002,MODIS,mid_greendown,271.0,340
+Old Forge,2002,MODIS,mid_greendown,272.0,532
+Old Forge,2002,MODIS,mid_greendown,273.0,752
+Old Forge,2002,MODIS,mid_greendown,274.0,964
+Old Forge,2002,MODIS,mid_greendown,275.0,1164
+Old Forge,2002,MODIS,mid_greendown,276.0,1340
+Old Forge,2002,MODIS,mid_greendown,277.0,1497
+Old Forge,2002,MODIS,mid_greendown,278.0,1447
+Old Forge,2002,MODIS,mid_greendown,279.0,1383
+Old Forge,2002,MODIS,mid_greendown,280.0,1114
+Old Forge,2002,MODIS,mid_greendown,281.0,929
+Old Forge,2002,MODIS,mid_greendown,282.0,716
+Old Forge,2002,MODIS,mid_greendown,283.0,494
+Old Forge,2002,MODIS,mid_greendown,284.0,393
+Old Forge,2002,MODIS,mid_greendown,285.0,288
+Old Forge,2002,MODIS,mid_greendown,286.0,171
+Old Forge,2002,MODIS,mid_greendown,287.0,147
+Old Forge,2002,MODIS,mid_greendown,288.0,73
+Old Forge,2002,MODIS,mid_greendown,289.0,59
+Old Forge,2002,MODIS,mid_greendown,290.0,28
+Old Forge,2002,MODIS,mid_greendown,291.0,28
+Old Forge,2002,MODIS,mid_greendown,292.0,11
+Old Forge,2002,MODIS,mid_greendown,293.0,8
+Old Forge,2002,MODIS,mid_greendown,294.0,3
+Old Forge,2002,MODIS,mid_greendown,295.0,2
+Old Forge,2002,MODIS,mid_greendown,296.0,1
+Old Forge,2002,MODIS,mid_greendown,297.0,1
+Old Forge,2002,MODIS,mid_greendown,298.0,1
+Old Forge,2002,MODIS,mid_greendown,299.0,1
+Old Forge,2002,MODIS,mid_greendown,74.0,1
+Old Forge,2002,MODIS,mid_greendown,78.0,1
+Old Forge,2002,MODIS,mid_greendown,80.0,1
+Old Forge,2002,MODIS,dormancy,287.0,1
+Old Forge,2002,MODIS,dormancy,289.0,1
+Old Forge,2002,MODIS,dormancy,290.0,3
+Old Forge,2002,MODIS,dormancy,291.0,2
+Old Forge,2002,MODIS,dormancy,292.0,11
+Old Forge,2002,MODIS,dormancy,293.0,11
+Old Forge,2002,MODIS,dormancy,294.0,25
+Old Forge,2002,MODIS,dormancy,295.0,34
+Old Forge,2002,MODIS,dormancy,296.0,47
+Old Forge,2002,MODIS,dormancy,297.0,82
+Old Forge,2002,MODIS,dormancy,298.0,143
+Old Forge,2002,MODIS,dormancy,299.0,210
+Old Forge,2002,MODIS,dormancy,300.0,255
+Old Forge,2002,MODIS,dormancy,301.0,337
+Old Forge,2002,MODIS,dormancy,302.0,483
+Old Forge,2002,MODIS,dormancy,303.0,596
+Old Forge,2002,MODIS,dormancy,304.0,722
+Old Forge,2002,MODIS,dormancy,305.0,848
+Old Forge,2002,MODIS,dormancy,306.0,1051
+Old Forge,2002,MODIS,dormancy,307.0,1057
+Old Forge,2002,MODIS,dormancy,308.0,1047
+Old Forge,2002,MODIS,dormancy,309.0,1072
+Old Forge,2002,MODIS,dormancy,310.0,979
+Old Forge,2002,MODIS,dormancy,311.0,936
+Old Forge,2002,MODIS,dormancy,312.0,770
+Old Forge,2002,MODIS,dormancy,313.0,661
+Old Forge,2002,MODIS,dormancy,314.0,580
+Old Forge,2002,MODIS,dormancy,315.0,475
+Old Forge,2002,MODIS,dormancy,316.0,377
+Old Forge,2002,MODIS,dormancy,317.0,271
+Old Forge,2002,MODIS,dormancy,318.0,247
+Old Forge,2002,MODIS,dormancy,319.0,168
+Old Forge,2002,MODIS,dormancy,320.0,141
+Old Forge,2002,MODIS,dormancy,321.0,128
+Old Forge,2002,MODIS,dormancy,322.0,106
+Old Forge,2002,MODIS,dormancy,323.0,101
+Old Forge,2002,MODIS,dormancy,324.0,86
+Old Forge,2002,MODIS,dormancy,325.0,70
+Old Forge,2002,MODIS,dormancy,326.0,59
+Old Forge,2002,MODIS,dormancy,327.0,57
+Old Forge,2002,MODIS,dormancy,328.0,31
+Old Forge,2002,MODIS,dormancy,329.0,38
+Old Forge,2002,MODIS,dormancy,330.0,41
+Old Forge,2002,MODIS,dormancy,331.0,35
+Old Forge,2002,MODIS,dormancy,332.0,18
+Old Forge,2002,MODIS,dormancy,333.0,25
+Old Forge,2002,MODIS,dormancy,334.0,26
+Old Forge,2002,MODIS,dormancy,335.0,14
+Old Forge,2002,MODIS,dormancy,336.0,11
+Old Forge,2002,MODIS,dormancy,337.0,18
+Old Forge,2002,MODIS,dormancy,338.0,8
+Old Forge,2002,MODIS,dormancy,339.0,8
+Old Forge,2002,MODIS,dormancy,340.0,4
+Old Forge,2002,MODIS,dormancy,341.0,9
+Old Forge,2002,MODIS,dormancy,342.0,10
+Old Forge,2002,MODIS,dormancy,343.0,5
+Old Forge,2002,MODIS,dormancy,344.0,3
+Old Forge,2002,MODIS,dormancy,345.0,4
+Old Forge,2002,MODIS,dormancy,346.0,4
+Old Forge,2002,MODIS,dormancy,347.0,4
+Old Forge,2002,MODIS,dormancy,349.0,3
+Old Forge,2002,MODIS,dormancy,352.0,2
+Old Forge,2002,MODIS,dormancy,353.0,1
+Old Forge,2002,MODIS,dormancy,354.0,1
+Old Forge,2002,MODIS,dormancy,93.0,1
+Old Forge,2002,MODIS,dormancy,96.0,1
+Old Forge,2002,MODIS,dormancy,97.0,1
+Old Forge,2002,MODIS,forest_px,1.0,14576
+Binghamton,2002,MODIS,mid_greenup,104.0,1
+Binghamton,2002,MODIS,mid_greenup,105.0,1
+Binghamton,2002,MODIS,mid_greenup,107.0,2
+Binghamton,2002,MODIS,mid_greenup,110.0,1
+Binghamton,2002,MODIS,mid_greenup,111.0,1
+Binghamton,2002,MODIS,mid_greenup,112.0,2
+Binghamton,2002,MODIS,mid_greenup,113.0,4
+Binghamton,2002,MODIS,mid_greenup,114.0,8
+Binghamton,2002,MODIS,mid_greenup,115.0,4
+Binghamton,2002,MODIS,mid_greenup,116.0,15
+Binghamton,2002,MODIS,mid_greenup,117.0,22
+Binghamton,2002,MODIS,mid_greenup,118.0,42
+Binghamton,2002,MODIS,mid_greenup,119.0,44
+Binghamton,2002,MODIS,mid_greenup,120.0,54
+Binghamton,2002,MODIS,mid_greenup,121.0,74
+Binghamton,2002,MODIS,mid_greenup,122.0,112
+Binghamton,2002,MODIS,mid_greenup,123.0,143
+Binghamton,2002,MODIS,mid_greenup,124.0,200
+Binghamton,2002,MODIS,mid_greenup,125.0,256
+Binghamton,2002,MODIS,mid_greenup,126.0,285
+Binghamton,2002,MODIS,mid_greenup,127.0,406
+Binghamton,2002,MODIS,mid_greenup,128.0,496
+Binghamton,2002,MODIS,mid_greenup,129.0,618
+Binghamton,2002,MODIS,mid_greenup,130.0,741
+Binghamton,2002,MODIS,mid_greenup,131.0,855
+Binghamton,2002,MODIS,mid_greenup,132.0,1025
+Binghamton,2002,MODIS,mid_greenup,133.0,1192
+Binghamton,2002,MODIS,mid_greenup,134.0,1212
+Binghamton,2002,MODIS,mid_greenup,135.0,1203
+Binghamton,2002,MODIS,mid_greenup,136.0,1141
+Binghamton,2002,MODIS,mid_greenup,137.0,1149
+Binghamton,2002,MODIS,mid_greenup,138.0,992
+Binghamton,2002,MODIS,mid_greenup,139.0,791
+Binghamton,2002,MODIS,mid_greenup,140.0,569
+Binghamton,2002,MODIS,mid_greenup,141.0,408
+Binghamton,2002,MODIS,mid_greenup,142.0,290
+Binghamton,2002,MODIS,mid_greenup,143.0,199
+Binghamton,2002,MODIS,mid_greenup,144.0,118
+Binghamton,2002,MODIS,mid_greenup,145.0,85
+Binghamton,2002,MODIS,mid_greenup,146.0,50
+Binghamton,2002,MODIS,mid_greenup,147.0,36
+Binghamton,2002,MODIS,mid_greenup,148.0,37
+Binghamton,2002,MODIS,mid_greenup,149.0,26
+Binghamton,2002,MODIS,mid_greenup,150.0,17
+Binghamton,2002,MODIS,mid_greenup,151.0,9
+Binghamton,2002,MODIS,mid_greenup,152.0,5
+Binghamton,2002,MODIS,mid_greenup,153.0,5
+Binghamton,2002,MODIS,mid_greenup,155.0,1
+Binghamton,2002,MODIS,senescence,179.0,1
+Binghamton,2002,MODIS,senescence,181.0,1
+Binghamton,2002,MODIS,senescence,182.0,1
+Binghamton,2002,MODIS,senescence,183.0,1
+Binghamton,2002,MODIS,senescence,184.0,1
+Binghamton,2002,MODIS,senescence,185.0,2
+Binghamton,2002,MODIS,senescence,187.0,2
+Binghamton,2002,MODIS,senescence,188.0,3
+Binghamton,2002,MODIS,senescence,189.0,7
+Binghamton,2002,MODIS,senescence,190.0,9
+Binghamton,2002,MODIS,senescence,191.0,17
+Binghamton,2002,MODIS,senescence,192.0,19
+Binghamton,2002,MODIS,senescence,193.0,13
+Binghamton,2002,MODIS,senescence,194.0,27
+Binghamton,2002,MODIS,senescence,195.0,30
+Binghamton,2002,MODIS,senescence,196.0,30
+Binghamton,2002,MODIS,senescence,197.0,35
+Binghamton,2002,MODIS,senescence,198.0,55
+Binghamton,2002,MODIS,senescence,199.0,58
+Binghamton,2002,MODIS,senescence,200.0,79
+Binghamton,2002,MODIS,senescence,201.0,91
+Binghamton,2002,MODIS,senescence,202.0,88
+Binghamton,2002,MODIS,senescence,203.0,108
+Binghamton,2002,MODIS,senescence,204.0,142
+Binghamton,2002,MODIS,senescence,205.0,132
+Binghamton,2002,MODIS,senescence,206.0,172
+Binghamton,2002,MODIS,senescence,207.0,218
+Binghamton,2002,MODIS,senescence,208.0,237
+Binghamton,2002,MODIS,senescence,209.0,307
+Binghamton,2002,MODIS,senescence,210.0,363
+Binghamton,2002,MODIS,senescence,211.0,396
+Binghamton,2002,MODIS,senescence,212.0,372
+Binghamton,2002,MODIS,senescence,213.0,412
+Binghamton,2002,MODIS,senescence,214.0,513
+Binghamton,2002,MODIS,senescence,215.0,516
+Binghamton,2002,MODIS,senescence,216.0,556
+Binghamton,2002,MODIS,senescence,217.0,599
+Binghamton,2002,MODIS,senescence,218.0,636
+Binghamton,2002,MODIS,senescence,219.0,632
+Binghamton,2002,MODIS,senescence,220.0,683
+Binghamton,2002,MODIS,senescence,221.0,691
+Binghamton,2002,MODIS,senescence,222.0,709
+Binghamton,2002,MODIS,senescence,223.0,648
+Binghamton,2002,MODIS,senescence,224.0,597
+Binghamton,2002,MODIS,senescence,225.0,613
+Binghamton,2002,MODIS,senescence,226.0,622
+Binghamton,2002,MODIS,senescence,227.0,531
+Binghamton,2002,MODIS,senescence,228.0,474
+Binghamton,2002,MODIS,senescence,229.0,441
+Binghamton,2002,MODIS,senescence,230.0,372
+Binghamton,2002,MODIS,senescence,231.0,345
+Binghamton,2002,MODIS,senescence,232.0,253
+Binghamton,2002,MODIS,senescence,233.0,243
+Binghamton,2002,MODIS,senescence,234.0,177
+Binghamton,2002,MODIS,senescence,235.0,149
+Binghamton,2002,MODIS,senescence,236.0,123
+Binghamton,2002,MODIS,senescence,237.0,112
+Binghamton,2002,MODIS,senescence,238.0,66
+Binghamton,2002,MODIS,senescence,239.0,62
+Binghamton,2002,MODIS,senescence,240.0,29
+Binghamton,2002,MODIS,senescence,241.0,33
+Binghamton,2002,MODIS,senescence,242.0,24
+Binghamton,2002,MODIS,senescence,243.0,21
+Binghamton,2002,MODIS,senescence,244.0,8
+Binghamton,2002,MODIS,senescence,245.0,9
+Binghamton,2002,MODIS,senescence,246.0,6
+Binghamton,2002,MODIS,senescence,247.0,5
+Binghamton,2002,MODIS,senescence,248.0,6
+Binghamton,2002,MODIS,senescence,249.0,1
+Binghamton,2002,MODIS,senescence,250.0,3
+Binghamton,2002,MODIS,senescence,251.0,1
+Binghamton,2002,MODIS,senescence,252.0,1
+Binghamton,2002,MODIS,senescence,253.0,1
+Binghamton,2002,MODIS,senescence,254.0,3
+Binghamton,2002,MODIS,senescence,256.0,2
+Binghamton,2002,MODIS,senescence,258.0,1
+Binghamton,2002,MODIS,senescence,263.0,1
+Binghamton,2002,MODIS,mid_greendown,232.0,2
+Binghamton,2002,MODIS,mid_greendown,239.0,1
+Binghamton,2002,MODIS,mid_greendown,241.0,1
+Binghamton,2002,MODIS,mid_greendown,245.0,1
+Binghamton,2002,MODIS,mid_greendown,246.0,1
+Binghamton,2002,MODIS,mid_greendown,247.0,2
+Binghamton,2002,MODIS,mid_greendown,248.0,2
+Binghamton,2002,MODIS,mid_greendown,249.0,1
+Binghamton,2002,MODIS,mid_greendown,250.0,1
+Binghamton,2002,MODIS,mid_greendown,251.0,4
+Binghamton,2002,MODIS,mid_greendown,252.0,4
+Binghamton,2002,MODIS,mid_greendown,253.0,6
+Binghamton,2002,MODIS,mid_greendown,254.0,3
+Binghamton,2002,MODIS,mid_greendown,255.0,8
+Binghamton,2002,MODIS,mid_greendown,256.0,8
+Binghamton,2002,MODIS,mid_greendown,257.0,10
+Binghamton,2002,MODIS,mid_greendown,258.0,14
+Binghamton,2002,MODIS,mid_greendown,259.0,11
+Binghamton,2002,MODIS,mid_greendown,260.0,14
+Binghamton,2002,MODIS,mid_greendown,261.0,13
+Binghamton,2002,MODIS,mid_greendown,262.0,26
+Binghamton,2002,MODIS,mid_greendown,263.0,24
+Binghamton,2002,MODIS,mid_greendown,264.0,44
+Binghamton,2002,MODIS,mid_greendown,265.0,60
+Binghamton,2002,MODIS,mid_greendown,266.0,80
+Binghamton,2002,MODIS,mid_greendown,267.0,91
+Binghamton,2002,MODIS,mid_greendown,268.0,114
+Binghamton,2002,MODIS,mid_greendown,269.0,157
+Binghamton,2002,MODIS,mid_greendown,270.0,209
+Binghamton,2002,MODIS,mid_greendown,271.0,256
+Binghamton,2002,MODIS,mid_greendown,272.0,285
+Binghamton,2002,MODIS,mid_greendown,273.0,393
+Binghamton,2002,MODIS,mid_greendown,274.0,438
+Binghamton,2002,MODIS,mid_greendown,275.0,515
+Binghamton,2002,MODIS,mid_greendown,276.0,622
+Binghamton,2002,MODIS,mid_greendown,277.0,674
+Binghamton,2002,MODIS,mid_greendown,278.0,769
+Binghamton,2002,MODIS,mid_greendown,279.0,823
+Binghamton,2002,MODIS,mid_greendown,280.0,865
+Binghamton,2002,MODIS,mid_greendown,281.0,888
+Binghamton,2002,MODIS,mid_greendown,282.0,895
+Binghamton,2002,MODIS,mid_greendown,283.0,850
+Binghamton,2002,MODIS,mid_greendown,284.0,864
+Binghamton,2002,MODIS,mid_greendown,285.0,776
+Binghamton,2002,MODIS,mid_greendown,286.0,663
+Binghamton,2002,MODIS,mid_greendown,287.0,624
+Binghamton,2002,MODIS,mid_greendown,288.0,500
+Binghamton,2002,MODIS,mid_greendown,289.0,455
+Binghamton,2002,MODIS,mid_greendown,290.0,365
+Binghamton,2002,MODIS,mid_greendown,291.0,329
+Binghamton,2002,MODIS,mid_greendown,292.0,265
+Binghamton,2002,MODIS,mid_greendown,293.0,190
+Binghamton,2002,MODIS,mid_greendown,294.0,138
+Binghamton,2002,MODIS,mid_greendown,295.0,135
+Binghamton,2002,MODIS,mid_greendown,296.0,97
+Binghamton,2002,MODIS,mid_greendown,297.0,88
+Binghamton,2002,MODIS,mid_greendown,298.0,61
+Binghamton,2002,MODIS,mid_greendown,299.0,38
+Binghamton,2002,MODIS,mid_greendown,300.0,43
+Binghamton,2002,MODIS,mid_greendown,301.0,23
+Binghamton,2002,MODIS,mid_greendown,302.0,29
+Binghamton,2002,MODIS,mid_greendown,303.0,17
+Binghamton,2002,MODIS,mid_greendown,304.0,16
+Binghamton,2002,MODIS,mid_greendown,305.0,4
+Binghamton,2002,MODIS,mid_greendown,306.0,7
+Binghamton,2002,MODIS,mid_greendown,307.0,11
+Binghamton,2002,MODIS,mid_greendown,308.0,4
+Binghamton,2002,MODIS,mid_greendown,309.0,6
+Binghamton,2002,MODIS,mid_greendown,310.0,6
+Binghamton,2002,MODIS,mid_greendown,311.0,4
+Binghamton,2002,MODIS,mid_greendown,312.0,2
+Binghamton,2002,MODIS,mid_greendown,313.0,1
+Binghamton,2002,MODIS,mid_greendown,316.0,1
+Binghamton,2002,MODIS,dormancy,282.0,1
+Binghamton,2002,MODIS,dormancy,286.0,2
+Binghamton,2002,MODIS,dormancy,290.0,1
+Binghamton,2002,MODIS,dormancy,292.0,1
+Binghamton,2002,MODIS,dormancy,293.0,2
+Binghamton,2002,MODIS,dormancy,294.0,1
+Binghamton,2002,MODIS,dormancy,296.0,1
+Binghamton,2002,MODIS,dormancy,297.0,9
+Binghamton,2002,MODIS,dormancy,298.0,14
+Binghamton,2002,MODIS,dormancy,299.0,19
+Binghamton,2002,MODIS,dormancy,300.0,25
+Binghamton,2002,MODIS,dormancy,301.0,39
+Binghamton,2002,MODIS,dormancy,302.0,30
+Binghamton,2002,MODIS,dormancy,303.0,66
+Binghamton,2002,MODIS,dormancy,304.0,87
+Binghamton,2002,MODIS,dormancy,305.0,94
+Binghamton,2002,MODIS,dormancy,306.0,168
+Binghamton,2002,MODIS,dormancy,307.0,186
+Binghamton,2002,MODIS,dormancy,308.0,246
+Binghamton,2002,MODIS,dormancy,309.0,314
+Binghamton,2002,MODIS,dormancy,310.0,369
+Binghamton,2002,MODIS,dormancy,311.0,462
+Binghamton,2002,MODIS,dormancy,312.0,513
+Binghamton,2002,MODIS,dormancy,313.0,619
+Binghamton,2002,MODIS,dormancy,314.0,701
+Binghamton,2002,MODIS,dormancy,315.0,723
+Binghamton,2002,MODIS,dormancy,316.0,808
+Binghamton,2002,MODIS,dormancy,317.0,852
+Binghamton,2002,MODIS,dormancy,318.0,836
+Binghamton,2002,MODIS,dormancy,319.0,776
+Binghamton,2002,MODIS,dormancy,320.0,745
+Binghamton,2002,MODIS,dormancy,321.0,746
+Binghamton,2002,MODIS,dormancy,322.0,652
+Binghamton,2002,MODIS,dormancy,323.0,621
+Binghamton,2002,MODIS,dormancy,324.0,576
+Binghamton,2002,MODIS,dormancy,325.0,536
+Binghamton,2002,MODIS,dormancy,326.0,494
+Binghamton,2002,MODIS,dormancy,327.0,439
+Binghamton,2002,MODIS,dormancy,328.0,369
+Binghamton,2002,MODIS,dormancy,329.0,334
+Binghamton,2002,MODIS,dormancy,330.0,245
+Binghamton,2002,MODIS,dormancy,331.0,243
+Binghamton,2002,MODIS,dormancy,332.0,199
+Binghamton,2002,MODIS,dormancy,333.0,178
+Binghamton,2002,MODIS,dormancy,334.0,145
+Binghamton,2002,MODIS,dormancy,335.0,104
+Binghamton,2002,MODIS,dormancy,336.0,80
+Binghamton,2002,MODIS,dormancy,337.0,72
+Binghamton,2002,MODIS,dormancy,338.0,54
+Binghamton,2002,MODIS,dormancy,339.0,38
+Binghamton,2002,MODIS,dormancy,340.0,34
+Binghamton,2002,MODIS,dormancy,341.0,11
+Binghamton,2002,MODIS,dormancy,342.0,14
+Binghamton,2002,MODIS,dormancy,343.0,15
+Binghamton,2002,MODIS,dormancy,344.0,14
+Binghamton,2002,MODIS,dormancy,345.0,5
+Binghamton,2002,MODIS,dormancy,346.0,3
+Binghamton,2002,MODIS,dormancy,347.0,3
+Binghamton,2002,MODIS,dormancy,348.0,1
+Binghamton,2002,MODIS,dormancy,349.0,3
+Binghamton,2002,MODIS,dormancy,350.0,4
+Binghamton,2002,MODIS,dormancy,351.0,1
+Binghamton,2002,MODIS,dormancy,352.0,2
+Binghamton,2002,MODIS,dormancy,354.0,1
+Binghamton,2002,MODIS,dormancy,357.0,1
+Binghamton,2002,MODIS,forest_px,1.0,14947
+Scranton,2002,MODIS,mid_greenup,116.0,1
+Scranton,2002,MODIS,mid_greenup,117.0,1
+Scranton,2002,MODIS,mid_greenup,119.0,2
+Scranton,2002,MODIS,mid_greenup,120.0,5
+Scranton,2002,MODIS,mid_greenup,121.0,5
+Scranton,2002,MODIS,mid_greenup,122.0,9
+Scranton,2002,MODIS,mid_greenup,123.0,13
+Scranton,2002,MODIS,mid_greenup,124.0,16
+Scranton,2002,MODIS,mid_greenup,125.0,25
+Scranton,2002,MODIS,mid_greenup,126.0,36
+Scranton,2002,MODIS,mid_greenup,127.0,41
+Scranton,2002,MODIS,mid_greenup,128.0,61
+Scranton,2002,MODIS,mid_greenup,129.0,73
+Scranton,2002,MODIS,mid_greenup,130.0,92
+Scranton,2002,MODIS,mid_greenup,131.0,121
+Scranton,2002,MODIS,mid_greenup,132.0,128
+Scranton,2002,MODIS,mid_greenup,133.0,178
+Scranton,2002,MODIS,mid_greenup,134.0,186
+Scranton,2002,MODIS,mid_greenup,135.0,184
+Scranton,2002,MODIS,mid_greenup,136.0,185
+Scranton,2002,MODIS,mid_greenup,137.0,188
+Scranton,2002,MODIS,mid_greenup,138.0,193
+Scranton,2002,MODIS,mid_greenup,139.0,204
+Scranton,2002,MODIS,mid_greenup,140.0,182
+Scranton,2002,MODIS,mid_greenup,141.0,178
+Scranton,2002,MODIS,mid_greenup,142.0,160
+Scranton,2002,MODIS,mid_greenup,143.0,136
+Scranton,2002,MODIS,mid_greenup,144.0,123
+Scranton,2002,MODIS,mid_greenup,145.0,87
+Scranton,2002,MODIS,mid_greenup,146.0,91
+Scranton,2002,MODIS,mid_greenup,147.0,71
+Scranton,2002,MODIS,mid_greenup,148.0,75
+Scranton,2002,MODIS,mid_greenup,149.0,46
+Scranton,2002,MODIS,mid_greenup,150.0,46
+Scranton,2002,MODIS,mid_greenup,151.0,34
+Scranton,2002,MODIS,mid_greenup,152.0,26
+Scranton,2002,MODIS,mid_greenup,153.0,7
+Scranton,2002,MODIS,mid_greenup,154.0,3
+Scranton,2002,MODIS,mid_greenup,155.0,1
+Scranton,2002,MODIS,mid_greenup,156.0,1
+Scranton,2002,MODIS,mid_greenup,157.0,1
+Scranton,2002,MODIS,senescence,182.0,1
+Scranton,2002,MODIS,senescence,185.0,1
+Scranton,2002,MODIS,senescence,189.0,1
+Scranton,2002,MODIS,senescence,190.0,1
+Scranton,2002,MODIS,senescence,191.0,2
+Scranton,2002,MODIS,senescence,192.0,3
+Scranton,2002,MODIS,senescence,193.0,3
+Scranton,2002,MODIS,senescence,194.0,1
+Scranton,2002,MODIS,senescence,195.0,6
+Scranton,2002,MODIS,senescence,196.0,2
+Scranton,2002,MODIS,senescence,197.0,4
+Scranton,2002,MODIS,senescence,198.0,4
+Scranton,2002,MODIS,senescence,199.0,6
+Scranton,2002,MODIS,senescence,200.0,6
+Scranton,2002,MODIS,senescence,201.0,11
+Scranton,2002,MODIS,senescence,202.0,12
+Scranton,2002,MODIS,senescence,203.0,11
+Scranton,2002,MODIS,senescence,204.0,14
+Scranton,2002,MODIS,senescence,205.0,21
+Scranton,2002,MODIS,senescence,206.0,19
+Scranton,2002,MODIS,senescence,207.0,23
+Scranton,2002,MODIS,senescence,208.0,33
+Scranton,2002,MODIS,senescence,209.0,34
+Scranton,2002,MODIS,senescence,210.0,55
+Scranton,2002,MODIS,senescence,211.0,31
+Scranton,2002,MODIS,senescence,212.0,47
+Scranton,2002,MODIS,senescence,213.0,47
+Scranton,2002,MODIS,senescence,214.0,64
+Scranton,2002,MODIS,senescence,215.0,72
+Scranton,2002,MODIS,senescence,216.0,81
+Scranton,2002,MODIS,senescence,217.0,77
+Scranton,2002,MODIS,senescence,218.0,89
+Scranton,2002,MODIS,senescence,219.0,108
+Scranton,2002,MODIS,senescence,220.0,122
+Scranton,2002,MODIS,senescence,221.0,115
+Scranton,2002,MODIS,senescence,222.0,122
+Scranton,2002,MODIS,senescence,223.0,124
+Scranton,2002,MODIS,senescence,224.0,108
+Scranton,2002,MODIS,senescence,225.0,116
+Scranton,2002,MODIS,senescence,226.0,139
+Scranton,2002,MODIS,senescence,227.0,127
+Scranton,2002,MODIS,senescence,228.0,127
+Scranton,2002,MODIS,senescence,229.0,150
+Scranton,2002,MODIS,senescence,230.0,116
+Scranton,2002,MODIS,senescence,231.0,131
+Scranton,2002,MODIS,senescence,232.0,127
+Scranton,2002,MODIS,senescence,233.0,113
+Scranton,2002,MODIS,senescence,234.0,85
+Scranton,2002,MODIS,senescence,235.0,86
+Scranton,2002,MODIS,senescence,236.0,85
+Scranton,2002,MODIS,senescence,237.0,64
+Scranton,2002,MODIS,senescence,238.0,54
+Scranton,2002,MODIS,senescence,239.0,49
+Scranton,2002,MODIS,senescence,240.0,45
+Scranton,2002,MODIS,senescence,241.0,29
+Scranton,2002,MODIS,senescence,242.0,32
+Scranton,2002,MODIS,senescence,243.0,13
+Scranton,2002,MODIS,senescence,244.0,10
+Scranton,2002,MODIS,senescence,245.0,8
+Scranton,2002,MODIS,senescence,246.0,7
+Scranton,2002,MODIS,senescence,247.0,6
+Scranton,2002,MODIS,senescence,248.0,4
+Scranton,2002,MODIS,senescence,249.0,5
+Scranton,2002,MODIS,senescence,250.0,2
+Scranton,2002,MODIS,senescence,251.0,1
+Scranton,2002,MODIS,senescence,256.0,1
+Scranton,2002,MODIS,senescence,257.0,1
+Scranton,2002,MODIS,senescence,258.0,1
+Scranton,2002,MODIS,mid_greendown,253.0,1
+Scranton,2002,MODIS,mid_greendown,256.0,1
+Scranton,2002,MODIS,mid_greendown,257.0,1
+Scranton,2002,MODIS,mid_greendown,262.0,1
+Scranton,2002,MODIS,mid_greendown,265.0,1
+Scranton,2002,MODIS,mid_greendown,267.0,1
+Scranton,2002,MODIS,mid_greendown,268.0,1
+Scranton,2002,MODIS,mid_greendown,269.0,2
+Scranton,2002,MODIS,mid_greendown,270.0,3
+Scranton,2002,MODIS,mid_greendown,271.0,1
+Scranton,2002,MODIS,mid_greendown,272.0,3
+Scranton,2002,MODIS,mid_greendown,273.0,4
+Scranton,2002,MODIS,mid_greendown,274.0,4
+Scranton,2002,MODIS,mid_greendown,275.0,18
+Scranton,2002,MODIS,mid_greendown,276.0,16
+Scranton,2002,MODIS,mid_greendown,277.0,26
+Scranton,2002,MODIS,mid_greendown,278.0,27
+Scranton,2002,MODIS,mid_greendown,279.0,52
+Scranton,2002,MODIS,mid_greendown,280.0,78
+Scranton,2002,MODIS,mid_greendown,281.0,79
+Scranton,2002,MODIS,mid_greendown,282.0,110
+Scranton,2002,MODIS,mid_greendown,283.0,129
+Scranton,2002,MODIS,mid_greendown,284.0,173
+Scranton,2002,MODIS,mid_greendown,285.0,180
+Scranton,2002,MODIS,mid_greendown,286.0,212
+Scranton,2002,MODIS,mid_greendown,287.0,261
+Scranton,2002,MODIS,mid_greendown,288.0,279
+Scranton,2002,MODIS,mid_greendown,289.0,236
+Scranton,2002,MODIS,mid_greendown,290.0,231
+Scranton,2002,MODIS,mid_greendown,291.0,234
+Scranton,2002,MODIS,mid_greendown,292.0,194
+Scranton,2002,MODIS,mid_greendown,293.0,164
+Scranton,2002,MODIS,mid_greendown,294.0,141
+Scranton,2002,MODIS,mid_greendown,295.0,75
+Scranton,2002,MODIS,mid_greendown,296.0,74
+Scranton,2002,MODIS,mid_greendown,297.0,61
+Scranton,2002,MODIS,mid_greendown,298.0,44
+Scranton,2002,MODIS,mid_greendown,299.0,34
+Scranton,2002,MODIS,mid_greendown,300.0,18
+Scranton,2002,MODIS,mid_greendown,301.0,15
+Scranton,2002,MODIS,mid_greendown,302.0,8
+Scranton,2002,MODIS,mid_greendown,303.0,10
+Scranton,2002,MODIS,mid_greendown,304.0,7
+Scranton,2002,MODIS,mid_greendown,305.0,2
+Scranton,2002,MODIS,mid_greendown,307.0,1
+Scranton,2002,MODIS,mid_greendown,308.0,1
+Scranton,2002,MODIS,mid_greendown,309.0,1
+Scranton,2002,MODIS,dormancy,302.0,1
+Scranton,2002,MODIS,dormancy,304.0,1
+Scranton,2002,MODIS,dormancy,306.0,2
+Scranton,2002,MODIS,dormancy,307.0,2
+Scranton,2002,MODIS,dormancy,308.0,4
+Scranton,2002,MODIS,dormancy,309.0,10
+Scranton,2002,MODIS,dormancy,310.0,8
+Scranton,2002,MODIS,dormancy,311.0,12
+Scranton,2002,MODIS,dormancy,312.0,22
+Scranton,2002,MODIS,dormancy,313.0,29
+Scranton,2002,MODIS,dormancy,314.0,50
+Scranton,2002,MODIS,dormancy,315.0,59
+Scranton,2002,MODIS,dormancy,316.0,92
+Scranton,2002,MODIS,dormancy,317.0,104
+Scranton,2002,MODIS,dormancy,318.0,125
+Scranton,2002,MODIS,dormancy,319.0,141
+Scranton,2002,MODIS,dormancy,320.0,205
+Scranton,2002,MODIS,dormancy,321.0,226
+Scranton,2002,MODIS,dormancy,322.0,245
+Scranton,2002,MODIS,dormancy,323.0,272
+Scranton,2002,MODIS,dormancy,324.0,258
+Scranton,2002,MODIS,dormancy,325.0,262
+Scranton,2002,MODIS,dormancy,326.0,243
+Scranton,2002,MODIS,dormancy,327.0,220
+Scranton,2002,MODIS,dormancy,328.0,167
+Scranton,2002,MODIS,dormancy,329.0,126
+Scranton,2002,MODIS,dormancy,330.0,89
+Scranton,2002,MODIS,dormancy,331.0,65
+Scranton,2002,MODIS,dormancy,332.0,48
+Scranton,2002,MODIS,dormancy,333.0,32
+Scranton,2002,MODIS,dormancy,334.0,24
+Scranton,2002,MODIS,dormancy,335.0,7
+Scranton,2002,MODIS,dormancy,336.0,10
+Scranton,2002,MODIS,dormancy,337.0,7
+Scranton,2002,MODIS,dormancy,338.0,9
+Scranton,2002,MODIS,dormancy,339.0,6
+Scranton,2002,MODIS,dormancy,340.0,4
+Scranton,2002,MODIS,dormancy,341.0,5
+Scranton,2002,MODIS,dormancy,342.0,2
+Scranton,2002,MODIS,dormancy,343.0,3
+Scranton,2002,MODIS,dormancy,344.0,2
+Scranton,2002,MODIS,dormancy,345.0,3
+Scranton,2002,MODIS,dormancy,346.0,3
+Scranton,2002,MODIS,dormancy,347.0,1
+Scranton,2002,MODIS,dormancy,348.0,5
+Scranton,2002,MODIS,dormancy,350.0,1
+Scranton,2002,MODIS,dormancy,352.0,1
+Scranton,2002,MODIS,dormancy,354.0,1
+Scranton,2002,MODIS,dormancy,355.0,1
+Scranton,2002,MODIS,forest_px,1.0,3215
+State College,2002,MODIS,mid_greenup,103.0,1
+State College,2002,MODIS,mid_greenup,104.0,2
+State College,2002,MODIS,mid_greenup,105.0,1
+State College,2002,MODIS,mid_greenup,106.0,2
+State College,2002,MODIS,mid_greenup,108.0,5
+State College,2002,MODIS,mid_greenup,109.0,4
+State College,2002,MODIS,mid_greenup,110.0,5
+State College,2002,MODIS,mid_greenup,111.0,6
+State College,2002,MODIS,mid_greenup,112.0,11
+State College,2002,MODIS,mid_greenup,113.0,19
+State College,2002,MODIS,mid_greenup,114.0,27
+State College,2002,MODIS,mid_greenup,115.0,34
+State College,2002,MODIS,mid_greenup,116.0,46
+State College,2002,MODIS,mid_greenup,117.0,70
+State College,2002,MODIS,mid_greenup,118.0,64
+State College,2002,MODIS,mid_greenup,119.0,72
+State College,2002,MODIS,mid_greenup,120.0,109
+State College,2002,MODIS,mid_greenup,121.0,148
+State College,2002,MODIS,mid_greenup,122.0,186
+State College,2002,MODIS,mid_greenup,123.0,242
+State College,2002,MODIS,mid_greenup,124.0,305
+State College,2002,MODIS,mid_greenup,125.0,350
+State College,2002,MODIS,mid_greenup,126.0,437
+State College,2002,MODIS,mid_greenup,127.0,577
+State College,2002,MODIS,mid_greenup,128.0,696
+State College,2002,MODIS,mid_greenup,129.0,823
+State College,2002,MODIS,mid_greenup,130.0,887
+State College,2002,MODIS,mid_greenup,131.0,915
+State College,2002,MODIS,mid_greenup,132.0,861
+State College,2002,MODIS,mid_greenup,133.0,822
+State College,2002,MODIS,mid_greenup,134.0,755
+State College,2002,MODIS,mid_greenup,135.0,621
+State College,2002,MODIS,mid_greenup,136.0,499
+State College,2002,MODIS,mid_greenup,137.0,423
+State College,2002,MODIS,mid_greenup,138.0,371
+State College,2002,MODIS,mid_greenup,139.0,314
+State College,2002,MODIS,mid_greenup,140.0,258
+State College,2002,MODIS,mid_greenup,141.0,167
+State College,2002,MODIS,mid_greenup,142.0,125
+State College,2002,MODIS,mid_greenup,143.0,118
+State College,2002,MODIS,mid_greenup,144.0,70
+State College,2002,MODIS,mid_greenup,145.0,61
+State College,2002,MODIS,mid_greenup,146.0,31
+State College,2002,MODIS,mid_greenup,147.0,25
+State College,2002,MODIS,mid_greenup,148.0,11
+State College,2002,MODIS,mid_greenup,149.0,9
+State College,2002,MODIS,mid_greenup,150.0,6
+State College,2002,MODIS,mid_greenup,151.0,5
+State College,2002,MODIS,mid_greenup,152.0,3
+State College,2002,MODIS,mid_greenup,153.0,3
+State College,2002,MODIS,mid_greenup,155.0,1
+State College,2002,MODIS,senescence,183.0,1
+State College,2002,MODIS,senescence,184.0,1
+State College,2002,MODIS,senescence,186.0,1
+State College,2002,MODIS,senescence,187.0,1
+State College,2002,MODIS,senescence,189.0,2
+State College,2002,MODIS,senescence,190.0,1
+State College,2002,MODIS,senescence,191.0,1
+State College,2002,MODIS,senescence,192.0,8
+State College,2002,MODIS,senescence,193.0,9
+State College,2002,MODIS,senescence,194.0,14
+State College,2002,MODIS,senescence,195.0,8
+State College,2002,MODIS,senescence,196.0,14
+State College,2002,MODIS,senescence,197.0,23
+State College,2002,MODIS,senescence,198.0,15
+State College,2002,MODIS,senescence,199.0,35
+State College,2002,MODIS,senescence,200.0,29
+State College,2002,MODIS,senescence,201.0,41
+State College,2002,MODIS,senescence,202.0,65
+State College,2002,MODIS,senescence,203.0,61
+State College,2002,MODIS,senescence,204.0,75
+State College,2002,MODIS,senescence,205.0,102
+State College,2002,MODIS,senescence,206.0,111
+State College,2002,MODIS,senescence,207.0,131
+State College,2002,MODIS,senescence,208.0,132
+State College,2002,MODIS,senescence,209.0,165
+State College,2002,MODIS,senescence,210.0,201
+State College,2002,MODIS,senescence,211.0,248
+State College,2002,MODIS,senescence,212.0,249
+State College,2002,MODIS,senescence,213.0,316
+State College,2002,MODIS,senescence,214.0,323
+State College,2002,MODIS,senescence,215.0,372
+State College,2002,MODIS,senescence,216.0,444
+State College,2002,MODIS,senescence,217.0,456
+State College,2002,MODIS,senescence,218.0,405
+State College,2002,MODIS,senescence,219.0,490
+State College,2002,MODIS,senescence,220.0,547
+State College,2002,MODIS,senescence,221.0,552
+State College,2002,MODIS,senescence,222.0,545
+State College,2002,MODIS,senescence,223.0,515
+State College,2002,MODIS,senescence,224.0,528
+State College,2002,MODIS,senescence,225.0,509
+State College,2002,MODIS,senescence,226.0,525
+State College,2002,MODIS,senescence,227.0,486
+State College,2002,MODIS,senescence,228.0,438
+State College,2002,MODIS,senescence,229.0,401
+State College,2002,MODIS,senescence,230.0,368
+State College,2002,MODIS,senescence,231.0,322
+State College,2002,MODIS,senescence,232.0,254
+State College,2002,MODIS,senescence,233.0,212
+State College,2002,MODIS,senescence,234.0,201
+State College,2002,MODIS,senescence,235.0,140
+State College,2002,MODIS,senescence,236.0,121
+State College,2002,MODIS,senescence,237.0,108
+State College,2002,MODIS,senescence,238.0,75
+State College,2002,MODIS,senescence,239.0,34
+State College,2002,MODIS,senescence,240.0,36
+State College,2002,MODIS,senescence,241.0,37
+State College,2002,MODIS,senescence,242.0,28
+State College,2002,MODIS,senescence,243.0,15
+State College,2002,MODIS,senescence,244.0,16
+State College,2002,MODIS,senescence,245.0,12
+State College,2002,MODIS,senescence,246.0,1
+State College,2002,MODIS,senescence,247.0,7
+State College,2002,MODIS,senescence,248.0,7
+State College,2002,MODIS,senescence,249.0,4
+State College,2002,MODIS,senescence,251.0,2
+State College,2002,MODIS,senescence,252.0,2
+State College,2002,MODIS,senescence,256.0,1
+State College,2002,MODIS,senescence,258.0,2
+State College,2002,MODIS,senescence,259.0,1
+State College,2002,MODIS,senescence,261.0,1
+State College,2002,MODIS,mid_greendown,238.0,1
+State College,2002,MODIS,mid_greendown,241.0,1
+State College,2002,MODIS,mid_greendown,243.0,1
+State College,2002,MODIS,mid_greendown,244.0,1
+State College,2002,MODIS,mid_greendown,246.0,1
+State College,2002,MODIS,mid_greendown,248.0,1
+State College,2002,MODIS,mid_greendown,250.0,3
+State College,2002,MODIS,mid_greendown,251.0,2
+State College,2002,MODIS,mid_greendown,252.0,4
+State College,2002,MODIS,mid_greendown,253.0,2
+State College,2002,MODIS,mid_greendown,254.0,2
+State College,2002,MODIS,mid_greendown,255.0,4
+State College,2002,MODIS,mid_greendown,256.0,10
+State College,2002,MODIS,mid_greendown,257.0,9
+State College,2002,MODIS,mid_greendown,258.0,7
+State College,2002,MODIS,mid_greendown,259.0,3
+State College,2002,MODIS,mid_greendown,260.0,4
+State College,2002,MODIS,mid_greendown,261.0,12
+State College,2002,MODIS,mid_greendown,262.0,13
+State College,2002,MODIS,mid_greendown,263.0,8
+State College,2002,MODIS,mid_greendown,264.0,22
+State College,2002,MODIS,mid_greendown,265.0,29
+State College,2002,MODIS,mid_greendown,266.0,27
+State College,2002,MODIS,mid_greendown,267.0,41
+State College,2002,MODIS,mid_greendown,268.0,43
+State College,2002,MODIS,mid_greendown,269.0,49
+State College,2002,MODIS,mid_greendown,270.0,68
+State College,2002,MODIS,mid_greendown,271.0,81
+State College,2002,MODIS,mid_greendown,272.0,98
+State College,2002,MODIS,mid_greendown,273.0,132
+State College,2002,MODIS,mid_greendown,274.0,160
+State College,2002,MODIS,mid_greendown,275.0,202
+State College,2002,MODIS,mid_greendown,276.0,206
+State College,2002,MODIS,mid_greendown,277.0,270
+State College,2002,MODIS,mid_greendown,278.0,276
+State College,2002,MODIS,mid_greendown,279.0,353
+State College,2002,MODIS,mid_greendown,280.0,418
+State College,2002,MODIS,mid_greendown,281.0,484
+State College,2002,MODIS,mid_greendown,282.0,524
+State College,2002,MODIS,mid_greendown,283.0,559
+State College,2002,MODIS,mid_greendown,284.0,621
+State College,2002,MODIS,mid_greendown,285.0,626
+State College,2002,MODIS,mid_greendown,286.0,671
+State College,2002,MODIS,mid_greendown,287.0,616
+State College,2002,MODIS,mid_greendown,288.0,629
+State College,2002,MODIS,mid_greendown,289.0,560
+State College,2002,MODIS,mid_greendown,290.0,555
+State College,2002,MODIS,mid_greendown,291.0,492
+State College,2002,MODIS,mid_greendown,292.0,427
+State College,2002,MODIS,mid_greendown,293.0,363
+State College,2002,MODIS,mid_greendown,294.0,378
+State College,2002,MODIS,mid_greendown,295.0,314
+State College,2002,MODIS,mid_greendown,296.0,242
+State College,2002,MODIS,mid_greendown,297.0,196
+State College,2002,MODIS,mid_greendown,298.0,158
+State College,2002,MODIS,mid_greendown,299.0,132
+State College,2002,MODIS,mid_greendown,300.0,109
+State College,2002,MODIS,mid_greendown,301.0,82
+State College,2002,MODIS,mid_greendown,302.0,66
+State College,2002,MODIS,mid_greendown,303.0,71
+State College,2002,MODIS,mid_greendown,304.0,39
+State College,2002,MODIS,mid_greendown,305.0,33
+State College,2002,MODIS,mid_greendown,306.0,27
+State College,2002,MODIS,mid_greendown,307.0,11
+State College,2002,MODIS,mid_greendown,308.0,11
+State College,2002,MODIS,mid_greendown,309.0,16
+State College,2002,MODIS,mid_greendown,310.0,9
+State College,2002,MODIS,mid_greendown,311.0,8
+State College,2002,MODIS,mid_greendown,312.0,3
+State College,2002,MODIS,mid_greendown,313.0,1
+State College,2002,MODIS,mid_greendown,314.0,2
+State College,2002,MODIS,mid_greendown,316.0,1
+State College,2002,MODIS,mid_greendown,317.0,1
+State College,2002,MODIS,mid_greendown,319.0,1
+State College,2002,MODIS,mid_greendown,320.0,1
+State College,2002,MODIS,dormancy,294.0,1
+State College,2002,MODIS,dormancy,296.0,1
+State College,2002,MODIS,dormancy,298.0,1
+State College,2002,MODIS,dormancy,299.0,1
+State College,2002,MODIS,dormancy,300.0,1
+State College,2002,MODIS,dormancy,301.0,5
+State College,2002,MODIS,dormancy,302.0,4
+State College,2002,MODIS,dormancy,303.0,4
+State College,2002,MODIS,dormancy,304.0,7
+State College,2002,MODIS,dormancy,305.0,12
+State College,2002,MODIS,dormancy,306.0,19
+State College,2002,MODIS,dormancy,307.0,24
+State College,2002,MODIS,dormancy,308.0,35
+State College,2002,MODIS,dormancy,309.0,50
+State College,2002,MODIS,dormancy,310.0,57
+State College,2002,MODIS,dormancy,311.0,96
+State College,2002,MODIS,dormancy,312.0,146
+State College,2002,MODIS,dormancy,313.0,161
+State College,2002,MODIS,dormancy,314.0,219
+State College,2002,MODIS,dormancy,315.0,264
+State College,2002,MODIS,dormancy,316.0,340
+State College,2002,MODIS,dormancy,317.0,387
+State College,2002,MODIS,dormancy,318.0,458
+State College,2002,MODIS,dormancy,319.0,524
+State College,2002,MODIS,dormancy,320.0,558
+State College,2002,MODIS,dormancy,321.0,623
+State College,2002,MODIS,dormancy,322.0,657
+State College,2002,MODIS,dormancy,323.0,666
+State College,2002,MODIS,dormancy,324.0,659
+State College,2002,MODIS,dormancy,325.0,652
+State College,2002,MODIS,dormancy,326.0,551
+State College,2002,MODIS,dormancy,327.0,575
+State College,2002,MODIS,dormancy,328.0,483
+State College,2002,MODIS,dormancy,329.0,453
+State College,2002,MODIS,dormancy,330.0,384
+State College,2002,MODIS,dormancy,331.0,329
+State College,2002,MODIS,dormancy,332.0,286
+State College,2002,MODIS,dormancy,333.0,249
+State College,2002,MODIS,dormancy,334.0,218
+State College,2002,MODIS,dormancy,335.0,191
+State College,2002,MODIS,dormancy,336.0,180
+State College,2002,MODIS,dormancy,337.0,174
+State College,2002,MODIS,dormancy,338.0,176
+State College,2002,MODIS,dormancy,339.0,105
+State College,2002,MODIS,dormancy,340.0,109
+State College,2002,MODIS,dormancy,341.0,92
+State College,2002,MODIS,dormancy,342.0,81
+State College,2002,MODIS,dormancy,343.0,75
+State College,2002,MODIS,dormancy,344.0,51
+State College,2002,MODIS,dormancy,345.0,40
+State College,2002,MODIS,dormancy,346.0,41
+State College,2002,MODIS,dormancy,347.0,27
+State College,2002,MODIS,dormancy,348.0,27
+State College,2002,MODIS,dormancy,349.0,14
+State College,2002,MODIS,dormancy,350.0,12
+State College,2002,MODIS,dormancy,351.0,10
+State College,2002,MODIS,dormancy,352.0,8
+State College,2002,MODIS,dormancy,353.0,6
+State College,2002,MODIS,dormancy,354.0,2
+State College,2002,MODIS,dormancy,355.0,6
+State College,2002,MODIS,dormancy,356.0,6
+State College,2002,MODIS,dormancy,357.0,3
+State College,2002,MODIS,dormancy,358.0,3
+State College,2002,MODIS,dormancy,359.0,1
+State College,2002,MODIS,dormancy,360.0,1
+State College,2002,MODIS,dormancy,361.0,1
+State College,2002,MODIS,dormancy,362.0,1
+State College,2002,MODIS,forest_px,1.0,11604
+Frostburg,2002,MODIS,mid_greenup,105.0,1
+Frostburg,2002,MODIS,mid_greenup,108.0,2
+Frostburg,2002,MODIS,mid_greenup,109.0,3
+Frostburg,2002,MODIS,mid_greenup,110.0,2
+Frostburg,2002,MODIS,mid_greenup,112.0,5
+Frostburg,2002,MODIS,mid_greenup,113.0,4
+Frostburg,2002,MODIS,mid_greenup,114.0,8
+Frostburg,2002,MODIS,mid_greenup,115.0,10
+Frostburg,2002,MODIS,mid_greenup,116.0,15
+Frostburg,2002,MODIS,mid_greenup,117.0,16
+Frostburg,2002,MODIS,mid_greenup,118.0,23
+Frostburg,2002,MODIS,mid_greenup,119.0,26
+Frostburg,2002,MODIS,mid_greenup,120.0,42
+Frostburg,2002,MODIS,mid_greenup,121.0,43
+Frostburg,2002,MODIS,mid_greenup,122.0,61
+Frostburg,2002,MODIS,mid_greenup,123.0,68
+Frostburg,2002,MODIS,mid_greenup,124.0,95
+Frostburg,2002,MODIS,mid_greenup,125.0,108
+Frostburg,2002,MODIS,mid_greenup,126.0,170
+Frostburg,2002,MODIS,mid_greenup,127.0,230
+Frostburg,2002,MODIS,mid_greenup,128.0,237
+Frostburg,2002,MODIS,mid_greenup,129.0,294
+Frostburg,2002,MODIS,mid_greenup,130.0,349
+Frostburg,2002,MODIS,mid_greenup,131.0,373
+Frostburg,2002,MODIS,mid_greenup,132.0,376
+Frostburg,2002,MODIS,mid_greenup,133.0,395
+Frostburg,2002,MODIS,mid_greenup,134.0,413
+Frostburg,2002,MODIS,mid_greenup,135.0,408
+Frostburg,2002,MODIS,mid_greenup,136.0,414
+Frostburg,2002,MODIS,mid_greenup,137.0,355
+Frostburg,2002,MODIS,mid_greenup,138.0,341
+Frostburg,2002,MODIS,mid_greenup,139.0,335
+Frostburg,2002,MODIS,mid_greenup,140.0,314
+Frostburg,2002,MODIS,mid_greenup,141.0,268
+Frostburg,2002,MODIS,mid_greenup,142.0,241
+Frostburg,2002,MODIS,mid_greenup,143.0,230
+Frostburg,2002,MODIS,mid_greenup,144.0,174
+Frostburg,2002,MODIS,mid_greenup,145.0,139
+Frostburg,2002,MODIS,mid_greenup,146.0,104
+Frostburg,2002,MODIS,mid_greenup,147.0,67
+Frostburg,2002,MODIS,mid_greenup,148.0,42
+Frostburg,2002,MODIS,mid_greenup,149.0,39
+Frostburg,2002,MODIS,mid_greenup,150.0,24
+Frostburg,2002,MODIS,mid_greenup,151.0,10
+Frostburg,2002,MODIS,mid_greenup,152.0,7
+Frostburg,2002,MODIS,mid_greenup,153.0,6
+Frostburg,2002,MODIS,mid_greenup,154.0,6
+Frostburg,2002,MODIS,senescence,179.0,1
+Frostburg,2002,MODIS,senescence,184.0,1
+Frostburg,2002,MODIS,senescence,185.0,1
+Frostburg,2002,MODIS,senescence,186.0,1
+Frostburg,2002,MODIS,senescence,188.0,2
+Frostburg,2002,MODIS,senescence,189.0,1
+Frostburg,2002,MODIS,senescence,190.0,2
+Frostburg,2002,MODIS,senescence,191.0,1
+Frostburg,2002,MODIS,senescence,192.0,4
+Frostburg,2002,MODIS,senescence,193.0,1
+Frostburg,2002,MODIS,senescence,194.0,3
+Frostburg,2002,MODIS,senescence,195.0,5
+Frostburg,2002,MODIS,senescence,196.0,3
+Frostburg,2002,MODIS,senescence,197.0,6
+Frostburg,2002,MODIS,senescence,198.0,9
+Frostburg,2002,MODIS,senescence,199.0,4
+Frostburg,2002,MODIS,senescence,200.0,11
+Frostburg,2002,MODIS,senescence,201.0,8
+Frostburg,2002,MODIS,senescence,202.0,11
+Frostburg,2002,MODIS,senescence,203.0,9
+Frostburg,2002,MODIS,senescence,204.0,19
+Frostburg,2002,MODIS,senescence,205.0,24
+Frostburg,2002,MODIS,senescence,206.0,37
+Frostburg,2002,MODIS,senescence,207.0,44
+Frostburg,2002,MODIS,senescence,208.0,43
+Frostburg,2002,MODIS,senescence,209.0,60
+Frostburg,2002,MODIS,senescence,210.0,52
+Frostburg,2002,MODIS,senescence,211.0,64
+Frostburg,2002,MODIS,senescence,212.0,72
+Frostburg,2002,MODIS,senescence,213.0,97
+Frostburg,2002,MODIS,senescence,214.0,128
+Frostburg,2002,MODIS,senescence,215.0,129
+Frostburg,2002,MODIS,senescence,216.0,131
+Frostburg,2002,MODIS,senescence,217.0,156
+Frostburg,2002,MODIS,senescence,218.0,161
+Frostburg,2002,MODIS,senescence,219.0,174
+Frostburg,2002,MODIS,senescence,220.0,208
+Frostburg,2002,MODIS,senescence,221.0,246
+Frostburg,2002,MODIS,senescence,222.0,219
+Frostburg,2002,MODIS,senescence,223.0,299
+Frostburg,2002,MODIS,senescence,224.0,270
+Frostburg,2002,MODIS,senescence,225.0,280
+Frostburg,2002,MODIS,senescence,226.0,298
+Frostburg,2002,MODIS,senescence,227.0,288
+Frostburg,2002,MODIS,senescence,228.0,326
+Frostburg,2002,MODIS,senescence,229.0,318
+Frostburg,2002,MODIS,senescence,230.0,298
+Frostburg,2002,MODIS,senescence,231.0,271
+Frostburg,2002,MODIS,senescence,232.0,259
+Frostburg,2002,MODIS,senescence,233.0,249
+Frostburg,2002,MODIS,senescence,234.0,211
+Frostburg,2002,MODIS,senescence,235.0,196
+Frostburg,2002,MODIS,senescence,236.0,172
+Frostburg,2002,MODIS,senescence,237.0,166
+Frostburg,2002,MODIS,senescence,238.0,117
+Frostburg,2002,MODIS,senescence,239.0,124
+Frostburg,2002,MODIS,senescence,240.0,105
+Frostburg,2002,MODIS,senescence,241.0,83
+Frostburg,2002,MODIS,senescence,242.0,84
+Frostburg,2002,MODIS,senescence,243.0,47
+Frostburg,2002,MODIS,senescence,244.0,45
+Frostburg,2002,MODIS,senescence,245.0,35
+Frostburg,2002,MODIS,senescence,246.0,36
+Frostburg,2002,MODIS,senescence,247.0,34
+Frostburg,2002,MODIS,senescence,248.0,13
+Frostburg,2002,MODIS,senescence,249.0,18
+Frostburg,2002,MODIS,senescence,250.0,16
+Frostburg,2002,MODIS,senescence,251.0,19
+Frostburg,2002,MODIS,senescence,252.0,9
+Frostburg,2002,MODIS,senescence,253.0,13
+Frostburg,2002,MODIS,senescence,254.0,12
+Frostburg,2002,MODIS,senescence,255.0,2
+Frostburg,2002,MODIS,senescence,256.0,5
+Frostburg,2002,MODIS,senescence,257.0,1
+Frostburg,2002,MODIS,senescence,258.0,5
+Frostburg,2002,MODIS,senescence,259.0,5
+Frostburg,2002,MODIS,senescence,260.0,3
+Frostburg,2002,MODIS,senescence,261.0,3
+Frostburg,2002,MODIS,senescence,262.0,3
+Frostburg,2002,MODIS,senescence,264.0,2
+Frostburg,2002,MODIS,senescence,266.0,3
+Frostburg,2002,MODIS,senescence,269.0,1
+Frostburg,2002,MODIS,senescence,274.0,1
+Frostburg,2002,MODIS,mid_greendown,240.0,1
+Frostburg,2002,MODIS,mid_greendown,250.0,1
+Frostburg,2002,MODIS,mid_greendown,252.0,1
+Frostburg,2002,MODIS,mid_greendown,256.0,2
+Frostburg,2002,MODIS,mid_greendown,257.0,2
+Frostburg,2002,MODIS,mid_greendown,258.0,3
+Frostburg,2002,MODIS,mid_greendown,260.0,2
+Frostburg,2002,MODIS,mid_greendown,261.0,2
+Frostburg,2002,MODIS,mid_greendown,262.0,1
+Frostburg,2002,MODIS,mid_greendown,263.0,4
+Frostburg,2002,MODIS,mid_greendown,264.0,5
+Frostburg,2002,MODIS,mid_greendown,265.0,9
+Frostburg,2002,MODIS,mid_greendown,266.0,7
+Frostburg,2002,MODIS,mid_greendown,267.0,12
+Frostburg,2002,MODIS,mid_greendown,268.0,19
+Frostburg,2002,MODIS,mid_greendown,269.0,21
+Frostburg,2002,MODIS,mid_greendown,270.0,36
+Frostburg,2002,MODIS,mid_greendown,271.0,30
+Frostburg,2002,MODIS,mid_greendown,272.0,43
+Frostburg,2002,MODIS,mid_greendown,273.0,65
+Frostburg,2002,MODIS,mid_greendown,274.0,87
+Frostburg,2002,MODIS,mid_greendown,275.0,130
+Frostburg,2002,MODIS,mid_greendown,276.0,110
+Frostburg,2002,MODIS,mid_greendown,277.0,185
+Frostburg,2002,MODIS,mid_greendown,278.0,258
+Frostburg,2002,MODIS,mid_greendown,279.0,275
+Frostburg,2002,MODIS,mid_greendown,280.0,356
+Frostburg,2002,MODIS,mid_greendown,281.0,392
+Frostburg,2002,MODIS,mid_greendown,282.0,437
+Frostburg,2002,MODIS,mid_greendown,283.0,507
+Frostburg,2002,MODIS,mid_greendown,284.0,489
+Frostburg,2002,MODIS,mid_greendown,285.0,455
+Frostburg,2002,MODIS,mid_greendown,286.0,467
+Frostburg,2002,MODIS,mid_greendown,287.0,401
+Frostburg,2002,MODIS,mid_greendown,288.0,355
+Frostburg,2002,MODIS,mid_greendown,289.0,315
+Frostburg,2002,MODIS,mid_greendown,290.0,292
+Frostburg,2002,MODIS,mid_greendown,291.0,189
+Frostburg,2002,MODIS,mid_greendown,292.0,197
+Frostburg,2002,MODIS,mid_greendown,293.0,136
+Frostburg,2002,MODIS,mid_greendown,294.0,139
+Frostburg,2002,MODIS,mid_greendown,295.0,80
+Frostburg,2002,MODIS,mid_greendown,296.0,80
+Frostburg,2002,MODIS,mid_greendown,297.0,62
+Frostburg,2002,MODIS,mid_greendown,298.0,55
+Frostburg,2002,MODIS,mid_greendown,299.0,46
+Frostburg,2002,MODIS,mid_greendown,300.0,26
+Frostburg,2002,MODIS,mid_greendown,301.0,22
+Frostburg,2002,MODIS,mid_greendown,302.0,13
+Frostburg,2002,MODIS,mid_greendown,303.0,14
+Frostburg,2002,MODIS,mid_greendown,304.0,7
+Frostburg,2002,MODIS,mid_greendown,305.0,16
+Frostburg,2002,MODIS,mid_greendown,306.0,8
+Frostburg,2002,MODIS,mid_greendown,307.0,3
+Frostburg,2002,MODIS,mid_greendown,308.0,5
+Frostburg,2002,MODIS,mid_greendown,309.0,5
+Frostburg,2002,MODIS,mid_greendown,310.0,1
+Frostburg,2002,MODIS,mid_greendown,311.0,2
+Frostburg,2002,MODIS,mid_greendown,312.0,1
+Frostburg,2002,MODIS,mid_greendown,313.0,3
+Frostburg,2002,MODIS,mid_greendown,314.0,1
+Frostburg,2002,MODIS,mid_greendown,315.0,1
+Frostburg,2002,MODIS,mid_greendown,316.0,1
+Frostburg,2002,MODIS,mid_greendown,317.0,1
+Frostburg,2002,MODIS,mid_greendown,319.0,1
+Frostburg,2002,MODIS,mid_greendown,321.0,1
+Frostburg,2002,MODIS,dormancy,298.0,2
+Frostburg,2002,MODIS,dormancy,303.0,5
+Frostburg,2002,MODIS,dormancy,304.0,5
+Frostburg,2002,MODIS,dormancy,305.0,16
+Frostburg,2002,MODIS,dormancy,306.0,15
+Frostburg,2002,MODIS,dormancy,307.0,21
+Frostburg,2002,MODIS,dormancy,308.0,58
+Frostburg,2002,MODIS,dormancy,309.0,76
+Frostburg,2002,MODIS,dormancy,310.0,149
+Frostburg,2002,MODIS,dormancy,311.0,156
+Frostburg,2002,MODIS,dormancy,312.0,215
+Frostburg,2002,MODIS,dormancy,313.0,282
+Frostburg,2002,MODIS,dormancy,314.0,327
+Frostburg,2002,MODIS,dormancy,315.0,379
+Frostburg,2002,MODIS,dormancy,316.0,418
+Frostburg,2002,MODIS,dormancy,317.0,390
+Frostburg,2002,MODIS,dormancy,318.0,368
+Frostburg,2002,MODIS,dormancy,319.0,362
+Frostburg,2002,MODIS,dormancy,320.0,357
+Frostburg,2002,MODIS,dormancy,321.0,294
+Frostburg,2002,MODIS,dormancy,322.0,287
+Frostburg,2002,MODIS,dormancy,323.0,259
+Frostburg,2002,MODIS,dormancy,324.0,267
+Frostburg,2002,MODIS,dormancy,325.0,226
+Frostburg,2002,MODIS,dormancy,326.0,217
+Frostburg,2002,MODIS,dormancy,327.0,175
+Frostburg,2002,MODIS,dormancy,328.0,214
+Frostburg,2002,MODIS,dormancy,329.0,186
+Frostburg,2002,MODIS,dormancy,330.0,149
+Frostburg,2002,MODIS,dormancy,331.0,153
+Frostburg,2002,MODIS,dormancy,332.0,130
+Frostburg,2002,MODIS,dormancy,333.0,132
+Frostburg,2002,MODIS,dormancy,334.0,96
+Frostburg,2002,MODIS,dormancy,335.0,81
+Frostburg,2002,MODIS,dormancy,336.0,65
+Frostburg,2002,MODIS,dormancy,337.0,74
+Frostburg,2002,MODIS,dormancy,338.0,57
+Frostburg,2002,MODIS,dormancy,339.0,41
+Frostburg,2002,MODIS,dormancy,340.0,38
+Frostburg,2002,MODIS,dormancy,341.0,37
+Frostburg,2002,MODIS,dormancy,342.0,25
+Frostburg,2002,MODIS,dormancy,343.0,18
+Frostburg,2002,MODIS,dormancy,344.0,16
+Frostburg,2002,MODIS,dormancy,345.0,18
+Frostburg,2002,MODIS,dormancy,346.0,7
+Frostburg,2002,MODIS,dormancy,347.0,4
+Frostburg,2002,MODIS,dormancy,348.0,7
+Frostburg,2002,MODIS,dormancy,349.0,3
+Frostburg,2002,MODIS,dormancy,350.0,5
+Frostburg,2002,MODIS,dormancy,351.0,1
+Frostburg,2002,MODIS,dormancy,352.0,4
+Frostburg,2002,MODIS,dormancy,353.0,4
+Frostburg,2002,MODIS,dormancy,356.0,1
+Frostburg,2002,MODIS,dormancy,357.0,1
+Frostburg,2002,MODIS,forest_px,1.0,6893
+Valley Head,2002,MODIS,mid_greenup,111.0,1
+Valley Head,2002,MODIS,mid_greenup,116.0,3
+Valley Head,2002,MODIS,mid_greenup,118.0,4
+Valley Head,2002,MODIS,mid_greenup,119.0,4
+Valley Head,2002,MODIS,mid_greenup,120.0,7
+Valley Head,2002,MODIS,mid_greenup,121.0,5
+Valley Head,2002,MODIS,mid_greenup,122.0,13
+Valley Head,2002,MODIS,mid_greenup,123.0,9
+Valley Head,2002,MODIS,mid_greenup,124.0,13
+Valley Head,2002,MODIS,mid_greenup,125.0,20
+Valley Head,2002,MODIS,mid_greenup,126.0,29
+Valley Head,2002,MODIS,mid_greenup,127.0,25
+Valley Head,2002,MODIS,mid_greenup,128.0,35
+Valley Head,2002,MODIS,mid_greenup,129.0,64
+Valley Head,2002,MODIS,mid_greenup,130.0,65
+Valley Head,2002,MODIS,mid_greenup,131.0,76
+Valley Head,2002,MODIS,mid_greenup,132.0,143
+Valley Head,2002,MODIS,mid_greenup,133.0,183
+Valley Head,2002,MODIS,mid_greenup,134.0,277
+Valley Head,2002,MODIS,mid_greenup,135.0,379
+Valley Head,2002,MODIS,mid_greenup,136.0,503
+Valley Head,2002,MODIS,mid_greenup,137.0,532
+Valley Head,2002,MODIS,mid_greenup,138.0,509
+Valley Head,2002,MODIS,mid_greenup,139.0,501
+Valley Head,2002,MODIS,mid_greenup,140.0,500
+Valley Head,2002,MODIS,mid_greenup,141.0,452
+Valley Head,2002,MODIS,mid_greenup,142.0,433
+Valley Head,2002,MODIS,mid_greenup,143.0,431
+Valley Head,2002,MODIS,mid_greenup,144.0,442
+Valley Head,2002,MODIS,mid_greenup,145.0,374
+Valley Head,2002,MODIS,mid_greenup,146.0,352
+Valley Head,2002,MODIS,mid_greenup,147.0,245
+Valley Head,2002,MODIS,mid_greenup,148.0,204
+Valley Head,2002,MODIS,mid_greenup,149.0,173
+Valley Head,2002,MODIS,mid_greenup,150.0,126
+Valley Head,2002,MODIS,mid_greenup,151.0,104
+Valley Head,2002,MODIS,mid_greenup,152.0,78
+Valley Head,2002,MODIS,mid_greenup,153.0,54
+Valley Head,2002,MODIS,mid_greenup,154.0,46
+Valley Head,2002,MODIS,mid_greenup,155.0,34
+Valley Head,2002,MODIS,mid_greenup,156.0,10
+Valley Head,2002,MODIS,mid_greenup,157.0,8
+Valley Head,2002,MODIS,mid_greenup,159.0,1
+Valley Head,2002,MODIS,mid_greenup,161.0,2
+Valley Head,2002,MODIS,senescence,200.0,1
+Valley Head,2002,MODIS,senescence,205.0,1
+Valley Head,2002,MODIS,senescence,206.0,2
+Valley Head,2002,MODIS,senescence,207.0,2
+Valley Head,2002,MODIS,senescence,208.0,1
+Valley Head,2002,MODIS,senescence,210.0,5
+Valley Head,2002,MODIS,senescence,211.0,7
+Valley Head,2002,MODIS,senescence,212.0,6
+Valley Head,2002,MODIS,senescence,213.0,13
+Valley Head,2002,MODIS,senescence,214.0,33
+Valley Head,2002,MODIS,senescence,215.0,27
+Valley Head,2002,MODIS,senescence,216.0,57
+Valley Head,2002,MODIS,senescence,217.0,66
+Valley Head,2002,MODIS,senescence,218.0,96
+Valley Head,2002,MODIS,senescence,219.0,116
+Valley Head,2002,MODIS,senescence,220.0,173
+Valley Head,2002,MODIS,senescence,221.0,183
+Valley Head,2002,MODIS,senescence,222.0,237
+Valley Head,2002,MODIS,senescence,223.0,304
+Valley Head,2002,MODIS,senescence,224.0,312
+Valley Head,2002,MODIS,senescence,225.0,395
+Valley Head,2002,MODIS,senescence,226.0,387
+Valley Head,2002,MODIS,senescence,227.0,462
+Valley Head,2002,MODIS,senescence,228.0,431
+Valley Head,2002,MODIS,senescence,229.0,448
+Valley Head,2002,MODIS,senescence,230.0,488
+Valley Head,2002,MODIS,senescence,231.0,446
+Valley Head,2002,MODIS,senescence,232.0,404
+Valley Head,2002,MODIS,senescence,233.0,396
+Valley Head,2002,MODIS,senescence,234.0,340
+Valley Head,2002,MODIS,senescence,235.0,325
+Valley Head,2002,MODIS,senescence,236.0,250
+Valley Head,2002,MODIS,senescence,237.0,211
+Valley Head,2002,MODIS,senescence,238.0,175
+Valley Head,2002,MODIS,senescence,239.0,150
+Valley Head,2002,MODIS,senescence,240.0,135
+Valley Head,2002,MODIS,senescence,241.0,93
+Valley Head,2002,MODIS,senescence,242.0,72
+Valley Head,2002,MODIS,senescence,243.0,54
+Valley Head,2002,MODIS,senescence,244.0,45
+Valley Head,2002,MODIS,senescence,245.0,37
+Valley Head,2002,MODIS,senescence,246.0,20
+Valley Head,2002,MODIS,senescence,247.0,19
+Valley Head,2002,MODIS,senescence,248.0,12
+Valley Head,2002,MODIS,senescence,249.0,5
+Valley Head,2002,MODIS,senescence,250.0,7
+Valley Head,2002,MODIS,senescence,251.0,6
+Valley Head,2002,MODIS,senescence,252.0,4
+Valley Head,2002,MODIS,senescence,253.0,2
+Valley Head,2002,MODIS,senescence,254.0,4
+Valley Head,2002,MODIS,senescence,255.0,1
+Valley Head,2002,MODIS,senescence,256.0,1
+Valley Head,2002,MODIS,senescence,259.0,1
+Valley Head,2002,MODIS,senescence,264.0,1
+Valley Head,2002,MODIS,mid_greendown,254.0,1
+Valley Head,2002,MODIS,mid_greendown,260.0,3
+Valley Head,2002,MODIS,mid_greendown,261.0,4
+Valley Head,2002,MODIS,mid_greendown,262.0,3
+Valley Head,2002,MODIS,mid_greendown,263.0,2
+Valley Head,2002,MODIS,mid_greendown,264.0,3
+Valley Head,2002,MODIS,mid_greendown,265.0,7
+Valley Head,2002,MODIS,mid_greendown,266.0,16
+Valley Head,2002,MODIS,mid_greendown,267.0,13
+Valley Head,2002,MODIS,mid_greendown,268.0,38
+Valley Head,2002,MODIS,mid_greendown,269.0,51
+Valley Head,2002,MODIS,mid_greendown,270.0,44
+Valley Head,2002,MODIS,mid_greendown,271.0,70
+Valley Head,2002,MODIS,mid_greendown,272.0,90
+Valley Head,2002,MODIS,mid_greendown,273.0,165
+Valley Head,2002,MODIS,mid_greendown,274.0,169
+Valley Head,2002,MODIS,mid_greendown,275.0,210
+Valley Head,2002,MODIS,mid_greendown,276.0,250
+Valley Head,2002,MODIS,mid_greendown,277.0,309
+Valley Head,2002,MODIS,mid_greendown,278.0,329
+Valley Head,2002,MODIS,mid_greendown,279.0,402
+Valley Head,2002,MODIS,mid_greendown,280.0,420
+Valley Head,2002,MODIS,mid_greendown,281.0,456
+Valley Head,2002,MODIS,mid_greendown,282.0,514
+Valley Head,2002,MODIS,mid_greendown,283.0,487
+Valley Head,2002,MODIS,mid_greendown,284.0,537
+Valley Head,2002,MODIS,mid_greendown,285.0,503
+Valley Head,2002,MODIS,mid_greendown,286.0,436
+Valley Head,2002,MODIS,mid_greendown,287.0,414
+Valley Head,2002,MODIS,mid_greendown,288.0,397
+Valley Head,2002,MODIS,mid_greendown,289.0,299
+Valley Head,2002,MODIS,mid_greendown,290.0,251
+Valley Head,2002,MODIS,mid_greendown,291.0,172
+Valley Head,2002,MODIS,mid_greendown,292.0,118
+Valley Head,2002,MODIS,mid_greendown,293.0,91
+Valley Head,2002,MODIS,mid_greendown,294.0,59
+Valley Head,2002,MODIS,mid_greendown,295.0,39
+Valley Head,2002,MODIS,mid_greendown,296.0,29
+Valley Head,2002,MODIS,mid_greendown,297.0,14
+Valley Head,2002,MODIS,mid_greendown,298.0,9
+Valley Head,2002,MODIS,mid_greendown,299.0,7
+Valley Head,2002,MODIS,mid_greendown,300.0,7
+Valley Head,2002,MODIS,mid_greendown,301.0,3
+Valley Head,2002,MODIS,mid_greendown,302.0,3
+Valley Head,2002,MODIS,mid_greendown,303.0,9
+Valley Head,2002,MODIS,mid_greendown,304.0,5
+Valley Head,2002,MODIS,mid_greendown,305.0,6
+Valley Head,2002,MODIS,mid_greendown,306.0,1
+Valley Head,2002,MODIS,mid_greendown,307.0,1
+Valley Head,2002,MODIS,mid_greendown,309.0,1
+Valley Head,2002,MODIS,mid_greendown,315.0,2
+Valley Head,2002,MODIS,dormancy,289.0,1
+Valley Head,2002,MODIS,dormancy,291.0,1
+Valley Head,2002,MODIS,dormancy,293.0,5
+Valley Head,2002,MODIS,dormancy,294.0,2
+Valley Head,2002,MODIS,dormancy,295.0,4
+Valley Head,2002,MODIS,dormancy,296.0,10
+Valley Head,2002,MODIS,dormancy,297.0,11
+Valley Head,2002,MODIS,dormancy,298.0,14
+Valley Head,2002,MODIS,dormancy,299.0,25
+Valley Head,2002,MODIS,dormancy,300.0,33
+Valley Head,2002,MODIS,dormancy,301.0,33
+Valley Head,2002,MODIS,dormancy,302.0,65
+Valley Head,2002,MODIS,dormancy,303.0,95
+Valley Head,2002,MODIS,dormancy,304.0,104
+Valley Head,2002,MODIS,dormancy,305.0,147
+Valley Head,2002,MODIS,dormancy,306.0,170
+Valley Head,2002,MODIS,dormancy,307.0,197
+Valley Head,2002,MODIS,dormancy,308.0,218
+Valley Head,2002,MODIS,dormancy,309.0,263
+Valley Head,2002,MODIS,dormancy,310.0,315
+Valley Head,2002,MODIS,dormancy,311.0,348
+Valley Head,2002,MODIS,dormancy,312.0,397
+Valley Head,2002,MODIS,dormancy,313.0,405
+Valley Head,2002,MODIS,dormancy,314.0,401
+Valley Head,2002,MODIS,dormancy,315.0,479
+Valley Head,2002,MODIS,dormancy,316.0,454
+Valley Head,2002,MODIS,dormancy,317.0,436
+Valley Head,2002,MODIS,dormancy,318.0,406
+Valley Head,2002,MODIS,dormancy,319.0,374
+Valley Head,2002,MODIS,dormancy,320.0,309
+Valley Head,2002,MODIS,dormancy,321.0,277
+Valley Head,2002,MODIS,dormancy,322.0,238
+Valley Head,2002,MODIS,dormancy,323.0,182
+Valley Head,2002,MODIS,dormancy,324.0,159
+Valley Head,2002,MODIS,dormancy,325.0,161
+Valley Head,2002,MODIS,dormancy,326.0,98
+Valley Head,2002,MODIS,dormancy,327.0,68
+Valley Head,2002,MODIS,dormancy,328.0,74
+Valley Head,2002,MODIS,dormancy,329.0,62
+Valley Head,2002,MODIS,dormancy,330.0,53
+Valley Head,2002,MODIS,dormancy,331.0,48
+Valley Head,2002,MODIS,dormancy,332.0,42
+Valley Head,2002,MODIS,dormancy,333.0,35
+Valley Head,2002,MODIS,dormancy,334.0,44
+Valley Head,2002,MODIS,dormancy,335.0,20
+Valley Head,2002,MODIS,dormancy,336.0,28
+Valley Head,2002,MODIS,dormancy,337.0,13
+Valley Head,2002,MODIS,dormancy,338.0,18
+Valley Head,2002,MODIS,dormancy,339.0,15
+Valley Head,2002,MODIS,dormancy,340.0,15
+Valley Head,2002,MODIS,dormancy,341.0,12
+Valley Head,2002,MODIS,dormancy,342.0,12
+Valley Head,2002,MODIS,dormancy,343.0,8
+Valley Head,2002,MODIS,dormancy,344.0,9
+Valley Head,2002,MODIS,dormancy,345.0,6
+Valley Head,2002,MODIS,dormancy,346.0,5
+Valley Head,2002,MODIS,dormancy,347.0,8
+Valley Head,2002,MODIS,dormancy,348.0,7
+Valley Head,2002,MODIS,dormancy,349.0,3
+Valley Head,2002,MODIS,dormancy,350.0,4
+Valley Head,2002,MODIS,dormancy,351.0,2
+Valley Head,2002,MODIS,dormancy,352.0,4
+Valley Head,2002,MODIS,dormancy,354.0,3
+Valley Head,2002,MODIS,dormancy,355.0,5
+Valley Head,2002,MODIS,dormancy,358.0,4
+Valley Head,2002,MODIS,dormancy,359.0,1
+Valley Head,2002,MODIS,dormancy,362.0,1
+Valley Head,2002,MODIS,dormancy,363.0,1
+Valley Head,2002,MODIS,dormancy,365.0,1
+Valley Head,2002,MODIS,dormancy,367.0,1
+Valley Head,2002,MODIS,forest_px,1.0,7469
+Shenandoah,2002,MODIS,mid_greenup,101.0,1
+Shenandoah,2002,MODIS,mid_greenup,103.0,1
+Shenandoah,2002,MODIS,mid_greenup,105.0,1
+Shenandoah,2002,MODIS,mid_greenup,106.0,1
+Shenandoah,2002,MODIS,mid_greenup,107.0,3
+Shenandoah,2002,MODIS,mid_greenup,108.0,2
+Shenandoah,2002,MODIS,mid_greenup,109.0,5
+Shenandoah,2002,MODIS,mid_greenup,110.0,11
+Shenandoah,2002,MODIS,mid_greenup,111.0,18
+Shenandoah,2002,MODIS,mid_greenup,112.0,22
+Shenandoah,2002,MODIS,mid_greenup,113.0,45
+Shenandoah,2002,MODIS,mid_greenup,114.0,82
+Shenandoah,2002,MODIS,mid_greenup,115.0,129
+Shenandoah,2002,MODIS,mid_greenup,116.0,177
+Shenandoah,2002,MODIS,mid_greenup,117.0,244
+Shenandoah,2002,MODIS,mid_greenup,118.0,324
+Shenandoah,2002,MODIS,mid_greenup,119.0,396
+Shenandoah,2002,MODIS,mid_greenup,120.0,401
+Shenandoah,2002,MODIS,mid_greenup,121.0,414
+Shenandoah,2002,MODIS,mid_greenup,122.0,378
+Shenandoah,2002,MODIS,mid_greenup,123.0,364
+Shenandoah,2002,MODIS,mid_greenup,124.0,313
+Shenandoah,2002,MODIS,mid_greenup,125.0,319
+Shenandoah,2002,MODIS,mid_greenup,126.0,294
+Shenandoah,2002,MODIS,mid_greenup,127.0,257
+Shenandoah,2002,MODIS,mid_greenup,128.0,263
+Shenandoah,2002,MODIS,mid_greenup,129.0,199
+Shenandoah,2002,MODIS,mid_greenup,130.0,191
+Shenandoah,2002,MODIS,mid_greenup,131.0,149
+Shenandoah,2002,MODIS,mid_greenup,132.0,128
+Shenandoah,2002,MODIS,mid_greenup,133.0,87
+Shenandoah,2002,MODIS,mid_greenup,134.0,61
+Shenandoah,2002,MODIS,mid_greenup,135.0,48
+Shenandoah,2002,MODIS,mid_greenup,136.0,36
+Shenandoah,2002,MODIS,mid_greenup,137.0,34
+Shenandoah,2002,MODIS,mid_greenup,138.0,30
+Shenandoah,2002,MODIS,mid_greenup,139.0,11
+Shenandoah,2002,MODIS,mid_greenup,140.0,13
+Shenandoah,2002,MODIS,mid_greenup,141.0,10
+Shenandoah,2002,MODIS,mid_greenup,142.0,6
+Shenandoah,2002,MODIS,mid_greenup,143.0,3
+Shenandoah,2002,MODIS,mid_greenup,144.0,4
+Shenandoah,2002,MODIS,mid_greenup,145.0,1
+Shenandoah,2002,MODIS,senescence,175.0,1
+Shenandoah,2002,MODIS,senescence,179.0,1
+Shenandoah,2002,MODIS,senescence,180.0,1
+Shenandoah,2002,MODIS,senescence,181.0,2
+Shenandoah,2002,MODIS,senescence,182.0,2
+Shenandoah,2002,MODIS,senescence,183.0,2
+Shenandoah,2002,MODIS,senescence,184.0,5
+Shenandoah,2002,MODIS,senescence,185.0,4
+Shenandoah,2002,MODIS,senescence,186.0,3
+Shenandoah,2002,MODIS,senescence,188.0,4
+Shenandoah,2002,MODIS,senescence,190.0,2
+Shenandoah,2002,MODIS,senescence,191.0,1
+Shenandoah,2002,MODIS,senescence,192.0,2
+Shenandoah,2002,MODIS,senescence,193.0,2
+Shenandoah,2002,MODIS,senescence,194.0,1
+Shenandoah,2002,MODIS,senescence,195.0,2
+Shenandoah,2002,MODIS,senescence,196.0,1
+Shenandoah,2002,MODIS,senescence,197.0,4
+Shenandoah,2002,MODIS,senescence,198.0,5
+Shenandoah,2002,MODIS,senescence,199.0,3
+Shenandoah,2002,MODIS,senescence,200.0,7
+Shenandoah,2002,MODIS,senescence,201.0,14
+Shenandoah,2002,MODIS,senescence,202.0,10
+Shenandoah,2002,MODIS,senescence,203.0,19
+Shenandoah,2002,MODIS,senescence,204.0,22
+Shenandoah,2002,MODIS,senescence,205.0,35
+Shenandoah,2002,MODIS,senescence,206.0,36
+Shenandoah,2002,MODIS,senescence,207.0,65
+Shenandoah,2002,MODIS,senescence,208.0,82
+Shenandoah,2002,MODIS,senescence,209.0,102
+Shenandoah,2002,MODIS,senescence,210.0,122
+Shenandoah,2002,MODIS,senescence,211.0,162
+Shenandoah,2002,MODIS,senescence,212.0,180
+Shenandoah,2002,MODIS,senescence,213.0,249
+Shenandoah,2002,MODIS,senescence,214.0,248
+Shenandoah,2002,MODIS,senescence,215.0,283
+Shenandoah,2002,MODIS,senescence,216.0,304
+Shenandoah,2002,MODIS,senescence,217.0,316
+Shenandoah,2002,MODIS,senescence,218.0,292
+Shenandoah,2002,MODIS,senescence,219.0,334
+Shenandoah,2002,MODIS,senescence,220.0,293
+Shenandoah,2002,MODIS,senescence,221.0,257
+Shenandoah,2002,MODIS,senescence,222.0,256
+Shenandoah,2002,MODIS,senescence,223.0,238
+Shenandoah,2002,MODIS,senescence,224.0,232
+Shenandoah,2002,MODIS,senescence,225.0,201
+Shenandoah,2002,MODIS,senescence,226.0,196
+Shenandoah,2002,MODIS,senescence,227.0,169
+Shenandoah,2002,MODIS,senescence,228.0,123
+Shenandoah,2002,MODIS,senescence,229.0,121
+Shenandoah,2002,MODIS,senescence,230.0,94
+Shenandoah,2002,MODIS,senescence,231.0,62
+Shenandoah,2002,MODIS,senescence,232.0,67
+Shenandoah,2002,MODIS,senescence,233.0,51
+Shenandoah,2002,MODIS,senescence,234.0,34
+Shenandoah,2002,MODIS,senescence,235.0,31
+Shenandoah,2002,MODIS,senescence,236.0,19
+Shenandoah,2002,MODIS,senescence,237.0,25
+Shenandoah,2002,MODIS,senescence,238.0,20
+Shenandoah,2002,MODIS,senescence,239.0,8
+Shenandoah,2002,MODIS,senescence,240.0,8
+Shenandoah,2002,MODIS,senescence,241.0,7
+Shenandoah,2002,MODIS,senescence,242.0,11
+Shenandoah,2002,MODIS,senescence,243.0,4
+Shenandoah,2002,MODIS,senescence,244.0,10
+Shenandoah,2002,MODIS,senescence,245.0,1
+Shenandoah,2002,MODIS,senescence,246.0,4
+Shenandoah,2002,MODIS,senescence,247.0,1
+Shenandoah,2002,MODIS,senescence,248.0,1
+Shenandoah,2002,MODIS,senescence,250.0,1
+Shenandoah,2002,MODIS,senescence,252.0,1
+Shenandoah,2002,MODIS,mid_greendown,214.0,2
+Shenandoah,2002,MODIS,mid_greendown,219.0,2
+Shenandoah,2002,MODIS,mid_greendown,220.0,1
+Shenandoah,2002,MODIS,mid_greendown,221.0,1
+Shenandoah,2002,MODIS,mid_greendown,226.0,1
+Shenandoah,2002,MODIS,mid_greendown,227.0,2
+Shenandoah,2002,MODIS,mid_greendown,230.0,1
+Shenandoah,2002,MODIS,mid_greendown,231.0,1
+Shenandoah,2002,MODIS,mid_greendown,232.0,2
+Shenandoah,2002,MODIS,mid_greendown,234.0,1
+Shenandoah,2002,MODIS,mid_greendown,235.0,1
+Shenandoah,2002,MODIS,mid_greendown,236.0,2
+Shenandoah,2002,MODIS,mid_greendown,240.0,1
+Shenandoah,2002,MODIS,mid_greendown,258.0,1
+Shenandoah,2002,MODIS,mid_greendown,260.0,1
+Shenandoah,2002,MODIS,mid_greendown,261.0,2
+Shenandoah,2002,MODIS,mid_greendown,263.0,1
+Shenandoah,2002,MODIS,mid_greendown,264.0,1
+Shenandoah,2002,MODIS,mid_greendown,265.0,1
+Shenandoah,2002,MODIS,mid_greendown,266.0,3
+Shenandoah,2002,MODIS,mid_greendown,267.0,1
+Shenandoah,2002,MODIS,mid_greendown,268.0,1
+Shenandoah,2002,MODIS,mid_greendown,269.0,4
+Shenandoah,2002,MODIS,mid_greendown,270.0,5
+Shenandoah,2002,MODIS,mid_greendown,271.0,4
+Shenandoah,2002,MODIS,mid_greendown,272.0,7
+Shenandoah,2002,MODIS,mid_greendown,273.0,6
+Shenandoah,2002,MODIS,mid_greendown,274.0,16
+Shenandoah,2002,MODIS,mid_greendown,275.0,24
+Shenandoah,2002,MODIS,mid_greendown,276.0,23
+Shenandoah,2002,MODIS,mid_greendown,277.0,38
+Shenandoah,2002,MODIS,mid_greendown,278.0,50
+Shenandoah,2002,MODIS,mid_greendown,279.0,64
+Shenandoah,2002,MODIS,mid_greendown,280.0,95
+Shenandoah,2002,MODIS,mid_greendown,281.0,128
+Shenandoah,2002,MODIS,mid_greendown,282.0,171
+Shenandoah,2002,MODIS,mid_greendown,283.0,219
+Shenandoah,2002,MODIS,mid_greendown,284.0,260
+Shenandoah,2002,MODIS,mid_greendown,285.0,302
+Shenandoah,2002,MODIS,mid_greendown,286.0,325
+Shenandoah,2002,MODIS,mid_greendown,287.0,390
+Shenandoah,2002,MODIS,mid_greendown,288.0,424
+Shenandoah,2002,MODIS,mid_greendown,289.0,378
+Shenandoah,2002,MODIS,mid_greendown,290.0,405
+Shenandoah,2002,MODIS,mid_greendown,291.0,354
+Shenandoah,2002,MODIS,mid_greendown,292.0,347
+Shenandoah,2002,MODIS,mid_greendown,293.0,333
+Shenandoah,2002,MODIS,mid_greendown,294.0,280
+Shenandoah,2002,MODIS,mid_greendown,295.0,243
+Shenandoah,2002,MODIS,mid_greendown,296.0,182
+Shenandoah,2002,MODIS,mid_greendown,297.0,131
+Shenandoah,2002,MODIS,mid_greendown,298.0,95
+Shenandoah,2002,MODIS,mid_greendown,299.0,57
+Shenandoah,2002,MODIS,mid_greendown,300.0,49
+Shenandoah,2002,MODIS,mid_greendown,301.0,17
+Shenandoah,2002,MODIS,mid_greendown,302.0,16
+Shenandoah,2002,MODIS,mid_greendown,303.0,4
+Shenandoah,2002,MODIS,dormancy,279.0,1
+Shenandoah,2002,MODIS,dormancy,288.0,1
+Shenandoah,2002,MODIS,dormancy,292.0,1
+Shenandoah,2002,MODIS,dormancy,296.0,1
+Shenandoah,2002,MODIS,dormancy,298.0,2
+Shenandoah,2002,MODIS,dormancy,301.0,1
+Shenandoah,2002,MODIS,dormancy,302.0,1
+Shenandoah,2002,MODIS,dormancy,305.0,1
+Shenandoah,2002,MODIS,dormancy,306.0,5
+Shenandoah,2002,MODIS,dormancy,307.0,4
+Shenandoah,2002,MODIS,dormancy,308.0,12
+Shenandoah,2002,MODIS,dormancy,309.0,17
+Shenandoah,2002,MODIS,dormancy,310.0,21
+Shenandoah,2002,MODIS,dormancy,311.0,38
+Shenandoah,2002,MODIS,dormancy,312.0,53
+Shenandoah,2002,MODIS,dormancy,313.0,82
+Shenandoah,2002,MODIS,dormancy,314.0,128
+Shenandoah,2002,MODIS,dormancy,315.0,174
+Shenandoah,2002,MODIS,dormancy,316.0,263
+Shenandoah,2002,MODIS,dormancy,317.0,328
+Shenandoah,2002,MODIS,dormancy,318.0,393
+Shenandoah,2002,MODIS,dormancy,319.0,496
+Shenandoah,2002,MODIS,dormancy,320.0,537
+Shenandoah,2002,MODIS,dormancy,321.0,561
+Shenandoah,2002,MODIS,dormancy,322.0,564
+Shenandoah,2002,MODIS,dormancy,323.0,512
+Shenandoah,2002,MODIS,dormancy,324.0,431
+Shenandoah,2002,MODIS,dormancy,325.0,313
+Shenandoah,2002,MODIS,dormancy,326.0,231
+Shenandoah,2002,MODIS,dormancy,327.0,133
+Shenandoah,2002,MODIS,dormancy,328.0,72
+Shenandoah,2002,MODIS,dormancy,329.0,41
+Shenandoah,2002,MODIS,dormancy,330.0,19
+Shenandoah,2002,MODIS,dormancy,331.0,10
+Shenandoah,2002,MODIS,dormancy,332.0,9
+Shenandoah,2002,MODIS,dormancy,333.0,8
+Shenandoah,2002,MODIS,dormancy,334.0,3
+Shenandoah,2002,MODIS,dormancy,335.0,3
+Shenandoah,2002,MODIS,dormancy,336.0,2
+Shenandoah,2002,MODIS,dormancy,337.0,1
+Shenandoah,2002,MODIS,dormancy,338.0,1
+Shenandoah,2002,MODIS,dormancy,340.0,1
+Shenandoah,2002,MODIS,dormancy,344.0,1
+Shenandoah,2002,MODIS,forest_px,1.0,5476
+Roanoke,2002,MODIS,mid_greenup,100.0,2
+Roanoke,2002,MODIS,mid_greenup,102.0,6
+Roanoke,2002,MODIS,mid_greenup,103.0,3
+Roanoke,2002,MODIS,mid_greenup,104.0,8
+Roanoke,2002,MODIS,mid_greenup,105.0,8
+Roanoke,2002,MODIS,mid_greenup,106.0,12
+Roanoke,2002,MODIS,mid_greenup,107.0,14
+Roanoke,2002,MODIS,mid_greenup,108.0,19
+Roanoke,2002,MODIS,mid_greenup,109.0,28
+Roanoke,2002,MODIS,mid_greenup,110.0,43
+Roanoke,2002,MODIS,mid_greenup,111.0,53
+Roanoke,2002,MODIS,mid_greenup,112.0,69
+Roanoke,2002,MODIS,mid_greenup,113.0,87
+Roanoke,2002,MODIS,mid_greenup,114.0,123
+Roanoke,2002,MODIS,mid_greenup,115.0,150
+Roanoke,2002,MODIS,mid_greenup,116.0,210
+Roanoke,2002,MODIS,mid_greenup,117.0,293
+Roanoke,2002,MODIS,mid_greenup,118.0,402
+Roanoke,2002,MODIS,mid_greenup,119.0,456
+Roanoke,2002,MODIS,mid_greenup,120.0,570
+Roanoke,2002,MODIS,mid_greenup,121.0,566
+Roanoke,2002,MODIS,mid_greenup,122.0,634
+Roanoke,2002,MODIS,mid_greenup,123.0,562
+Roanoke,2002,MODIS,mid_greenup,124.0,572
+Roanoke,2002,MODIS,mid_greenup,125.0,519
+Roanoke,2002,MODIS,mid_greenup,126.0,421
+Roanoke,2002,MODIS,mid_greenup,127.0,320
+Roanoke,2002,MODIS,mid_greenup,128.0,204
+Roanoke,2002,MODIS,mid_greenup,129.0,142
+Roanoke,2002,MODIS,mid_greenup,130.0,113
+Roanoke,2002,MODIS,mid_greenup,131.0,79
+Roanoke,2002,MODIS,mid_greenup,132.0,58
+Roanoke,2002,MODIS,mid_greenup,133.0,55
+Roanoke,2002,MODIS,mid_greenup,134.0,37
+Roanoke,2002,MODIS,mid_greenup,135.0,31
+Roanoke,2002,MODIS,mid_greenup,136.0,25
+Roanoke,2002,MODIS,mid_greenup,137.0,16
+Roanoke,2002,MODIS,mid_greenup,138.0,24
+Roanoke,2002,MODIS,mid_greenup,139.0,14
+Roanoke,2002,MODIS,mid_greenup,140.0,11
+Roanoke,2002,MODIS,mid_greenup,141.0,11
+Roanoke,2002,MODIS,mid_greenup,142.0,8
+Roanoke,2002,MODIS,mid_greenup,143.0,9
+Roanoke,2002,MODIS,mid_greenup,144.0,16
+Roanoke,2002,MODIS,mid_greenup,145.0,13
+Roanoke,2002,MODIS,mid_greenup,146.0,5
+Roanoke,2002,MODIS,mid_greenup,147.0,6
+Roanoke,2002,MODIS,mid_greenup,148.0,5
+Roanoke,2002,MODIS,mid_greenup,149.0,8
+Roanoke,2002,MODIS,mid_greenup,150.0,3
+Roanoke,2002,MODIS,mid_greenup,152.0,4
+Roanoke,2002,MODIS,mid_greenup,153.0,2
+Roanoke,2002,MODIS,mid_greenup,154.0,3
+Roanoke,2002,MODIS,mid_greenup,157.0,1
+Roanoke,2002,MODIS,mid_greenup,98.0,1
+Roanoke,2002,MODIS,mid_greenup,99.0,1
+Roanoke,2002,MODIS,senescence,165.0,1
+Roanoke,2002,MODIS,senescence,167.0,1
+Roanoke,2002,MODIS,senescence,170.0,1
+Roanoke,2002,MODIS,senescence,171.0,1
+Roanoke,2002,MODIS,senescence,174.0,1
+Roanoke,2002,MODIS,senescence,175.0,3
+Roanoke,2002,MODIS,senescence,176.0,1
+Roanoke,2002,MODIS,senescence,177.0,1
+Roanoke,2002,MODIS,senescence,178.0,4
+Roanoke,2002,MODIS,senescence,179.0,2
+Roanoke,2002,MODIS,senescence,180.0,3
+Roanoke,2002,MODIS,senescence,181.0,1
+Roanoke,2002,MODIS,senescence,182.0,3
+Roanoke,2002,MODIS,senescence,183.0,2
+Roanoke,2002,MODIS,senescence,184.0,1
+Roanoke,2002,MODIS,senescence,185.0,7
+Roanoke,2002,MODIS,senescence,186.0,3
+Roanoke,2002,MODIS,senescence,187.0,9
+Roanoke,2002,MODIS,senescence,188.0,3
+Roanoke,2002,MODIS,senescence,189.0,11
+Roanoke,2002,MODIS,senescence,190.0,8
+Roanoke,2002,MODIS,senescence,191.0,9
+Roanoke,2002,MODIS,senescence,192.0,5
+Roanoke,2002,MODIS,senescence,193.0,14
+Roanoke,2002,MODIS,senescence,194.0,21
+Roanoke,2002,MODIS,senescence,195.0,28
+Roanoke,2002,MODIS,senescence,196.0,23
+Roanoke,2002,MODIS,senescence,197.0,34
+Roanoke,2002,MODIS,senescence,198.0,36
+Roanoke,2002,MODIS,senescence,199.0,48
+Roanoke,2002,MODIS,senescence,200.0,72
+Roanoke,2002,MODIS,senescence,201.0,74
+Roanoke,2002,MODIS,senescence,202.0,80
+Roanoke,2002,MODIS,senescence,203.0,77
+Roanoke,2002,MODIS,senescence,204.0,107
+Roanoke,2002,MODIS,senescence,205.0,129
+Roanoke,2002,MODIS,senescence,206.0,150
+Roanoke,2002,MODIS,senescence,207.0,199
+Roanoke,2002,MODIS,senescence,208.0,165
+Roanoke,2002,MODIS,senescence,209.0,199
+Roanoke,2002,MODIS,senescence,210.0,243
+Roanoke,2002,MODIS,senescence,211.0,258
+Roanoke,2002,MODIS,senescence,212.0,296
+Roanoke,2002,MODIS,senescence,213.0,301
+Roanoke,2002,MODIS,senescence,214.0,287
+Roanoke,2002,MODIS,senescence,215.0,324
+Roanoke,2002,MODIS,senescence,216.0,306
+Roanoke,2002,MODIS,senescence,217.0,288
+Roanoke,2002,MODIS,senescence,218.0,273
+Roanoke,2002,MODIS,senescence,219.0,271
+Roanoke,2002,MODIS,senescence,220.0,286
+Roanoke,2002,MODIS,senescence,221.0,246
+Roanoke,2002,MODIS,senescence,222.0,207
+Roanoke,2002,MODIS,senescence,223.0,171
+Roanoke,2002,MODIS,senescence,224.0,188
+Roanoke,2002,MODIS,senescence,225.0,167
+Roanoke,2002,MODIS,senescence,226.0,148
+Roanoke,2002,MODIS,senescence,227.0,131
+Roanoke,2002,MODIS,senescence,228.0,130
+Roanoke,2002,MODIS,senescence,229.0,123
+Roanoke,2002,MODIS,senescence,230.0,112
+Roanoke,2002,MODIS,senescence,231.0,101
+Roanoke,2002,MODIS,senescence,232.0,89
+Roanoke,2002,MODIS,senescence,233.0,84
+Roanoke,2002,MODIS,senescence,234.0,70
+Roanoke,2002,MODIS,senescence,235.0,64
+Roanoke,2002,MODIS,senescence,236.0,49
+Roanoke,2002,MODIS,senescence,237.0,48
+Roanoke,2002,MODIS,senescence,238.0,38
+Roanoke,2002,MODIS,senescence,239.0,36
+Roanoke,2002,MODIS,senescence,240.0,39
+Roanoke,2002,MODIS,senescence,241.0,33
+Roanoke,2002,MODIS,senescence,242.0,20
+Roanoke,2002,MODIS,senescence,243.0,13
+Roanoke,2002,MODIS,senescence,244.0,22
+Roanoke,2002,MODIS,senescence,245.0,13
+Roanoke,2002,MODIS,senescence,246.0,8
+Roanoke,2002,MODIS,senescence,247.0,9
+Roanoke,2002,MODIS,senescence,248.0,5
+Roanoke,2002,MODIS,senescence,249.0,4
+Roanoke,2002,MODIS,senescence,250.0,4
+Roanoke,2002,MODIS,senescence,251.0,4
+Roanoke,2002,MODIS,senescence,253.0,1
+Roanoke,2002,MODIS,senescence,254.0,3
+Roanoke,2002,MODIS,senescence,255.0,1
+Roanoke,2002,MODIS,senescence,257.0,1
+Roanoke,2002,MODIS,senescence,261.0,2
+Roanoke,2002,MODIS,senescence,278.0,1
+Roanoke,2002,MODIS,mid_greendown,228.0,1
+Roanoke,2002,MODIS,mid_greendown,230.0,1
+Roanoke,2002,MODIS,mid_greendown,235.0,1
+Roanoke,2002,MODIS,mid_greendown,238.0,1
+Roanoke,2002,MODIS,mid_greendown,240.0,2
+Roanoke,2002,MODIS,mid_greendown,241.0,1
+Roanoke,2002,MODIS,mid_greendown,242.0,1
+Roanoke,2002,MODIS,mid_greendown,243.0,1
+Roanoke,2002,MODIS,mid_greendown,244.0,2
+Roanoke,2002,MODIS,mid_greendown,245.0,3
+Roanoke,2002,MODIS,mid_greendown,246.0,1
+Roanoke,2002,MODIS,mid_greendown,247.0,3
+Roanoke,2002,MODIS,mid_greendown,248.0,5
+Roanoke,2002,MODIS,mid_greendown,250.0,4
+Roanoke,2002,MODIS,mid_greendown,251.0,2
+Roanoke,2002,MODIS,mid_greendown,252.0,2
+Roanoke,2002,MODIS,mid_greendown,253.0,6
+Roanoke,2002,MODIS,mid_greendown,254.0,2
+Roanoke,2002,MODIS,mid_greendown,255.0,2
+Roanoke,2002,MODIS,mid_greendown,256.0,5
+Roanoke,2002,MODIS,mid_greendown,257.0,8
+Roanoke,2002,MODIS,mid_greendown,258.0,4
+Roanoke,2002,MODIS,mid_greendown,259.0,9
+Roanoke,2002,MODIS,mid_greendown,260.0,12
+Roanoke,2002,MODIS,mid_greendown,261.0,10
+Roanoke,2002,MODIS,mid_greendown,262.0,7
+Roanoke,2002,MODIS,mid_greendown,263.0,11
+Roanoke,2002,MODIS,mid_greendown,264.0,5
+Roanoke,2002,MODIS,mid_greendown,265.0,7
+Roanoke,2002,MODIS,mid_greendown,266.0,14
+Roanoke,2002,MODIS,mid_greendown,267.0,15
+Roanoke,2002,MODIS,mid_greendown,268.0,28
+Roanoke,2002,MODIS,mid_greendown,269.0,29
+Roanoke,2002,MODIS,mid_greendown,270.0,29
+Roanoke,2002,MODIS,mid_greendown,271.0,35
+Roanoke,2002,MODIS,mid_greendown,272.0,46
+Roanoke,2002,MODIS,mid_greendown,273.0,45
+Roanoke,2002,MODIS,mid_greendown,274.0,71
+Roanoke,2002,MODIS,mid_greendown,275.0,59
+Roanoke,2002,MODIS,mid_greendown,276.0,76
+Roanoke,2002,MODIS,mid_greendown,277.0,124
+Roanoke,2002,MODIS,mid_greendown,278.0,141
+Roanoke,2002,MODIS,mid_greendown,279.0,138
+Roanoke,2002,MODIS,mid_greendown,280.0,181
+Roanoke,2002,MODIS,mid_greendown,281.0,225
+Roanoke,2002,MODIS,mid_greendown,282.0,237
+Roanoke,2002,MODIS,mid_greendown,283.0,289
+Roanoke,2002,MODIS,mid_greendown,284.0,317
+Roanoke,2002,MODIS,mid_greendown,285.0,321
+Roanoke,2002,MODIS,mid_greendown,286.0,415
+Roanoke,2002,MODIS,mid_greendown,287.0,415
+Roanoke,2002,MODIS,mid_greendown,288.0,393
+Roanoke,2002,MODIS,mid_greendown,289.0,449
+Roanoke,2002,MODIS,mid_greendown,290.0,443
+Roanoke,2002,MODIS,mid_greendown,291.0,459
+Roanoke,2002,MODIS,mid_greendown,292.0,409
+Roanoke,2002,MODIS,mid_greendown,293.0,364
+Roanoke,2002,MODIS,mid_greendown,294.0,275
+Roanoke,2002,MODIS,mid_greendown,295.0,203
+Roanoke,2002,MODIS,mid_greendown,296.0,175
+Roanoke,2002,MODIS,mid_greendown,297.0,160
+Roanoke,2002,MODIS,mid_greendown,298.0,97
+Roanoke,2002,MODIS,mid_greendown,299.0,70
+Roanoke,2002,MODIS,mid_greendown,300.0,58
+Roanoke,2002,MODIS,mid_greendown,301.0,36
+Roanoke,2002,MODIS,mid_greendown,302.0,29
+Roanoke,2002,MODIS,mid_greendown,303.0,18
+Roanoke,2002,MODIS,mid_greendown,304.0,17
+Roanoke,2002,MODIS,mid_greendown,305.0,8
+Roanoke,2002,MODIS,mid_greendown,306.0,5
+Roanoke,2002,MODIS,mid_greendown,307.0,2
+Roanoke,2002,MODIS,mid_greendown,308.0,8
+Roanoke,2002,MODIS,mid_greendown,309.0,3
+Roanoke,2002,MODIS,mid_greendown,311.0,1
+Roanoke,2002,MODIS,mid_greendown,312.0,2
+Roanoke,2002,MODIS,mid_greendown,313.0,1
+Roanoke,2002,MODIS,mid_greendown,317.0,1
+Roanoke,2002,MODIS,dormancy,298.0,1
+Roanoke,2002,MODIS,dormancy,300.0,1
+Roanoke,2002,MODIS,dormancy,301.0,1
+Roanoke,2002,MODIS,dormancy,302.0,1
+Roanoke,2002,MODIS,dormancy,303.0,3
+Roanoke,2002,MODIS,dormancy,304.0,1
+Roanoke,2002,MODIS,dormancy,305.0,5
+Roanoke,2002,MODIS,dormancy,306.0,4
+Roanoke,2002,MODIS,dormancy,307.0,6
+Roanoke,2002,MODIS,dormancy,308.0,7
+Roanoke,2002,MODIS,dormancy,309.0,11
+Roanoke,2002,MODIS,dormancy,310.0,30
+Roanoke,2002,MODIS,dormancy,311.0,50
+Roanoke,2002,MODIS,dormancy,312.0,63
+Roanoke,2002,MODIS,dormancy,313.0,101
+Roanoke,2002,MODIS,dormancy,314.0,151
+Roanoke,2002,MODIS,dormancy,315.0,245
+Roanoke,2002,MODIS,dormancy,316.0,364
+Roanoke,2002,MODIS,dormancy,317.0,414
+Roanoke,2002,MODIS,dormancy,318.0,551
+Roanoke,2002,MODIS,dormancy,319.0,622
+Roanoke,2002,MODIS,dormancy,320.0,705
+Roanoke,2002,MODIS,dormancy,321.0,708
+Roanoke,2002,MODIS,dormancy,322.0,662
+Roanoke,2002,MODIS,dormancy,323.0,597
+Roanoke,2002,MODIS,dormancy,324.0,455
+Roanoke,2002,MODIS,dormancy,325.0,345
+Roanoke,2002,MODIS,dormancy,326.0,233
+Roanoke,2002,MODIS,dormancy,327.0,175
+Roanoke,2002,MODIS,dormancy,328.0,129
+Roanoke,2002,MODIS,dormancy,329.0,112
+Roanoke,2002,MODIS,dormancy,330.0,80
+Roanoke,2002,MODIS,dormancy,331.0,54
+Roanoke,2002,MODIS,dormancy,332.0,35
+Roanoke,2002,MODIS,dormancy,333.0,27
+Roanoke,2002,MODIS,dormancy,334.0,15
+Roanoke,2002,MODIS,dormancy,335.0,15
+Roanoke,2002,MODIS,dormancy,336.0,13
+Roanoke,2002,MODIS,dormancy,337.0,9
+Roanoke,2002,MODIS,dormancy,338.0,9
+Roanoke,2002,MODIS,dormancy,339.0,9
+Roanoke,2002,MODIS,dormancy,340.0,6
+Roanoke,2002,MODIS,dormancy,341.0,4
+Roanoke,2002,MODIS,dormancy,342.0,3
+Roanoke,2002,MODIS,dormancy,343.0,3
+Roanoke,2002,MODIS,dormancy,344.0,5
+Roanoke,2002,MODIS,dormancy,346.0,1
+Roanoke,2002,MODIS,dormancy,347.0,3
+Roanoke,2002,MODIS,dormancy,348.0,4
+Roanoke,2002,MODIS,dormancy,351.0,2
+Roanoke,2002,MODIS,dormancy,352.0,2
+Roanoke,2002,MODIS,dormancy,353.0,1
+Roanoke,2002,MODIS,dormancy,355.0,2
+Roanoke,2002,MODIS,forest_px,1.0,7055
+Boone,2002,MODIS,mid_greenup,102.0,1
+Boone,2002,MODIS,mid_greenup,103.0,2
+Boone,2002,MODIS,mid_greenup,105.0,4
+Boone,2002,MODIS,mid_greenup,106.0,2
+Boone,2002,MODIS,mid_greenup,107.0,14
+Boone,2002,MODIS,mid_greenup,108.0,18
+Boone,2002,MODIS,mid_greenup,109.0,43
+Boone,2002,MODIS,mid_greenup,110.0,67
+Boone,2002,MODIS,mid_greenup,111.0,109
+Boone,2002,MODIS,mid_greenup,112.0,163
+Boone,2002,MODIS,mid_greenup,113.0,279
+Boone,2002,MODIS,mid_greenup,114.0,543
+Boone,2002,MODIS,mid_greenup,115.0,755
+Boone,2002,MODIS,mid_greenup,116.0,966
+Boone,2002,MODIS,mid_greenup,117.0,1092
+Boone,2002,MODIS,mid_greenup,118.0,1092
+Boone,2002,MODIS,mid_greenup,119.0,922
+Boone,2002,MODIS,mid_greenup,120.0,901
+Boone,2002,MODIS,mid_greenup,121.0,913
+Boone,2002,MODIS,mid_greenup,122.0,918
+Boone,2002,MODIS,mid_greenup,123.0,1038
+Boone,2002,MODIS,mid_greenup,124.0,946
+Boone,2002,MODIS,mid_greenup,125.0,972
+Boone,2002,MODIS,mid_greenup,126.0,941
+Boone,2002,MODIS,mid_greenup,127.0,899
+Boone,2002,MODIS,mid_greenup,128.0,812
+Boone,2002,MODIS,mid_greenup,129.0,706
+Boone,2002,MODIS,mid_greenup,130.0,625
+Boone,2002,MODIS,mid_greenup,131.0,540
+Boone,2002,MODIS,mid_greenup,132.0,427
+Boone,2002,MODIS,mid_greenup,133.0,396
+Boone,2002,MODIS,mid_greenup,134.0,297
+Boone,2002,MODIS,mid_greenup,135.0,233
+Boone,2002,MODIS,mid_greenup,136.0,192
+Boone,2002,MODIS,mid_greenup,137.0,153
+Boone,2002,MODIS,mid_greenup,138.0,92
+Boone,2002,MODIS,mid_greenup,139.0,102
+Boone,2002,MODIS,mid_greenup,140.0,61
+Boone,2002,MODIS,mid_greenup,141.0,40
+Boone,2002,MODIS,mid_greenup,142.0,26
+Boone,2002,MODIS,mid_greenup,143.0,15
+Boone,2002,MODIS,mid_greenup,144.0,10
+Boone,2002,MODIS,mid_greenup,145.0,10
+Boone,2002,MODIS,mid_greenup,146.0,4
+Boone,2002,MODIS,mid_greenup,147.0,3
+Boone,2002,MODIS,mid_greenup,149.0,1
+Boone,2002,MODIS,mid_greenup,99.0,1
+Boone,2002,MODIS,senescence,165.0,1
+Boone,2002,MODIS,senescence,169.0,1
+Boone,2002,MODIS,senescence,172.0,1
+Boone,2002,MODIS,senescence,173.0,1
+Boone,2002,MODIS,senescence,175.0,1
+Boone,2002,MODIS,senescence,176.0,1
+Boone,2002,MODIS,senescence,180.0,3
+Boone,2002,MODIS,senescence,181.0,2
+Boone,2002,MODIS,senescence,182.0,1
+Boone,2002,MODIS,senescence,184.0,4
+Boone,2002,MODIS,senescence,185.0,2
+Boone,2002,MODIS,senescence,186.0,6
+Boone,2002,MODIS,senescence,187.0,4
+Boone,2002,MODIS,senescence,188.0,8
+Boone,2002,MODIS,senescence,189.0,12
+Boone,2002,MODIS,senescence,190.0,8
+Boone,2002,MODIS,senescence,191.0,15
+Boone,2002,MODIS,senescence,192.0,20
+Boone,2002,MODIS,senescence,193.0,25
+Boone,2002,MODIS,senescence,194.0,26
+Boone,2002,MODIS,senescence,195.0,26
+Boone,2002,MODIS,senescence,196.0,41
+Boone,2002,MODIS,senescence,197.0,47
+Boone,2002,MODIS,senescence,198.0,84
+Boone,2002,MODIS,senescence,199.0,92
+Boone,2002,MODIS,senescence,200.0,91
+Boone,2002,MODIS,senescence,201.0,140
+Boone,2002,MODIS,senescence,202.0,156
+Boone,2002,MODIS,senescence,203.0,169
+Boone,2002,MODIS,senescence,204.0,238
+Boone,2002,MODIS,senescence,205.0,271
+Boone,2002,MODIS,senescence,206.0,334
+Boone,2002,MODIS,senescence,207.0,402
+Boone,2002,MODIS,senescence,208.0,449
+Boone,2002,MODIS,senescence,209.0,504
+Boone,2002,MODIS,senescence,210.0,554
+Boone,2002,MODIS,senescence,211.0,573
+Boone,2002,MODIS,senescence,212.0,647
+Boone,2002,MODIS,senescence,213.0,677
+Boone,2002,MODIS,senescence,214.0,635
+Boone,2002,MODIS,senescence,215.0,719
+Boone,2002,MODIS,senescence,216.0,733
+Boone,2002,MODIS,senescence,217.0,756
+Boone,2002,MODIS,senescence,218.0,759
+Boone,2002,MODIS,senescence,219.0,780
+Boone,2002,MODIS,senescence,220.0,701
+Boone,2002,MODIS,senescence,221.0,707
+Boone,2002,MODIS,senescence,222.0,637
+Boone,2002,MODIS,senescence,223.0,634
+Boone,2002,MODIS,senescence,224.0,626
+Boone,2002,MODIS,senescence,225.0,581
+Boone,2002,MODIS,senescence,226.0,539
+Boone,2002,MODIS,senescence,227.0,491
+Boone,2002,MODIS,senescence,228.0,473
+Boone,2002,MODIS,senescence,229.0,376
+Boone,2002,MODIS,senescence,230.0,373
+Boone,2002,MODIS,senescence,231.0,290
+Boone,2002,MODIS,senescence,232.0,246
+Boone,2002,MODIS,senescence,233.0,240
+Boone,2002,MODIS,senescence,234.0,206
+Boone,2002,MODIS,senescence,235.0,200
+Boone,2002,MODIS,senescence,236.0,152
+Boone,2002,MODIS,senescence,237.0,131
+Boone,2002,MODIS,senescence,238.0,111
+Boone,2002,MODIS,senescence,239.0,86
+Boone,2002,MODIS,senescence,240.0,80
+Boone,2002,MODIS,senescence,241.0,75
+Boone,2002,MODIS,senescence,242.0,58
+Boone,2002,MODIS,senescence,243.0,51
+Boone,2002,MODIS,senescence,244.0,49
+Boone,2002,MODIS,senescence,245.0,49
+Boone,2002,MODIS,senescence,246.0,26
+Boone,2002,MODIS,senescence,247.0,27
+Boone,2002,MODIS,senescence,248.0,22
+Boone,2002,MODIS,senescence,249.0,22
+Boone,2002,MODIS,senescence,250.0,13
+Boone,2002,MODIS,senescence,251.0,9
+Boone,2002,MODIS,senescence,252.0,6
+Boone,2002,MODIS,senescence,253.0,5
+Boone,2002,MODIS,senescence,254.0,10
+Boone,2002,MODIS,senescence,255.0,3
+Boone,2002,MODIS,senescence,256.0,7
+Boone,2002,MODIS,senescence,257.0,7
+Boone,2002,MODIS,senescence,259.0,2
+Boone,2002,MODIS,senescence,260.0,1
+Boone,2002,MODIS,senescence,263.0,1
+Boone,2002,MODIS,senescence,264.0,1
+Boone,2002,MODIS,senescence,265.0,1
+Boone,2002,MODIS,senescence,266.0,1
+Boone,2002,MODIS,senescence,267.0,1
+Boone,2002,MODIS,mid_greendown,226.0,1
+Boone,2002,MODIS,mid_greendown,240.0,1
+Boone,2002,MODIS,mid_greendown,245.0,1
+Boone,2002,MODIS,mid_greendown,248.0,2
+Boone,2002,MODIS,mid_greendown,251.0,1
+Boone,2002,MODIS,mid_greendown,254.0,3
+Boone,2002,MODIS,mid_greendown,255.0,3
+Boone,2002,MODIS,mid_greendown,256.0,5
+Boone,2002,MODIS,mid_greendown,257.0,2
+Boone,2002,MODIS,mid_greendown,258.0,7
+Boone,2002,MODIS,mid_greendown,259.0,5
+Boone,2002,MODIS,mid_greendown,260.0,6
+Boone,2002,MODIS,mid_greendown,261.0,11
+Boone,2002,MODIS,mid_greendown,262.0,19
+Boone,2002,MODIS,mid_greendown,263.0,19
+Boone,2002,MODIS,mid_greendown,264.0,48
+Boone,2002,MODIS,mid_greendown,265.0,55
+Boone,2002,MODIS,mid_greendown,266.0,58
+Boone,2002,MODIS,mid_greendown,267.0,85
+Boone,2002,MODIS,mid_greendown,268.0,96
+Boone,2002,MODIS,mid_greendown,269.0,157
+Boone,2002,MODIS,mid_greendown,270.0,207
+Boone,2002,MODIS,mid_greendown,271.0,242
+Boone,2002,MODIS,mid_greendown,272.0,364
+Boone,2002,MODIS,mid_greendown,273.0,480
+Boone,2002,MODIS,mid_greendown,274.0,523
+Boone,2002,MODIS,mid_greendown,275.0,693
+Boone,2002,MODIS,mid_greendown,276.0,739
+Boone,2002,MODIS,mid_greendown,277.0,935
+Boone,2002,MODIS,mid_greendown,278.0,946
+Boone,2002,MODIS,mid_greendown,279.0,1082
+Boone,2002,MODIS,mid_greendown,280.0,1094
+Boone,2002,MODIS,mid_greendown,281.0,1080
+Boone,2002,MODIS,mid_greendown,282.0,1181
+Boone,2002,MODIS,mid_greendown,283.0,1075
+Boone,2002,MODIS,mid_greendown,284.0,1058
+Boone,2002,MODIS,mid_greendown,285.0,1025
+Boone,2002,MODIS,mid_greendown,286.0,890
+Boone,2002,MODIS,mid_greendown,287.0,845
+Boone,2002,MODIS,mid_greendown,288.0,631
+Boone,2002,MODIS,mid_greendown,289.0,626
+Boone,2002,MODIS,mid_greendown,290.0,474
+Boone,2002,MODIS,mid_greendown,291.0,406
+Boone,2002,MODIS,mid_greendown,292.0,301
+Boone,2002,MODIS,mid_greendown,293.0,239
+Boone,2002,MODIS,mid_greendown,294.0,192
+Boone,2002,MODIS,mid_greendown,295.0,130
+Boone,2002,MODIS,mid_greendown,296.0,101
+Boone,2002,MODIS,mid_greendown,297.0,66
+Boone,2002,MODIS,mid_greendown,298.0,37
+Boone,2002,MODIS,mid_greendown,299.0,23
+Boone,2002,MODIS,mid_greendown,300.0,22
+Boone,2002,MODIS,mid_greendown,301.0,16
+Boone,2002,MODIS,mid_greendown,302.0,6
+Boone,2002,MODIS,mid_greendown,303.0,8
+Boone,2002,MODIS,mid_greendown,304.0,3
+Boone,2002,MODIS,mid_greendown,305.0,3
+Boone,2002,MODIS,mid_greendown,306.0,1
+Boone,2002,MODIS,mid_greendown,307.0,4
+Boone,2002,MODIS,mid_greendown,308.0,1
+Boone,2002,MODIS,mid_greendown,309.0,4
+Boone,2002,MODIS,mid_greendown,311.0,3
+Boone,2002,MODIS,mid_greendown,312.0,1
+Boone,2002,MODIS,mid_greendown,313.0,1
+Boone,2002,MODIS,mid_greendown,315.0,1
+Boone,2002,MODIS,mid_greendown,317.0,1
+Boone,2002,MODIS,mid_greendown,322.0,1
+Boone,2002,MODIS,dormancy,289.0,2
+Boone,2002,MODIS,dormancy,291.0,2
+Boone,2002,MODIS,dormancy,293.0,1
+Boone,2002,MODIS,dormancy,294.0,2
+Boone,2002,MODIS,dormancy,295.0,1
+Boone,2002,MODIS,dormancy,296.0,3
+Boone,2002,MODIS,dormancy,297.0,4
+Boone,2002,MODIS,dormancy,298.0,7
+Boone,2002,MODIS,dormancy,299.0,14
+Boone,2002,MODIS,dormancy,300.0,25
+Boone,2002,MODIS,dormancy,301.0,28
+Boone,2002,MODIS,dormancy,302.0,48
+Boone,2002,MODIS,dormancy,303.0,81
+Boone,2002,MODIS,dormancy,304.0,106
+Boone,2002,MODIS,dormancy,305.0,183
+Boone,2002,MODIS,dormancy,306.0,256
+Boone,2002,MODIS,dormancy,307.0,369
+Boone,2002,MODIS,dormancy,308.0,491
+Boone,2002,MODIS,dormancy,309.0,634
+Boone,2002,MODIS,dormancy,310.0,788
+Boone,2002,MODIS,dormancy,311.0,925
+Boone,2002,MODIS,dormancy,312.0,1117
+Boone,2002,MODIS,dormancy,313.0,1267
+Boone,2002,MODIS,dormancy,314.0,1236
+Boone,2002,MODIS,dormancy,315.0,1327
+Boone,2002,MODIS,dormancy,316.0,1278
+Boone,2002,MODIS,dormancy,317.0,1259
+Boone,2002,MODIS,dormancy,318.0,1120
+Boone,2002,MODIS,dormancy,319.0,975
+Boone,2002,MODIS,dormancy,320.0,902
+Boone,2002,MODIS,dormancy,321.0,808
+Boone,2002,MODIS,dormancy,322.0,650
+Boone,2002,MODIS,dormancy,323.0,561
+Boone,2002,MODIS,dormancy,324.0,429
+Boone,2002,MODIS,dormancy,325.0,313
+Boone,2002,MODIS,dormancy,326.0,215
+Boone,2002,MODIS,dormancy,327.0,179
+Boone,2002,MODIS,dormancy,328.0,121
+Boone,2002,MODIS,dormancy,329.0,106
+Boone,2002,MODIS,dormancy,330.0,72
+Boone,2002,MODIS,dormancy,331.0,56
+Boone,2002,MODIS,dormancy,332.0,45
+Boone,2002,MODIS,dormancy,333.0,48
+Boone,2002,MODIS,dormancy,334.0,36
+Boone,2002,MODIS,dormancy,335.0,45
+Boone,2002,MODIS,dormancy,336.0,30
+Boone,2002,MODIS,dormancy,337.0,26
+Boone,2002,MODIS,dormancy,338.0,19
+Boone,2002,MODIS,dormancy,339.0,11
+Boone,2002,MODIS,dormancy,340.0,17
+Boone,2002,MODIS,dormancy,341.0,14
+Boone,2002,MODIS,dormancy,342.0,7
+Boone,2002,MODIS,dormancy,343.0,12
+Boone,2002,MODIS,dormancy,344.0,11
+Boone,2002,MODIS,dormancy,345.0,7
+Boone,2002,MODIS,dormancy,346.0,9
+Boone,2002,MODIS,dormancy,347.0,3
+Boone,2002,MODIS,dormancy,348.0,6
+Boone,2002,MODIS,dormancy,349.0,9
+Boone,2002,MODIS,dormancy,350.0,7
+Boone,2002,MODIS,dormancy,351.0,4
+Boone,2002,MODIS,dormancy,352.0,3
+Boone,2002,MODIS,dormancy,354.0,2
+Boone,2002,MODIS,dormancy,355.0,4
+Boone,2002,MODIS,dormancy,358.0,1
+Boone,2002,MODIS,dormancy,359.0,1
+Boone,2002,MODIS,dormancy,360.0,1
+Boone,2002,MODIS,dormancy,361.0,1
+Boone,2002,MODIS,dormancy,363.0,2
+Boone,2002,MODIS,dormancy,365.0,1
+Boone,2002,MODIS,dormancy,366.0,1
+Boone,2002,MODIS,dormancy,367.0,1
+Boone,2002,MODIS,dormancy,368.0,1
+Boone,2002,MODIS,forest_px,1.0,18346
+Asheville,2002,MODIS,mid_greenup,100.0,2
+Asheville,2002,MODIS,mid_greenup,101.0,4
+Asheville,2002,MODIS,mid_greenup,102.0,3
+Asheville,2002,MODIS,mid_greenup,103.0,12
+Asheville,2002,MODIS,mid_greenup,104.0,17
+Asheville,2002,MODIS,mid_greenup,105.0,23
+Asheville,2002,MODIS,mid_greenup,106.0,41
+Asheville,2002,MODIS,mid_greenup,107.0,58
+Asheville,2002,MODIS,mid_greenup,108.0,111
+Asheville,2002,MODIS,mid_greenup,109.0,165
+Asheville,2002,MODIS,mid_greenup,110.0,219
+Asheville,2002,MODIS,mid_greenup,111.0,350
+Asheville,2002,MODIS,mid_greenup,112.0,509
+Asheville,2002,MODIS,mid_greenup,113.0,728
+Asheville,2002,MODIS,mid_greenup,114.0,963
+Asheville,2002,MODIS,mid_greenup,115.0,1078
+Asheville,2002,MODIS,mid_greenup,116.0,1247
+Asheville,2002,MODIS,mid_greenup,117.0,1379
+Asheville,2002,MODIS,mid_greenup,118.0,1373
+Asheville,2002,MODIS,mid_greenup,119.0,1368
+Asheville,2002,MODIS,mid_greenup,120.0,1249
+Asheville,2002,MODIS,mid_greenup,121.0,964
+Asheville,2002,MODIS,mid_greenup,122.0,895
+Asheville,2002,MODIS,mid_greenup,123.0,728
+Asheville,2002,MODIS,mid_greenup,124.0,640
+Asheville,2002,MODIS,mid_greenup,125.0,527
+Asheville,2002,MODIS,mid_greenup,126.0,449
+Asheville,2002,MODIS,mid_greenup,127.0,340
+Asheville,2002,MODIS,mid_greenup,128.0,323
+Asheville,2002,MODIS,mid_greenup,129.0,204
+Asheville,2002,MODIS,mid_greenup,130.0,218
+Asheville,2002,MODIS,mid_greenup,131.0,150
+Asheville,2002,MODIS,mid_greenup,132.0,93
+Asheville,2002,MODIS,mid_greenup,133.0,104
+Asheville,2002,MODIS,mid_greenup,134.0,91
+Asheville,2002,MODIS,mid_greenup,135.0,83
+Asheville,2002,MODIS,mid_greenup,136.0,61
+Asheville,2002,MODIS,mid_greenup,137.0,46
+Asheville,2002,MODIS,mid_greenup,138.0,44
+Asheville,2002,MODIS,mid_greenup,139.0,26
+Asheville,2002,MODIS,mid_greenup,140.0,23
+Asheville,2002,MODIS,mid_greenup,141.0,16
+Asheville,2002,MODIS,mid_greenup,142.0,13
+Asheville,2002,MODIS,mid_greenup,143.0,13
+Asheville,2002,MODIS,mid_greenup,144.0,7
+Asheville,2002,MODIS,mid_greenup,145.0,6
+Asheville,2002,MODIS,mid_greenup,146.0,4
+Asheville,2002,MODIS,mid_greenup,147.0,1
+Asheville,2002,MODIS,mid_greenup,148.0,1
+Asheville,2002,MODIS,mid_greenup,150.0,1
+Asheville,2002,MODIS,mid_greenup,94.0,1
+Asheville,2002,MODIS,mid_greenup,99.0,2
+Asheville,2002,MODIS,senescence,174.0,2
+Asheville,2002,MODIS,senescence,175.0,1
+Asheville,2002,MODIS,senescence,178.0,2
+Asheville,2002,MODIS,senescence,179.0,1
+Asheville,2002,MODIS,senescence,180.0,2
+Asheville,2002,MODIS,senescence,181.0,2
+Asheville,2002,MODIS,senescence,182.0,5
+Asheville,2002,MODIS,senescence,183.0,3
+Asheville,2002,MODIS,senescence,184.0,5
+Asheville,2002,MODIS,senescence,185.0,7
+Asheville,2002,MODIS,senescence,186.0,9
+Asheville,2002,MODIS,senescence,187.0,13
+Asheville,2002,MODIS,senescence,188.0,17
+Asheville,2002,MODIS,senescence,189.0,29
+Asheville,2002,MODIS,senescence,190.0,26
+Asheville,2002,MODIS,senescence,191.0,22
+Asheville,2002,MODIS,senescence,192.0,38
+Asheville,2002,MODIS,senescence,193.0,32
+Asheville,2002,MODIS,senescence,194.0,54
+Asheville,2002,MODIS,senescence,195.0,87
+Asheville,2002,MODIS,senescence,196.0,91
+Asheville,2002,MODIS,senescence,197.0,76
+Asheville,2002,MODIS,senescence,198.0,112
+Asheville,2002,MODIS,senescence,199.0,148
+Asheville,2002,MODIS,senescence,200.0,143
+Asheville,2002,MODIS,senescence,201.0,154
+Asheville,2002,MODIS,senescence,202.0,195
+Asheville,2002,MODIS,senescence,203.0,237
+Asheville,2002,MODIS,senescence,204.0,263
+Asheville,2002,MODIS,senescence,205.0,308
+Asheville,2002,MODIS,senescence,206.0,354
+Asheville,2002,MODIS,senescence,207.0,344
+Asheville,2002,MODIS,senescence,208.0,423
+Asheville,2002,MODIS,senescence,209.0,488
+Asheville,2002,MODIS,senescence,210.0,474
+Asheville,2002,MODIS,senescence,211.0,517
+Asheville,2002,MODIS,senescence,212.0,556
+Asheville,2002,MODIS,senescence,213.0,619
+Asheville,2002,MODIS,senescence,214.0,550
+Asheville,2002,MODIS,senescence,215.0,607
+Asheville,2002,MODIS,senescence,216.0,705
+Asheville,2002,MODIS,senescence,217.0,650
+Asheville,2002,MODIS,senescence,218.0,654
+Asheville,2002,MODIS,senescence,219.0,644
+Asheville,2002,MODIS,senescence,220.0,662
+Asheville,2002,MODIS,senescence,221.0,635
+Asheville,2002,MODIS,senescence,222.0,579
+Asheville,2002,MODIS,senescence,223.0,618
+Asheville,2002,MODIS,senescence,224.0,599
+Asheville,2002,MODIS,senescence,225.0,501
+Asheville,2002,MODIS,senescence,226.0,421
+Asheville,2002,MODIS,senescence,227.0,406
+Asheville,2002,MODIS,senescence,228.0,396
+Asheville,2002,MODIS,senescence,229.0,327
+Asheville,2002,MODIS,senescence,230.0,299
+Asheville,2002,MODIS,senescence,231.0,249
+Asheville,2002,MODIS,senescence,232.0,215
+Asheville,2002,MODIS,senescence,233.0,206
+Asheville,2002,MODIS,senescence,234.0,164
+Asheville,2002,MODIS,senescence,235.0,143
+Asheville,2002,MODIS,senescence,236.0,129
+Asheville,2002,MODIS,senescence,237.0,105
+Asheville,2002,MODIS,senescence,238.0,101
+Asheville,2002,MODIS,senescence,239.0,90
+Asheville,2002,MODIS,senescence,240.0,57
+Asheville,2002,MODIS,senescence,241.0,66
+Asheville,2002,MODIS,senescence,242.0,55
+Asheville,2002,MODIS,senescence,243.0,40
+Asheville,2002,MODIS,senescence,244.0,47
+Asheville,2002,MODIS,senescence,245.0,31
+Asheville,2002,MODIS,senescence,246.0,30
+Asheville,2002,MODIS,senescence,247.0,24
+Asheville,2002,MODIS,senescence,248.0,10
+Asheville,2002,MODIS,senescence,249.0,19
+Asheville,2002,MODIS,senescence,250.0,15
+Asheville,2002,MODIS,senescence,251.0,8
+Asheville,2002,MODIS,senescence,252.0,7
+Asheville,2002,MODIS,senescence,253.0,2
+Asheville,2002,MODIS,senescence,254.0,11
+Asheville,2002,MODIS,senescence,255.0,10
+Asheville,2002,MODIS,senescence,256.0,2
+Asheville,2002,MODIS,senescence,257.0,4
+Asheville,2002,MODIS,senescence,258.0,7
+Asheville,2002,MODIS,senescence,259.0,2
+Asheville,2002,MODIS,senescence,260.0,2
+Asheville,2002,MODIS,senescence,261.0,1
+Asheville,2002,MODIS,senescence,262.0,1
+Asheville,2002,MODIS,senescence,264.0,2
+Asheville,2002,MODIS,senescence,265.0,1
+Asheville,2002,MODIS,senescence,266.0,1
+Asheville,2002,MODIS,senescence,267.0,3
+Asheville,2002,MODIS,senescence,270.0,1
+Asheville,2002,MODIS,mid_greendown,214.0,1
+Asheville,2002,MODIS,mid_greendown,222.0,1
+Asheville,2002,MODIS,mid_greendown,223.0,1
+Asheville,2002,MODIS,mid_greendown,224.0,1
+Asheville,2002,MODIS,mid_greendown,225.0,1
+Asheville,2002,MODIS,mid_greendown,228.0,1
+Asheville,2002,MODIS,mid_greendown,229.0,1
+Asheville,2002,MODIS,mid_greendown,230.0,1
+Asheville,2002,MODIS,mid_greendown,232.0,1
+Asheville,2002,MODIS,mid_greendown,233.0,1
+Asheville,2002,MODIS,mid_greendown,234.0,1
+Asheville,2002,MODIS,mid_greendown,235.0,5
+Asheville,2002,MODIS,mid_greendown,236.0,4
+Asheville,2002,MODIS,mid_greendown,237.0,1
+Asheville,2002,MODIS,mid_greendown,238.0,4
+Asheville,2002,MODIS,mid_greendown,239.0,3
+Asheville,2002,MODIS,mid_greendown,240.0,7
+Asheville,2002,MODIS,mid_greendown,241.0,6
+Asheville,2002,MODIS,mid_greendown,242.0,6
+Asheville,2002,MODIS,mid_greendown,243.0,2
+Asheville,2002,MODIS,mid_greendown,244.0,10
+Asheville,2002,MODIS,mid_greendown,245.0,2
+Asheville,2002,MODIS,mid_greendown,246.0,12
+Asheville,2002,MODIS,mid_greendown,247.0,9
+Asheville,2002,MODIS,mid_greendown,248.0,4
+Asheville,2002,MODIS,mid_greendown,249.0,14
+Asheville,2002,MODIS,mid_greendown,250.0,7
+Asheville,2002,MODIS,mid_greendown,251.0,11
+Asheville,2002,MODIS,mid_greendown,252.0,14
+Asheville,2002,MODIS,mid_greendown,253.0,19
+Asheville,2002,MODIS,mid_greendown,254.0,13
+Asheville,2002,MODIS,mid_greendown,255.0,16
+Asheville,2002,MODIS,mid_greendown,256.0,21
+Asheville,2002,MODIS,mid_greendown,257.0,26
+Asheville,2002,MODIS,mid_greendown,258.0,32
+Asheville,2002,MODIS,mid_greendown,259.0,34
+Asheville,2002,MODIS,mid_greendown,260.0,36
+Asheville,2002,MODIS,mid_greendown,261.0,54
+Asheville,2002,MODIS,mid_greendown,262.0,51
+Asheville,2002,MODIS,mid_greendown,263.0,69
+Asheville,2002,MODIS,mid_greendown,264.0,78
+Asheville,2002,MODIS,mid_greendown,265.0,93
+Asheville,2002,MODIS,mid_greendown,266.0,92
+Asheville,2002,MODIS,mid_greendown,267.0,134
+Asheville,2002,MODIS,mid_greendown,268.0,150
+Asheville,2002,MODIS,mid_greendown,269.0,187
+Asheville,2002,MODIS,mid_greendown,270.0,238
+Asheville,2002,MODIS,mid_greendown,271.0,285
+Asheville,2002,MODIS,mid_greendown,272.0,322
+Asheville,2002,MODIS,mid_greendown,273.0,356
+Asheville,2002,MODIS,mid_greendown,274.0,448
+Asheville,2002,MODIS,mid_greendown,275.0,482
+Asheville,2002,MODIS,mid_greendown,276.0,606
+Asheville,2002,MODIS,mid_greendown,277.0,679
+Asheville,2002,MODIS,mid_greendown,278.0,788
+Asheville,2002,MODIS,mid_greendown,279.0,859
+Asheville,2002,MODIS,mid_greendown,280.0,910
+Asheville,2002,MODIS,mid_greendown,281.0,1033
+Asheville,2002,MODIS,mid_greendown,282.0,1021
+Asheville,2002,MODIS,mid_greendown,283.0,997
+Asheville,2002,MODIS,mid_greendown,284.0,1014
+Asheville,2002,MODIS,mid_greendown,285.0,910
+Asheville,2002,MODIS,mid_greendown,286.0,901
+Asheville,2002,MODIS,mid_greendown,287.0,758
+Asheville,2002,MODIS,mid_greendown,288.0,668
+Asheville,2002,MODIS,mid_greendown,289.0,567
+Asheville,2002,MODIS,mid_greendown,290.0,506
+Asheville,2002,MODIS,mid_greendown,291.0,362
+Asheville,2002,MODIS,mid_greendown,292.0,276
+Asheville,2002,MODIS,mid_greendown,293.0,227
+Asheville,2002,MODIS,mid_greendown,294.0,141
+Asheville,2002,MODIS,mid_greendown,295.0,114
+Asheville,2002,MODIS,mid_greendown,296.0,75
+Asheville,2002,MODIS,mid_greendown,297.0,60
+Asheville,2002,MODIS,mid_greendown,298.0,29
+Asheville,2002,MODIS,mid_greendown,299.0,33
+Asheville,2002,MODIS,mid_greendown,300.0,17
+Asheville,2002,MODIS,mid_greendown,301.0,12
+Asheville,2002,MODIS,mid_greendown,302.0,13
+Asheville,2002,MODIS,mid_greendown,303.0,12
+Asheville,2002,MODIS,mid_greendown,304.0,4
+Asheville,2002,MODIS,mid_greendown,305.0,3
+Asheville,2002,MODIS,mid_greendown,306.0,3
+Asheville,2002,MODIS,mid_greendown,307.0,2
+Asheville,2002,MODIS,mid_greendown,308.0,1
+Asheville,2002,MODIS,mid_greendown,310.0,2
+Asheville,2002,MODIS,mid_greendown,311.0,2
+Asheville,2002,MODIS,dormancy,286.0,1
+Asheville,2002,MODIS,dormancy,288.0,2
+Asheville,2002,MODIS,dormancy,289.0,1
+Asheville,2002,MODIS,dormancy,290.0,1
+Asheville,2002,MODIS,dormancy,291.0,1
+Asheville,2002,MODIS,dormancy,292.0,2
+Asheville,2002,MODIS,dormancy,293.0,2
+Asheville,2002,MODIS,dormancy,294.0,4
+Asheville,2002,MODIS,dormancy,295.0,6
+Asheville,2002,MODIS,dormancy,296.0,4
+Asheville,2002,MODIS,dormancy,297.0,4
+Asheville,2002,MODIS,dormancy,298.0,12
+Asheville,2002,MODIS,dormancy,299.0,12
+Asheville,2002,MODIS,dormancy,300.0,28
+Asheville,2002,MODIS,dormancy,301.0,26
+Asheville,2002,MODIS,dormancy,302.0,41
+Asheville,2002,MODIS,dormancy,303.0,75
+Asheville,2002,MODIS,dormancy,304.0,81
+Asheville,2002,MODIS,dormancy,305.0,133
+Asheville,2002,MODIS,dormancy,306.0,179
+Asheville,2002,MODIS,dormancy,307.0,264
+Asheville,2002,MODIS,dormancy,308.0,317
+Asheville,2002,MODIS,dormancy,309.0,432
+Asheville,2002,MODIS,dormancy,310.0,589
+Asheville,2002,MODIS,dormancy,311.0,755
+Asheville,2002,MODIS,dormancy,312.0,915
+Asheville,2002,MODIS,dormancy,313.0,1170
+Asheville,2002,MODIS,dormancy,314.0,1228
+Asheville,2002,MODIS,dormancy,315.0,1275
+Asheville,2002,MODIS,dormancy,316.0,1309
+Asheville,2002,MODIS,dormancy,317.0,1283
+Asheville,2002,MODIS,dormancy,318.0,1274
+Asheville,2002,MODIS,dormancy,319.0,1153
+Asheville,2002,MODIS,dormancy,320.0,938
+Asheville,2002,MODIS,dormancy,321.0,852
+Asheville,2002,MODIS,dormancy,322.0,626
+Asheville,2002,MODIS,dormancy,323.0,489
+Asheville,2002,MODIS,dormancy,324.0,396
+Asheville,2002,MODIS,dormancy,325.0,285
+Asheville,2002,MODIS,dormancy,326.0,199
+Asheville,2002,MODIS,dormancy,327.0,163
+Asheville,2002,MODIS,dormancy,328.0,107
+Asheville,2002,MODIS,dormancy,329.0,94
+Asheville,2002,MODIS,dormancy,330.0,41
+Asheville,2002,MODIS,dormancy,331.0,48
+Asheville,2002,MODIS,dormancy,332.0,35
+Asheville,2002,MODIS,dormancy,333.0,23
+Asheville,2002,MODIS,dormancy,334.0,15
+Asheville,2002,MODIS,dormancy,335.0,11
+Asheville,2002,MODIS,dormancy,336.0,8
+Asheville,2002,MODIS,dormancy,337.0,7
+Asheville,2002,MODIS,dormancy,338.0,7
+Asheville,2002,MODIS,dormancy,339.0,7
+Asheville,2002,MODIS,dormancy,340.0,9
+Asheville,2002,MODIS,dormancy,341.0,6
+Asheville,2002,MODIS,dormancy,342.0,5
+Asheville,2002,MODIS,dormancy,343.0,3
+Asheville,2002,MODIS,dormancy,344.0,5
+Asheville,2002,MODIS,dormancy,345.0,2
+Asheville,2002,MODIS,dormancy,346.0,4
+Asheville,2002,MODIS,dormancy,347.0,1
+Asheville,2002,MODIS,dormancy,348.0,3
+Asheville,2002,MODIS,dormancy,349.0,2
+Asheville,2002,MODIS,dormancy,350.0,2
+Asheville,2002,MODIS,dormancy,352.0,1
+Asheville,2002,MODIS,forest_px,1.0,16973

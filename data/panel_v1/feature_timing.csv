@@ -1,0 +1,276 @@
+feature,location,window_type,window_start_doy,window_end_doy,peak_doy_mean,days_before_peak,timing
+tmean_MarApr,Montpelier,fixed,60,120,271.56,151.56,pre-peak
+gdd5_MarMay,Montpelier,fixed,60,151,271.56,120.56,pre-peak
+tmax_JunJul,Montpelier,fixed,152,212,271.56,59.56,pre-peak
+precip_JunJul,Montpelier,fixed,152,212,271.56,59.56,pre-peak
+tmax_Aug,Montpelier,fixed,213,243,271.56,28.560000000000002,pre-peak
+tmin_Sep,Montpelier,fixed,244,273,271.56,-1.4399999999999977,partly
+tmin_SepOct,Montpelier,fixed,244,304,271.56,-32.44,partly
+cdd_Sep,Montpelier,fixed,244,273,271.56,-1.4399999999999977,partly
+cdd_Sep1_Oct15,Montpelier,fixed,244,288,271.56,-16.439999999999998,partly
+cold_nights_Sep1_Oct15,Montpelier,fixed,244,288,271.56,-16.439999999999998,partly
+precip_AugSep,Montpelier,fixed,213,273,271.56,-1.4399999999999977,partly
+precip_Oct,Montpelier,fixed,274,304,271.56,-32.44,post
+vpd_AugSep,Montpelier,fixed,213,273,271.56,-1.4399999999999977,partly
+srad_Sep,Montpelier,fixed,244,273,271.56,-1.4399999999999977,partly
+srad_SepOct,Montpelier,fixed,244,304,271.56,-32.44,partly
+pdsi_AugSep,Montpelier,fixed,213,273,271.56,-1.4399999999999977,partly
+first_frost_doy,Montpelier,fixed,213,334,271.56,-62.44,partly
+tmean_pre30,Montpelier,relative,242,271,271.56,0.5600000000000023,pre-peak
+tmin_pre30,Montpelier,relative,242,271,271.56,0.5600000000000023,pre-peak
+cdd_pre30,Montpelier,relative,242,271,271.56,0.5600000000000023,pre-peak
+cold_nights_pre30,Montpelier,relative,242,271,271.56,0.5600000000000023,pre-peak
+tmax_pre60to31,Montpelier,relative,212,241,271.56,30.560000000000002,pre-peak
+precip_pre60,Montpelier,relative,212,271,271.56,0.5600000000000023,pre-peak
+vpd_pre60,Montpelier,relative,212,271,271.56,0.5600000000000023,pre-peak
+srad_pre30,Montpelier,relative,242,271,271.56,0.5600000000000023,pre-peak
+tmean_MarApr,Old Forge,fixed,60,120,271.16,151.16000000000003,pre-peak
+gdd5_MarMay,Old Forge,fixed,60,151,271.16,120.16000000000003,pre-peak
+tmax_JunJul,Old Forge,fixed,152,212,271.16,59.160000000000025,pre-peak
+precip_JunJul,Old Forge,fixed,152,212,271.16,59.160000000000025,pre-peak
+tmax_Aug,Old Forge,fixed,213,243,271.16,28.160000000000025,pre-peak
+tmin_Sep,Old Forge,fixed,244,273,271.16,-1.839999999999975,partly
+tmin_SepOct,Old Forge,fixed,244,304,271.16,-32.839999999999975,partly
+cdd_Sep,Old Forge,fixed,244,273,271.16,-1.839999999999975,partly
+cdd_Sep1_Oct15,Old Forge,fixed,244,288,271.16,-16.839999999999975,partly
+cold_nights_Sep1_Oct15,Old Forge,fixed,244,288,271.16,-16.839999999999975,partly
+precip_AugSep,Old Forge,fixed,213,273,271.16,-1.839999999999975,partly
+precip_Oct,Old Forge,fixed,274,304,271.16,-32.839999999999975,post
+vpd_AugSep,Old Forge,fixed,213,273,271.16,-1.839999999999975,partly
+srad_Sep,Old Forge,fixed,244,273,271.16,-1.839999999999975,partly
+srad_SepOct,Old Forge,fixed,244,304,271.16,-32.839999999999975,partly
+pdsi_AugSep,Old Forge,fixed,213,273,271.16,-1.839999999999975,partly
+first_frost_doy,Old Forge,fixed,213,334,271.16,-62.839999999999975,partly
+tmean_pre30,Old Forge,relative,241,270,271.16,1.160000000000025,pre-peak
+tmin_pre30,Old Forge,relative,241,270,271.16,1.160000000000025,pre-peak
+cdd_pre30,Old Forge,relative,241,270,271.16,1.160000000000025,pre-peak
+cold_nights_pre30,Old Forge,relative,241,270,271.16,1.160000000000025,pre-peak
+tmax_pre60to31,Old Forge,relative,211,240,271.16,31.160000000000025,pre-peak
+precip_pre60,Old Forge,relative,211,270,271.16,1.160000000000025,pre-peak
+vpd_pre60,Old Forge,relative,211,270,271.16,1.160000000000025,pre-peak
+srad_pre30,Old Forge,relative,241,270,271.16,1.160000000000025,pre-peak
+tmean_MarApr,Binghamton,fixed,60,120,274.08,154.07999999999998,pre-peak
+gdd5_MarMay,Binghamton,fixed,60,151,274.08,123.07999999999998,pre-peak
+tmax_JunJul,Binghamton,fixed,152,212,274.08,62.079999999999984,pre-peak
+precip_JunJul,Binghamton,fixed,152,212,274.08,62.079999999999984,pre-peak
+tmax_Aug,Binghamton,fixed,213,243,274.08,31.079999999999984,pre-peak
+tmin_Sep,Binghamton,fixed,244,273,274.08,1.079999999999984,pre-peak
+tmin_SepOct,Binghamton,fixed,244,304,274.08,-29.920000000000016,partly
+cdd_Sep,Binghamton,fixed,244,273,274.08,1.079999999999984,pre-peak
+cdd_Sep1_Oct15,Binghamton,fixed,244,288,274.08,-13.920000000000016,partly
+cold_nights_Sep1_Oct15,Binghamton,fixed,244,288,274.08,-13.920000000000016,partly
+precip_AugSep,Binghamton,fixed,213,273,274.08,1.079999999999984,pre-peak
+precip_Oct,Binghamton,fixed,274,304,274.08,-29.920000000000016,partly
+vpd_AugSep,Binghamton,fixed,213,273,274.08,1.079999999999984,pre-peak
+srad_Sep,Binghamton,fixed,244,273,274.08,1.079999999999984,pre-peak
+srad_SepOct,Binghamton,fixed,244,304,274.08,-29.920000000000016,partly
+pdsi_AugSep,Binghamton,fixed,213,273,274.08,1.079999999999984,pre-peak
+first_frost_doy,Binghamton,fixed,213,334,274.08,-59.920000000000016,partly
+tmean_pre30,Binghamton,relative,244,273,274.08,1.079999999999984,pre-peak
+tmin_pre30,Binghamton,relative,244,273,274.08,1.079999999999984,pre-peak
+cdd_pre30,Binghamton,relative,244,273,274.08,1.079999999999984,pre-peak
+cold_nights_pre30,Binghamton,relative,244,273,274.08,1.079999999999984,pre-peak
+tmax_pre60to31,Binghamton,relative,214,243,274.08,31.079999999999984,pre-peak
+precip_pre60,Binghamton,relative,214,273,274.08,1.079999999999984,pre-peak
+vpd_pre60,Binghamton,relative,214,273,274.08,1.079999999999984,pre-peak
+srad_pre30,Binghamton,relative,244,273,274.08,1.079999999999984,pre-peak
+tmean_MarApr,Scranton,fixed,60,120,277.8,157.8,pre-peak
+gdd5_MarMay,Scranton,fixed,60,151,277.8,126.80000000000001,pre-peak
+tmax_JunJul,Scranton,fixed,152,212,277.8,65.80000000000001,pre-peak
+precip_JunJul,Scranton,fixed,152,212,277.8,65.80000000000001,pre-peak
+tmax_Aug,Scranton,fixed,213,243,277.8,34.80000000000001,pre-peak
+tmin_Sep,Scranton,fixed,244,273,277.8,4.800000000000011,pre-peak
+tmin_SepOct,Scranton,fixed,244,304,277.8,-26.19999999999999,partly
+cdd_Sep,Scranton,fixed,244,273,277.8,4.800000000000011,pre-peak
+cdd_Sep1_Oct15,Scranton,fixed,244,288,277.8,-10.199999999999989,partly
+cold_nights_Sep1_Oct15,Scranton,fixed,244,288,277.8,-10.199999999999989,partly
+precip_AugSep,Scranton,fixed,213,273,277.8,4.800000000000011,pre-peak
+precip_Oct,Scranton,fixed,274,304,277.8,-26.19999999999999,partly
+vpd_AugSep,Scranton,fixed,213,273,277.8,4.800000000000011,pre-peak
+srad_Sep,Scranton,fixed,244,273,277.8,4.800000000000011,pre-peak
+srad_SepOct,Scranton,fixed,244,304,277.8,-26.19999999999999,partly
+pdsi_AugSep,Scranton,fixed,213,273,277.8,4.800000000000011,pre-peak
+first_frost_doy,Scranton,fixed,213,334,277.8,-56.19999999999999,partly
+tmean_pre30,Scranton,relative,248,277,277.8,0.8000000000000114,pre-peak
+tmin_pre30,Scranton,relative,248,277,277.8,0.8000000000000114,pre-peak
+cdd_pre30,Scranton,relative,248,277,277.8,0.8000000000000114,pre-peak
+cold_nights_pre30,Scranton,relative,248,277,277.8,0.8000000000000114,pre-peak
+tmax_pre60to31,Scranton,relative,218,247,277.8,30.80000000000001,pre-peak
+precip_pre60,Scranton,relative,218,277,277.8,0.8000000000000114,pre-peak
+vpd_pre60,Scranton,relative,218,277,277.8,0.8000000000000114,pre-peak
+srad_pre30,Scranton,relative,248,277,277.8,0.8000000000000114,pre-peak
+tmean_MarApr,State College,fixed,60,120,277.48,157.48000000000002,pre-peak
+gdd5_MarMay,State College,fixed,60,151,277.48,126.48000000000002,pre-peak
+tmax_JunJul,State College,fixed,152,212,277.48,65.48000000000002,pre-peak
+precip_JunJul,State College,fixed,152,212,277.48,65.48000000000002,pre-peak
+tmax_Aug,State College,fixed,213,243,277.48,34.48000000000002,pre-peak
+tmin_Sep,State College,fixed,244,273,277.48,4.480000000000018,pre-peak
+tmin_SepOct,State College,fixed,244,304,277.48,-26.519999999999982,partly
+cdd_Sep,State College,fixed,244,273,277.48,4.480000000000018,pre-peak
+cdd_Sep1_Oct15,State College,fixed,244,288,277.48,-10.519999999999982,partly
+cold_nights_Sep1_Oct15,State College,fixed,244,288,277.48,-10.519999999999982,partly
+precip_AugSep,State College,fixed,213,273,277.48,4.480000000000018,pre-peak
+precip_Oct,State College,fixed,274,304,277.48,-26.519999999999982,partly
+vpd_AugSep,State College,fixed,213,273,277.48,4.480000000000018,pre-peak
+srad_Sep,State College,fixed,244,273,277.48,4.480000000000018,pre-peak
+srad_SepOct,State College,fixed,244,304,277.48,-26.519999999999982,partly
+pdsi_AugSep,State College,fixed,213,273,277.48,4.480000000000018,pre-peak
+first_frost_doy,State College,fixed,213,334,277.48,-56.51999999999998,partly
+tmean_pre30,State College,relative,247,276,277.48,1.4800000000000182,pre-peak
+tmin_pre30,State College,relative,247,276,277.48,1.4800000000000182,pre-peak
+cdd_pre30,State College,relative,247,276,277.48,1.4800000000000182,pre-peak
+cold_nights_pre30,State College,relative,247,276,277.48,1.4800000000000182,pre-peak
+tmax_pre60to31,State College,relative,217,246,277.48,31.480000000000018,pre-peak
+precip_pre60,State College,relative,217,276,277.48,1.4800000000000182,pre-peak
+vpd_pre60,State College,relative,217,276,277.48,1.4800000000000182,pre-peak
+srad_pre30,State College,relative,247,276,277.48,1.4800000000000182,pre-peak
+tmean_MarApr,Frostburg,fixed,60,120,275.12,155.12,pre-peak
+gdd5_MarMay,Frostburg,fixed,60,151,275.12,124.12,pre-peak
+tmax_JunJul,Frostburg,fixed,152,212,275.12,63.120000000000005,pre-peak
+precip_JunJul,Frostburg,fixed,152,212,275.12,63.120000000000005,pre-peak
+tmax_Aug,Frostburg,fixed,213,243,275.12,32.120000000000005,pre-peak
+tmin_Sep,Frostburg,fixed,244,273,275.12,2.1200000000000045,pre-peak
+tmin_SepOct,Frostburg,fixed,244,304,275.12,-28.879999999999995,partly
+cdd_Sep,Frostburg,fixed,244,273,275.12,2.1200000000000045,pre-peak
+cdd_Sep1_Oct15,Frostburg,fixed,244,288,275.12,-12.879999999999995,partly
+cold_nights_Sep1_Oct15,Frostburg,fixed,244,288,275.12,-12.879999999999995,partly
+precip_AugSep,Frostburg,fixed,213,273,275.12,2.1200000000000045,pre-peak
+precip_Oct,Frostburg,fixed,274,304,275.12,-28.879999999999995,partly
+vpd_AugSep,Frostburg,fixed,213,273,275.12,2.1200000000000045,pre-peak
+srad_Sep,Frostburg,fixed,244,273,275.12,2.1200000000000045,pre-peak
+srad_SepOct,Frostburg,fixed,244,304,275.12,-28.879999999999995,partly
+pdsi_AugSep,Frostburg,fixed,213,273,275.12,2.1200000000000045,pre-peak
+first_frost_doy,Frostburg,fixed,213,334,275.12,-58.879999999999995,partly
+tmean_pre30,Frostburg,relative,245,274,275.12,1.1200000000000045,pre-peak
+tmin_pre30,Frostburg,relative,245,274,275.12,1.1200000000000045,pre-peak
+cdd_pre30,Frostburg,relative,245,274,275.12,1.1200000000000045,pre-peak
+cold_nights_pre30,Frostburg,relative,245,274,275.12,1.1200000000000045,pre-peak
+tmax_pre60to31,Frostburg,relative,215,244,275.12,31.120000000000005,pre-peak
+precip_pre60,Frostburg,relative,215,274,275.12,1.1200000000000045,pre-peak
+vpd_pre60,Frostburg,relative,215,274,275.12,1.1200000000000045,pre-peak
+srad_pre30,Frostburg,relative,245,274,275.12,1.1200000000000045,pre-peak
+tmean_MarApr,Valley Head,fixed,60,120,275.04,155.04000000000002,pre-peak
+gdd5_MarMay,Valley Head,fixed,60,151,275.04,124.04000000000002,pre-peak
+tmax_JunJul,Valley Head,fixed,152,212,275.04,63.04000000000002,pre-peak
+precip_JunJul,Valley Head,fixed,152,212,275.04,63.04000000000002,pre-peak
+tmax_Aug,Valley Head,fixed,213,243,275.04,32.04000000000002,pre-peak
+tmin_Sep,Valley Head,fixed,244,273,275.04,2.0400000000000205,pre-peak
+tmin_SepOct,Valley Head,fixed,244,304,275.04,-28.95999999999998,partly
+cdd_Sep,Valley Head,fixed,244,273,275.04,2.0400000000000205,pre-peak
+cdd_Sep1_Oct15,Valley Head,fixed,244,288,275.04,-12.95999999999998,partly
+cold_nights_Sep1_Oct15,Valley Head,fixed,244,288,275.04,-12.95999999999998,partly
+precip_AugSep,Valley Head,fixed,213,273,275.04,2.0400000000000205,pre-peak
+precip_Oct,Valley Head,fixed,274,304,275.04,-28.95999999999998,partly
+vpd_AugSep,Valley Head,fixed,213,273,275.04,2.0400000000000205,pre-peak
+srad_Sep,Valley Head,fixed,244,273,275.04,2.0400000000000205,pre-peak
+srad_SepOct,Valley Head,fixed,244,304,275.04,-28.95999999999998,partly
+pdsi_AugSep,Valley Head,fixed,213,273,275.04,2.0400000000000205,pre-peak
+first_frost_doy,Valley Head,fixed,213,334,275.04,-58.95999999999998,partly
+tmean_pre30,Valley Head,relative,245,274,275.04,1.0400000000000205,pre-peak
+tmin_pre30,Valley Head,relative,245,274,275.04,1.0400000000000205,pre-peak
+cdd_pre30,Valley Head,relative,245,274,275.04,1.0400000000000205,pre-peak
+cold_nights_pre30,Valley Head,relative,245,274,275.04,1.0400000000000205,pre-peak
+tmax_pre60to31,Valley Head,relative,215,244,275.04,31.04000000000002,pre-peak
+precip_pre60,Valley Head,relative,215,274,275.04,1.0400000000000205,pre-peak
+vpd_pre60,Valley Head,relative,215,274,275.04,1.0400000000000205,pre-peak
+srad_pre30,Valley Head,relative,245,274,275.04,1.0400000000000205,pre-peak
+tmean_MarApr,Shenandoah,fixed,60,120,283.36,163.36,pre-peak
+gdd5_MarMay,Shenandoah,fixed,60,151,283.36,132.36,pre-peak
+tmax_JunJul,Shenandoah,fixed,152,212,283.36,71.36000000000001,pre-peak
+precip_JunJul,Shenandoah,fixed,152,212,283.36,71.36000000000001,pre-peak
+tmax_Aug,Shenandoah,fixed,213,243,283.36,40.360000000000014,pre-peak
+tmin_Sep,Shenandoah,fixed,244,273,283.36,10.360000000000014,pre-peak
+tmin_SepOct,Shenandoah,fixed,244,304,283.36,-20.639999999999986,partly
+cdd_Sep,Shenandoah,fixed,244,273,283.36,10.360000000000014,pre-peak
+cdd_Sep1_Oct15,Shenandoah,fixed,244,288,283.36,-4.639999999999986,partly
+cold_nights_Sep1_Oct15,Shenandoah,fixed,244,288,283.36,-4.639999999999986,partly
+precip_AugSep,Shenandoah,fixed,213,273,283.36,10.360000000000014,pre-peak
+precip_Oct,Shenandoah,fixed,274,304,283.36,-20.639999999999986,partly
+vpd_AugSep,Shenandoah,fixed,213,273,283.36,10.360000000000014,pre-peak
+srad_Sep,Shenandoah,fixed,244,273,283.36,10.360000000000014,pre-peak
+srad_SepOct,Shenandoah,fixed,244,304,283.36,-20.639999999999986,partly
+pdsi_AugSep,Shenandoah,fixed,213,273,283.36,10.360000000000014,pre-peak
+first_frost_doy,Shenandoah,fixed,213,334,283.36,-50.639999999999986,partly
+tmean_pre30,Shenandoah,relative,253,282,283.36,1.3600000000000136,pre-peak
+tmin_pre30,Shenandoah,relative,253,282,283.36,1.3600000000000136,pre-peak
+cdd_pre30,Shenandoah,relative,253,282,283.36,1.3600000000000136,pre-peak
+cold_nights_pre30,Shenandoah,relative,253,282,283.36,1.3600000000000136,pre-peak
+tmax_pre60to31,Shenandoah,relative,223,252,283.36,31.360000000000014,pre-peak
+precip_pre60,Shenandoah,relative,223,282,283.36,1.3600000000000136,pre-peak
+vpd_pre60,Shenandoah,relative,223,282,283.36,1.3600000000000136,pre-peak
+srad_pre30,Shenandoah,relative,253,282,283.36,1.3600000000000136,pre-peak
+tmean_MarApr,Roanoke,fixed,60,120,278.84,158.83999999999997,pre-peak
+gdd5_MarMay,Roanoke,fixed,60,151,278.84,127.83999999999997,pre-peak
+tmax_JunJul,Roanoke,fixed,152,212,278.84,66.83999999999997,pre-peak
+precip_JunJul,Roanoke,fixed,152,212,278.84,66.83999999999997,pre-peak
+tmax_Aug,Roanoke,fixed,213,243,278.84,35.839999999999975,pre-peak
+tmin_Sep,Roanoke,fixed,244,273,278.84,5.839999999999975,pre-peak
+tmin_SepOct,Roanoke,fixed,244,304,278.84,-25.160000000000025,partly
+cdd_Sep,Roanoke,fixed,244,273,278.84,5.839999999999975,pre-peak
+cdd_Sep1_Oct15,Roanoke,fixed,244,288,278.84,-9.160000000000025,partly
+cold_nights_Sep1_Oct15,Roanoke,fixed,244,288,278.84,-9.160000000000025,partly
+precip_AugSep,Roanoke,fixed,213,273,278.84,5.839999999999975,pre-peak
+precip_Oct,Roanoke,fixed,274,304,278.84,-25.160000000000025,partly
+vpd_AugSep,Roanoke,fixed,213,273,278.84,5.839999999999975,pre-peak
+srad_Sep,Roanoke,fixed,244,273,278.84,5.839999999999975,pre-peak
+srad_SepOct,Roanoke,fixed,244,304,278.84,-25.160000000000025,partly
+pdsi_AugSep,Roanoke,fixed,213,273,278.84,5.839999999999975,pre-peak
+first_frost_doy,Roanoke,fixed,213,334,278.84,-55.160000000000025,partly
+tmean_pre30,Roanoke,relative,249,278,278.84,0.839999999999975,pre-peak
+tmin_pre30,Roanoke,relative,249,278,278.84,0.839999999999975,pre-peak
+cdd_pre30,Roanoke,relative,249,278,278.84,0.839999999999975,pre-peak
+cold_nights_pre30,Roanoke,relative,249,278,278.84,0.839999999999975,pre-peak
+tmax_pre60to31,Roanoke,relative,219,248,278.84,30.839999999999975,pre-peak
+precip_pre60,Roanoke,relative,219,278,278.84,0.839999999999975,pre-peak
+vpd_pre60,Roanoke,relative,219,278,278.84,0.839999999999975,pre-peak
+srad_pre30,Roanoke,relative,249,278,278.84,0.839999999999975,pre-peak
+tmean_MarApr,Boone,fixed,60,120,278.48,158.48000000000002,pre-peak
+gdd5_MarMay,Boone,fixed,60,151,278.48,127.48000000000002,pre-peak
+tmax_JunJul,Boone,fixed,152,212,278.48,66.48000000000002,pre-peak
+precip_JunJul,Boone,fixed,152,212,278.48,66.48000000000002,pre-peak
+tmax_Aug,Boone,fixed,213,243,278.48,35.48000000000002,pre-peak
+tmin_Sep,Boone,fixed,244,273,278.48,5.480000000000018,pre-peak
+tmin_SepOct,Boone,fixed,244,304,278.48,-25.519999999999982,partly
+cdd_Sep,Boone,fixed,244,273,278.48,5.480000000000018,pre-peak
+cdd_Sep1_Oct15,Boone,fixed,244,288,278.48,-9.519999999999982,partly
+cold_nights_Sep1_Oct15,Boone,fixed,244,288,278.48,-9.519999999999982,partly
+precip_AugSep,Boone,fixed,213,273,278.48,5.480000000000018,pre-peak
+precip_Oct,Boone,fixed,274,304,278.48,-25.519999999999982,partly
+vpd_AugSep,Boone,fixed,213,273,278.48,5.480000000000018,pre-peak
+srad_Sep,Boone,fixed,244,273,278.48,5.480000000000018,pre-peak
+srad_SepOct,Boone,fixed,244,304,278.48,-25.519999999999982,partly
+pdsi_AugSep,Boone,fixed,213,273,278.48,5.480000000000018,pre-peak
+first_frost_doy,Boone,fixed,213,334,278.48,-55.51999999999998,partly
+tmean_pre30,Boone,relative,248,277,278.48,1.4800000000000182,pre-peak
+tmin_pre30,Boone,relative,248,277,278.48,1.4800000000000182,pre-peak
+cdd_pre30,Boone,relative,248,277,278.48,1.4800000000000182,pre-peak
+cold_nights_pre30,Boone,relative,248,277,278.48,1.4800000000000182,pre-peak
+tmax_pre60to31,Boone,relative,218,247,278.48,31.480000000000018,pre-peak
+precip_pre60,Boone,relative,218,277,278.48,1.4800000000000182,pre-peak
+vpd_pre60,Boone,relative,218,277,278.48,1.4800000000000182,pre-peak
+srad_pre30,Boone,relative,248,277,278.48,1.4800000000000182,pre-peak
+tmean_MarApr,Asheville,fixed,60,120,280.96,160.95999999999998,pre-peak
+gdd5_MarMay,Asheville,fixed,60,151,280.96,129.95999999999998,pre-peak
+tmax_JunJul,Asheville,fixed,152,212,280.96,68.95999999999998,pre-peak
+precip_JunJul,Asheville,fixed,152,212,280.96,68.95999999999998,pre-peak
+tmax_Aug,Asheville,fixed,213,243,280.96,37.95999999999998,pre-peak
+tmin_Sep,Asheville,fixed,244,273,280.96,7.9599999999999795,pre-peak
+tmin_SepOct,Asheville,fixed,244,304,280.96,-23.04000000000002,partly
+cdd_Sep,Asheville,fixed,244,273,280.96,7.9599999999999795,pre-peak
+cdd_Sep1_Oct15,Asheville,fixed,244,288,280.96,-7.0400000000000205,partly
+cold_nights_Sep1_Oct15,Asheville,fixed,244,288,280.96,-7.0400000000000205,partly
+precip_AugSep,Asheville,fixed,213,273,280.96,7.9599999999999795,pre-peak
+precip_Oct,Asheville,fixed,274,304,280.96,-23.04000000000002,partly
+vpd_AugSep,Asheville,fixed,213,273,280.96,7.9599999999999795,pre-peak
+srad_Sep,Asheville,fixed,244,273,280.96,7.9599999999999795,pre-peak
+srad_SepOct,Asheville,fixed,244,304,280.96,-23.04000000000002,partly
+pdsi_AugSep,Asheville,fixed,213,273,280.96,7.9599999999999795,pre-peak
+first_frost_doy,Asheville,fixed,213,334,280.96,-53.04000000000002,partly
+tmean_pre30,Asheville,relative,251,280,280.96,0.9599999999999795,pre-peak
+tmin_pre30,Asheville,relative,251,280,280.96,0.9599999999999795,pre-peak
+cdd_pre30,Asheville,relative,251,280,280.96,0.9599999999999795,pre-peak
+cold_nights_pre30,Asheville,relative,251,280,280.96,0.9599999999999795,pre-peak
+tmax_pre60to31,Asheville,relative,221,250,280.96,30.95999999999998,pre-peak
+precip_pre60,Asheville,relative,221,280,280.96,0.9599999999999795,pre-peak
+vpd_pre60,Asheville,relative,221,280,280.96,0.9599999999999795,pre-peak
+srad_pre30,Asheville,relative,251,280,280.96,0.9599999999999795,pre-peak

@@ -1,0 +1,2358 @@
+name,year,product,band,value,n
+Montpelier,2020,MODIS,mid_greenup,121.0,1
+Montpelier,2020,MODIS,mid_greenup,128.0,4
+Montpelier,2020,MODIS,mid_greenup,130.0,3
+Montpelier,2020,MODIS,mid_greenup,131.0,3
+Montpelier,2020,MODIS,mid_greenup,132.0,9
+Montpelier,2020,MODIS,mid_greenup,133.0,15
+Montpelier,2020,MODIS,mid_greenup,134.0,29
+Montpelier,2020,MODIS,mid_greenup,135.0,39
+Montpelier,2020,MODIS,mid_greenup,136.0,74
+Montpelier,2020,MODIS,mid_greenup,137.0,113
+Montpelier,2020,MODIS,mid_greenup,138.0,183
+Montpelier,2020,MODIS,mid_greenup,139.0,334
+Montpelier,2020,MODIS,mid_greenup,140.0,531
+Montpelier,2020,MODIS,mid_greenup,141.0,772
+Montpelier,2020,MODIS,mid_greenup,142.0,1018
+Montpelier,2020,MODIS,mid_greenup,143.0,1406
+Montpelier,2020,MODIS,mid_greenup,144.0,1667
+Montpelier,2020,MODIS,mid_greenup,145.0,1870
+Montpelier,2020,MODIS,mid_greenup,146.0,1877
+Montpelier,2020,MODIS,mid_greenup,147.0,1742
+Montpelier,2020,MODIS,mid_greenup,148.0,1370
+Montpelier,2020,MODIS,mid_greenup,149.0,1069
+Montpelier,2020,MODIS,mid_greenup,150.0,742
+Montpelier,2020,MODIS,mid_greenup,151.0,506
+Montpelier,2020,MODIS,mid_greenup,152.0,327
+Montpelier,2020,MODIS,mid_greenup,153.0,176
+Montpelier,2020,MODIS,mid_greenup,154.0,92
+Montpelier,2020,MODIS,mid_greenup,155.0,44
+Montpelier,2020,MODIS,mid_greenup,156.0,19
+Montpelier,2020,MODIS,mid_greenup,157.0,10
+Montpelier,2020,MODIS,mid_greenup,158.0,6
+Montpelier,2020,MODIS,mid_greenup,159.0,1
+Montpelier,2020,MODIS,senescence,202.0,1
+Montpelier,2020,MODIS,senescence,203.0,1
+Montpelier,2020,MODIS,senescence,204.0,1
+Montpelier,2020,MODIS,senescence,205.0,1
+Montpelier,2020,MODIS,senescence,206.0,2
+Montpelier,2020,MODIS,senescence,207.0,2
+Montpelier,2020,MODIS,senescence,208.0,2
+Montpelier,2020,MODIS,senescence,209.0,5
+Montpelier,2020,MODIS,senescence,210.0,7
+Montpelier,2020,MODIS,senescence,211.0,15
+Montpelier,2020,MODIS,senescence,212.0,31
+Montpelier,2020,MODIS,senescence,213.0,44
+Montpelier,2020,MODIS,senescence,214.0,70
+Montpelier,2020,MODIS,senescence,215.0,77
+Montpelier,2020,MODIS,senescence,216.0,128
+Montpelier,2020,MODIS,senescence,217.0,185
+Montpelier,2020,MODIS,senescence,218.0,245
+Montpelier,2020,MODIS,senescence,219.0,353
+Montpelier,2020,MODIS,senescence,220.0,406
+Montpelier,2020,MODIS,senescence,221.0,558
+Montpelier,2020,MODIS,senescence,222.0,614
+Montpelier,2020,MODIS,senescence,223.0,749
+Montpelier,2020,MODIS,senescence,224.0,843
+Montpelier,2020,MODIS,senescence,225.0,939
+Montpelier,2020,MODIS,senescence,226.0,1044
+Montpelier,2020,MODIS,senescence,227.0,1137
+Montpelier,2020,MODIS,senescence,228.0,1053
+Montpelier,2020,MODIS,senescence,229.0,1029
+Montpelier,2020,MODIS,senescence,230.0,1030
+Montpelier,2020,MODIS,senescence,231.0,965
+Montpelier,2020,MODIS,senescence,232.0,880
+Montpelier,2020,MODIS,senescence,233.0,770
+Montpelier,2020,MODIS,senescence,234.0,618
+Montpelier,2020,MODIS,senescence,235.0,526
+Montpelier,2020,MODIS,senescence,236.0,480
+Montpelier,2020,MODIS,senescence,237.0,355
+Montpelier,2020,MODIS,senescence,238.0,281
+Montpelier,2020,MODIS,senescence,239.0,198
+Montpelier,2020,MODIS,senescence,240.0,116
+Montpelier,2020,MODIS,senescence,241.0,113
+Montpelier,2020,MODIS,senescence,242.0,63
+Montpelier,2020,MODIS,senescence,243.0,49
+Montpelier,2020,MODIS,senescence,244.0,23
+Montpelier,2020,MODIS,senescence,245.0,16
+Montpelier,2020,MODIS,senescence,246.0,10
+Montpelier,2020,MODIS,senescence,247.0,9
+Montpelier,2020,MODIS,senescence,248.0,3
+Montpelier,2020,MODIS,senescence,249.0,2
+Montpelier,2020,MODIS,senescence,250.0,1
+Montpelier,2020,MODIS,senescence,251.0,1
+Montpelier,2020,MODIS,senescence,257.0,1
+Montpelier,2020,MODIS,mid_greendown,254.0,1
+Montpelier,2020,MODIS,mid_greendown,255.0,1
+Montpelier,2020,MODIS,mid_greendown,256.0,4
+Montpelier,2020,MODIS,mid_greendown,257.0,11
+Montpelier,2020,MODIS,mid_greendown,258.0,21
+Montpelier,2020,MODIS,mid_greendown,259.0,48
+Montpelier,2020,MODIS,mid_greendown,260.0,74
+Montpelier,2020,MODIS,mid_greendown,261.0,142
+Montpelier,2020,MODIS,mid_greendown,262.0,244
+Montpelier,2020,MODIS,mid_greendown,263.0,331
+Montpelier,2020,MODIS,mid_greendown,264.0,506
+Montpelier,2020,MODIS,mid_greendown,265.0,706
+Montpelier,2020,MODIS,mid_greendown,266.0,974
+Montpelier,2020,MODIS,mid_greendown,267.0,1217
+Montpelier,2020,MODIS,mid_greendown,268.0,1410
+Montpelier,2020,MODIS,mid_greendown,269.0,1542
+Montpelier,2020,MODIS,mid_greendown,270.0,1621
+Montpelier,2020,MODIS,mid_greendown,271.0,1543
+Montpelier,2020,MODIS,mid_greendown,272.0,1446
+Montpelier,2020,MODIS,mid_greendown,273.0,1235
+Montpelier,2020,MODIS,mid_greendown,274.0,945
+Montpelier,2020,MODIS,mid_greendown,275.0,696
+Montpelier,2020,MODIS,mid_greendown,276.0,488
+Montpelier,2020,MODIS,mid_greendown,277.0,337
+Montpelier,2020,MODIS,mid_greendown,278.0,182
+Montpelier,2020,MODIS,mid_greendown,279.0,144
+Montpelier,2020,MODIS,mid_greendown,280.0,80
+Montpelier,2020,MODIS,mid_greendown,281.0,41
+Montpelier,2020,MODIS,mid_greendown,282.0,18
+Montpelier,2020,MODIS,mid_greendown,283.0,22
+Montpelier,2020,MODIS,mid_greendown,284.0,11
+Montpelier,2020,MODIS,mid_greendown,285.0,4
+Montpelier,2020,MODIS,mid_greendown,286.0,3
+Montpelier,2020,MODIS,mid_greendown,287.0,2
+Montpelier,2020,MODIS,mid_greendown,291.0,1
+Montpelier,2020,MODIS,mid_greendown,292.0,1
+Montpelier,2020,MODIS,dormancy,282.0,1
+Montpelier,2020,MODIS,dormancy,284.0,1
+Montpelier,2020,MODIS,dormancy,285.0,6
+Montpelier,2020,MODIS,dormancy,286.0,7
+Montpelier,2020,MODIS,dormancy,287.0,14
+Montpelier,2020,MODIS,dormancy,288.0,19
+Montpelier,2020,MODIS,dormancy,289.0,63
+Montpelier,2020,MODIS,dormancy,290.0,112
+Montpelier,2020,MODIS,dormancy,291.0,226
+Montpelier,2020,MODIS,dormancy,292.0,314
+Montpelier,2020,MODIS,dormancy,293.0,497
+Montpelier,2020,MODIS,dormancy,294.0,696
+Montpelier,2020,MODIS,dormancy,295.0,847
+Montpelier,2020,MODIS,dormancy,296.0,1203
+Montpelier,2020,MODIS,dormancy,297.0,1322
+Montpelier,2020,MODIS,dormancy,298.0,1407
+Montpelier,2020,MODIS,dormancy,299.0,1304
+Montpelier,2020,MODIS,dormancy,300.0,1345
+Montpelier,2020,MODIS,dormancy,301.0,1194
+Montpelier,2020,MODIS,dormancy,302.0,980
+Montpelier,2020,MODIS,dormancy,303.0,833
+Montpelier,2020,MODIS,dormancy,304.0,672
+Montpelier,2020,MODIS,dormancy,305.0,563
+Montpelier,2020,MODIS,dormancy,306.0,425
+Montpelier,2020,MODIS,dormancy,307.0,329
+Montpelier,2020,MODIS,dormancy,308.0,267
+Montpelier,2020,MODIS,dormancy,309.0,255
+Montpelier,2020,MODIS,dormancy,310.0,192
+Montpelier,2020,MODIS,dormancy,311.0,153
+Montpelier,2020,MODIS,dormancy,312.0,123
+Montpelier,2020,MODIS,dormancy,313.0,95
+Montpelier,2020,MODIS,dormancy,314.0,84
+Montpelier,2020,MODIS,dormancy,315.0,60
+Montpelier,2020,MODIS,dormancy,316.0,70
+Montpelier,2020,MODIS,dormancy,317.0,46
+Montpelier,2020,MODIS,dormancy,318.0,45
+Montpelier,2020,MODIS,dormancy,319.0,50
+Montpelier,2020,MODIS,dormancy,320.0,33
+Montpelier,2020,MODIS,dormancy,321.0,33
+Montpelier,2020,MODIS,dormancy,322.0,24
+Montpelier,2020,MODIS,dormancy,323.0,17
+Montpelier,2020,MODIS,dormancy,324.0,19
+Montpelier,2020,MODIS,dormancy,325.0,8
+Montpelier,2020,MODIS,dormancy,326.0,9
+Montpelier,2020,MODIS,dormancy,327.0,13
+Montpelier,2020,MODIS,dormancy,328.0,14
+Montpelier,2020,MODIS,dormancy,329.0,13
+Montpelier,2020,MODIS,dormancy,330.0,9
+Montpelier,2020,MODIS,dormancy,331.0,2
+Montpelier,2020,MODIS,dormancy,332.0,11
+Montpelier,2020,MODIS,dormancy,333.0,3
+Montpelier,2020,MODIS,dormancy,334.0,3
+Montpelier,2020,MODIS,dormancy,335.0,1
+Montpelier,2020,MODIS,dormancy,336.0,1
+Montpelier,2020,MODIS,dormancy,337.0,4
+Montpelier,2020,MODIS,dormancy,338.0,1
+Montpelier,2020,MODIS,dormancy,339.0,1
+Montpelier,2020,MODIS,dormancy,344.0,3
+Montpelier,2020,MODIS,dormancy,347.0,1
+Montpelier,2020,MODIS,dormancy,348.0,3
+Montpelier,2020,MODIS,dormancy,350.0,1
+Montpelier,2020,MODIS,dormancy,351.0,1
+Montpelier,2020,MODIS,dormancy,352.0,2
+Montpelier,2020,MODIS,dormancy,354.0,1
+Montpelier,2020,MODIS,dormancy,358.0,1
+Montpelier,2020,MODIS,forest_px,1.0,16052
+Old Forge,2020,MODIS,mid_greenup,127.0,1
+Old Forge,2020,MODIS,mid_greenup,130.0,1
+Old Forge,2020,MODIS,mid_greenup,131.0,1
+Old Forge,2020,MODIS,mid_greenup,133.0,1
+Old Forge,2020,MODIS,mid_greenup,134.0,3
+Old Forge,2020,MODIS,mid_greenup,135.0,4
+Old Forge,2020,MODIS,mid_greenup,136.0,9
+Old Forge,2020,MODIS,mid_greenup,137.0,13
+Old Forge,2020,MODIS,mid_greenup,138.0,22
+Old Forge,2020,MODIS,mid_greenup,139.0,44
+Old Forge,2020,MODIS,mid_greenup,140.0,85
+Old Forge,2020,MODIS,mid_greenup,141.0,176
+Old Forge,2020,MODIS,mid_greenup,142.0,331
+Old Forge,2020,MODIS,mid_greenup,143.0,611
+Old Forge,2020,MODIS,mid_greenup,144.0,901
+Old Forge,2020,MODIS,mid_greenup,145.0,1410
+Old Forge,2020,MODIS,mid_greenup,146.0,1805
+Old Forge,2020,MODIS,mid_greenup,147.0,2031
+Old Forge,2020,MODIS,mid_greenup,148.0,2151
+Old Forge,2020,MODIS,mid_greenup,149.0,1808
+Old Forge,2020,MODIS,mid_greenup,150.0,1354
+Old Forge,2020,MODIS,mid_greenup,151.0,836
+Old Forge,2020,MODIS,mid_greenup,152.0,497
+Old Forge,2020,MODIS,mid_greenup,153.0,292
+Old Forge,2020,MODIS,mid_greenup,154.0,114
+Old Forge,2020,MODIS,mid_greenup,155.0,41
+Old Forge,2020,MODIS,mid_greenup,156.0,22
+Old Forge,2020,MODIS,mid_greenup,157.0,6
+Old Forge,2020,MODIS,mid_greenup,158.0,2
+Old Forge,2020,MODIS,mid_greenup,159.0,2
+Old Forge,2020,MODIS,mid_greenup,160.0,1
+Old Forge,2020,MODIS,mid_greenup,163.0,1
+Old Forge,2020,MODIS,senescence,194.0,1
+Old Forge,2020,MODIS,senescence,196.0,1
+Old Forge,2020,MODIS,senescence,200.0,1
+Old Forge,2020,MODIS,senescence,202.0,1
+Old Forge,2020,MODIS,senescence,205.0,2
+Old Forge,2020,MODIS,senescence,206.0,1
+Old Forge,2020,MODIS,senescence,207.0,2
+Old Forge,2020,MODIS,senescence,208.0,4
+Old Forge,2020,MODIS,senescence,209.0,3
+Old Forge,2020,MODIS,senescence,210.0,3
+Old Forge,2020,MODIS,senescence,211.0,3
+Old Forge,2020,MODIS,senescence,212.0,5
+Old Forge,2020,MODIS,senescence,213.0,14
+Old Forge,2020,MODIS,senescence,214.0,28
+Old Forge,2020,MODIS,senescence,215.0,47
+Old Forge,2020,MODIS,senescence,216.0,59
+Old Forge,2020,MODIS,senescence,217.0,65
+Old Forge,2020,MODIS,senescence,218.0,122
+Old Forge,2020,MODIS,senescence,219.0,170
+Old Forge,2020,MODIS,senescence,220.0,229
+Old Forge,2020,MODIS,senescence,221.0,292
+Old Forge,2020,MODIS,senescence,222.0,368
+Old Forge,2020,MODIS,senescence,223.0,408
+Old Forge,2020,MODIS,senescence,224.0,509
+Old Forge,2020,MODIS,senescence,225.0,591
+Old Forge,2020,MODIS,senescence,226.0,698
+Old Forge,2020,MODIS,senescence,227.0,735
+Old Forge,2020,MODIS,senescence,228.0,917
+Old Forge,2020,MODIS,senescence,229.0,949
+Old Forge,2020,MODIS,senescence,230.0,983
+Old Forge,2020,MODIS,senescence,231.0,960
+Old Forge,2020,MODIS,senescence,232.0,940
+Old Forge,2020,MODIS,senescence,233.0,937
+Old Forge,2020,MODIS,senescence,234.0,841
+Old Forge,2020,MODIS,senescence,235.0,755
+Old Forge,2020,MODIS,senescence,236.0,697
+Old Forge,2020,MODIS,senescence,237.0,574
+Old Forge,2020,MODIS,senescence,238.0,446
+Old Forge,2020,MODIS,senescence,239.0,392
+Old Forge,2020,MODIS,senescence,240.0,248
+Old Forge,2020,MODIS,senescence,241.0,175
+Old Forge,2020,MODIS,senescence,242.0,142
+Old Forge,2020,MODIS,senescence,243.0,85
+Old Forge,2020,MODIS,senescence,244.0,58
+Old Forge,2020,MODIS,senescence,245.0,39
+Old Forge,2020,MODIS,senescence,246.0,26
+Old Forge,2020,MODIS,senescence,247.0,12
+Old Forge,2020,MODIS,senescence,248.0,11
+Old Forge,2020,MODIS,senescence,249.0,8
+Old Forge,2020,MODIS,senescence,250.0,7
+Old Forge,2020,MODIS,senescence,251.0,3
+Old Forge,2020,MODIS,senescence,252.0,1
+Old Forge,2020,MODIS,senescence,253.0,1
+Old Forge,2020,MODIS,senescence,254.0,3
+Old Forge,2020,MODIS,senescence,255.0,1
+Old Forge,2020,MODIS,senescence,256.0,1
+Old Forge,2020,MODIS,senescence,257.0,1
+Old Forge,2020,MODIS,senescence,258.0,1
+Old Forge,2020,MODIS,mid_greendown,255.0,1
+Old Forge,2020,MODIS,mid_greendown,257.0,1
+Old Forge,2020,MODIS,mid_greendown,258.0,2
+Old Forge,2020,MODIS,mid_greendown,259.0,1
+Old Forge,2020,MODIS,mid_greendown,260.0,3
+Old Forge,2020,MODIS,mid_greendown,261.0,1
+Old Forge,2020,MODIS,mid_greendown,262.0,5
+Old Forge,2020,MODIS,mid_greendown,263.0,9
+Old Forge,2020,MODIS,mid_greendown,264.0,22
+Old Forge,2020,MODIS,mid_greendown,265.0,82
+Old Forge,2020,MODIS,mid_greendown,266.0,139
+Old Forge,2020,MODIS,mid_greendown,267.0,253
+Old Forge,2020,MODIS,mid_greendown,268.0,458
+Old Forge,2020,MODIS,mid_greendown,269.0,835
+Old Forge,2020,MODIS,mid_greendown,270.0,1170
+Old Forge,2020,MODIS,mid_greendown,271.0,1628
+Old Forge,2020,MODIS,mid_greendown,272.0,1852
+Old Forge,2020,MODIS,mid_greendown,273.0,1972
+Old Forge,2020,MODIS,mid_greendown,274.0,1786
+Old Forge,2020,MODIS,mid_greendown,275.0,1438
+Old Forge,2020,MODIS,mid_greendown,276.0,1035
+Old Forge,2020,MODIS,mid_greendown,277.0,717
+Old Forge,2020,MODIS,mid_greendown,278.0,515
+Old Forge,2020,MODIS,mid_greendown,279.0,296
+Old Forge,2020,MODIS,mid_greendown,280.0,177
+Old Forge,2020,MODIS,mid_greendown,281.0,95
+Old Forge,2020,MODIS,mid_greendown,282.0,44
+Old Forge,2020,MODIS,mid_greendown,283.0,21
+Old Forge,2020,MODIS,mid_greendown,284.0,9
+Old Forge,2020,MODIS,mid_greendown,285.0,7
+Old Forge,2020,MODIS,mid_greendown,287.0,1
+Old Forge,2020,MODIS,mid_greendown,292.0,1
+Old Forge,2020,MODIS,dormancy,285.0,1
+Old Forge,2020,MODIS,dormancy,288.0,4
+Old Forge,2020,MODIS,dormancy,289.0,1
+Old Forge,2020,MODIS,dormancy,290.0,8
+Old Forge,2020,MODIS,dormancy,291.0,18
+Old Forge,2020,MODIS,dormancy,292.0,40
+Old Forge,2020,MODIS,dormancy,293.0,82
+Old Forge,2020,MODIS,dormancy,294.0,199
+Old Forge,2020,MODIS,dormancy,295.0,324
+Old Forge,2020,MODIS,dormancy,296.0,486
+Old Forge,2020,MODIS,dormancy,297.0,746
+Old Forge,2020,MODIS,dormancy,298.0,1014
+Old Forge,2020,MODIS,dormancy,299.0,1260
+Old Forge,2020,MODIS,dormancy,300.0,1335
+Old Forge,2020,MODIS,dormancy,301.0,1303
+Old Forge,2020,MODIS,dormancy,302.0,1162
+Old Forge,2020,MODIS,dormancy,303.0,914
+Old Forge,2020,MODIS,dormancy,304.0,807
+Old Forge,2020,MODIS,dormancy,305.0,619
+Old Forge,2020,MODIS,dormancy,306.0,525
+Old Forge,2020,MODIS,dormancy,307.0,469
+Old Forge,2020,MODIS,dormancy,308.0,425
+Old Forge,2020,MODIS,dormancy,309.0,390
+Old Forge,2020,MODIS,dormancy,310.0,312
+Old Forge,2020,MODIS,dormancy,311.0,319
+Old Forge,2020,MODIS,dormancy,312.0,290
+Old Forge,2020,MODIS,dormancy,313.0,245
+Old Forge,2020,MODIS,dormancy,314.0,235
+Old Forge,2020,MODIS,dormancy,315.0,194
+Old Forge,2020,MODIS,dormancy,316.0,169
+Old Forge,2020,MODIS,dormancy,317.0,146
+Old Forge,2020,MODIS,dormancy,318.0,89
+Old Forge,2020,MODIS,dormancy,319.0,98
+Old Forge,2020,MODIS,dormancy,320.0,73
+Old Forge,2020,MODIS,dormancy,321.0,58
+Old Forge,2020,MODIS,dormancy,322.0,42
+Old Forge,2020,MODIS,dormancy,323.0,28
+Old Forge,2020,MODIS,dormancy,324.0,27
+Old Forge,2020,MODIS,dormancy,325.0,18
+Old Forge,2020,MODIS,dormancy,326.0,16
+Old Forge,2020,MODIS,dormancy,327.0,14
+Old Forge,2020,MODIS,dormancy,328.0,9
+Old Forge,2020,MODIS,dormancy,329.0,11
+Old Forge,2020,MODIS,dormancy,330.0,7
+Old Forge,2020,MODIS,dormancy,331.0,12
+Old Forge,2020,MODIS,dormancy,332.0,3
+Old Forge,2020,MODIS,dormancy,333.0,4
+Old Forge,2020,MODIS,dormancy,334.0,7
+Old Forge,2020,MODIS,dormancy,335.0,4
+Old Forge,2020,MODIS,dormancy,336.0,1
+Old Forge,2020,MODIS,dormancy,337.0,1
+Old Forge,2020,MODIS,dormancy,338.0,1
+Old Forge,2020,MODIS,dormancy,340.0,1
+Old Forge,2020,MODIS,dormancy,341.0,2
+Old Forge,2020,MODIS,dormancy,342.0,1
+Old Forge,2020,MODIS,dormancy,343.0,2
+Old Forge,2020,MODIS,dormancy,346.0,1
+Old Forge,2020,MODIS,dormancy,347.0,2
+Old Forge,2020,MODIS,dormancy,349.0,2
+Old Forge,2020,MODIS,forest_px,1.0,14576
+Binghamton,2020,MODIS,mid_greenup,117.0,2
+Binghamton,2020,MODIS,mid_greenup,118.0,1
+Binghamton,2020,MODIS,mid_greenup,119.0,1
+Binghamton,2020,MODIS,mid_greenup,120.0,4
+Binghamton,2020,MODIS,mid_greenup,121.0,1
+Binghamton,2020,MODIS,mid_greenup,122.0,2
+Binghamton,2020,MODIS,mid_greenup,123.0,11
+Binghamton,2020,MODIS,mid_greenup,124.0,8
+Binghamton,2020,MODIS,mid_greenup,125.0,13
+Binghamton,2020,MODIS,mid_greenup,126.0,14
+Binghamton,2020,MODIS,mid_greenup,127.0,33
+Binghamton,2020,MODIS,mid_greenup,128.0,49
+Binghamton,2020,MODIS,mid_greenup,129.0,73
+Binghamton,2020,MODIS,mid_greenup,130.0,106
+Binghamton,2020,MODIS,mid_greenup,131.0,138
+Binghamton,2020,MODIS,mid_greenup,132.0,205
+Binghamton,2020,MODIS,mid_greenup,133.0,291
+Binghamton,2020,MODIS,mid_greenup,134.0,428
+Binghamton,2020,MODIS,mid_greenup,135.0,606
+Binghamton,2020,MODIS,mid_greenup,136.0,726
+Binghamton,2020,MODIS,mid_greenup,137.0,961
+Binghamton,2020,MODIS,mid_greenup,138.0,1201
+Binghamton,2020,MODIS,mid_greenup,139.0,1368
+Binghamton,2020,MODIS,mid_greenup,140.0,1603
+Binghamton,2020,MODIS,mid_greenup,141.0,1596
+Binghamton,2020,MODIS,mid_greenup,142.0,1567
+Binghamton,2020,MODIS,mid_greenup,143.0,1317
+Binghamton,2020,MODIS,mid_greenup,144.0,999
+Binghamton,2020,MODIS,mid_greenup,145.0,698
+Binghamton,2020,MODIS,mid_greenup,146.0,467
+Binghamton,2020,MODIS,mid_greenup,147.0,256
+Binghamton,2020,MODIS,mid_greenup,148.0,120
+Binghamton,2020,MODIS,mid_greenup,149.0,52
+Binghamton,2020,MODIS,mid_greenup,150.0,20
+Binghamton,2020,MODIS,mid_greenup,151.0,8
+Binghamton,2020,MODIS,mid_greenup,152.0,1
+Binghamton,2020,MODIS,mid_greenup,153.0,1
+Binghamton,2020,MODIS,senescence,197.0,2
+Binghamton,2020,MODIS,senescence,198.0,1
+Binghamton,2020,MODIS,senescence,199.0,1
+Binghamton,2020,MODIS,senescence,200.0,3
+Binghamton,2020,MODIS,senescence,201.0,5
+Binghamton,2020,MODIS,senescence,202.0,5
+Binghamton,2020,MODIS,senescence,203.0,8
+Binghamton,2020,MODIS,senescence,204.0,14
+Binghamton,2020,MODIS,senescence,205.0,25
+Binghamton,2020,MODIS,senescence,206.0,32
+Binghamton,2020,MODIS,senescence,207.0,57
+Binghamton,2020,MODIS,senescence,208.0,86
+Binghamton,2020,MODIS,senescence,209.0,98
+Binghamton,2020,MODIS,senescence,210.0,144
+Binghamton,2020,MODIS,senescence,211.0,192
+Binghamton,2020,MODIS,senescence,212.0,246
+Binghamton,2020,MODIS,senescence,213.0,318
+Binghamton,2020,MODIS,senescence,214.0,387
+Binghamton,2020,MODIS,senescence,215.0,462
+Binghamton,2020,MODIS,senescence,216.0,526
+Binghamton,2020,MODIS,senescence,217.0,619
+Binghamton,2020,MODIS,senescence,218.0,695
+Binghamton,2020,MODIS,senescence,219.0,775
+Binghamton,2020,MODIS,senescence,220.0,837
+Binghamton,2020,MODIS,senescence,221.0,874
+Binghamton,2020,MODIS,senescence,222.0,861
+Binghamton,2020,MODIS,senescence,223.0,817
+Binghamton,2020,MODIS,senescence,224.0,785
+Binghamton,2020,MODIS,senescence,225.0,832
+Binghamton,2020,MODIS,senescence,226.0,729
+Binghamton,2020,MODIS,senescence,227.0,644
+Binghamton,2020,MODIS,senescence,228.0,586
+Binghamton,2020,MODIS,senescence,229.0,532
+Binghamton,2020,MODIS,senescence,230.0,482
+Binghamton,2020,MODIS,senescence,231.0,376
+Binghamton,2020,MODIS,senescence,232.0,376
+Binghamton,2020,MODIS,senescence,233.0,290
+Binghamton,2020,MODIS,senescence,234.0,246
+Binghamton,2020,MODIS,senescence,235.0,198
+Binghamton,2020,MODIS,senescence,236.0,192
+Binghamton,2020,MODIS,senescence,237.0,154
+Binghamton,2020,MODIS,senescence,238.0,97
+Binghamton,2020,MODIS,senescence,239.0,72
+Binghamton,2020,MODIS,senescence,240.0,43
+Binghamton,2020,MODIS,senescence,241.0,60
+Binghamton,2020,MODIS,senescence,242.0,41
+Binghamton,2020,MODIS,senescence,243.0,29
+Binghamton,2020,MODIS,senescence,244.0,30
+Binghamton,2020,MODIS,senescence,245.0,18
+Binghamton,2020,MODIS,senescence,246.0,11
+Binghamton,2020,MODIS,senescence,247.0,9
+Binghamton,2020,MODIS,senescence,248.0,12
+Binghamton,2020,MODIS,senescence,249.0,5
+Binghamton,2020,MODIS,senescence,250.0,3
+Binghamton,2020,MODIS,senescence,251.0,1
+Binghamton,2020,MODIS,senescence,253.0,2
+Binghamton,2020,MODIS,senescence,254.0,1
+Binghamton,2020,MODIS,senescence,259.0,1
+Binghamton,2020,MODIS,mid_greendown,252.0,1
+Binghamton,2020,MODIS,mid_greendown,253.0,3
+Binghamton,2020,MODIS,mid_greendown,254.0,1
+Binghamton,2020,MODIS,mid_greendown,256.0,4
+Binghamton,2020,MODIS,mid_greendown,257.0,6
+Binghamton,2020,MODIS,mid_greendown,258.0,7
+Binghamton,2020,MODIS,mid_greendown,259.0,7
+Binghamton,2020,MODIS,mid_greendown,260.0,37
+Binghamton,2020,MODIS,mid_greendown,261.0,52
+Binghamton,2020,MODIS,mid_greendown,262.0,83
+Binghamton,2020,MODIS,mid_greendown,263.0,162
+Binghamton,2020,MODIS,mid_greendown,264.0,225
+Binghamton,2020,MODIS,mid_greendown,265.0,318
+Binghamton,2020,MODIS,mid_greendown,266.0,469
+Binghamton,2020,MODIS,mid_greendown,267.0,610
+Binghamton,2020,MODIS,mid_greendown,268.0,758
+Binghamton,2020,MODIS,mid_greendown,269.0,921
+Binghamton,2020,MODIS,mid_greendown,270.0,1023
+Binghamton,2020,MODIS,mid_greendown,271.0,1141
+Binghamton,2020,MODIS,mid_greendown,272.0,1177
+Binghamton,2020,MODIS,mid_greendown,273.0,1193
+Binghamton,2020,MODIS,mid_greendown,274.0,1123
+Binghamton,2020,MODIS,mid_greendown,275.0,1093
+Binghamton,2020,MODIS,mid_greendown,276.0,974
+Binghamton,2020,MODIS,mid_greendown,277.0,810
+Binghamton,2020,MODIS,mid_greendown,278.0,771
+Binghamton,2020,MODIS,mid_greendown,279.0,556
+Binghamton,2020,MODIS,mid_greendown,280.0,430
+Binghamton,2020,MODIS,mid_greendown,281.0,310
+Binghamton,2020,MODIS,mid_greendown,282.0,223
+Binghamton,2020,MODIS,mid_greendown,283.0,159
+Binghamton,2020,MODIS,mid_greendown,284.0,105
+Binghamton,2020,MODIS,mid_greendown,285.0,70
+Binghamton,2020,MODIS,mid_greendown,286.0,50
+Binghamton,2020,MODIS,mid_greendown,287.0,30
+Binghamton,2020,MODIS,mid_greendown,288.0,20
+Binghamton,2020,MODIS,mid_greendown,289.0,10
+Binghamton,2020,MODIS,mid_greendown,290.0,6
+Binghamton,2020,MODIS,mid_greendown,291.0,1
+Binghamton,2020,MODIS,mid_greendown,292.0,2
+Binghamton,2020,MODIS,mid_greendown,294.0,1
+Binghamton,2020,MODIS,mid_greendown,296.0,1
+Binghamton,2020,MODIS,mid_greendown,297.0,1
+Binghamton,2020,MODIS,mid_greendown,299.0,2
+Binghamton,2020,MODIS,mid_greendown,304.0,1
+Binghamton,2020,MODIS,dormancy,285.0,1
+Binghamton,2020,MODIS,dormancy,286.0,1
+Binghamton,2020,MODIS,dormancy,287.0,5
+Binghamton,2020,MODIS,dormancy,288.0,1
+Binghamton,2020,MODIS,dormancy,289.0,14
+Binghamton,2020,MODIS,dormancy,290.0,21
+Binghamton,2020,MODIS,dormancy,291.0,27
+Binghamton,2020,MODIS,dormancy,292.0,45
+Binghamton,2020,MODIS,dormancy,293.0,86
+Binghamton,2020,MODIS,dormancy,294.0,120
+Binghamton,2020,MODIS,dormancy,295.0,175
+Binghamton,2020,MODIS,dormancy,296.0,225
+Binghamton,2020,MODIS,dormancy,297.0,357
+Binghamton,2020,MODIS,dormancy,298.0,446
+Binghamton,2020,MODIS,dormancy,299.0,587
+Binghamton,2020,MODIS,dormancy,300.0,747
+Binghamton,2020,MODIS,dormancy,301.0,796
+Binghamton,2020,MODIS,dormancy,302.0,954
+Binghamton,2020,MODIS,dormancy,303.0,965
+Binghamton,2020,MODIS,dormancy,304.0,1076
+Binghamton,2020,MODIS,dormancy,305.0,981
+Binghamton,2020,MODIS,dormancy,306.0,989
+Binghamton,2020,MODIS,dormancy,307.0,857
+Binghamton,2020,MODIS,dormancy,308.0,760
+Binghamton,2020,MODIS,dormancy,309.0,676
+Binghamton,2020,MODIS,dormancy,310.0,639
+Binghamton,2020,MODIS,dormancy,311.0,459
+Binghamton,2020,MODIS,dormancy,312.0,413
+Binghamton,2020,MODIS,dormancy,313.0,346
+Binghamton,2020,MODIS,dormancy,314.0,288
+Binghamton,2020,MODIS,dormancy,315.0,244
+Binghamton,2020,MODIS,dormancy,316.0,193
+Binghamton,2020,MODIS,dormancy,317.0,178
+Binghamton,2020,MODIS,dormancy,318.0,159
+Binghamton,2020,MODIS,dormancy,319.0,117
+Binghamton,2020,MODIS,dormancy,320.0,122
+Binghamton,2020,MODIS,dormancy,321.0,110
+Binghamton,2020,MODIS,dormancy,322.0,79
+Binghamton,2020,MODIS,dormancy,323.0,62
+Binghamton,2020,MODIS,dormancy,324.0,65
+Binghamton,2020,MODIS,dormancy,325.0,45
+Binghamton,2020,MODIS,dormancy,326.0,37
+Binghamton,2020,MODIS,dormancy,327.0,54
+Binghamton,2020,MODIS,dormancy,328.0,45
+Binghamton,2020,MODIS,dormancy,329.0,33
+Binghamton,2020,MODIS,dormancy,330.0,30
+Binghamton,2020,MODIS,dormancy,331.0,29
+Binghamton,2020,MODIS,dormancy,332.0,30
+Binghamton,2020,MODIS,dormancy,333.0,34
+Binghamton,2020,MODIS,dormancy,334.0,23
+Binghamton,2020,MODIS,dormancy,335.0,25
+Binghamton,2020,MODIS,dormancy,336.0,23
+Binghamton,2020,MODIS,dormancy,337.0,26
+Binghamton,2020,MODIS,dormancy,338.0,21
+Binghamton,2020,MODIS,dormancy,339.0,15
+Binghamton,2020,MODIS,dormancy,340.0,12
+Binghamton,2020,MODIS,dormancy,341.0,8
+Binghamton,2020,MODIS,dormancy,342.0,16
+Binghamton,2020,MODIS,dormancy,343.0,7
+Binghamton,2020,MODIS,dormancy,344.0,16
+Binghamton,2020,MODIS,dormancy,345.0,11
+Binghamton,2020,MODIS,dormancy,346.0,6
+Binghamton,2020,MODIS,dormancy,347.0,2
+Binghamton,2020,MODIS,dormancy,348.0,1
+Binghamton,2020,MODIS,dormancy,349.0,3
+Binghamton,2020,MODIS,dormancy,350.0,1
+Binghamton,2020,MODIS,dormancy,351.0,2
+Binghamton,2020,MODIS,dormancy,352.0,2
+Binghamton,2020,MODIS,dormancy,354.0,1
+Binghamton,2020,MODIS,dormancy,355.0,1
+Binghamton,2020,MODIS,dormancy,358.0,1
+Binghamton,2020,MODIS,dormancy,362.0,1
+Binghamton,2020,MODIS,forest_px,1.0,14947
+Scranton,2020,MODIS,mid_greenup,122.0,1
+Scranton,2020,MODIS,mid_greenup,125.0,1
+Scranton,2020,MODIS,mid_greenup,126.0,1
+Scranton,2020,MODIS,mid_greenup,127.0,1
+Scranton,2020,MODIS,mid_greenup,128.0,5
+Scranton,2020,MODIS,mid_greenup,129.0,3
+Scranton,2020,MODIS,mid_greenup,130.0,5
+Scranton,2020,MODIS,mid_greenup,131.0,6
+Scranton,2020,MODIS,mid_greenup,132.0,6
+Scranton,2020,MODIS,mid_greenup,133.0,16
+Scranton,2020,MODIS,mid_greenup,134.0,16
+Scranton,2020,MODIS,mid_greenup,135.0,28
+Scranton,2020,MODIS,mid_greenup,136.0,34
+Scranton,2020,MODIS,mid_greenup,137.0,43
+Scranton,2020,MODIS,mid_greenup,138.0,57
+Scranton,2020,MODIS,mid_greenup,139.0,82
+Scranton,2020,MODIS,mid_greenup,140.0,110
+Scranton,2020,MODIS,mid_greenup,141.0,179
+Scranton,2020,MODIS,mid_greenup,142.0,211
+Scranton,2020,MODIS,mid_greenup,143.0,230
+Scranton,2020,MODIS,mid_greenup,144.0,298
+Scranton,2020,MODIS,mid_greenup,145.0,269
+Scranton,2020,MODIS,mid_greenup,146.0,316
+Scranton,2020,MODIS,mid_greenup,147.0,283
+Scranton,2020,MODIS,mid_greenup,148.0,254
+Scranton,2020,MODIS,mid_greenup,149.0,243
+Scranton,2020,MODIS,mid_greenup,150.0,209
+Scranton,2020,MODIS,mid_greenup,151.0,153
+Scranton,2020,MODIS,mid_greenup,152.0,98
+Scranton,2020,MODIS,mid_greenup,153.0,42
+Scranton,2020,MODIS,mid_greenup,154.0,12
+Scranton,2020,MODIS,mid_greenup,155.0,2
+Scranton,2020,MODIS,mid_greenup,156.0,1
+Scranton,2020,MODIS,senescence,203.0,1
+Scranton,2020,MODIS,senescence,205.0,2
+Scranton,2020,MODIS,senescence,206.0,1
+Scranton,2020,MODIS,senescence,207.0,2
+Scranton,2020,MODIS,senescence,208.0,3
+Scranton,2020,MODIS,senescence,209.0,7
+Scranton,2020,MODIS,senescence,210.0,6
+Scranton,2020,MODIS,senescence,211.0,7
+Scranton,2020,MODIS,senescence,212.0,12
+Scranton,2020,MODIS,senescence,213.0,18
+Scranton,2020,MODIS,senescence,214.0,23
+Scranton,2020,MODIS,senescence,215.0,25
+Scranton,2020,MODIS,senescence,216.0,41
+Scranton,2020,MODIS,senescence,217.0,61
+Scranton,2020,MODIS,senescence,218.0,61
+Scranton,2020,MODIS,senescence,219.0,75
+Scranton,2020,MODIS,senescence,220.0,81
+Scranton,2020,MODIS,senescence,221.0,92
+Scranton,2020,MODIS,senescence,222.0,116
+Scranton,2020,MODIS,senescence,223.0,126
+Scranton,2020,MODIS,senescence,224.0,129
+Scranton,2020,MODIS,senescence,225.0,128
+Scranton,2020,MODIS,senescence,226.0,161
+Scranton,2020,MODIS,senescence,227.0,169
+Scranton,2020,MODIS,senescence,228.0,172
+Scranton,2020,MODIS,senescence,229.0,156
+Scranton,2020,MODIS,senescence,230.0,194
+Scranton,2020,MODIS,senescence,231.0,146
+Scranton,2020,MODIS,senescence,232.0,152
+Scranton,2020,MODIS,senescence,233.0,145
+Scranton,2020,MODIS,senescence,234.0,135
+Scranton,2020,MODIS,senescence,235.0,117
+Scranton,2020,MODIS,senescence,236.0,111
+Scranton,2020,MODIS,senescence,237.0,79
+Scranton,2020,MODIS,senescence,238.0,84
+Scranton,2020,MODIS,senescence,239.0,74
+Scranton,2020,MODIS,senescence,240.0,51
+Scranton,2020,MODIS,senescence,241.0,48
+Scranton,2020,MODIS,senescence,242.0,57
+Scranton,2020,MODIS,senescence,243.0,25
+Scranton,2020,MODIS,senescence,244.0,24
+Scranton,2020,MODIS,senescence,245.0,14
+Scranton,2020,MODIS,senescence,246.0,17
+Scranton,2020,MODIS,senescence,247.0,20
+Scranton,2020,MODIS,senescence,248.0,12
+Scranton,2020,MODIS,senescence,249.0,11
+Scranton,2020,MODIS,senescence,250.0,3
+Scranton,2020,MODIS,senescence,251.0,8
+Scranton,2020,MODIS,senescence,252.0,2
+Scranton,2020,MODIS,senescence,253.0,3
+Scranton,2020,MODIS,senescence,254.0,4
+Scranton,2020,MODIS,senescence,255.0,1
+Scranton,2020,MODIS,senescence,258.0,1
+Scranton,2020,MODIS,senescence,260.0,1
+Scranton,2020,MODIS,senescence,264.0,1
+Scranton,2020,MODIS,mid_greendown,262.0,1
+Scranton,2020,MODIS,mid_greendown,264.0,2
+Scranton,2020,MODIS,mid_greendown,266.0,3
+Scranton,2020,MODIS,mid_greendown,267.0,6
+Scranton,2020,MODIS,mid_greendown,268.0,10
+Scranton,2020,MODIS,mid_greendown,269.0,10
+Scranton,2020,MODIS,mid_greendown,270.0,17
+Scranton,2020,MODIS,mid_greendown,271.0,27
+Scranton,2020,MODIS,mid_greendown,272.0,39
+Scranton,2020,MODIS,mid_greendown,273.0,72
+Scranton,2020,MODIS,mid_greendown,274.0,89
+Scranton,2020,MODIS,mid_greendown,275.0,130
+Scranton,2020,MODIS,mid_greendown,276.0,181
+Scranton,2020,MODIS,mid_greendown,277.0,194
+Scranton,2020,MODIS,mid_greendown,278.0,227
+Scranton,2020,MODIS,mid_greendown,279.0,265
+Scranton,2020,MODIS,mid_greendown,280.0,306
+Scranton,2020,MODIS,mid_greendown,281.0,267
+Scranton,2020,MODIS,mid_greendown,282.0,261
+Scranton,2020,MODIS,mid_greendown,283.0,209
+Scranton,2020,MODIS,mid_greendown,284.0,186
+Scranton,2020,MODIS,mid_greendown,285.0,179
+Scranton,2020,MODIS,mid_greendown,286.0,129
+Scranton,2020,MODIS,mid_greendown,287.0,110
+Scranton,2020,MODIS,mid_greendown,288.0,88
+Scranton,2020,MODIS,mid_greendown,289.0,67
+Scranton,2020,MODIS,mid_greendown,290.0,45
+Scranton,2020,MODIS,mid_greendown,291.0,30
+Scranton,2020,MODIS,mid_greendown,292.0,30
+Scranton,2020,MODIS,mid_greendown,293.0,16
+Scranton,2020,MODIS,mid_greendown,294.0,6
+Scranton,2020,MODIS,mid_greendown,295.0,6
+Scranton,2020,MODIS,mid_greendown,296.0,5
+Scranton,2020,MODIS,mid_greendown,297.0,1
+Scranton,2020,MODIS,mid_greendown,298.0,1
+Scranton,2020,MODIS,dormancy,298.0,2
+Scranton,2020,MODIS,dormancy,299.0,3
+Scranton,2020,MODIS,dormancy,300.0,4
+Scranton,2020,MODIS,dormancy,301.0,11
+Scranton,2020,MODIS,dormancy,302.0,25
+Scranton,2020,MODIS,dormancy,303.0,38
+Scranton,2020,MODIS,dormancy,304.0,71
+Scranton,2020,MODIS,dormancy,305.0,96
+Scranton,2020,MODIS,dormancy,306.0,143
+Scranton,2020,MODIS,dormancy,307.0,186
+Scranton,2020,MODIS,dormancy,308.0,191
+Scranton,2020,MODIS,dormancy,309.0,251
+Scranton,2020,MODIS,dormancy,310.0,235
+Scranton,2020,MODIS,dormancy,311.0,227
+Scranton,2020,MODIS,dormancy,312.0,209
+Scranton,2020,MODIS,dormancy,313.0,208
+Scranton,2020,MODIS,dormancy,314.0,173
+Scranton,2020,MODIS,dormancy,315.0,157
+Scranton,2020,MODIS,dormancy,316.0,131
+Scranton,2020,MODIS,dormancy,317.0,135
+Scranton,2020,MODIS,dormancy,318.0,118
+Scranton,2020,MODIS,dormancy,319.0,118
+Scranton,2020,MODIS,dormancy,320.0,103
+Scranton,2020,MODIS,dormancy,321.0,75
+Scranton,2020,MODIS,dormancy,322.0,58
+Scranton,2020,MODIS,dormancy,323.0,57
+Scranton,2020,MODIS,dormancy,324.0,42
+Scranton,2020,MODIS,dormancy,325.0,32
+Scranton,2020,MODIS,dormancy,326.0,22
+Scranton,2020,MODIS,dormancy,327.0,20
+Scranton,2020,MODIS,dormancy,328.0,20
+Scranton,2020,MODIS,dormancy,329.0,12
+Scranton,2020,MODIS,dormancy,330.0,12
+Scranton,2020,MODIS,dormancy,331.0,3
+Scranton,2020,MODIS,dormancy,332.0,8
+Scranton,2020,MODIS,dormancy,333.0,3
+Scranton,2020,MODIS,dormancy,334.0,5
+Scranton,2020,MODIS,dormancy,335.0,3
+Scranton,2020,MODIS,dormancy,336.0,1
+Scranton,2020,MODIS,dormancy,338.0,1
+Scranton,2020,MODIS,dormancy,339.0,1
+Scranton,2020,MODIS,dormancy,340.0,2
+Scranton,2020,MODIS,dormancy,343.0,1
+Scranton,2020,MODIS,dormancy,344.0,1
+Scranton,2020,MODIS,dormancy,345.0,1
+Scranton,2020,MODIS,forest_px,1.0,3215
+State College,2020,MODIS,mid_greenup,102.0,1
+State College,2020,MODIS,mid_greenup,105.0,3
+State College,2020,MODIS,mid_greenup,106.0,2
+State College,2020,MODIS,mid_greenup,107.0,6
+State College,2020,MODIS,mid_greenup,108.0,7
+State College,2020,MODIS,mid_greenup,109.0,6
+State College,2020,MODIS,mid_greenup,110.0,5
+State College,2020,MODIS,mid_greenup,111.0,6
+State College,2020,MODIS,mid_greenup,112.0,3
+State College,2020,MODIS,mid_greenup,113.0,13
+State College,2020,MODIS,mid_greenup,114.0,11
+State College,2020,MODIS,mid_greenup,115.0,13
+State College,2020,MODIS,mid_greenup,116.0,14
+State College,2020,MODIS,mid_greenup,117.0,26
+State College,2020,MODIS,mid_greenup,118.0,28
+State College,2020,MODIS,mid_greenup,119.0,27
+State College,2020,MODIS,mid_greenup,120.0,33
+State College,2020,MODIS,mid_greenup,121.0,32
+State College,2020,MODIS,mid_greenup,122.0,46
+State College,2020,MODIS,mid_greenup,123.0,51
+State College,2020,MODIS,mid_greenup,124.0,62
+State College,2020,MODIS,mid_greenup,125.0,90
+State College,2020,MODIS,mid_greenup,126.0,95
+State College,2020,MODIS,mid_greenup,127.0,109
+State College,2020,MODIS,mid_greenup,128.0,135
+State College,2020,MODIS,mid_greenup,129.0,158
+State College,2020,MODIS,mid_greenup,130.0,204
+State College,2020,MODIS,mid_greenup,131.0,246
+State College,2020,MODIS,mid_greenup,132.0,301
+State College,2020,MODIS,mid_greenup,133.0,339
+State College,2020,MODIS,mid_greenup,134.0,362
+State College,2020,MODIS,mid_greenup,135.0,410
+State College,2020,MODIS,mid_greenup,136.0,622
+State College,2020,MODIS,mid_greenup,137.0,634
+State College,2020,MODIS,mid_greenup,138.0,726
+State College,2020,MODIS,mid_greenup,139.0,796
+State College,2020,MODIS,mid_greenup,140.0,810
+State College,2020,MODIS,mid_greenup,141.0,837
+State College,2020,MODIS,mid_greenup,142.0,775
+State College,2020,MODIS,mid_greenup,143.0,807
+State College,2020,MODIS,mid_greenup,144.0,744
+State College,2020,MODIS,mid_greenup,145.0,647
+State College,2020,MODIS,mid_greenup,146.0,486
+State College,2020,MODIS,mid_greenup,147.0,374
+State College,2020,MODIS,mid_greenup,148.0,234
+State College,2020,MODIS,mid_greenup,149.0,148
+State College,2020,MODIS,mid_greenup,150.0,73
+State College,2020,MODIS,mid_greenup,151.0,26
+State College,2020,MODIS,mid_greenup,152.0,8
+State College,2020,MODIS,mid_greenup,153.0,7
+State College,2020,MODIS,mid_greenup,154.0,2
+State College,2020,MODIS,mid_greenup,155.0,1
+State College,2020,MODIS,mid_greenup,97.0,1
+State College,2020,MODIS,mid_greenup,99.0,1
+State College,2020,MODIS,senescence,181.0,1
+State College,2020,MODIS,senescence,187.0,1
+State College,2020,MODIS,senescence,188.0,4
+State College,2020,MODIS,senescence,189.0,6
+State College,2020,MODIS,senescence,190.0,2
+State College,2020,MODIS,senescence,191.0,2
+State College,2020,MODIS,senescence,192.0,1
+State College,2020,MODIS,senescence,193.0,10
+State College,2020,MODIS,senescence,194.0,16
+State College,2020,MODIS,senescence,195.0,10
+State College,2020,MODIS,senescence,196.0,21
+State College,2020,MODIS,senescence,197.0,26
+State College,2020,MODIS,senescence,198.0,25
+State College,2020,MODIS,senescence,199.0,23
+State College,2020,MODIS,senescence,200.0,51
+State College,2020,MODIS,senescence,201.0,43
+State College,2020,MODIS,senescence,202.0,56
+State College,2020,MODIS,senescence,203.0,65
+State College,2020,MODIS,senescence,204.0,94
+State College,2020,MODIS,senescence,205.0,105
+State College,2020,MODIS,senescence,206.0,139
+State College,2020,MODIS,senescence,207.0,124
+State College,2020,MODIS,senescence,208.0,211
+State College,2020,MODIS,senescence,209.0,209
+State College,2020,MODIS,senescence,210.0,295
+State College,2020,MODIS,senescence,211.0,273
+State College,2020,MODIS,senescence,212.0,300
+State College,2020,MODIS,senescence,213.0,348
+State College,2020,MODIS,senescence,214.0,416
+State College,2020,MODIS,senescence,215.0,423
+State College,2020,MODIS,senescence,216.0,528
+State College,2020,MODIS,senescence,217.0,467
+State College,2020,MODIS,senescence,218.0,528
+State College,2020,MODIS,senescence,219.0,566
+State College,2020,MODIS,senescence,220.0,562
+State College,2020,MODIS,senescence,221.0,526
+State College,2020,MODIS,senescence,222.0,501
+State College,2020,MODIS,senescence,223.0,515
+State College,2020,MODIS,senescence,224.0,470
+State College,2020,MODIS,senescence,225.0,489
+State College,2020,MODIS,senescence,226.0,457
+State College,2020,MODIS,senescence,227.0,361
+State College,2020,MODIS,senescence,228.0,320
+State College,2020,MODIS,senescence,229.0,301
+State College,2020,MODIS,senescence,230.0,264
+State College,2020,MODIS,senescence,231.0,222
+State College,2020,MODIS,senescence,232.0,213
+State College,2020,MODIS,senescence,233.0,153
+State College,2020,MODIS,senescence,234.0,145
+State College,2020,MODIS,senescence,235.0,125
+State College,2020,MODIS,senescence,236.0,105
+State College,2020,MODIS,senescence,237.0,82
+State College,2020,MODIS,senescence,238.0,82
+State College,2020,MODIS,senescence,239.0,66
+State College,2020,MODIS,senescence,240.0,50
+State College,2020,MODIS,senescence,241.0,35
+State College,2020,MODIS,senescence,242.0,34
+State College,2020,MODIS,senescence,243.0,32
+State College,2020,MODIS,senescence,244.0,23
+State College,2020,MODIS,senescence,245.0,18
+State College,2020,MODIS,senescence,246.0,12
+State College,2020,MODIS,senescence,247.0,12
+State College,2020,MODIS,senescence,248.0,9
+State College,2020,MODIS,senescence,249.0,6
+State College,2020,MODIS,senescence,250.0,6
+State College,2020,MODIS,senescence,251.0,6
+State College,2020,MODIS,senescence,252.0,4
+State College,2020,MODIS,senescence,253.0,3
+State College,2020,MODIS,senescence,254.0,3
+State College,2020,MODIS,senescence,256.0,1
+State College,2020,MODIS,senescence,258.0,1
+State College,2020,MODIS,mid_greendown,224.0,1
+State College,2020,MODIS,mid_greendown,227.0,1
+State College,2020,MODIS,mid_greendown,242.0,1
+State College,2020,MODIS,mid_greendown,244.0,1
+State College,2020,MODIS,mid_greendown,246.0,2
+State College,2020,MODIS,mid_greendown,247.0,1
+State College,2020,MODIS,mid_greendown,248.0,3
+State College,2020,MODIS,mid_greendown,250.0,2
+State College,2020,MODIS,mid_greendown,251.0,5
+State College,2020,MODIS,mid_greendown,252.0,1
+State College,2020,MODIS,mid_greendown,253.0,1
+State College,2020,MODIS,mid_greendown,254.0,3
+State College,2020,MODIS,mid_greendown,255.0,8
+State College,2020,MODIS,mid_greendown,256.0,6
+State College,2020,MODIS,mid_greendown,257.0,6
+State College,2020,MODIS,mid_greendown,258.0,14
+State College,2020,MODIS,mid_greendown,259.0,15
+State College,2020,MODIS,mid_greendown,260.0,15
+State College,2020,MODIS,mid_greendown,261.0,20
+State College,2020,MODIS,mid_greendown,262.0,23
+State College,2020,MODIS,mid_greendown,263.0,39
+State College,2020,MODIS,mid_greendown,264.0,55
+State College,2020,MODIS,mid_greendown,265.0,74
+State College,2020,MODIS,mid_greendown,266.0,79
+State College,2020,MODIS,mid_greendown,267.0,113
+State College,2020,MODIS,mid_greendown,268.0,136
+State College,2020,MODIS,mid_greendown,269.0,157
+State College,2020,MODIS,mid_greendown,270.0,179
+State College,2020,MODIS,mid_greendown,271.0,239
+State College,2020,MODIS,mid_greendown,272.0,262
+State College,2020,MODIS,mid_greendown,273.0,356
+State College,2020,MODIS,mid_greendown,274.0,405
+State College,2020,MODIS,mid_greendown,275.0,510
+State College,2020,MODIS,mid_greendown,276.0,549
+State College,2020,MODIS,mid_greendown,277.0,650
+State College,2020,MODIS,mid_greendown,278.0,691
+State College,2020,MODIS,mid_greendown,279.0,766
+State College,2020,MODIS,mid_greendown,280.0,773
+State College,2020,MODIS,mid_greendown,281.0,780
+State College,2020,MODIS,mid_greendown,282.0,767
+State College,2020,MODIS,mid_greendown,283.0,712
+State College,2020,MODIS,mid_greendown,284.0,652
+State College,2020,MODIS,mid_greendown,285.0,577
+State College,2020,MODIS,mid_greendown,286.0,483
+State College,2020,MODIS,mid_greendown,287.0,399
+State College,2020,MODIS,mid_greendown,288.0,297
+State College,2020,MODIS,mid_greendown,289.0,215
+State College,2020,MODIS,mid_greendown,290.0,170
+State College,2020,MODIS,mid_greendown,291.0,125
+State College,2020,MODIS,mid_greendown,292.0,78
+State College,2020,MODIS,mid_greendown,293.0,62
+State College,2020,MODIS,mid_greendown,294.0,43
+State College,2020,MODIS,mid_greendown,295.0,22
+State College,2020,MODIS,mid_greendown,296.0,21
+State College,2020,MODIS,mid_greendown,297.0,11
+State College,2020,MODIS,mid_greendown,298.0,8
+State College,2020,MODIS,mid_greendown,299.0,7
+State College,2020,MODIS,mid_greendown,301.0,3
+State College,2020,MODIS,mid_greendown,302.0,1
+State College,2020,MODIS,mid_greendown,303.0,1
+State College,2020,MODIS,mid_greendown,304.0,3
+State College,2020,MODIS,mid_greendown,306.0,2
+State College,2020,MODIS,mid_greendown,309.0,1
+State College,2020,MODIS,mid_greendown,311.0,1
+State College,2020,MODIS,dormancy,287.0,1
+State College,2020,MODIS,dormancy,288.0,1
+State College,2020,MODIS,dormancy,289.0,1
+State College,2020,MODIS,dormancy,290.0,1
+State College,2020,MODIS,dormancy,291.0,1
+State College,2020,MODIS,dormancy,293.0,3
+State College,2020,MODIS,dormancy,294.0,6
+State College,2020,MODIS,dormancy,295.0,6
+State College,2020,MODIS,dormancy,296.0,13
+State College,2020,MODIS,dormancy,297.0,8
+State College,2020,MODIS,dormancy,298.0,28
+State College,2020,MODIS,dormancy,299.0,30
+State College,2020,MODIS,dormancy,300.0,68
+State College,2020,MODIS,dormancy,301.0,80
+State College,2020,MODIS,dormancy,302.0,108
+State College,2020,MODIS,dormancy,303.0,146
+State College,2020,MODIS,dormancy,304.0,213
+State College,2020,MODIS,dormancy,305.0,262
+State College,2020,MODIS,dormancy,306.0,361
+State College,2020,MODIS,dormancy,307.0,371
+State College,2020,MODIS,dormancy,308.0,507
+State College,2020,MODIS,dormancy,309.0,587
+State College,2020,MODIS,dormancy,310.0,657
+State College,2020,MODIS,dormancy,311.0,753
+State College,2020,MODIS,dormancy,312.0,755
+State College,2020,MODIS,dormancy,313.0,745
+State College,2020,MODIS,dormancy,314.0,807
+State College,2020,MODIS,dormancy,315.0,792
+State College,2020,MODIS,dormancy,316.0,693
+State College,2020,MODIS,dormancy,317.0,580
+State College,2020,MODIS,dormancy,318.0,496
+State College,2020,MODIS,dormancy,319.0,428
+State College,2020,MODIS,dormancy,320.0,356
+State College,2020,MODIS,dormancy,321.0,283
+State College,2020,MODIS,dormancy,322.0,213
+State College,2020,MODIS,dormancy,323.0,160
+State College,2020,MODIS,dormancy,324.0,148
+State College,2020,MODIS,dormancy,325.0,129
+State College,2020,MODIS,dormancy,326.0,90
+State College,2020,MODIS,dormancy,327.0,78
+State College,2020,MODIS,dormancy,328.0,69
+State College,2020,MODIS,dormancy,329.0,72
+State College,2020,MODIS,dormancy,330.0,53
+State College,2020,MODIS,dormancy,331.0,59
+State College,2020,MODIS,dormancy,332.0,33
+State College,2020,MODIS,dormancy,333.0,38
+State College,2020,MODIS,dormancy,334.0,34
+State College,2020,MODIS,dormancy,335.0,27
+State College,2020,MODIS,dormancy,336.0,29
+State College,2020,MODIS,dormancy,337.0,23
+State College,2020,MODIS,dormancy,338.0,16
+State College,2020,MODIS,dormancy,339.0,17
+State College,2020,MODIS,dormancy,340.0,12
+State College,2020,MODIS,dormancy,341.0,22
+State College,2020,MODIS,dormancy,342.0,17
+State College,2020,MODIS,dormancy,343.0,14
+State College,2020,MODIS,dormancy,344.0,11
+State College,2020,MODIS,dormancy,345.0,11
+State College,2020,MODIS,dormancy,346.0,12
+State College,2020,MODIS,dormancy,347.0,16
+State College,2020,MODIS,dormancy,348.0,9
+State College,2020,MODIS,dormancy,349.0,4
+State College,2020,MODIS,dormancy,350.0,8
+State College,2020,MODIS,dormancy,351.0,2
+State College,2020,MODIS,dormancy,352.0,3
+State College,2020,MODIS,dormancy,353.0,5
+State College,2020,MODIS,dormancy,354.0,1
+State College,2020,MODIS,dormancy,355.0,5
+State College,2020,MODIS,dormancy,356.0,1
+State College,2020,MODIS,dormancy,357.0,2
+State College,2020,MODIS,dormancy,358.0,4
+State College,2020,MODIS,dormancy,359.0,2
+State College,2020,MODIS,dormancy,360.0,1
+State College,2020,MODIS,dormancy,361.0,2
+State College,2020,MODIS,dormancy,364.0,1
+State College,2020,MODIS,dormancy,367.0,1
+State College,2020,MODIS,dormancy,371.0,1
+State College,2020,MODIS,dormancy,374.0,1
+State College,2020,MODIS,forest_px,1.0,11604
+Frostburg,2020,MODIS,mid_greenup,103.0,1
+Frostburg,2020,MODIS,mid_greenup,107.0,1
+Frostburg,2020,MODIS,mid_greenup,108.0,3
+Frostburg,2020,MODIS,mid_greenup,109.0,2
+Frostburg,2020,MODIS,mid_greenup,111.0,5
+Frostburg,2020,MODIS,mid_greenup,112.0,4
+Frostburg,2020,MODIS,mid_greenup,113.0,3
+Frostburg,2020,MODIS,mid_greenup,114.0,3
+Frostburg,2020,MODIS,mid_greenup,115.0,7
+Frostburg,2020,MODIS,mid_greenup,116.0,7
+Frostburg,2020,MODIS,mid_greenup,117.0,10
+Frostburg,2020,MODIS,mid_greenup,118.0,9
+Frostburg,2020,MODIS,mid_greenup,119.0,15
+Frostburg,2020,MODIS,mid_greenup,120.0,12
+Frostburg,2020,MODIS,mid_greenup,121.0,8
+Frostburg,2020,MODIS,mid_greenup,122.0,15
+Frostburg,2020,MODIS,mid_greenup,123.0,16
+Frostburg,2020,MODIS,mid_greenup,124.0,21
+Frostburg,2020,MODIS,mid_greenup,125.0,26
+Frostburg,2020,MODIS,mid_greenup,126.0,34
+Frostburg,2020,MODIS,mid_greenup,127.0,41
+Frostburg,2020,MODIS,mid_greenup,128.0,65
+Frostburg,2020,MODIS,mid_greenup,129.0,78
+Frostburg,2020,MODIS,mid_greenup,130.0,65
+Frostburg,2020,MODIS,mid_greenup,131.0,93
+Frostburg,2020,MODIS,mid_greenup,132.0,122
+Frostburg,2020,MODIS,mid_greenup,133.0,162
+Frostburg,2020,MODIS,mid_greenup,134.0,151
+Frostburg,2020,MODIS,mid_greenup,135.0,239
+Frostburg,2020,MODIS,mid_greenup,136.0,235
+Frostburg,2020,MODIS,mid_greenup,137.0,308
+Frostburg,2020,MODIS,mid_greenup,138.0,379
+Frostburg,2020,MODIS,mid_greenup,139.0,376
+Frostburg,2020,MODIS,mid_greenup,140.0,415
+Frostburg,2020,MODIS,mid_greenup,141.0,495
+Frostburg,2020,MODIS,mid_greenup,142.0,460
+Frostburg,2020,MODIS,mid_greenup,143.0,500
+Frostburg,2020,MODIS,mid_greenup,144.0,511
+Frostburg,2020,MODIS,mid_greenup,145.0,497
+Frostburg,2020,MODIS,mid_greenup,146.0,472
+Frostburg,2020,MODIS,mid_greenup,147.0,358
+Frostburg,2020,MODIS,mid_greenup,148.0,292
+Frostburg,2020,MODIS,mid_greenup,149.0,161
+Frostburg,2020,MODIS,mid_greenup,150.0,104
+Frostburg,2020,MODIS,mid_greenup,151.0,60
+Frostburg,2020,MODIS,mid_greenup,152.0,24
+Frostburg,2020,MODIS,mid_greenup,153.0,18
+Frostburg,2020,MODIS,mid_greenup,154.0,3
+Frostburg,2020,MODIS,mid_greenup,155.0,2
+Frostburg,2020,MODIS,mid_greenup,156.0,2
+Frostburg,2020,MODIS,mid_greenup,157.0,1
+Frostburg,2020,MODIS,mid_greenup,158.0,2
+Frostburg,2020,MODIS,senescence,188.0,2
+Frostburg,2020,MODIS,senescence,193.0,1
+Frostburg,2020,MODIS,senescence,194.0,1
+Frostburg,2020,MODIS,senescence,195.0,2
+Frostburg,2020,MODIS,senescence,196.0,2
+Frostburg,2020,MODIS,senescence,197.0,3
+Frostburg,2020,MODIS,senescence,198.0,5
+Frostburg,2020,MODIS,senescence,199.0,5
+Frostburg,2020,MODIS,senescence,200.0,5
+Frostburg,2020,MODIS,senescence,201.0,5
+Frostburg,2020,MODIS,senescence,202.0,9
+Frostburg,2020,MODIS,senescence,203.0,14
+Frostburg,2020,MODIS,senescence,204.0,21
+Frostburg,2020,MODIS,senescence,205.0,14
+Frostburg,2020,MODIS,senescence,206.0,24
+Frostburg,2020,MODIS,senescence,207.0,39
+Frostburg,2020,MODIS,senescence,208.0,56
+Frostburg,2020,MODIS,senescence,209.0,51
+Frostburg,2020,MODIS,senescence,210.0,58
+Frostburg,2020,MODIS,senescence,211.0,79
+Frostburg,2020,MODIS,senescence,212.0,90
+Frostburg,2020,MODIS,senescence,213.0,99
+Frostburg,2020,MODIS,senescence,214.0,108
+Frostburg,2020,MODIS,senescence,215.0,119
+Frostburg,2020,MODIS,senescence,216.0,158
+Frostburg,2020,MODIS,senescence,217.0,197
+Frostburg,2020,MODIS,senescence,218.0,172
+Frostburg,2020,MODIS,senescence,219.0,222
+Frostburg,2020,MODIS,senescence,220.0,227
+Frostburg,2020,MODIS,senescence,221.0,228
+Frostburg,2020,MODIS,senescence,222.0,242
+Frostburg,2020,MODIS,senescence,223.0,240
+Frostburg,2020,MODIS,senescence,224.0,289
+Frostburg,2020,MODIS,senescence,225.0,321
+Frostburg,2020,MODIS,senescence,226.0,282
+Frostburg,2020,MODIS,senescence,227.0,269
+Frostburg,2020,MODIS,senescence,228.0,289
+Frostburg,2020,MODIS,senescence,229.0,274
+Frostburg,2020,MODIS,senescence,230.0,232
+Frostburg,2020,MODIS,senescence,231.0,278
+Frostburg,2020,MODIS,senescence,232.0,237
+Frostburg,2020,MODIS,senescence,233.0,218
+Frostburg,2020,MODIS,senescence,234.0,221
+Frostburg,2020,MODIS,senescence,235.0,199
+Frostburg,2020,MODIS,senescence,236.0,185
+Frostburg,2020,MODIS,senescence,237.0,133
+Frostburg,2020,MODIS,senescence,238.0,116
+Frostburg,2020,MODIS,senescence,239.0,119
+Frostburg,2020,MODIS,senescence,240.0,113
+Frostburg,2020,MODIS,senescence,241.0,101
+Frostburg,2020,MODIS,senescence,242.0,96
+Frostburg,2020,MODIS,senescence,243.0,73
+Frostburg,2020,MODIS,senescence,244.0,59
+Frostburg,2020,MODIS,senescence,245.0,54
+Frostburg,2020,MODIS,senescence,246.0,40
+Frostburg,2020,MODIS,senescence,247.0,41
+Frostburg,2020,MODIS,senescence,248.0,28
+Frostburg,2020,MODIS,senescence,249.0,30
+Frostburg,2020,MODIS,senescence,250.0,25
+Frostburg,2020,MODIS,senescence,251.0,14
+Frostburg,2020,MODIS,senescence,252.0,16
+Frostburg,2020,MODIS,senescence,253.0,10
+Frostburg,2020,MODIS,senescence,254.0,10
+Frostburg,2020,MODIS,senescence,255.0,4
+Frostburg,2020,MODIS,senescence,256.0,3
+Frostburg,2020,MODIS,senescence,257.0,5
+Frostburg,2020,MODIS,senescence,258.0,2
+Frostburg,2020,MODIS,senescence,259.0,1
+Frostburg,2020,MODIS,senescence,260.0,3
+Frostburg,2020,MODIS,senescence,261.0,2
+Frostburg,2020,MODIS,senescence,262.0,1
+Frostburg,2020,MODIS,senescence,263.0,1
+Frostburg,2020,MODIS,senescence,264.0,1
+Frostburg,2020,MODIS,mid_greendown,251.0,1
+Frostburg,2020,MODIS,mid_greendown,258.0,1
+Frostburg,2020,MODIS,mid_greendown,260.0,4
+Frostburg,2020,MODIS,mid_greendown,261.0,3
+Frostburg,2020,MODIS,mid_greendown,262.0,10
+Frostburg,2020,MODIS,mid_greendown,263.0,16
+Frostburg,2020,MODIS,mid_greendown,264.0,21
+Frostburg,2020,MODIS,mid_greendown,265.0,31
+Frostburg,2020,MODIS,mid_greendown,266.0,44
+Frostburg,2020,MODIS,mid_greendown,267.0,75
+Frostburg,2020,MODIS,mid_greendown,268.0,123
+Frostburg,2020,MODIS,mid_greendown,269.0,156
+Frostburg,2020,MODIS,mid_greendown,270.0,205
+Frostburg,2020,MODIS,mid_greendown,271.0,297
+Frostburg,2020,MODIS,mid_greendown,272.0,400
+Frostburg,2020,MODIS,mid_greendown,273.0,471
+Frostburg,2020,MODIS,mid_greendown,274.0,554
+Frostburg,2020,MODIS,mid_greendown,275.0,587
+Frostburg,2020,MODIS,mid_greendown,276.0,563
+Frostburg,2020,MODIS,mid_greendown,277.0,576
+Frostburg,2020,MODIS,mid_greendown,278.0,512
+Frostburg,2020,MODIS,mid_greendown,279.0,494
+Frostburg,2020,MODIS,mid_greendown,280.0,409
+Frostburg,2020,MODIS,mid_greendown,281.0,341
+Frostburg,2020,MODIS,mid_greendown,282.0,260
+Frostburg,2020,MODIS,mid_greendown,283.0,190
+Frostburg,2020,MODIS,mid_greendown,284.0,132
+Frostburg,2020,MODIS,mid_greendown,285.0,114
+Frostburg,2020,MODIS,mid_greendown,286.0,75
+Frostburg,2020,MODIS,mid_greendown,287.0,54
+Frostburg,2020,MODIS,mid_greendown,288.0,39
+Frostburg,2020,MODIS,mid_greendown,289.0,38
+Frostburg,2020,MODIS,mid_greendown,290.0,21
+Frostburg,2020,MODIS,mid_greendown,291.0,21
+Frostburg,2020,MODIS,mid_greendown,292.0,22
+Frostburg,2020,MODIS,mid_greendown,293.0,8
+Frostburg,2020,MODIS,mid_greendown,294.0,4
+Frostburg,2020,MODIS,mid_greendown,295.0,7
+Frostburg,2020,MODIS,mid_greendown,296.0,4
+Frostburg,2020,MODIS,mid_greendown,297.0,5
+Frostburg,2020,MODIS,mid_greendown,298.0,3
+Frostburg,2020,MODIS,mid_greendown,302.0,1
+Frostburg,2020,MODIS,mid_greendown,303.0,1
+Frostburg,2020,MODIS,dormancy,290.0,2
+Frostburg,2020,MODIS,dormancy,292.0,3
+Frostburg,2020,MODIS,dormancy,293.0,2
+Frostburg,2020,MODIS,dormancy,294.0,4
+Frostburg,2020,MODIS,dormancy,295.0,4
+Frostburg,2020,MODIS,dormancy,296.0,14
+Frostburg,2020,MODIS,dormancy,297.0,22
+Frostburg,2020,MODIS,dormancy,298.0,54
+Frostburg,2020,MODIS,dormancy,299.0,76
+Frostburg,2020,MODIS,dormancy,300.0,117
+Frostburg,2020,MODIS,dormancy,301.0,212
+Frostburg,2020,MODIS,dormancy,302.0,306
+Frostburg,2020,MODIS,dormancy,303.0,419
+Frostburg,2020,MODIS,dormancy,304.0,536
+Frostburg,2020,MODIS,dormancy,305.0,551
+Frostburg,2020,MODIS,dormancy,306.0,623
+Frostburg,2020,MODIS,dormancy,307.0,616
+Frostburg,2020,MODIS,dormancy,308.0,527
+Frostburg,2020,MODIS,dormancy,309.0,410
+Frostburg,2020,MODIS,dormancy,310.0,378
+Frostburg,2020,MODIS,dormancy,311.0,287
+Frostburg,2020,MODIS,dormancy,312.0,242
+Frostburg,2020,MODIS,dormancy,313.0,192
+Frostburg,2020,MODIS,dormancy,314.0,154
+Frostburg,2020,MODIS,dormancy,315.0,158
+Frostburg,2020,MODIS,dormancy,316.0,102
+Frostburg,2020,MODIS,dormancy,317.0,84
+Frostburg,2020,MODIS,dormancy,318.0,86
+Frostburg,2020,MODIS,dormancy,319.0,78
+Frostburg,2020,MODIS,dormancy,320.0,53
+Frostburg,2020,MODIS,dormancy,321.0,49
+Frostburg,2020,MODIS,dormancy,322.0,45
+Frostburg,2020,MODIS,dormancy,323.0,47
+Frostburg,2020,MODIS,dormancy,324.0,32
+Frostburg,2020,MODIS,dormancy,325.0,35
+Frostburg,2020,MODIS,dormancy,326.0,35
+Frostburg,2020,MODIS,dormancy,327.0,39
+Frostburg,2020,MODIS,dormancy,328.0,36
+Frostburg,2020,MODIS,dormancy,329.0,20
+Frostburg,2020,MODIS,dormancy,330.0,16
+Frostburg,2020,MODIS,dormancy,331.0,29
+Frostburg,2020,MODIS,dormancy,332.0,21
+Frostburg,2020,MODIS,dormancy,333.0,19
+Frostburg,2020,MODIS,dormancy,334.0,13
+Frostburg,2020,MODIS,dormancy,335.0,15
+Frostburg,2020,MODIS,dormancy,336.0,10
+Frostburg,2020,MODIS,dormancy,337.0,8
+Frostburg,2020,MODIS,dormancy,338.0,12
+Frostburg,2020,MODIS,dormancy,339.0,10
+Frostburg,2020,MODIS,dormancy,340.0,11
+Frostburg,2020,MODIS,dormancy,341.0,8
+Frostburg,2020,MODIS,dormancy,342.0,1
+Frostburg,2020,MODIS,dormancy,343.0,8
+Frostburg,2020,MODIS,dormancy,344.0,2
+Frostburg,2020,MODIS,dormancy,345.0,3
+Frostburg,2020,MODIS,dormancy,346.0,3
+Frostburg,2020,MODIS,dormancy,347.0,3
+Frostburg,2020,MODIS,dormancy,348.0,2
+Frostburg,2020,MODIS,dormancy,349.0,5
+Frostburg,2020,MODIS,dormancy,350.0,2
+Frostburg,2020,MODIS,dormancy,351.0,3
+Frostburg,2020,MODIS,dormancy,352.0,5
+Frostburg,2020,MODIS,dormancy,353.0,2
+Frostburg,2020,MODIS,dormancy,354.0,4
+Frostburg,2020,MODIS,dormancy,355.0,4
+Frostburg,2020,MODIS,dormancy,356.0,1
+Frostburg,2020,MODIS,dormancy,357.0,2
+Frostburg,2020,MODIS,dormancy,358.0,2
+Frostburg,2020,MODIS,dormancy,359.0,3
+Frostburg,2020,MODIS,dormancy,360.0,3
+Frostburg,2020,MODIS,dormancy,361.0,4
+Frostburg,2020,MODIS,dormancy,362.0,1
+Frostburg,2020,MODIS,dormancy,364.0,1
+Frostburg,2020,MODIS,dormancy,365.0,1
+Frostburg,2020,MODIS,dormancy,368.0,1
+Frostburg,2020,MODIS,dormancy,369.0,1
+Frostburg,2020,MODIS,dormancy,370.0,2
+Frostburg,2020,MODIS,dormancy,376.0,1
+Frostburg,2020,MODIS,dormancy,381.0,1
+Frostburg,2020,MODIS,forest_px,1.0,6893
+Valley Head,2020,MODIS,mid_greenup,107.0,2
+Valley Head,2020,MODIS,mid_greenup,111.0,1
+Valley Head,2020,MODIS,mid_greenup,112.0,2
+Valley Head,2020,MODIS,mid_greenup,113.0,2
+Valley Head,2020,MODIS,mid_greenup,117.0,1
+Valley Head,2020,MODIS,mid_greenup,118.0,2
+Valley Head,2020,MODIS,mid_greenup,119.0,5
+Valley Head,2020,MODIS,mid_greenup,122.0,4
+Valley Head,2020,MODIS,mid_greenup,123.0,2
+Valley Head,2020,MODIS,mid_greenup,124.0,7
+Valley Head,2020,MODIS,mid_greenup,125.0,10
+Valley Head,2020,MODIS,mid_greenup,126.0,4
+Valley Head,2020,MODIS,mid_greenup,127.0,9
+Valley Head,2020,MODIS,mid_greenup,128.0,14
+Valley Head,2020,MODIS,mid_greenup,129.0,14
+Valley Head,2020,MODIS,mid_greenup,130.0,23
+Valley Head,2020,MODIS,mid_greenup,131.0,28
+Valley Head,2020,MODIS,mid_greenup,132.0,28
+Valley Head,2020,MODIS,mid_greenup,133.0,40
+Valley Head,2020,MODIS,mid_greenup,134.0,31
+Valley Head,2020,MODIS,mid_greenup,135.0,46
+Valley Head,2020,MODIS,mid_greenup,136.0,76
+Valley Head,2020,MODIS,mid_greenup,137.0,90
+Valley Head,2020,MODIS,mid_greenup,138.0,116
+Valley Head,2020,MODIS,mid_greenup,139.0,175
+Valley Head,2020,MODIS,mid_greenup,140.0,252
+Valley Head,2020,MODIS,mid_greenup,141.0,403
+Valley Head,2020,MODIS,mid_greenup,142.0,588
+Valley Head,2020,MODIS,mid_greenup,143.0,717
+Valley Head,2020,MODIS,mid_greenup,144.0,776
+Valley Head,2020,MODIS,mid_greenup,145.0,812
+Valley Head,2020,MODIS,mid_greenup,146.0,738
+Valley Head,2020,MODIS,mid_greenup,147.0,651
+Valley Head,2020,MODIS,mid_greenup,148.0,626
+Valley Head,2020,MODIS,mid_greenup,149.0,452
+Valley Head,2020,MODIS,mid_greenup,150.0,334
+Valley Head,2020,MODIS,mid_greenup,151.0,198
+Valley Head,2020,MODIS,mid_greenup,152.0,100
+Valley Head,2020,MODIS,mid_greenup,153.0,46
+Valley Head,2020,MODIS,mid_greenup,154.0,28
+Valley Head,2020,MODIS,mid_greenup,155.0,12
+Valley Head,2020,MODIS,mid_greenup,157.0,3
+Valley Head,2020,MODIS,mid_greenup,158.0,1
+Valley Head,2020,MODIS,senescence,200.0,1
+Valley Head,2020,MODIS,senescence,201.0,1
+Valley Head,2020,MODIS,senescence,202.0,2
+Valley Head,2020,MODIS,senescence,203.0,1
+Valley Head,2020,MODIS,senescence,204.0,1
+Valley Head,2020,MODIS,senescence,205.0,3
+Valley Head,2020,MODIS,senescence,207.0,3
+Valley Head,2020,MODIS,senescence,208.0,6
+Valley Head,2020,MODIS,senescence,209.0,11
+Valley Head,2020,MODIS,senescence,210.0,11
+Valley Head,2020,MODIS,senescence,211.0,15
+Valley Head,2020,MODIS,senescence,212.0,25
+Valley Head,2020,MODIS,senescence,213.0,58
+Valley Head,2020,MODIS,senescence,214.0,71
+Valley Head,2020,MODIS,senescence,215.0,88
+Valley Head,2020,MODIS,senescence,216.0,97
+Valley Head,2020,MODIS,senescence,217.0,166
+Valley Head,2020,MODIS,senescence,218.0,192
+Valley Head,2020,MODIS,senescence,219.0,250
+Valley Head,2020,MODIS,senescence,220.0,298
+Valley Head,2020,MODIS,senescence,221.0,338
+Valley Head,2020,MODIS,senescence,222.0,381
+Valley Head,2020,MODIS,senescence,223.0,398
+Valley Head,2020,MODIS,senescence,224.0,472
+Valley Head,2020,MODIS,senescence,225.0,479
+Valley Head,2020,MODIS,senescence,226.0,460
+Valley Head,2020,MODIS,senescence,227.0,498
+Valley Head,2020,MODIS,senescence,228.0,497
+Valley Head,2020,MODIS,senescence,229.0,495
+Valley Head,2020,MODIS,senescence,230.0,454
+Valley Head,2020,MODIS,senescence,231.0,372
+Valley Head,2020,MODIS,senescence,232.0,287
+Valley Head,2020,MODIS,senescence,233.0,249
+Valley Head,2020,MODIS,senescence,234.0,214
+Valley Head,2020,MODIS,senescence,235.0,141
+Valley Head,2020,MODIS,senescence,236.0,116
+Valley Head,2020,MODIS,senescence,237.0,92
+Valley Head,2020,MODIS,senescence,238.0,72
+Valley Head,2020,MODIS,senescence,239.0,53
+Valley Head,2020,MODIS,senescence,240.0,31
+Valley Head,2020,MODIS,senescence,241.0,12
+Valley Head,2020,MODIS,senescence,242.0,10
+Valley Head,2020,MODIS,senescence,243.0,13
+Valley Head,2020,MODIS,senescence,244.0,11
+Valley Head,2020,MODIS,senescence,245.0,6
+Valley Head,2020,MODIS,senescence,246.0,6
+Valley Head,2020,MODIS,senescence,247.0,6
+Valley Head,2020,MODIS,senescence,248.0,3
+Valley Head,2020,MODIS,senescence,249.0,1
+Valley Head,2020,MODIS,senescence,250.0,1
+Valley Head,2020,MODIS,senescence,253.0,1
+Valley Head,2020,MODIS,mid_greendown,256.0,1
+Valley Head,2020,MODIS,mid_greendown,258.0,2
+Valley Head,2020,MODIS,mid_greendown,259.0,3
+Valley Head,2020,MODIS,mid_greendown,260.0,3
+Valley Head,2020,MODIS,mid_greendown,261.0,8
+Valley Head,2020,MODIS,mid_greendown,262.0,22
+Valley Head,2020,MODIS,mid_greendown,263.0,30
+Valley Head,2020,MODIS,mid_greendown,264.0,47
+Valley Head,2020,MODIS,mid_greendown,265.0,100
+Valley Head,2020,MODIS,mid_greendown,266.0,140
+Valley Head,2020,MODIS,mid_greendown,267.0,202
+Valley Head,2020,MODIS,mid_greendown,268.0,258
+Valley Head,2020,MODIS,mid_greendown,269.0,356
+Valley Head,2020,MODIS,mid_greendown,270.0,390
+Valley Head,2020,MODIS,mid_greendown,271.0,494
+Valley Head,2020,MODIS,mid_greendown,272.0,523
+Valley Head,2020,MODIS,mid_greendown,273.0,599
+Valley Head,2020,MODIS,mid_greendown,274.0,651
+Valley Head,2020,MODIS,mid_greendown,275.0,649
+Valley Head,2020,MODIS,mid_greendown,276.0,607
+Valley Head,2020,MODIS,mid_greendown,277.0,511
+Valley Head,2020,MODIS,mid_greendown,278.0,457
+Valley Head,2020,MODIS,mid_greendown,279.0,387
+Valley Head,2020,MODIS,mid_greendown,280.0,324
+Valley Head,2020,MODIS,mid_greendown,281.0,241
+Valley Head,2020,MODIS,mid_greendown,282.0,177
+Valley Head,2020,MODIS,mid_greendown,283.0,114
+Valley Head,2020,MODIS,mid_greendown,284.0,72
+Valley Head,2020,MODIS,mid_greendown,285.0,36
+Valley Head,2020,MODIS,mid_greendown,286.0,24
+Valley Head,2020,MODIS,mid_greendown,287.0,16
+Valley Head,2020,MODIS,mid_greendown,288.0,5
+Valley Head,2020,MODIS,mid_greendown,289.0,9
+Valley Head,2020,MODIS,mid_greendown,290.0,3
+Valley Head,2020,MODIS,mid_greendown,291.0,1
+Valley Head,2020,MODIS,mid_greendown,292.0,3
+Valley Head,2020,MODIS,mid_greendown,296.0,1
+Valley Head,2020,MODIS,mid_greendown,301.0,1
+Valley Head,2020,MODIS,mid_greendown,307.0,1
+Valley Head,2020,MODIS,mid_greendown,322.0,1
+Valley Head,2020,MODIS,dormancy,286.0,2
+Valley Head,2020,MODIS,dormancy,288.0,1
+Valley Head,2020,MODIS,dormancy,289.0,1
+Valley Head,2020,MODIS,dormancy,290.0,5
+Valley Head,2020,MODIS,dormancy,291.0,8
+Valley Head,2020,MODIS,dormancy,292.0,13
+Valley Head,2020,MODIS,dormancy,293.0,19
+Valley Head,2020,MODIS,dormancy,294.0,44
+Valley Head,2020,MODIS,dormancy,295.0,88
+Valley Head,2020,MODIS,dormancy,296.0,120
+Valley Head,2020,MODIS,dormancy,297.0,184
+Valley Head,2020,MODIS,dormancy,298.0,244
+Valley Head,2020,MODIS,dormancy,299.0,335
+Valley Head,2020,MODIS,dormancy,300.0,435
+Valley Head,2020,MODIS,dormancy,301.0,511
+Valley Head,2020,MODIS,dormancy,302.0,557
+Valley Head,2020,MODIS,dormancy,303.0,647
+Valley Head,2020,MODIS,dormancy,304.0,657
+Valley Head,2020,MODIS,dormancy,305.0,658
+Valley Head,2020,MODIS,dormancy,306.0,632
+Valley Head,2020,MODIS,dormancy,307.0,553
+Valley Head,2020,MODIS,dormancy,308.0,442
+Valley Head,2020,MODIS,dormancy,309.0,333
+Valley Head,2020,MODIS,dormancy,310.0,265
+Valley Head,2020,MODIS,dormancy,311.0,158
+Valley Head,2020,MODIS,dormancy,312.0,127
+Valley Head,2020,MODIS,dormancy,313.0,72
+Valley Head,2020,MODIS,dormancy,314.0,64
+Valley Head,2020,MODIS,dormancy,315.0,44
+Valley Head,2020,MODIS,dormancy,316.0,26
+Valley Head,2020,MODIS,dormancy,317.0,20
+Valley Head,2020,MODIS,dormancy,318.0,21
+Valley Head,2020,MODIS,dormancy,319.0,23
+Valley Head,2020,MODIS,dormancy,320.0,15
+Valley Head,2020,MODIS,dormancy,321.0,10
+Valley Head,2020,MODIS,dormancy,322.0,10
+Valley Head,2020,MODIS,dormancy,323.0,11
+Valley Head,2020,MODIS,dormancy,324.0,8
+Valley Head,2020,MODIS,dormancy,325.0,10
+Valley Head,2020,MODIS,dormancy,326.0,8
+Valley Head,2020,MODIS,dormancy,327.0,11
+Valley Head,2020,MODIS,dormancy,328.0,7
+Valley Head,2020,MODIS,dormancy,329.0,8
+Valley Head,2020,MODIS,dormancy,330.0,3
+Valley Head,2020,MODIS,dormancy,331.0,5
+Valley Head,2020,MODIS,dormancy,332.0,7
+Valley Head,2020,MODIS,dormancy,333.0,2
+Valley Head,2020,MODIS,dormancy,334.0,7
+Valley Head,2020,MODIS,dormancy,335.0,3
+Valley Head,2020,MODIS,dormancy,336.0,5
+Valley Head,2020,MODIS,dormancy,337.0,5
+Valley Head,2020,MODIS,dormancy,338.0,3
+Valley Head,2020,MODIS,dormancy,339.0,2
+Valley Head,2020,MODIS,dormancy,340.0,1
+Valley Head,2020,MODIS,dormancy,341.0,1
+Valley Head,2020,MODIS,dormancy,343.0,2
+Valley Head,2020,MODIS,dormancy,344.0,4
+Valley Head,2020,MODIS,dormancy,345.0,2
+Valley Head,2020,MODIS,dormancy,346.0,2
+Valley Head,2020,MODIS,dormancy,347.0,2
+Valley Head,2020,MODIS,dormancy,352.0,1
+Valley Head,2020,MODIS,dormancy,353.0,1
+Valley Head,2020,MODIS,dormancy,354.0,1
+Valley Head,2020,MODIS,dormancy,358.0,1
+Valley Head,2020,MODIS,dormancy,360.0,2
+Valley Head,2020,MODIS,forest_px,1.0,7469
+Shenandoah,2020,MODIS,mid_greenup,100.0,1
+Shenandoah,2020,MODIS,mid_greenup,103.0,1
+Shenandoah,2020,MODIS,mid_greenup,106.0,2
+Shenandoah,2020,MODIS,mid_greenup,107.0,6
+Shenandoah,2020,MODIS,mid_greenup,108.0,2
+Shenandoah,2020,MODIS,mid_greenup,109.0,11
+Shenandoah,2020,MODIS,mid_greenup,110.0,19
+Shenandoah,2020,MODIS,mid_greenup,111.0,19
+Shenandoah,2020,MODIS,mid_greenup,112.0,22
+Shenandoah,2020,MODIS,mid_greenup,113.0,40
+Shenandoah,2020,MODIS,mid_greenup,114.0,71
+Shenandoah,2020,MODIS,mid_greenup,115.0,61
+Shenandoah,2020,MODIS,mid_greenup,116.0,90
+Shenandoah,2020,MODIS,mid_greenup,117.0,100
+Shenandoah,2020,MODIS,mid_greenup,118.0,137
+Shenandoah,2020,MODIS,mid_greenup,119.0,136
+Shenandoah,2020,MODIS,mid_greenup,120.0,136
+Shenandoah,2020,MODIS,mid_greenup,121.0,168
+Shenandoah,2020,MODIS,mid_greenup,122.0,175
+Shenandoah,2020,MODIS,mid_greenup,123.0,190
+Shenandoah,2020,MODIS,mid_greenup,124.0,179
+Shenandoah,2020,MODIS,mid_greenup,125.0,184
+Shenandoah,2020,MODIS,mid_greenup,126.0,206
+Shenandoah,2020,MODIS,mid_greenup,127.0,175
+Shenandoah,2020,MODIS,mid_greenup,128.0,164
+Shenandoah,2020,MODIS,mid_greenup,129.0,160
+Shenandoah,2020,MODIS,mid_greenup,130.0,164
+Shenandoah,2020,MODIS,mid_greenup,131.0,164
+Shenandoah,2020,MODIS,mid_greenup,132.0,184
+Shenandoah,2020,MODIS,mid_greenup,133.0,130
+Shenandoah,2020,MODIS,mid_greenup,134.0,151
+Shenandoah,2020,MODIS,mid_greenup,135.0,126
+Shenandoah,2020,MODIS,mid_greenup,136.0,137
+Shenandoah,2020,MODIS,mid_greenup,137.0,127
+Shenandoah,2020,MODIS,mid_greenup,138.0,147
+Shenandoah,2020,MODIS,mid_greenup,139.0,132
+Shenandoah,2020,MODIS,mid_greenup,140.0,125
+Shenandoah,2020,MODIS,mid_greenup,141.0,122
+Shenandoah,2020,MODIS,mid_greenup,142.0,124
+Shenandoah,2020,MODIS,mid_greenup,143.0,116
+Shenandoah,2020,MODIS,mid_greenup,144.0,132
+Shenandoah,2020,MODIS,mid_greenup,145.0,137
+Shenandoah,2020,MODIS,mid_greenup,146.0,119
+Shenandoah,2020,MODIS,mid_greenup,147.0,105
+Shenandoah,2020,MODIS,mid_greenup,148.0,109
+Shenandoah,2020,MODIS,mid_greenup,149.0,90
+Shenandoah,2020,MODIS,mid_greenup,150.0,109
+Shenandoah,2020,MODIS,mid_greenup,151.0,82
+Shenandoah,2020,MODIS,mid_greenup,152.0,69
+Shenandoah,2020,MODIS,mid_greenup,153.0,56
+Shenandoah,2020,MODIS,mid_greenup,154.0,28
+Shenandoah,2020,MODIS,mid_greenup,155.0,15
+Shenandoah,2020,MODIS,mid_greenup,156.0,11
+Shenandoah,2020,MODIS,mid_greenup,157.0,8
+Shenandoah,2020,MODIS,mid_greenup,158.0,1
+Shenandoah,2020,MODIS,mid_greenup,159.0,1
+Shenandoah,2020,MODIS,senescence,197.0,1
+Shenandoah,2020,MODIS,senescence,201.0,1
+Shenandoah,2020,MODIS,senescence,202.0,3
+Shenandoah,2020,MODIS,senescence,203.0,10
+Shenandoah,2020,MODIS,senescence,204.0,6
+Shenandoah,2020,MODIS,senescence,205.0,11
+Shenandoah,2020,MODIS,senescence,206.0,6
+Shenandoah,2020,MODIS,senescence,207.0,16
+Shenandoah,2020,MODIS,senescence,208.0,30
+Shenandoah,2020,MODIS,senescence,209.0,38
+Shenandoah,2020,MODIS,senescence,210.0,44
+Shenandoah,2020,MODIS,senescence,211.0,43
+Shenandoah,2020,MODIS,senescence,212.0,67
+Shenandoah,2020,MODIS,senescence,213.0,87
+Shenandoah,2020,MODIS,senescence,214.0,118
+Shenandoah,2020,MODIS,senescence,215.0,149
+Shenandoah,2020,MODIS,senescence,216.0,166
+Shenandoah,2020,MODIS,senescence,217.0,163
+Shenandoah,2020,MODIS,senescence,218.0,177
+Shenandoah,2020,MODIS,senescence,219.0,215
+Shenandoah,2020,MODIS,senescence,220.0,228
+Shenandoah,2020,MODIS,senescence,221.0,249
+Shenandoah,2020,MODIS,senescence,222.0,277
+Shenandoah,2020,MODIS,senescence,223.0,291
+Shenandoah,2020,MODIS,senescence,224.0,323
+Shenandoah,2020,MODIS,senescence,225.0,297
+Shenandoah,2020,MODIS,senescence,226.0,294
+Shenandoah,2020,MODIS,senescence,227.0,307
+Shenandoah,2020,MODIS,senescence,228.0,320
+Shenandoah,2020,MODIS,senescence,229.0,264
+Shenandoah,2020,MODIS,senescence,230.0,249
+Shenandoah,2020,MODIS,senescence,231.0,219
+Shenandoah,2020,MODIS,senescence,232.0,180
+Shenandoah,2020,MODIS,senescence,233.0,143
+Shenandoah,2020,MODIS,senescence,234.0,126
+Shenandoah,2020,MODIS,senescence,235.0,95
+Shenandoah,2020,MODIS,senescence,236.0,74
+Shenandoah,2020,MODIS,senescence,237.0,48
+Shenandoah,2020,MODIS,senescence,238.0,37
+Shenandoah,2020,MODIS,senescence,239.0,26
+Shenandoah,2020,MODIS,senescence,240.0,18
+Shenandoah,2020,MODIS,senescence,241.0,15
+Shenandoah,2020,MODIS,senescence,242.0,13
+Shenandoah,2020,MODIS,senescence,243.0,15
+Shenandoah,2020,MODIS,senescence,244.0,8
+Shenandoah,2020,MODIS,senescence,245.0,2
+Shenandoah,2020,MODIS,senescence,246.0,1
+Shenandoah,2020,MODIS,senescence,247.0,2
+Shenandoah,2020,MODIS,senescence,249.0,2
+Shenandoah,2020,MODIS,senescence,254.0,1
+Shenandoah,2020,MODIS,senescence,260.0,1
+Shenandoah,2020,MODIS,mid_greendown,261.0,1
+Shenandoah,2020,MODIS,mid_greendown,262.0,2
+Shenandoah,2020,MODIS,mid_greendown,263.0,2
+Shenandoah,2020,MODIS,mid_greendown,264.0,1
+Shenandoah,2020,MODIS,mid_greendown,265.0,6
+Shenandoah,2020,MODIS,mid_greendown,266.0,12
+Shenandoah,2020,MODIS,mid_greendown,267.0,18
+Shenandoah,2020,MODIS,mid_greendown,268.0,22
+Shenandoah,2020,MODIS,mid_greendown,269.0,38
+Shenandoah,2020,MODIS,mid_greendown,270.0,45
+Shenandoah,2020,MODIS,mid_greendown,271.0,80
+Shenandoah,2020,MODIS,mid_greendown,272.0,133
+Shenandoah,2020,MODIS,mid_greendown,273.0,171
+Shenandoah,2020,MODIS,mid_greendown,274.0,247
+Shenandoah,2020,MODIS,mid_greendown,275.0,295
+Shenandoah,2020,MODIS,mid_greendown,276.0,354
+Shenandoah,2020,MODIS,mid_greendown,277.0,390
+Shenandoah,2020,MODIS,mid_greendown,278.0,426
+Shenandoah,2020,MODIS,mid_greendown,279.0,440
+Shenandoah,2020,MODIS,mid_greendown,280.0,487
+Shenandoah,2020,MODIS,mid_greendown,281.0,431
+Shenandoah,2020,MODIS,mid_greendown,282.0,375
+Shenandoah,2020,MODIS,mid_greendown,283.0,340
+Shenandoah,2020,MODIS,mid_greendown,284.0,338
+Shenandoah,2020,MODIS,mid_greendown,285.0,268
+Shenandoah,2020,MODIS,mid_greendown,286.0,170
+Shenandoah,2020,MODIS,mid_greendown,287.0,148
+Shenandoah,2020,MODIS,mid_greendown,288.0,96
+Shenandoah,2020,MODIS,mid_greendown,289.0,54
+Shenandoah,2020,MODIS,mid_greendown,290.0,38
+Shenandoah,2020,MODIS,mid_greendown,291.0,23
+Shenandoah,2020,MODIS,mid_greendown,292.0,9
+Shenandoah,2020,MODIS,mid_greendown,293.0,6
+Shenandoah,2020,MODIS,mid_greendown,294.0,1
+Shenandoah,2020,MODIS,mid_greendown,295.0,3
+Shenandoah,2020,MODIS,mid_greendown,296.0,4
+Shenandoah,2020,MODIS,mid_greendown,298.0,2
+Shenandoah,2020,MODIS,dormancy,297.0,2
+Shenandoah,2020,MODIS,dormancy,298.0,2
+Shenandoah,2020,MODIS,dormancy,299.0,7
+Shenandoah,2020,MODIS,dormancy,300.0,14
+Shenandoah,2020,MODIS,dormancy,301.0,28
+Shenandoah,2020,MODIS,dormancy,302.0,44
+Shenandoah,2020,MODIS,dormancy,303.0,69
+Shenandoah,2020,MODIS,dormancy,304.0,143
+Shenandoah,2020,MODIS,dormancy,305.0,207
+Shenandoah,2020,MODIS,dormancy,306.0,286
+Shenandoah,2020,MODIS,dormancy,307.0,360
+Shenandoah,2020,MODIS,dormancy,308.0,349
+Shenandoah,2020,MODIS,dormancy,309.0,462
+Shenandoah,2020,MODIS,dormancy,310.0,467
+Shenandoah,2020,MODIS,dormancy,311.0,448
+Shenandoah,2020,MODIS,dormancy,312.0,415
+Shenandoah,2020,MODIS,dormancy,313.0,442
+Shenandoah,2020,MODIS,dormancy,314.0,345
+Shenandoah,2020,MODIS,dormancy,315.0,318
+Shenandoah,2020,MODIS,dormancy,316.0,298
+Shenandoah,2020,MODIS,dormancy,317.0,241
+Shenandoah,2020,MODIS,dormancy,318.0,159
+Shenandoah,2020,MODIS,dormancy,319.0,130
+Shenandoah,2020,MODIS,dormancy,320.0,78
+Shenandoah,2020,MODIS,dormancy,321.0,52
+Shenandoah,2020,MODIS,dormancy,322.0,32
+Shenandoah,2020,MODIS,dormancy,323.0,14
+Shenandoah,2020,MODIS,dormancy,324.0,13
+Shenandoah,2020,MODIS,dormancy,325.0,8
+Shenandoah,2020,MODIS,dormancy,326.0,14
+Shenandoah,2020,MODIS,dormancy,327.0,6
+Shenandoah,2020,MODIS,dormancy,328.0,2
+Shenandoah,2020,MODIS,dormancy,329.0,4
+Shenandoah,2020,MODIS,dormancy,330.0,1
+Shenandoah,2020,MODIS,dormancy,331.0,5
+Shenandoah,2020,MODIS,dormancy,332.0,2
+Shenandoah,2020,MODIS,dormancy,333.0,2
+Shenandoah,2020,MODIS,dormancy,335.0,1
+Shenandoah,2020,MODIS,dormancy,336.0,2
+Shenandoah,2020,MODIS,dormancy,337.0,2
+Shenandoah,2020,MODIS,dormancy,340.0,1
+Shenandoah,2020,MODIS,dormancy,342.0,1
+Shenandoah,2020,MODIS,forest_px,1.0,5476
+Roanoke,2020,MODIS,mid_greenup,100.0,6
+Roanoke,2020,MODIS,mid_greenup,101.0,9
+Roanoke,2020,MODIS,mid_greenup,102.0,10
+Roanoke,2020,MODIS,mid_greenup,103.0,15
+Roanoke,2020,MODIS,mid_greenup,104.0,21
+Roanoke,2020,MODIS,mid_greenup,105.0,39
+Roanoke,2020,MODIS,mid_greenup,106.0,29
+Roanoke,2020,MODIS,mid_greenup,107.0,53
+Roanoke,2020,MODIS,mid_greenup,108.0,47
+Roanoke,2020,MODIS,mid_greenup,109.0,62
+Roanoke,2020,MODIS,mid_greenup,110.0,90
+Roanoke,2020,MODIS,mid_greenup,111.0,93
+Roanoke,2020,MODIS,mid_greenup,112.0,108
+Roanoke,2020,MODIS,mid_greenup,113.0,121
+Roanoke,2020,MODIS,mid_greenup,114.0,156
+Roanoke,2020,MODIS,mid_greenup,115.0,165
+Roanoke,2020,MODIS,mid_greenup,116.0,169
+Roanoke,2020,MODIS,mid_greenup,117.0,218
+Roanoke,2020,MODIS,mid_greenup,118.0,215
+Roanoke,2020,MODIS,mid_greenup,119.0,224
+Roanoke,2020,MODIS,mid_greenup,120.0,253
+Roanoke,2020,MODIS,mid_greenup,121.0,274
+Roanoke,2020,MODIS,mid_greenup,122.0,294
+Roanoke,2020,MODIS,mid_greenup,123.0,292
+Roanoke,2020,MODIS,mid_greenup,124.0,276
+Roanoke,2020,MODIS,mid_greenup,125.0,261
+Roanoke,2020,MODIS,mid_greenup,126.0,304
+Roanoke,2020,MODIS,mid_greenup,127.0,331
+Roanoke,2020,MODIS,mid_greenup,128.0,273
+Roanoke,2020,MODIS,mid_greenup,129.0,247
+Roanoke,2020,MODIS,mid_greenup,130.0,262
+Roanoke,2020,MODIS,mid_greenup,131.0,225
+Roanoke,2020,MODIS,mid_greenup,132.0,248
+Roanoke,2020,MODIS,mid_greenup,133.0,220
+Roanoke,2020,MODIS,mid_greenup,134.0,184
+Roanoke,2020,MODIS,mid_greenup,135.0,192
+Roanoke,2020,MODIS,mid_greenup,136.0,153
+Roanoke,2020,MODIS,mid_greenup,137.0,121
+Roanoke,2020,MODIS,mid_greenup,138.0,109
+Roanoke,2020,MODIS,mid_greenup,139.0,96
+Roanoke,2020,MODIS,mid_greenup,140.0,87
+Roanoke,2020,MODIS,mid_greenup,141.0,69
+Roanoke,2020,MODIS,mid_greenup,142.0,72
+Roanoke,2020,MODIS,mid_greenup,143.0,44
+Roanoke,2020,MODIS,mid_greenup,144.0,44
+Roanoke,2020,MODIS,mid_greenup,145.0,32
+Roanoke,2020,MODIS,mid_greenup,146.0,21
+Roanoke,2020,MODIS,mid_greenup,147.0,23
+Roanoke,2020,MODIS,mid_greenup,148.0,29
+Roanoke,2020,MODIS,mid_greenup,149.0,22
+Roanoke,2020,MODIS,mid_greenup,150.0,18
+Roanoke,2020,MODIS,mid_greenup,151.0,17
+Roanoke,2020,MODIS,mid_greenup,152.0,8
+Roanoke,2020,MODIS,mid_greenup,153.0,21
+Roanoke,2020,MODIS,mid_greenup,154.0,18
+Roanoke,2020,MODIS,mid_greenup,155.0,12
+Roanoke,2020,MODIS,mid_greenup,156.0,13
+Roanoke,2020,MODIS,mid_greenup,157.0,10
+Roanoke,2020,MODIS,mid_greenup,158.0,5
+Roanoke,2020,MODIS,mid_greenup,160.0,1
+Roanoke,2020,MODIS,mid_greenup,91.0,1
+Roanoke,2020,MODIS,mid_greenup,92.0,1
+Roanoke,2020,MODIS,mid_greenup,93.0,2
+Roanoke,2020,MODIS,mid_greenup,96.0,3
+Roanoke,2020,MODIS,mid_greenup,97.0,6
+Roanoke,2020,MODIS,mid_greenup,98.0,6
+Roanoke,2020,MODIS,mid_greenup,99.0,5
+Roanoke,2020,MODIS,senescence,182.0,2
+Roanoke,2020,MODIS,senescence,184.0,1
+Roanoke,2020,MODIS,senescence,186.0,2
+Roanoke,2020,MODIS,senescence,187.0,1
+Roanoke,2020,MODIS,senescence,188.0,1
+Roanoke,2020,MODIS,senescence,190.0,1
+Roanoke,2020,MODIS,senescence,192.0,3
+Roanoke,2020,MODIS,senescence,193.0,3
+Roanoke,2020,MODIS,senescence,194.0,1
+Roanoke,2020,MODIS,senescence,195.0,5
+Roanoke,2020,MODIS,senescence,196.0,11
+Roanoke,2020,MODIS,senescence,197.0,10
+Roanoke,2020,MODIS,senescence,198.0,10
+Roanoke,2020,MODIS,senescence,199.0,22
+Roanoke,2020,MODIS,senescence,200.0,29
+Roanoke,2020,MODIS,senescence,201.0,34
+Roanoke,2020,MODIS,senescence,202.0,37
+Roanoke,2020,MODIS,senescence,203.0,66
+Roanoke,2020,MODIS,senescence,204.0,59
+Roanoke,2020,MODIS,senescence,205.0,103
+Roanoke,2020,MODIS,senescence,206.0,127
+Roanoke,2020,MODIS,senescence,207.0,132
+Roanoke,2020,MODIS,senescence,208.0,148
+Roanoke,2020,MODIS,senescence,209.0,183
+Roanoke,2020,MODIS,senescence,210.0,208
+Roanoke,2020,MODIS,senescence,211.0,236
+Roanoke,2020,MODIS,senescence,212.0,243
+Roanoke,2020,MODIS,senescence,213.0,268
+Roanoke,2020,MODIS,senescence,214.0,290
+Roanoke,2020,MODIS,senescence,215.0,287
+Roanoke,2020,MODIS,senescence,216.0,293
+Roanoke,2020,MODIS,senescence,217.0,318
+Roanoke,2020,MODIS,senescence,218.0,295
+Roanoke,2020,MODIS,senescence,219.0,299
+Roanoke,2020,MODIS,senescence,220.0,295
+Roanoke,2020,MODIS,senescence,221.0,297
+Roanoke,2020,MODIS,senescence,222.0,261
+Roanoke,2020,MODIS,senescence,223.0,262
+Roanoke,2020,MODIS,senescence,224.0,257
+Roanoke,2020,MODIS,senescence,225.0,234
+Roanoke,2020,MODIS,senescence,226.0,207
+Roanoke,2020,MODIS,senescence,227.0,202
+Roanoke,2020,MODIS,senescence,228.0,203
+Roanoke,2020,MODIS,senescence,229.0,186
+Roanoke,2020,MODIS,senescence,230.0,144
+Roanoke,2020,MODIS,senescence,231.0,137
+Roanoke,2020,MODIS,senescence,232.0,122
+Roanoke,2020,MODIS,senescence,233.0,90
+Roanoke,2020,MODIS,senescence,234.0,95
+Roanoke,2020,MODIS,senescence,235.0,67
+Roanoke,2020,MODIS,senescence,236.0,46
+Roanoke,2020,MODIS,senescence,237.0,39
+Roanoke,2020,MODIS,senescence,238.0,37
+Roanoke,2020,MODIS,senescence,239.0,34
+Roanoke,2020,MODIS,senescence,240.0,30
+Roanoke,2020,MODIS,senescence,241.0,18
+Roanoke,2020,MODIS,senescence,242.0,21
+Roanoke,2020,MODIS,senescence,243.0,14
+Roanoke,2020,MODIS,senescence,244.0,8
+Roanoke,2020,MODIS,senescence,245.0,7
+Roanoke,2020,MODIS,senescence,246.0,3
+Roanoke,2020,MODIS,senescence,247.0,5
+Roanoke,2020,MODIS,senescence,249.0,1
+Roanoke,2020,MODIS,senescence,250.0,2
+Roanoke,2020,MODIS,senescence,255.0,2
+Roanoke,2020,MODIS,senescence,263.0,1
+Roanoke,2020,MODIS,mid_greendown,235.0,1
+Roanoke,2020,MODIS,mid_greendown,245.0,1
+Roanoke,2020,MODIS,mid_greendown,258.0,1
+Roanoke,2020,MODIS,mid_greendown,259.0,3
+Roanoke,2020,MODIS,mid_greendown,260.0,4
+Roanoke,2020,MODIS,mid_greendown,261.0,10
+Roanoke,2020,MODIS,mid_greendown,262.0,17
+Roanoke,2020,MODIS,mid_greendown,263.0,27
+Roanoke,2020,MODIS,mid_greendown,264.0,40
+Roanoke,2020,MODIS,mid_greendown,265.0,77
+Roanoke,2020,MODIS,mid_greendown,266.0,114
+Roanoke,2020,MODIS,mid_greendown,267.0,160
+Roanoke,2020,MODIS,mid_greendown,268.0,212
+Roanoke,2020,MODIS,mid_greendown,269.0,289
+Roanoke,2020,MODIS,mid_greendown,270.0,354
+Roanoke,2020,MODIS,mid_greendown,271.0,475
+Roanoke,2020,MODIS,mid_greendown,272.0,477
+Roanoke,2020,MODIS,mid_greendown,273.0,536
+Roanoke,2020,MODIS,mid_greendown,274.0,576
+Roanoke,2020,MODIS,mid_greendown,275.0,569
+Roanoke,2020,MODIS,mid_greendown,276.0,581
+Roanoke,2020,MODIS,mid_greendown,277.0,549
+Roanoke,2020,MODIS,mid_greendown,278.0,464
+Roanoke,2020,MODIS,mid_greendown,279.0,362
+Roanoke,2020,MODIS,mid_greendown,280.0,358
+Roanoke,2020,MODIS,mid_greendown,281.0,250
+Roanoke,2020,MODIS,mid_greendown,282.0,189
+Roanoke,2020,MODIS,mid_greendown,283.0,107
+Roanoke,2020,MODIS,mid_greendown,284.0,62
+Roanoke,2020,MODIS,mid_greendown,285.0,66
+Roanoke,2020,MODIS,mid_greendown,286.0,41
+Roanoke,2020,MODIS,mid_greendown,287.0,23
+Roanoke,2020,MODIS,mid_greendown,288.0,10
+Roanoke,2020,MODIS,mid_greendown,289.0,18
+Roanoke,2020,MODIS,mid_greendown,290.0,11
+Roanoke,2020,MODIS,mid_greendown,291.0,4
+Roanoke,2020,MODIS,mid_greendown,292.0,3
+Roanoke,2020,MODIS,mid_greendown,293.0,1
+Roanoke,2020,MODIS,mid_greendown,294.0,4
+Roanoke,2020,MODIS,mid_greendown,295.0,3
+Roanoke,2020,MODIS,mid_greendown,296.0,3
+Roanoke,2020,MODIS,mid_greendown,297.0,1
+Roanoke,2020,MODIS,mid_greendown,298.0,2
+Roanoke,2020,MODIS,dormancy,295.0,3
+Roanoke,2020,MODIS,dormancy,296.0,3
+Roanoke,2020,MODIS,dormancy,297.0,5
+Roanoke,2020,MODIS,dormancy,298.0,13
+Roanoke,2020,MODIS,dormancy,299.0,22
+Roanoke,2020,MODIS,dormancy,300.0,61
+Roanoke,2020,MODIS,dormancy,301.0,92
+Roanoke,2020,MODIS,dormancy,302.0,166
+Roanoke,2020,MODIS,dormancy,303.0,281
+Roanoke,2020,MODIS,dormancy,304.0,411
+Roanoke,2020,MODIS,dormancy,305.0,538
+Roanoke,2020,MODIS,dormancy,306.0,589
+Roanoke,2020,MODIS,dormancy,307.0,642
+Roanoke,2020,MODIS,dormancy,308.0,657
+Roanoke,2020,MODIS,dormancy,309.0,595
+Roanoke,2020,MODIS,dormancy,310.0,511
+Roanoke,2020,MODIS,dormancy,311.0,486
+Roanoke,2020,MODIS,dormancy,312.0,380
+Roanoke,2020,MODIS,dormancy,313.0,276
+Roanoke,2020,MODIS,dormancy,314.0,234
+Roanoke,2020,MODIS,dormancy,315.0,192
+Roanoke,2020,MODIS,dormancy,316.0,152
+Roanoke,2020,MODIS,dormancy,317.0,124
+Roanoke,2020,MODIS,dormancy,318.0,100
+Roanoke,2020,MODIS,dormancy,319.0,100
+Roanoke,2020,MODIS,dormancy,320.0,61
+Roanoke,2020,MODIS,dormancy,321.0,64
+Roanoke,2020,MODIS,dormancy,322.0,36
+Roanoke,2020,MODIS,dormancy,323.0,39
+Roanoke,2020,MODIS,dormancy,324.0,27
+Roanoke,2020,MODIS,dormancy,325.0,33
+Roanoke,2020,MODIS,dormancy,326.0,22
+Roanoke,2020,MODIS,dormancy,327.0,23
+Roanoke,2020,MODIS,dormancy,328.0,14
+Roanoke,2020,MODIS,dormancy,329.0,16
+Roanoke,2020,MODIS,dormancy,330.0,8
+Roanoke,2020,MODIS,dormancy,331.0,9
+Roanoke,2020,MODIS,dormancy,332.0,5
+Roanoke,2020,MODIS,dormancy,333.0,8
+Roanoke,2020,MODIS,dormancy,334.0,6
+Roanoke,2020,MODIS,dormancy,335.0,8
+Roanoke,2020,MODIS,dormancy,336.0,5
+Roanoke,2020,MODIS,dormancy,337.0,6
+Roanoke,2020,MODIS,dormancy,338.0,2
+Roanoke,2020,MODIS,dormancy,339.0,3
+Roanoke,2020,MODIS,dormancy,340.0,2
+Roanoke,2020,MODIS,dormancy,341.0,6
+Roanoke,2020,MODIS,dormancy,342.0,3
+Roanoke,2020,MODIS,dormancy,343.0,1
+Roanoke,2020,MODIS,dormancy,344.0,2
+Roanoke,2020,MODIS,dormancy,345.0,2
+Roanoke,2020,MODIS,dormancy,346.0,1
+Roanoke,2020,MODIS,dormancy,347.0,4
+Roanoke,2020,MODIS,dormancy,348.0,2
+Roanoke,2020,MODIS,dormancy,349.0,1
+Roanoke,2020,MODIS,dormancy,354.0,1
+Roanoke,2020,MODIS,dormancy,358.0,1
+Roanoke,2020,MODIS,dormancy,368.0,1
+Roanoke,2020,MODIS,forest_px,1.0,7055
+Boone,2020,MODIS,mid_greenup,100.0,3
+Boone,2020,MODIS,mid_greenup,101.0,10
+Boone,2020,MODIS,mid_greenup,102.0,6
+Boone,2020,MODIS,mid_greenup,103.0,24
+Boone,2020,MODIS,mid_greenup,104.0,19
+Boone,2020,MODIS,mid_greenup,105.0,35
+Boone,2020,MODIS,mid_greenup,106.0,54
+Boone,2020,MODIS,mid_greenup,107.0,70
+Boone,2020,MODIS,mid_greenup,108.0,98
+Boone,2020,MODIS,mid_greenup,109.0,152
+Boone,2020,MODIS,mid_greenup,110.0,189
+Boone,2020,MODIS,mid_greenup,111.0,245
+Boone,2020,MODIS,mid_greenup,112.0,272
+Boone,2020,MODIS,mid_greenup,113.0,339
+Boone,2020,MODIS,mid_greenup,114.0,362
+Boone,2020,MODIS,mid_greenup,115.0,399
+Boone,2020,MODIS,mid_greenup,116.0,438
+Boone,2020,MODIS,mid_greenup,117.0,392
+Boone,2020,MODIS,mid_greenup,118.0,360
+Boone,2020,MODIS,mid_greenup,119.0,391
+Boone,2020,MODIS,mid_greenup,120.0,361
+Boone,2020,MODIS,mid_greenup,121.0,345
+Boone,2020,MODIS,mid_greenup,122.0,375
+Boone,2020,MODIS,mid_greenup,123.0,343
+Boone,2020,MODIS,mid_greenup,124.0,365
+Boone,2020,MODIS,mid_greenup,125.0,365
+Boone,2020,MODIS,mid_greenup,126.0,355
+Boone,2020,MODIS,mid_greenup,127.0,403
+Boone,2020,MODIS,mid_greenup,128.0,384
+Boone,2020,MODIS,mid_greenup,129.0,483
+Boone,2020,MODIS,mid_greenup,130.0,496
+Boone,2020,MODIS,mid_greenup,131.0,553
+Boone,2020,MODIS,mid_greenup,132.0,640
+Boone,2020,MODIS,mid_greenup,133.0,659
+Boone,2020,MODIS,mid_greenup,134.0,707
+Boone,2020,MODIS,mid_greenup,135.0,729
+Boone,2020,MODIS,mid_greenup,136.0,767
+Boone,2020,MODIS,mid_greenup,137.0,736
+Boone,2020,MODIS,mid_greenup,138.0,796
+Boone,2020,MODIS,mid_greenup,139.0,714
+Boone,2020,MODIS,mid_greenup,140.0,623
+Boone,2020,MODIS,mid_greenup,141.0,580
+Boone,2020,MODIS,mid_greenup,142.0,515
+Boone,2020,MODIS,mid_greenup,143.0,474
+Boone,2020,MODIS,mid_greenup,144.0,432
+Boone,2020,MODIS,mid_greenup,145.0,358
+Boone,2020,MODIS,mid_greenup,146.0,297
+Boone,2020,MODIS,mid_greenup,147.0,198
+Boone,2020,MODIS,mid_greenup,148.0,155
+Boone,2020,MODIS,mid_greenup,149.0,109
+Boone,2020,MODIS,mid_greenup,150.0,63
+Boone,2020,MODIS,mid_greenup,151.0,48
+Boone,2020,MODIS,mid_greenup,152.0,22
+Boone,2020,MODIS,mid_greenup,153.0,14
+Boone,2020,MODIS,mid_greenup,154.0,10
+Boone,2020,MODIS,mid_greenup,155.0,5
+Boone,2020,MODIS,mid_greenup,156.0,2
+Boone,2020,MODIS,mid_greenup,157.0,2
+Boone,2020,MODIS,mid_greenup,93.0,1
+Boone,2020,MODIS,mid_greenup,99.0,4
+Boone,2020,MODIS,senescence,187.0,1
+Boone,2020,MODIS,senescence,192.0,2
+Boone,2020,MODIS,senescence,193.0,1
+Boone,2020,MODIS,senescence,194.0,3
+Boone,2020,MODIS,senescence,195.0,5
+Boone,2020,MODIS,senescence,196.0,2
+Boone,2020,MODIS,senescence,197.0,3
+Boone,2020,MODIS,senescence,198.0,8
+Boone,2020,MODIS,senescence,199.0,15
+Boone,2020,MODIS,senescence,200.0,35
+Boone,2020,MODIS,senescence,201.0,41
+Boone,2020,MODIS,senescence,202.0,58
+Boone,2020,MODIS,senescence,203.0,87
+Boone,2020,MODIS,senescence,204.0,100
+Boone,2020,MODIS,senescence,205.0,121
+Boone,2020,MODIS,senescence,206.0,143
+Boone,2020,MODIS,senescence,207.0,183
+Boone,2020,MODIS,senescence,208.0,209
+Boone,2020,MODIS,senescence,209.0,235
+Boone,2020,MODIS,senescence,210.0,259
+Boone,2020,MODIS,senescence,211.0,313
+Boone,2020,MODIS,senescence,212.0,321
+Boone,2020,MODIS,senescence,213.0,385
+Boone,2020,MODIS,senescence,214.0,399
+Boone,2020,MODIS,senescence,215.0,452
+Boone,2020,MODIS,senescence,216.0,538
+Boone,2020,MODIS,senescence,217.0,590
+Boone,2020,MODIS,senescence,218.0,684
+Boone,2020,MODIS,senescence,219.0,663
+Boone,2020,MODIS,senescence,220.0,760
+Boone,2020,MODIS,senescence,221.0,735
+Boone,2020,MODIS,senescence,222.0,849
+Boone,2020,MODIS,senescence,223.0,900
+Boone,2020,MODIS,senescence,224.0,846
+Boone,2020,MODIS,senescence,225.0,811
+Boone,2020,MODIS,senescence,226.0,860
+Boone,2020,MODIS,senescence,227.0,835
+Boone,2020,MODIS,senescence,228.0,831
+Boone,2020,MODIS,senescence,229.0,766
+Boone,2020,MODIS,senescence,230.0,728
+Boone,2020,MODIS,senescence,231.0,615
+Boone,2020,MODIS,senescence,232.0,574
+Boone,2020,MODIS,senescence,233.0,539
+Boone,2020,MODIS,senescence,234.0,396
+Boone,2020,MODIS,senescence,235.0,330
+Boone,2020,MODIS,senescence,236.0,244
+Boone,2020,MODIS,senescence,237.0,207
+Boone,2020,MODIS,senescence,238.0,138
+Boone,2020,MODIS,senescence,239.0,125
+Boone,2020,MODIS,senescence,240.0,103
+Boone,2020,MODIS,senescence,241.0,73
+Boone,2020,MODIS,senescence,242.0,50
+Boone,2020,MODIS,senescence,243.0,52
+Boone,2020,MODIS,senescence,244.0,22
+Boone,2020,MODIS,senescence,245.0,23
+Boone,2020,MODIS,senescence,246.0,14
+Boone,2020,MODIS,senescence,247.0,16
+Boone,2020,MODIS,senescence,248.0,14
+Boone,2020,MODIS,senescence,249.0,3
+Boone,2020,MODIS,senescence,250.0,6
+Boone,2020,MODIS,senescence,251.0,2
+Boone,2020,MODIS,senescence,252.0,6
+Boone,2020,MODIS,senescence,253.0,6
+Boone,2020,MODIS,senescence,254.0,3
+Boone,2020,MODIS,senescence,256.0,2
+Boone,2020,MODIS,senescence,257.0,1
+Boone,2020,MODIS,senescence,258.0,3
+Boone,2020,MODIS,senescence,259.0,1
+Boone,2020,MODIS,senescence,269.0,1
+Boone,2020,MODIS,mid_greendown,246.0,1
+Boone,2020,MODIS,mid_greendown,255.0,2
+Boone,2020,MODIS,mid_greendown,256.0,1
+Boone,2020,MODIS,mid_greendown,259.0,4
+Boone,2020,MODIS,mid_greendown,260.0,3
+Boone,2020,MODIS,mid_greendown,261.0,7
+Boone,2020,MODIS,mid_greendown,262.0,16
+Boone,2020,MODIS,mid_greendown,263.0,25
+Boone,2020,MODIS,mid_greendown,264.0,58
+Boone,2020,MODIS,mid_greendown,265.0,98
+Boone,2020,MODIS,mid_greendown,266.0,155
+Boone,2020,MODIS,mid_greendown,267.0,264
+Boone,2020,MODIS,mid_greendown,268.0,448
+Boone,2020,MODIS,mid_greendown,269.0,624
+Boone,2020,MODIS,mid_greendown,270.0,809
+Boone,2020,MODIS,mid_greendown,271.0,976
+Boone,2020,MODIS,mid_greendown,272.0,1215
+Boone,2020,MODIS,mid_greendown,273.0,1386
+Boone,2020,MODIS,mid_greendown,274.0,1414
+Boone,2020,MODIS,mid_greendown,275.0,1442
+Boone,2020,MODIS,mid_greendown,276.0,1505
+Boone,2020,MODIS,mid_greendown,277.0,1374
+Boone,2020,MODIS,mid_greendown,278.0,1258
+Boone,2020,MODIS,mid_greendown,279.0,1170
+Boone,2020,MODIS,mid_greendown,280.0,1012
+Boone,2020,MODIS,mid_greendown,281.0,802
+Boone,2020,MODIS,mid_greendown,282.0,683
+Boone,2020,MODIS,mid_greendown,283.0,540
+Boone,2020,MODIS,mid_greendown,284.0,375
+Boone,2020,MODIS,mid_greendown,285.0,261
+Boone,2020,MODIS,mid_greendown,286.0,156
+Boone,2020,MODIS,mid_greendown,287.0,105
+Boone,2020,MODIS,mid_greendown,288.0,60
+Boone,2020,MODIS,mid_greendown,289.0,52
+Boone,2020,MODIS,mid_greendown,290.0,25
+Boone,2020,MODIS,mid_greendown,291.0,11
+Boone,2020,MODIS,mid_greendown,292.0,2
+Boone,2020,MODIS,mid_greendown,293.0,5
+Boone,2020,MODIS,mid_greendown,295.0,1
+Boone,2020,MODIS,mid_greendown,304.0,1
+Boone,2020,MODIS,dormancy,291.0,1
+Boone,2020,MODIS,dormancy,293.0,1
+Boone,2020,MODIS,dormancy,294.0,1
+Boone,2020,MODIS,dormancy,295.0,6
+Boone,2020,MODIS,dormancy,296.0,10
+Boone,2020,MODIS,dormancy,297.0,30
+Boone,2020,MODIS,dormancy,298.0,45
+Boone,2020,MODIS,dormancy,299.0,88
+Boone,2020,MODIS,dormancy,300.0,179
+Boone,2020,MODIS,dormancy,301.0,328
+Boone,2020,MODIS,dormancy,302.0,458
+Boone,2020,MODIS,dormancy,303.0,715
+Boone,2020,MODIS,dormancy,304.0,918
+Boone,2020,MODIS,dormancy,305.0,1202
+Boone,2020,MODIS,dormancy,306.0,1301
+Boone,2020,MODIS,dormancy,307.0,1408
+Boone,2020,MODIS,dormancy,308.0,1401
+Boone,2020,MODIS,dormancy,309.0,1474
+Boone,2020,MODIS,dormancy,310.0,1460
+Boone,2020,MODIS,dormancy,311.0,1382
+Boone,2020,MODIS,dormancy,312.0,1194
+Boone,2020,MODIS,dormancy,313.0,1016
+Boone,2020,MODIS,dormancy,314.0,827
+Boone,2020,MODIS,dormancy,315.0,746
+Boone,2020,MODIS,dormancy,316.0,536
+Boone,2020,MODIS,dormancy,317.0,426
+Boone,2020,MODIS,dormancy,318.0,338
+Boone,2020,MODIS,dormancy,319.0,245
+Boone,2020,MODIS,dormancy,320.0,148
+Boone,2020,MODIS,dormancy,321.0,100
+Boone,2020,MODIS,dormancy,322.0,62
+Boone,2020,MODIS,dormancy,323.0,55
+Boone,2020,MODIS,dormancy,324.0,37
+Boone,2020,MODIS,dormancy,325.0,31
+Boone,2020,MODIS,dormancy,326.0,19
+Boone,2020,MODIS,dormancy,327.0,22
+Boone,2020,MODIS,dormancy,328.0,26
+Boone,2020,MODIS,dormancy,329.0,15
+Boone,2020,MODIS,dormancy,330.0,12
+Boone,2020,MODIS,dormancy,331.0,10
+Boone,2020,MODIS,dormancy,332.0,9
+Boone,2020,MODIS,dormancy,333.0,12
+Boone,2020,MODIS,dormancy,334.0,5
+Boone,2020,MODIS,dormancy,335.0,7
+Boone,2020,MODIS,dormancy,336.0,5
+Boone,2020,MODIS,dormancy,337.0,5
+Boone,2020,MODIS,dormancy,338.0,5
+Boone,2020,MODIS,dormancy,339.0,3
+Boone,2020,MODIS,dormancy,341.0,3
+Boone,2020,MODIS,dormancy,342.0,4
+Boone,2020,MODIS,dormancy,343.0,4
+Boone,2020,MODIS,dormancy,344.0,1
+Boone,2020,MODIS,dormancy,346.0,1
+Boone,2020,MODIS,dormancy,347.0,3
+Boone,2020,MODIS,dormancy,349.0,1
+Boone,2020,MODIS,dormancy,350.0,3
+Boone,2020,MODIS,dormancy,351.0,1
+Boone,2020,MODIS,dormancy,365.0,1
+Boone,2020,MODIS,forest_px,1.0,18346
+Asheville,2020,MODIS,mid_greenup,100.0,13
+Asheville,2020,MODIS,mid_greenup,101.0,15
+Asheville,2020,MODIS,mid_greenup,102.0,34
+Asheville,2020,MODIS,mid_greenup,103.0,32
+Asheville,2020,MODIS,mid_greenup,104.0,56
+Asheville,2020,MODIS,mid_greenup,105.0,57
+Asheville,2020,MODIS,mid_greenup,106.0,68
+Asheville,2020,MODIS,mid_greenup,107.0,74
+Asheville,2020,MODIS,mid_greenup,108.0,85
+Asheville,2020,MODIS,mid_greenup,109.0,137
+Asheville,2020,MODIS,mid_greenup,110.0,155
+Asheville,2020,MODIS,mid_greenup,111.0,227
+Asheville,2020,MODIS,mid_greenup,112.0,238
+Asheville,2020,MODIS,mid_greenup,113.0,277
+Asheville,2020,MODIS,mid_greenup,114.0,349
+Asheville,2020,MODIS,mid_greenup,115.0,378
+Asheville,2020,MODIS,mid_greenup,116.0,438
+Asheville,2020,MODIS,mid_greenup,117.0,454
+Asheville,2020,MODIS,mid_greenup,118.0,577
+Asheville,2020,MODIS,mid_greenup,119.0,593
+Asheville,2020,MODIS,mid_greenup,120.0,661
+Asheville,2020,MODIS,mid_greenup,121.0,670
+Asheville,2020,MODIS,mid_greenup,122.0,709
+Asheville,2020,MODIS,mid_greenup,123.0,703
+Asheville,2020,MODIS,mid_greenup,124.0,701
+Asheville,2020,MODIS,mid_greenup,125.0,693
+Asheville,2020,MODIS,mid_greenup,126.0,686
+Asheville,2020,MODIS,mid_greenup,127.0,602
+Asheville,2020,MODIS,mid_greenup,128.0,612
+Asheville,2020,MODIS,mid_greenup,129.0,584
+Asheville,2020,MODIS,mid_greenup,130.0,523
+Asheville,2020,MODIS,mid_greenup,131.0,490
+Asheville,2020,MODIS,mid_greenup,132.0,492
+Asheville,2020,MODIS,mid_greenup,133.0,494
+Asheville,2020,MODIS,mid_greenup,134.0,412
+Asheville,2020,MODIS,mid_greenup,135.0,401
+Asheville,2020,MODIS,mid_greenup,136.0,406
+Asheville,2020,MODIS,mid_greenup,137.0,352
+Asheville,2020,MODIS,mid_greenup,138.0,295
+Asheville,2020,MODIS,mid_greenup,139.0,272
+Asheville,2020,MODIS,mid_greenup,140.0,304
+Asheville,2020,MODIS,mid_greenup,141.0,251
+Asheville,2020,MODIS,mid_greenup,142.0,275
+Asheville,2020,MODIS,mid_greenup,143.0,236
+Asheville,2020,MODIS,mid_greenup,144.0,203
+Asheville,2020,MODIS,mid_greenup,145.0,156
+Asheville,2020,MODIS,mid_greenup,146.0,130
+Asheville,2020,MODIS,mid_greenup,147.0,105
+Asheville,2020,MODIS,mid_greenup,148.0,74
+Asheville,2020,MODIS,mid_greenup,149.0,59
+Asheville,2020,MODIS,mid_greenup,150.0,53
+Asheville,2020,MODIS,mid_greenup,151.0,32
+Asheville,2020,MODIS,mid_greenup,152.0,27
+Asheville,2020,MODIS,mid_greenup,153.0,14
+Asheville,2020,MODIS,mid_greenup,154.0,10
+Asheville,2020,MODIS,mid_greenup,155.0,8
+Asheville,2020,MODIS,mid_greenup,156.0,3
+Asheville,2020,MODIS,mid_greenup,158.0,3
+Asheville,2020,MODIS,mid_greenup,88.0,1
+Asheville,2020,MODIS,mid_greenup,96.0,1
+Asheville,2020,MODIS,mid_greenup,97.0,1
+Asheville,2020,MODIS,mid_greenup,98.0,9
+Asheville,2020,MODIS,mid_greenup,99.0,3
+Asheville,2020,MODIS,senescence,183.0,1
+Asheville,2020,MODIS,senescence,188.0,1
+Asheville,2020,MODIS,senescence,189.0,3
+Asheville,2020,MODIS,senescence,191.0,2
+Asheville,2020,MODIS,senescence,192.0,4
+Asheville,2020,MODIS,senescence,193.0,2
+Asheville,2020,MODIS,senescence,194.0,4
+Asheville,2020,MODIS,senescence,195.0,7
+Asheville,2020,MODIS,senescence,196.0,9
+Asheville,2020,MODIS,senescence,197.0,12
+Asheville,2020,MODIS,senescence,198.0,13
+Asheville,2020,MODIS,senescence,199.0,17
+Asheville,2020,MODIS,senescence,200.0,19
+Asheville,2020,MODIS,senescence,201.0,39
+Asheville,2020,MODIS,senescence,202.0,54
+Asheville,2020,MODIS,senescence,203.0,57
+Asheville,2020,MODIS,senescence,204.0,77
+Asheville,2020,MODIS,senescence,205.0,85
+Asheville,2020,MODIS,senescence,206.0,95
+Asheville,2020,MODIS,senescence,207.0,126
+Asheville,2020,MODIS,senescence,208.0,192
+Asheville,2020,MODIS,senescence,209.0,183
+Asheville,2020,MODIS,senescence,210.0,236
+Asheville,2020,MODIS,senescence,211.0,289
+Asheville,2020,MODIS,senescence,212.0,365
+Asheville,2020,MODIS,senescence,213.0,390
+Asheville,2020,MODIS,senescence,214.0,436
+Asheville,2020,MODIS,senescence,215.0,491
+Asheville,2020,MODIS,senescence,216.0,508
+Asheville,2020,MODIS,senescence,217.0,593
+Asheville,2020,MODIS,senescence,218.0,644
+Asheville,2020,MODIS,senescence,219.0,715
+Asheville,2020,MODIS,senescence,220.0,727
+Asheville,2020,MODIS,senescence,221.0,756
+Asheville,2020,MODIS,senescence,222.0,819
+Asheville,2020,MODIS,senescence,223.0,780
+Asheville,2020,MODIS,senescence,224.0,698
+Asheville,2020,MODIS,senescence,225.0,763
+Asheville,2020,MODIS,senescence,226.0,674
+Asheville,2020,MODIS,senescence,227.0,675
+Asheville,2020,MODIS,senescence,228.0,653
+Asheville,2020,MODIS,senescence,229.0,562
+Asheville,2020,MODIS,senescence,230.0,516
+Asheville,2020,MODIS,senescence,231.0,501
+Asheville,2020,MODIS,senescence,232.0,459
+Asheville,2020,MODIS,senescence,233.0,393
+Asheville,2020,MODIS,senescence,234.0,376
+Asheville,2020,MODIS,senescence,235.0,281
+Asheville,2020,MODIS,senescence,236.0,277
+Asheville,2020,MODIS,senescence,237.0,212
+Asheville,2020,MODIS,senescence,238.0,211
+Asheville,2020,MODIS,senescence,239.0,166
+Asheville,2020,MODIS,senescence,240.0,137
+Asheville,2020,MODIS,senescence,241.0,114
+Asheville,2020,MODIS,senescence,242.0,89
+Asheville,2020,MODIS,senescence,243.0,87
+Asheville,2020,MODIS,senescence,244.0,73
+Asheville,2020,MODIS,senescence,245.0,47
+Asheville,2020,MODIS,senescence,246.0,37
+Asheville,2020,MODIS,senescence,247.0,31
+Asheville,2020,MODIS,senescence,248.0,27
+Asheville,2020,MODIS,senescence,249.0,23
+Asheville,2020,MODIS,senescence,250.0,22
+Asheville,2020,MODIS,senescence,251.0,28
+Asheville,2020,MODIS,senescence,252.0,18
+Asheville,2020,MODIS,senescence,253.0,9
+Asheville,2020,MODIS,senescence,254.0,13
+Asheville,2020,MODIS,senescence,255.0,11
+Asheville,2020,MODIS,senescence,256.0,6
+Asheville,2020,MODIS,senescence,257.0,6
+Asheville,2020,MODIS,senescence,258.0,5
+Asheville,2020,MODIS,senescence,259.0,3
+Asheville,2020,MODIS,senescence,260.0,7
+Asheville,2020,MODIS,senescence,261.0,1
+Asheville,2020,MODIS,senescence,263.0,3
+Asheville,2020,MODIS,senescence,264.0,1
+Asheville,2020,MODIS,senescence,265.0,3
+Asheville,2020,MODIS,senescence,268.0,3
+Asheville,2020,MODIS,senescence,269.0,1
+Asheville,2020,MODIS,mid_greendown,258.0,1
+Asheville,2020,MODIS,mid_greendown,259.0,3
+Asheville,2020,MODIS,mid_greendown,260.0,4
+Asheville,2020,MODIS,mid_greendown,261.0,8
+Asheville,2020,MODIS,mid_greendown,262.0,14
+Asheville,2020,MODIS,mid_greendown,263.0,27
+Asheville,2020,MODIS,mid_greendown,264.0,26
+Asheville,2020,MODIS,mid_greendown,265.0,50
+Asheville,2020,MODIS,mid_greendown,266.0,64
+Asheville,2020,MODIS,mid_greendown,267.0,97
+Asheville,2020,MODIS,mid_greendown,268.0,183
+Asheville,2020,MODIS,mid_greendown,269.0,261
+Asheville,2020,MODIS,mid_greendown,270.0,376
+Asheville,2020,MODIS,mid_greendown,271.0,565
+Asheville,2020,MODIS,mid_greendown,272.0,632
+Asheville,2020,MODIS,mid_greendown,273.0,779
+Asheville,2020,MODIS,mid_greendown,274.0,925
+Asheville,2020,MODIS,mid_greendown,275.0,973
+Asheville,2020,MODIS,mid_greendown,276.0,1068
+Asheville,2020,MODIS,mid_greendown,277.0,1175
+Asheville,2020,MODIS,mid_greendown,278.0,1139
+Asheville,2020,MODIS,mid_greendown,279.0,1151
+Asheville,2020,MODIS,mid_greendown,280.0,1157
+Asheville,2020,MODIS,mid_greendown,281.0,1050
+Asheville,2020,MODIS,mid_greendown,282.0,940
+Asheville,2020,MODIS,mid_greendown,283.0,882
+Asheville,2020,MODIS,mid_greendown,284.0,717
+Asheville,2020,MODIS,mid_greendown,285.0,615
+Asheville,2020,MODIS,mid_greendown,286.0,555
+Asheville,2020,MODIS,mid_greendown,287.0,426
+Asheville,2020,MODIS,mid_greendown,288.0,309
+Asheville,2020,MODIS,mid_greendown,289.0,240
+Asheville,2020,MODIS,mid_greendown,290.0,190
+Asheville,2020,MODIS,mid_greendown,291.0,128
+Asheville,2020,MODIS,mid_greendown,292.0,87
+Asheville,2020,MODIS,mid_greendown,293.0,51
+Asheville,2020,MODIS,mid_greendown,294.0,37
+Asheville,2020,MODIS,mid_greendown,295.0,23
+Asheville,2020,MODIS,mid_greendown,296.0,20
+Asheville,2020,MODIS,mid_greendown,297.0,8
+Asheville,2020,MODIS,mid_greendown,298.0,9
+Asheville,2020,MODIS,mid_greendown,299.0,5
+Asheville,2020,MODIS,mid_greendown,300.0,1
+Asheville,2020,MODIS,mid_greendown,301.0,1
+Asheville,2020,MODIS,mid_greendown,303.0,1
+Asheville,2020,MODIS,dormancy,294.0,4
+Asheville,2020,MODIS,dormancy,295.0,3
+Asheville,2020,MODIS,dormancy,296.0,8
+Asheville,2020,MODIS,dormancy,297.0,4
+Asheville,2020,MODIS,dormancy,298.0,19
+Asheville,2020,MODIS,dormancy,299.0,24
+Asheville,2020,MODIS,dormancy,300.0,25
+Asheville,2020,MODIS,dormancy,301.0,41
+Asheville,2020,MODIS,dormancy,302.0,68
+Asheville,2020,MODIS,dormancy,303.0,113
+Asheville,2020,MODIS,dormancy,304.0,186
+Asheville,2020,MODIS,dormancy,305.0,287
+Asheville,2020,MODIS,dormancy,306.0,508
+Asheville,2020,MODIS,dormancy,307.0,685
+Asheville,2020,MODIS,dormancy,308.0,972
+Asheville,2020,MODIS,dormancy,309.0,1202
+Asheville,2020,MODIS,dormancy,310.0,1421
+Asheville,2020,MODIS,dormancy,311.0,1617
+Asheville,2020,MODIS,dormancy,312.0,1601
+Asheville,2020,MODIS,dormancy,313.0,1642
+Asheville,2020,MODIS,dormancy,314.0,1407
+Asheville,2020,MODIS,dormancy,315.0,1249
+Asheville,2020,MODIS,dormancy,316.0,1033
+Asheville,2020,MODIS,dormancy,317.0,779
+Asheville,2020,MODIS,dormancy,318.0,587
+Asheville,2020,MODIS,dormancy,319.0,416
+Asheville,2020,MODIS,dormancy,320.0,281
+Asheville,2020,MODIS,dormancy,321.0,212
+Asheville,2020,MODIS,dormancy,322.0,160
+Asheville,2020,MODIS,dormancy,323.0,102
+Asheville,2020,MODIS,dormancy,324.0,72
+Asheville,2020,MODIS,dormancy,325.0,56
+Asheville,2020,MODIS,dormancy,326.0,41
+Asheville,2020,MODIS,dormancy,327.0,34
+Asheville,2020,MODIS,dormancy,328.0,24
+Asheville,2020,MODIS,dormancy,329.0,20
+Asheville,2020,MODIS,dormancy,330.0,17
+Asheville,2020,MODIS,dormancy,331.0,8
+Asheville,2020,MODIS,dormancy,332.0,5
+Asheville,2020,MODIS,dormancy,333.0,6
+Asheville,2020,MODIS,dormancy,334.0,7
+Asheville,2020,MODIS,dormancy,335.0,3
+Asheville,2020,MODIS,dormancy,336.0,2
+Asheville,2020,MODIS,dormancy,337.0,3
+Asheville,2020,MODIS,dormancy,338.0,4
+Asheville,2020,MODIS,dormancy,339.0,2
+Asheville,2020,MODIS,dormancy,340.0,1
+Asheville,2020,MODIS,dormancy,341.0,3
+Asheville,2020,MODIS,dormancy,343.0,1
+Asheville,2020,MODIS,dormancy,344.0,1
+Asheville,2020,MODIS,dormancy,345.0,3
+Asheville,2020,MODIS,dormancy,352.0,1
+Asheville,2020,MODIS,dormancy,353.0,1
+Asheville,2020,MODIS,dormancy,354.0,2
+Asheville,2020,MODIS,forest_px,1.0,16973

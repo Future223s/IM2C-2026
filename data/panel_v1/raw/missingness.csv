@@ -1,0 +1,83 @@
+file,column,scope,non_null,n,share
+panel,location,all rows,286,286,1.0
+panel,year,all rows,286,286,1.0
+panel,is_forecast_row,all rows,286,286,1.0
+panel,helene_2024,all rows,286,286,1.0
+panel,ecoregion,all rows,286,286,1.0
+panel,peak_doy,2001–2025,275,275,1.0
+panel,peak_date,2001–2025,275,275,1.0
+panel,peak_doy_mean,all rows,286,286,1.0
+panel,peak_anom,2001–2025,275,275,1.0
+panel,peak_doy_p25,2001–2025,275,275,1.0
+panel,peak_doy_p75,2001–2025,275,275,1.0
+panel,peak_spread_days,2001–2025,275,275,1.0
+panel,peak_doy_viirs,2013–2025,143,143,1.0
+panel,mid_greendown_count,2001–2025,275,275,1.0
+panel,forest_px_count,2001–2025,275,275,1.0
+panel,qa_retention,2001–2025,275,275,1.0
+panel,tmean_MarApr,all rows,286,286,1.0
+panel,gdd5_MarMay,all rows,286,286,1.0
+panel,tmax_JunJul,all rows,286,286,1.0
+panel,precip_JunJul,all rows,286,286,1.0
+panel,tmax_Aug,all rows,286,286,1.0
+panel,tmin_Sep,all rows,286,286,1.0
+panel,tmin_SepOct,all rows,286,286,1.0
+panel,cdd_Sep,all rows,286,286,1.0
+panel,cdd_Sep1_Oct15,all rows,286,286,1.0
+panel,cold_nights_Sep1_Oct15,all rows,286,286,1.0
+panel,precip_AugSep,all rows,286,286,1.0
+panel,precip_Oct,all rows,286,286,1.0
+panel,vpd_AugSep,all rows,286,286,1.0
+panel,srad_Sep,all rows,286,286,1.0
+panel,srad_SepOct,all rows,286,286,1.0
+panel,pdsi_AugSep,all rows,286,286,1.0
+panel,first_frost_doy,all rows,286,286,1.0
+panel,frost_censored,all rows,286,286,1.0
+panel,tmean_pre30,all rows,286,286,1.0
+panel,tmin_pre30,all rows,286,286,1.0
+panel,cdd_pre30,all rows,286,286,1.0
+panel,cold_nights_pre30,all rows,286,286,1.0
+panel,tmax_pre60to31,all rows,286,286,1.0
+panel,precip_pre60,all rows,286,286,1.0
+panel,vpd_pre60,all rows,286,286,1.0
+panel,srad_pre30,all rows,286,286,1.0
+panel,mid_greenup_p50,2001–2025,275,275,1.0
+panel,senescence_p50,2001–2025,275,275,1.0
+panel,dormancy_p50,2001–2025,275,275,1.0
+locations,location,all,11,11,1.0
+locations,lon,all,11,11,1.0
+locations,lat,all,11,11,1.0
+locations,state,all,11,11,1.0
+locations,ecoregion,all,11,11,1.0
+locations,region_area_km2,all,11,11,1.0
+locations,forest_px_count,all,11,11,1.0
+locations,elev_p10_m,all,11,11,1.0
+locations,elev_median_m,all,11,11,1.0
+locations,elev_p90_m,all,11,11,1.0
+locations,elev_mean_m,all,11,11,1.0
+locations,frac_forest_above_1350m,all,11,11,1.0
+locations,slope_mean_deg,all,11,11,1.0
+locations,northness_mean,all,11,11,1.0
+locations,frac_deciduous,all,11,11,1.0
+locations,frac_evergreen,all,11,11,1.0
+locations,frac_mixed,all,11,11,1.0
+locations,frac_woody_wetland,all,11,11,1.0
+locations,frac_developed,all,11,11,1.0
+locations,frac_hardwood,all,11,11,1.0
+locations,hardwood_share_of_forest,all,11,11,1.0
+locations,evt_northern_hardwood,all,11,11,1.0
+locations,evt_oak_hickory,all,11,11,1.0
+locations,evt_cove_mesic,all,11,11,1.0
+locations,evt_spruce_fir,all,11,11,1.0
+locations,evt_pine,all,11,11,1.0
+locations,evt_other,all,11,11,1.0
+locations,daylen_Oct1_h,all,11,11,1.0
+locations,doy_daylen_below_11h,all,11,11,1.0
+locations,norm_tmean_Sep,all,11,11,1.0
+locations,norm_tmin_Oct,all,11,11,1.0
+locations,norm_precip_AugSep,all,11,11,1.0
+locations,norm_gdd5_MarMay,all,11,11,1.0
+locations,peak_doy_mean,all,11,11,1.0
+locations,peak_doy_sd,all,11,11,1.0
+locations,peak_doy_trend_d_per_decade,all,11,11,1.0
+locations,n_target_years,all,11,11,1.0

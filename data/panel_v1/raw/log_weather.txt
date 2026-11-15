@@ -1,0 +1,8 @@
+
+===== weather =====
+  GRIDMET 2001 done  GRIDMET 2002 done  GRIDMET 2003 done  GRIDMET 2004 done  GRIDMET 2005 done  GRIDMET 2006 done  GRIDMET 2007 done  GRIDMET 2008 done  GRIDMET 2009 done  GRIDMET 2010 done  GRIDMET 2011 done  GRIDMET 2012 done  GRIDMET 2013 done  GRIDMET 2014 done  GRIDMET 2015 done  GRIDMET 2016 done  GRIDMET 2017 done  GRIDMET 2018 done  GRIDMET 2019 done  GRIDMET 2020 done  GRIDMET 2021 done  GRIDMET 2022 done  GRIDMET 2023 done  GRIDMET 2024 done  GRIDMET 2025 done  GRIDMET 2026 done
+  PDSI 2001 done  PDSI 2002 done  PDSI 2003 done  PDSI 2004 done  PDSI 2005 done  PDSI 2006 done  PDSI 2007 done  PDSI 2008 done  PDSI 2009 done  PDSI 2010 done  PDSI 2011 done  PDSI 2012 done  PDSI 2013 done  PDSI 2014 done  PDSI 2015 done  PDSI 2016 done  PDSI 2017 done  PDSI 2018 done  PDSI 2019 done  PDSI 2020 done  PDSI 2021 done  PDSI 2022 done  PDSI 2023 done  PDSI 2024 done  PDSI 2025 done  PDSI 2026 done
+- gridMET daily: 78,441 rows, 2001-03-01 → **2026-11-11** (last available date)
+- GRIDMET/DROUGHT pdsi: 15,686 rows, 2001-03-01 → 2026-11-06
+- Location-years (2001–2025) with < 275 days: 0
+- Missing daily values: none

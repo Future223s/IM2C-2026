@@ -1,0 +1,3052 @@
+name,year,product,band,value,n
+Montpelier,2021,VIIRS,mid_greenup,124.0,1
+Montpelier,2021,VIIRS,mid_greenup,125.0,3
+Montpelier,2021,VIIRS,mid_greenup,126.0,1
+Montpelier,2021,VIIRS,mid_greenup,127.0,1
+Montpelier,2021,VIIRS,mid_greenup,128.0,4
+Montpelier,2021,VIIRS,mid_greenup,129.0,5
+Montpelier,2021,VIIRS,mid_greenup,130.0,5
+Montpelier,2021,VIIRS,mid_greenup,131.0,3
+Montpelier,2021,VIIRS,mid_greenup,132.0,6
+Montpelier,2021,VIIRS,mid_greenup,133.0,15
+Montpelier,2021,VIIRS,mid_greenup,134.0,11
+Montpelier,2021,VIIRS,mid_greenup,135.0,23
+Montpelier,2021,VIIRS,mid_greenup,136.0,23
+Montpelier,2021,VIIRS,mid_greenup,137.0,22
+Montpelier,2021,VIIRS,mid_greenup,138.0,39
+Montpelier,2021,VIIRS,mid_greenup,139.0,31
+Montpelier,2021,VIIRS,mid_greenup,140.0,41
+Montpelier,2021,VIIRS,mid_greenup,141.0,54
+Montpelier,2021,VIIRS,mid_greenup,142.0,61
+Montpelier,2021,VIIRS,mid_greenup,143.0,100
+Montpelier,2021,VIIRS,mid_greenup,144.0,104
+Montpelier,2021,VIIRS,mid_greenup,145.0,146
+Montpelier,2021,VIIRS,mid_greenup,146.0,187
+Montpelier,2021,VIIRS,mid_greenup,147.0,269
+Montpelier,2021,VIIRS,mid_greenup,148.0,366
+Montpelier,2021,VIIRS,mid_greenup,149.0,495
+Montpelier,2021,VIIRS,mid_greenup,150.0,654
+Montpelier,2021,VIIRS,mid_greenup,151.0,773
+Montpelier,2021,VIIRS,mid_greenup,152.0,721
+Montpelier,2021,VIIRS,mid_greenup,153.0,765
+Montpelier,2021,VIIRS,mid_greenup,154.0,661
+Montpelier,2021,VIIRS,mid_greenup,155.0,569
+Montpelier,2021,VIIRS,mid_greenup,156.0,472
+Montpelier,2021,VIIRS,mid_greenup,157.0,316
+Montpelier,2021,VIIRS,mid_greenup,158.0,225
+Montpelier,2021,VIIRS,mid_greenup,159.0,176
+Montpelier,2021,VIIRS,mid_greenup,160.0,87
+Montpelier,2021,VIIRS,mid_greenup,161.0,66
+Montpelier,2021,VIIRS,mid_greenup,162.0,44
+Montpelier,2021,VIIRS,mid_greenup,163.0,30
+Montpelier,2021,VIIRS,mid_greenup,164.0,12
+Montpelier,2021,VIIRS,mid_greenup,165.0,6
+Montpelier,2021,VIIRS,mid_greenup,166.0,8
+Montpelier,2021,VIIRS,mid_greenup,167.0,1
+Montpelier,2021,VIIRS,mid_greenup,168.0,2
+Montpelier,2021,VIIRS,mid_greenup,169.0,1
+Montpelier,2021,VIIRS,mid_greenup,170.0,1
+Montpelier,2021,VIIRS,mid_greenup,171.0,2
+Montpelier,2021,VIIRS,senescence,194.0,1
+Montpelier,2021,VIIRS,senescence,197.0,1
+Montpelier,2021,VIIRS,senescence,199.0,1
+Montpelier,2021,VIIRS,senescence,200.0,1
+Montpelier,2021,VIIRS,senescence,201.0,1
+Montpelier,2021,VIIRS,senescence,202.0,1
+Montpelier,2021,VIIRS,senescence,203.0,1
+Montpelier,2021,VIIRS,senescence,204.0,2
+Montpelier,2021,VIIRS,senescence,205.0,2
+Montpelier,2021,VIIRS,senescence,206.0,1
+Montpelier,2021,VIIRS,senescence,207.0,4
+Montpelier,2021,VIIRS,senescence,208.0,7
+Montpelier,2021,VIIRS,senescence,209.0,8
+Montpelier,2021,VIIRS,senescence,210.0,4
+Montpelier,2021,VIIRS,senescence,211.0,9
+Montpelier,2021,VIIRS,senescence,212.0,8
+Montpelier,2021,VIIRS,senescence,213.0,18
+Montpelier,2021,VIIRS,senescence,214.0,12
+Montpelier,2021,VIIRS,senescence,215.0,20
+Montpelier,2021,VIIRS,senescence,216.0,25
+Montpelier,2021,VIIRS,senescence,217.0,15
+Montpelier,2021,VIIRS,senescence,218.0,25
+Montpelier,2021,VIIRS,senescence,219.0,46
+Montpelier,2021,VIIRS,senescence,220.0,33
+Montpelier,2021,VIIRS,senescence,221.0,35
+Montpelier,2021,VIIRS,senescence,222.0,76
+Montpelier,2021,VIIRS,senescence,223.0,56
+Montpelier,2021,VIIRS,senescence,224.0,70
+Montpelier,2021,VIIRS,senescence,225.0,82
+Montpelier,2021,VIIRS,senescence,226.0,91
+Montpelier,2021,VIIRS,senescence,227.0,109
+Montpelier,2021,VIIRS,senescence,228.0,116
+Montpelier,2021,VIIRS,senescence,229.0,133
+Montpelier,2021,VIIRS,senescence,230.0,148
+Montpelier,2021,VIIRS,senescence,231.0,145
+Montpelier,2021,VIIRS,senescence,232.0,165
+Montpelier,2021,VIIRS,senescence,233.0,190
+Montpelier,2021,VIIRS,senescence,234.0,204
+Montpelier,2021,VIIRS,senescence,235.0,235
+Montpelier,2021,VIIRS,senescence,236.0,240
+Montpelier,2021,VIIRS,senescence,237.0,223
+Montpelier,2021,VIIRS,senescence,238.0,232
+Montpelier,2021,VIIRS,senescence,239.0,236
+Montpelier,2021,VIIRS,senescence,240.0,257
+Montpelier,2021,VIIRS,senescence,241.0,254
+Montpelier,2021,VIIRS,senescence,242.0,270
+Montpelier,2021,VIIRS,senescence,243.0,247
+Montpelier,2021,VIIRS,senescence,244.0,256
+Montpelier,2021,VIIRS,senescence,245.0,259
+Montpelier,2021,VIIRS,senescence,246.0,255
+Montpelier,2021,VIIRS,senescence,247.0,226
+Montpelier,2021,VIIRS,senescence,248.0,248
+Montpelier,2021,VIIRS,senescence,249.0,225
+Montpelier,2021,VIIRS,senescence,250.0,208
+Montpelier,2021,VIIRS,senescence,251.0,185
+Montpelier,2021,VIIRS,senescence,252.0,178
+Montpelier,2021,VIIRS,senescence,253.0,204
+Montpelier,2021,VIIRS,senescence,254.0,169
+Montpelier,2021,VIIRS,senescence,255.0,137
+Montpelier,2021,VIIRS,senescence,256.0,150
+Montpelier,2021,VIIRS,senescence,257.0,115
+Montpelier,2021,VIIRS,senescence,258.0,114
+Montpelier,2021,VIIRS,senescence,259.0,93
+Montpelier,2021,VIIRS,senescence,260.0,86
+Montpelier,2021,VIIRS,senescence,261.0,65
+Montpelier,2021,VIIRS,senescence,262.0,67
+Montpelier,2021,VIIRS,senescence,263.0,50
+Montpelier,2021,VIIRS,senescence,264.0,40
+Montpelier,2021,VIIRS,senescence,265.0,44
+Montpelier,2021,VIIRS,senescence,266.0,40
+Montpelier,2021,VIIRS,senescence,267.0,26
+Montpelier,2021,VIIRS,senescence,268.0,25
+Montpelier,2021,VIIRS,senescence,269.0,28
+Montpelier,2021,VIIRS,senescence,270.0,13
+Montpelier,2021,VIIRS,senescence,271.0,11
+Montpelier,2021,VIIRS,senescence,272.0,5
+Montpelier,2021,VIIRS,senescence,273.0,5
+Montpelier,2021,VIIRS,senescence,274.0,6
+Montpelier,2021,VIIRS,senescence,275.0,3
+Montpelier,2021,VIIRS,senescence,276.0,2
+Montpelier,2021,VIIRS,senescence,277.0,6
+Montpelier,2021,VIIRS,senescence,278.0,1
+Montpelier,2021,VIIRS,senescence,279.0,1
+Montpelier,2021,VIIRS,senescence,281.0,1
+Montpelier,2021,VIIRS,senescence,286.0,1
+Montpelier,2021,VIIRS,mid_greendown,249.0,1
+Montpelier,2021,VIIRS,mid_greendown,256.0,1
+Montpelier,2021,VIIRS,mid_greendown,258.0,1
+Montpelier,2021,VIIRS,mid_greendown,260.0,1
+Montpelier,2021,VIIRS,mid_greendown,261.0,4
+Montpelier,2021,VIIRS,mid_greendown,262.0,9
+Montpelier,2021,VIIRS,mid_greendown,263.0,8
+Montpelier,2021,VIIRS,mid_greendown,264.0,8
+Montpelier,2021,VIIRS,mid_greendown,265.0,13
+Montpelier,2021,VIIRS,mid_greendown,266.0,28
+Montpelier,2021,VIIRS,mid_greendown,267.0,26
+Montpelier,2021,VIIRS,mid_greendown,268.0,37
+Montpelier,2021,VIIRS,mid_greendown,269.0,62
+Montpelier,2021,VIIRS,mid_greendown,270.0,69
+Montpelier,2021,VIIRS,mid_greendown,271.0,103
+Montpelier,2021,VIIRS,mid_greendown,272.0,109
+Montpelier,2021,VIIRS,mid_greendown,273.0,151
+Montpelier,2021,VIIRS,mid_greendown,274.0,174
+Montpelier,2021,VIIRS,mid_greendown,275.0,245
+Montpelier,2021,VIIRS,mid_greendown,276.0,289
+Montpelier,2021,VIIRS,mid_greendown,277.0,303
+Montpelier,2021,VIIRS,mid_greendown,278.0,356
+Montpelier,2021,VIIRS,mid_greendown,279.0,409
+Montpelier,2021,VIIRS,mid_greendown,280.0,511
+Montpelier,2021,VIIRS,mid_greendown,281.0,493
+Montpelier,2021,VIIRS,mid_greendown,282.0,517
+Montpelier,2021,VIIRS,mid_greendown,283.0,466
+Montpelier,2021,VIIRS,mid_greendown,284.0,462
+Montpelier,2021,VIIRS,mid_greendown,285.0,466
+Montpelier,2021,VIIRS,mid_greendown,286.0,433
+Montpelier,2021,VIIRS,mid_greendown,287.0,361
+Montpelier,2021,VIIRS,mid_greendown,288.0,329
+Montpelier,2021,VIIRS,mid_greendown,289.0,282
+Montpelier,2021,VIIRS,mid_greendown,290.0,219
+Montpelier,2021,VIIRS,mid_greendown,291.0,186
+Montpelier,2021,VIIRS,mid_greendown,292.0,128
+Montpelier,2021,VIIRS,mid_greendown,293.0,85
+Montpelier,2021,VIIRS,mid_greendown,294.0,65
+Montpelier,2021,VIIRS,mid_greendown,295.0,46
+Montpelier,2021,VIIRS,mid_greendown,296.0,35
+Montpelier,2021,VIIRS,mid_greendown,297.0,32
+Montpelier,2021,VIIRS,mid_greendown,298.0,26
+Montpelier,2021,VIIRS,mid_greendown,299.0,14
+Montpelier,2021,VIIRS,mid_greendown,300.0,14
+Montpelier,2021,VIIRS,mid_greendown,301.0,5
+Montpelier,2021,VIIRS,mid_greendown,302.0,6
+Montpelier,2021,VIIRS,mid_greendown,303.0,7
+Montpelier,2021,VIIRS,mid_greendown,304.0,2
+Montpelier,2021,VIIRS,mid_greendown,305.0,2
+Montpelier,2021,VIIRS,mid_greendown,307.0,2
+Montpelier,2021,VIIRS,mid_greendown,309.0,5
+Montpelier,2021,VIIRS,mid_greendown,312.0,1
+Montpelier,2021,VIIRS,mid_greendown,317.0,1
+Montpelier,2021,VIIRS,dormancy,285.0,1
+Montpelier,2021,VIIRS,dormancy,291.0,1
+Montpelier,2021,VIIRS,dormancy,292.0,2
+Montpelier,2021,VIIRS,dormancy,298.0,3
+Montpelier,2021,VIIRS,dormancy,299.0,1
+Montpelier,2021,VIIRS,dormancy,300.0,5
+Montpelier,2021,VIIRS,dormancy,301.0,6
+Montpelier,2021,VIIRS,dormancy,302.0,1
+Montpelier,2021,VIIRS,dormancy,303.0,5
+Montpelier,2021,VIIRS,dormancy,304.0,8
+Montpelier,2021,VIIRS,dormancy,305.0,12
+Montpelier,2021,VIIRS,dormancy,306.0,20
+Montpelier,2021,VIIRS,dormancy,307.0,16
+Montpelier,2021,VIIRS,dormancy,308.0,35
+Montpelier,2021,VIIRS,dormancy,309.0,45
+Montpelier,2021,VIIRS,dormancy,310.0,58
+Montpelier,2021,VIIRS,dormancy,311.0,76
+Montpelier,2021,VIIRS,dormancy,312.0,125
+Montpelier,2021,VIIRS,dormancy,313.0,162
+Montpelier,2021,VIIRS,dormancy,314.0,196
+Montpelier,2021,VIIRS,dormancy,315.0,261
+Montpelier,2021,VIIRS,dormancy,316.0,290
+Montpelier,2021,VIIRS,dormancy,317.0,382
+Montpelier,2021,VIIRS,dormancy,318.0,446
+Montpelier,2021,VIIRS,dormancy,319.0,479
+Montpelier,2021,VIIRS,dormancy,320.0,510
+Montpelier,2021,VIIRS,dormancy,321.0,520
+Montpelier,2021,VIIRS,dormancy,322.0,499
+Montpelier,2021,VIIRS,dormancy,323.0,517
+Montpelier,2021,VIIRS,dormancy,324.0,466
+Montpelier,2021,VIIRS,dormancy,325.0,437
+Montpelier,2021,VIIRS,dormancy,326.0,347
+Montpelier,2021,VIIRS,dormancy,327.0,324
+Montpelier,2021,VIIRS,dormancy,328.0,267
+Montpelier,2021,VIIRS,dormancy,329.0,214
+Montpelier,2021,VIIRS,dormancy,330.0,178
+Montpelier,2021,VIIRS,dormancy,331.0,135
+Montpelier,2021,VIIRS,dormancy,332.0,91
+Montpelier,2021,VIIRS,dormancy,333.0,101
+Montpelier,2021,VIIRS,dormancy,334.0,60
+Montpelier,2021,VIIRS,dormancy,335.0,62
+Montpelier,2021,VIIRS,dormancy,336.0,47
+Montpelier,2021,VIIRS,dormancy,337.0,32
+Montpelier,2021,VIIRS,dormancy,338.0,28
+Montpelier,2021,VIIRS,dormancy,339.0,24
+Montpelier,2021,VIIRS,dormancy,340.0,20
+Montpelier,2021,VIIRS,dormancy,341.0,21
+Montpelier,2021,VIIRS,dormancy,342.0,19
+Montpelier,2021,VIIRS,dormancy,343.0,11
+Montpelier,2021,VIIRS,dormancy,344.0,8
+Montpelier,2021,VIIRS,dormancy,345.0,7
+Montpelier,2021,VIIRS,dormancy,346.0,6
+Montpelier,2021,VIIRS,dormancy,347.0,6
+Montpelier,2021,VIIRS,dormancy,349.0,1
+Montpelier,2021,VIIRS,dormancy,350.0,1
+Montpelier,2021,VIIRS,dormancy,351.0,3
+Montpelier,2021,VIIRS,dormancy,352.0,1
+Montpelier,2021,VIIRS,dormancy,353.0,1
+Montpelier,2021,VIIRS,dormancy,355.0,2
+Montpelier,2021,VIIRS,dormancy,356.0,2
+Montpelier,2021,VIIRS,dormancy,359.0,1
+Montpelier,2021,VIIRS,dormancy,360.0,2
+Montpelier,2021,VIIRS,dormancy,364.0,1
+Montpelier,2021,VIIRS,forest_px,1.0,16052
+Old Forge,2021,VIIRS,mid_greenup,118.0,1
+Old Forge,2021,VIIRS,mid_greenup,125.0,1
+Old Forge,2021,VIIRS,mid_greenup,131.0,1
+Old Forge,2021,VIIRS,mid_greenup,132.0,3
+Old Forge,2021,VIIRS,mid_greenup,133.0,4
+Old Forge,2021,VIIRS,mid_greenup,134.0,1
+Old Forge,2021,VIIRS,mid_greenup,135.0,1
+Old Forge,2021,VIIRS,mid_greenup,136.0,1
+Old Forge,2021,VIIRS,mid_greenup,137.0,3
+Old Forge,2021,VIIRS,mid_greenup,138.0,4
+Old Forge,2021,VIIRS,mid_greenup,139.0,4
+Old Forge,2021,VIIRS,mid_greenup,140.0,10
+Old Forge,2021,VIIRS,mid_greenup,141.0,10
+Old Forge,2021,VIIRS,mid_greenup,142.0,10
+Old Forge,2021,VIIRS,mid_greenup,143.0,8
+Old Forge,2021,VIIRS,mid_greenup,144.0,12
+Old Forge,2021,VIIRS,mid_greenup,145.0,27
+Old Forge,2021,VIIRS,mid_greenup,146.0,31
+Old Forge,2021,VIIRS,mid_greenup,147.0,42
+Old Forge,2021,VIIRS,mid_greenup,148.0,61
+Old Forge,2021,VIIRS,mid_greenup,149.0,97
+Old Forge,2021,VIIRS,mid_greenup,150.0,171
+Old Forge,2021,VIIRS,mid_greenup,151.0,190
+Old Forge,2021,VIIRS,mid_greenup,152.0,283
+Old Forge,2021,VIIRS,mid_greenup,153.0,384
+Old Forge,2021,VIIRS,mid_greenup,154.0,459
+Old Forge,2021,VIIRS,mid_greenup,155.0,568
+Old Forge,2021,VIIRS,mid_greenup,156.0,542
+Old Forge,2021,VIIRS,mid_greenup,157.0,536
+Old Forge,2021,VIIRS,mid_greenup,158.0,428
+Old Forge,2021,VIIRS,mid_greenup,159.0,356
+Old Forge,2021,VIIRS,mid_greenup,160.0,239
+Old Forge,2021,VIIRS,mid_greenup,161.0,146
+Old Forge,2021,VIIRS,mid_greenup,162.0,83
+Old Forge,2021,VIIRS,mid_greenup,163.0,62
+Old Forge,2021,VIIRS,mid_greenup,164.0,31
+Old Forge,2021,VIIRS,mid_greenup,165.0,16
+Old Forge,2021,VIIRS,mid_greenup,166.0,10
+Old Forge,2021,VIIRS,mid_greenup,167.0,2
+Old Forge,2021,VIIRS,mid_greenup,168.0,1
+Old Forge,2021,VIIRS,mid_greenup,169.0,2
+Old Forge,2021,VIIRS,mid_greenup,170.0,1
+Old Forge,2021,VIIRS,mid_greenup,171.0,1
+Old Forge,2021,VIIRS,mid_greenup,176.0,1
+Old Forge,2021,VIIRS,senescence,183.0,1
+Old Forge,2021,VIIRS,senescence,190.0,1
+Old Forge,2021,VIIRS,senescence,191.0,2
+Old Forge,2021,VIIRS,senescence,192.0,1
+Old Forge,2021,VIIRS,senescence,196.0,1
+Old Forge,2021,VIIRS,senescence,198.0,1
+Old Forge,2021,VIIRS,senescence,200.0,2
+Old Forge,2021,VIIRS,senescence,201.0,1
+Old Forge,2021,VIIRS,senescence,202.0,1
+Old Forge,2021,VIIRS,senescence,203.0,3
+Old Forge,2021,VIIRS,senescence,204.0,2
+Old Forge,2021,VIIRS,senescence,205.0,3
+Old Forge,2021,VIIRS,senescence,206.0,5
+Old Forge,2021,VIIRS,senescence,207.0,2
+Old Forge,2021,VIIRS,senescence,208.0,2
+Old Forge,2021,VIIRS,senescence,209.0,2
+Old Forge,2021,VIIRS,senescence,210.0,4
+Old Forge,2021,VIIRS,senescence,211.0,7
+Old Forge,2021,VIIRS,senescence,212.0,11
+Old Forge,2021,VIIRS,senescence,213.0,10
+Old Forge,2021,VIIRS,senescence,214.0,19
+Old Forge,2021,VIIRS,senescence,215.0,14
+Old Forge,2021,VIIRS,senescence,216.0,13
+Old Forge,2021,VIIRS,senescence,217.0,16
+Old Forge,2021,VIIRS,senescence,218.0,15
+Old Forge,2021,VIIRS,senescence,219.0,21
+Old Forge,2021,VIIRS,senescence,220.0,23
+Old Forge,2021,VIIRS,senescence,221.0,32
+Old Forge,2021,VIIRS,senescence,222.0,39
+Old Forge,2021,VIIRS,senescence,223.0,49
+Old Forge,2021,VIIRS,senescence,224.0,48
+Old Forge,2021,VIIRS,senescence,225.0,33
+Old Forge,2021,VIIRS,senescence,226.0,60
+Old Forge,2021,VIIRS,senescence,227.0,54
+Old Forge,2021,VIIRS,senescence,228.0,80
+Old Forge,2021,VIIRS,senescence,229.0,73
+Old Forge,2021,VIIRS,senescence,230.0,68
+Old Forge,2021,VIIRS,senescence,231.0,80
+Old Forge,2021,VIIRS,senescence,232.0,89
+Old Forge,2021,VIIRS,senescence,233.0,91
+Old Forge,2021,VIIRS,senescence,234.0,126
+Old Forge,2021,VIIRS,senescence,235.0,115
+Old Forge,2021,VIIRS,senescence,236.0,131
+Old Forge,2021,VIIRS,senescence,237.0,140
+Old Forge,2021,VIIRS,senescence,238.0,134
+Old Forge,2021,VIIRS,senescence,239.0,130
+Old Forge,2021,VIIRS,senescence,240.0,154
+Old Forge,2021,VIIRS,senescence,241.0,154
+Old Forge,2021,VIIRS,senescence,242.0,184
+Old Forge,2021,VIIRS,senescence,243.0,168
+Old Forge,2021,VIIRS,senescence,244.0,177
+Old Forge,2021,VIIRS,senescence,245.0,170
+Old Forge,2021,VIIRS,senescence,246.0,176
+Old Forge,2021,VIIRS,senescence,247.0,158
+Old Forge,2021,VIIRS,senescence,248.0,189
+Old Forge,2021,VIIRS,senescence,249.0,181
+Old Forge,2021,VIIRS,senescence,250.0,141
+Old Forge,2021,VIIRS,senescence,251.0,134
+Old Forge,2021,VIIRS,senescence,252.0,130
+Old Forge,2021,VIIRS,senescence,253.0,130
+Old Forge,2021,VIIRS,senescence,254.0,112
+Old Forge,2021,VIIRS,senescence,255.0,128
+Old Forge,2021,VIIRS,senescence,256.0,76
+Old Forge,2021,VIIRS,senescence,257.0,72
+Old Forge,2021,VIIRS,senescence,258.0,70
+Old Forge,2021,VIIRS,senescence,259.0,66
+Old Forge,2021,VIIRS,senescence,260.0,54
+Old Forge,2021,VIIRS,senescence,261.0,43
+Old Forge,2021,VIIRS,senescence,262.0,38
+Old Forge,2021,VIIRS,senescence,263.0,32
+Old Forge,2021,VIIRS,senescence,264.0,26
+Old Forge,2021,VIIRS,senescence,265.0,24
+Old Forge,2021,VIIRS,senescence,266.0,21
+Old Forge,2021,VIIRS,senescence,267.0,11
+Old Forge,2021,VIIRS,senescence,268.0,10
+Old Forge,2021,VIIRS,senescence,269.0,8
+Old Forge,2021,VIIRS,senescence,270.0,11
+Old Forge,2021,VIIRS,senescence,271.0,7
+Old Forge,2021,VIIRS,senescence,272.0,10
+Old Forge,2021,VIIRS,senescence,273.0,7
+Old Forge,2021,VIIRS,senescence,274.0,3
+Old Forge,2021,VIIRS,senescence,275.0,3
+Old Forge,2021,VIIRS,senescence,276.0,2
+Old Forge,2021,VIIRS,senescence,277.0,1
+Old Forge,2021,VIIRS,senescence,278.0,2
+Old Forge,2021,VIIRS,senescence,280.0,2
+Old Forge,2021,VIIRS,senescence,281.0,1
+Old Forge,2021,VIIRS,senescence,283.0,2
+Old Forge,2021,VIIRS,senescence,289.0,1
+Old Forge,2021,VIIRS,mid_greendown,207.0,1
+Old Forge,2021,VIIRS,mid_greendown,238.0,1
+Old Forge,2021,VIIRS,mid_greendown,247.0,1
+Old Forge,2021,VIIRS,mid_greendown,252.0,1
+Old Forge,2021,VIIRS,mid_greendown,254.0,1
+Old Forge,2021,VIIRS,mid_greendown,256.0,1
+Old Forge,2021,VIIRS,mid_greendown,260.0,3
+Old Forge,2021,VIIRS,mid_greendown,261.0,4
+Old Forge,2021,VIIRS,mid_greendown,262.0,4
+Old Forge,2021,VIIRS,mid_greendown,263.0,4
+Old Forge,2021,VIIRS,mid_greendown,264.0,6
+Old Forge,2021,VIIRS,mid_greendown,265.0,9
+Old Forge,2021,VIIRS,mid_greendown,266.0,12
+Old Forge,2021,VIIRS,mid_greendown,267.0,19
+Old Forge,2021,VIIRS,mid_greendown,268.0,14
+Old Forge,2021,VIIRS,mid_greendown,269.0,23
+Old Forge,2021,VIIRS,mid_greendown,270.0,43
+Old Forge,2021,VIIRS,mid_greendown,271.0,57
+Old Forge,2021,VIIRS,mid_greendown,272.0,56
+Old Forge,2021,VIIRS,mid_greendown,273.0,95
+Old Forge,2021,VIIRS,mid_greendown,274.0,114
+Old Forge,2021,VIIRS,mid_greendown,275.0,138
+Old Forge,2021,VIIRS,mid_greendown,276.0,191
+Old Forge,2021,VIIRS,mid_greendown,277.0,200
+Old Forge,2021,VIIRS,mid_greendown,278.0,245
+Old Forge,2021,VIIRS,mid_greendown,279.0,270
+Old Forge,2021,VIIRS,mid_greendown,280.0,312
+Old Forge,2021,VIIRS,mid_greendown,281.0,340
+Old Forge,2021,VIIRS,mid_greendown,282.0,367
+Old Forge,2021,VIIRS,mid_greendown,283.0,334
+Old Forge,2021,VIIRS,mid_greendown,284.0,349
+Old Forge,2021,VIIRS,mid_greendown,285.0,331
+Old Forge,2021,VIIRS,mid_greendown,286.0,298
+Old Forge,2021,VIIRS,mid_greendown,287.0,236
+Old Forge,2021,VIIRS,mid_greendown,288.0,201
+Old Forge,2021,VIIRS,mid_greendown,289.0,153
+Old Forge,2021,VIIRS,mid_greendown,290.0,106
+Old Forge,2021,VIIRS,mid_greendown,291.0,87
+Old Forge,2021,VIIRS,mid_greendown,292.0,65
+Old Forge,2021,VIIRS,mid_greendown,293.0,50
+Old Forge,2021,VIIRS,mid_greendown,294.0,33
+Old Forge,2021,VIIRS,mid_greendown,295.0,19
+Old Forge,2021,VIIRS,mid_greendown,296.0,13
+Old Forge,2021,VIIRS,mid_greendown,297.0,8
+Old Forge,2021,VIIRS,mid_greendown,298.0,4
+Old Forge,2021,VIIRS,mid_greendown,299.0,3
+Old Forge,2021,VIIRS,mid_greendown,300.0,7
+Old Forge,2021,VIIRS,mid_greendown,301.0,5
+Old Forge,2021,VIIRS,mid_greendown,302.0,5
+Old Forge,2021,VIIRS,mid_greendown,304.0,1
+Old Forge,2021,VIIRS,mid_greendown,307.0,1
+Old Forge,2021,VIIRS,mid_greendown,308.0,1
+Old Forge,2021,VIIRS,mid_greendown,311.0,1
+Old Forge,2021,VIIRS,mid_greendown,316.0,1
+Old Forge,2021,VIIRS,dormancy,224.0,1
+Old Forge,2021,VIIRS,dormancy,274.0,1
+Old Forge,2021,VIIRS,dormancy,286.0,1
+Old Forge,2021,VIIRS,dormancy,294.0,1
+Old Forge,2021,VIIRS,dormancy,295.0,1
+Old Forge,2021,VIIRS,dormancy,296.0,4
+Old Forge,2021,VIIRS,dormancy,297.0,3
+Old Forge,2021,VIIRS,dormancy,298.0,2
+Old Forge,2021,VIIRS,dormancy,299.0,1
+Old Forge,2021,VIIRS,dormancy,300.0,1
+Old Forge,2021,VIIRS,dormancy,301.0,2
+Old Forge,2021,VIIRS,dormancy,302.0,5
+Old Forge,2021,VIIRS,dormancy,303.0,6
+Old Forge,2021,VIIRS,dormancy,304.0,9
+Old Forge,2021,VIIRS,dormancy,305.0,13
+Old Forge,2021,VIIRS,dormancy,306.0,17
+Old Forge,2021,VIIRS,dormancy,307.0,30
+Old Forge,2021,VIIRS,dormancy,308.0,29
+Old Forge,2021,VIIRS,dormancy,309.0,45
+Old Forge,2021,VIIRS,dormancy,310.0,64
+Old Forge,2021,VIIRS,dormancy,311.0,61
+Old Forge,2021,VIIRS,dormancy,312.0,72
+Old Forge,2021,VIIRS,dormancy,313.0,110
+Old Forge,2021,VIIRS,dormancy,314.0,137
+Old Forge,2021,VIIRS,dormancy,315.0,177
+Old Forge,2021,VIIRS,dormancy,316.0,211
+Old Forge,2021,VIIRS,dormancy,317.0,261
+Old Forge,2021,VIIRS,dormancy,318.0,267
+Old Forge,2021,VIIRS,dormancy,319.0,306
+Old Forge,2021,VIIRS,dormancy,320.0,350
+Old Forge,2021,VIIRS,dormancy,321.0,340
+Old Forge,2021,VIIRS,dormancy,322.0,356
+Old Forge,2021,VIIRS,dormancy,323.0,282
+Old Forge,2021,VIIRS,dormancy,324.0,283
+Old Forge,2021,VIIRS,dormancy,325.0,276
+Old Forge,2021,VIIRS,dormancy,326.0,206
+Old Forge,2021,VIIRS,dormancy,327.0,207
+Old Forge,2021,VIIRS,dormancy,328.0,163
+Old Forge,2021,VIIRS,dormancy,329.0,132
+Old Forge,2021,VIIRS,dormancy,330.0,93
+Old Forge,2021,VIIRS,dormancy,331.0,78
+Old Forge,2021,VIIRS,dormancy,332.0,63
+Old Forge,2021,VIIRS,dormancy,333.0,36
+Old Forge,2021,VIIRS,dormancy,334.0,31
+Old Forge,2021,VIIRS,dormancy,335.0,24
+Old Forge,2021,VIIRS,dormancy,336.0,16
+Old Forge,2021,VIIRS,dormancy,337.0,18
+Old Forge,2021,VIIRS,dormancy,338.0,13
+Old Forge,2021,VIIRS,dormancy,339.0,4
+Old Forge,2021,VIIRS,dormancy,340.0,11
+Old Forge,2021,VIIRS,dormancy,341.0,5
+Old Forge,2021,VIIRS,dormancy,342.0,4
+Old Forge,2021,VIIRS,dormancy,343.0,3
+Old Forge,2021,VIIRS,dormancy,344.0,2
+Old Forge,2021,VIIRS,dormancy,346.0,1
+Old Forge,2021,VIIRS,dormancy,348.0,2
+Old Forge,2021,VIIRS,dormancy,349.0,1
+Old Forge,2021,VIIRS,dormancy,350.0,1
+Old Forge,2021,VIIRS,dormancy,354.0,1
+Old Forge,2021,VIIRS,dormancy,357.0,1
+Old Forge,2021,VIIRS,dormancy,362.0,1
+Old Forge,2021,VIIRS,dormancy,363.0,1
+Old Forge,2021,VIIRS,dormancy,365.0,1
+Old Forge,2021,VIIRS,forest_px,1.0,14576
+Binghamton,2021,VIIRS,mid_greenup,122.0,1
+Binghamton,2021,VIIRS,mid_greenup,124.0,1
+Binghamton,2021,VIIRS,mid_greenup,125.0,2
+Binghamton,2021,VIIRS,mid_greenup,126.0,2
+Binghamton,2021,VIIRS,mid_greenup,127.0,2
+Binghamton,2021,VIIRS,mid_greenup,128.0,2
+Binghamton,2021,VIIRS,mid_greenup,129.0,5
+Binghamton,2021,VIIRS,mid_greenup,130.0,2
+Binghamton,2021,VIIRS,mid_greenup,131.0,4
+Binghamton,2021,VIIRS,mid_greenup,132.0,3
+Binghamton,2021,VIIRS,mid_greenup,133.0,9
+Binghamton,2021,VIIRS,mid_greenup,134.0,12
+Binghamton,2021,VIIRS,mid_greenup,135.0,8
+Binghamton,2021,VIIRS,mid_greenup,136.0,14
+Binghamton,2021,VIIRS,mid_greenup,137.0,30
+Binghamton,2021,VIIRS,mid_greenup,138.0,42
+Binghamton,2021,VIIRS,mid_greenup,139.0,65
+Binghamton,2021,VIIRS,mid_greenup,140.0,104
+Binghamton,2021,VIIRS,mid_greenup,141.0,126
+Binghamton,2021,VIIRS,mid_greenup,142.0,217
+Binghamton,2021,VIIRS,mid_greenup,143.0,274
+Binghamton,2021,VIIRS,mid_greenup,144.0,355
+Binghamton,2021,VIIRS,mid_greenup,145.0,533
+Binghamton,2021,VIIRS,mid_greenup,146.0,640
+Binghamton,2021,VIIRS,mid_greenup,147.0,761
+Binghamton,2021,VIIRS,mid_greenup,148.0,791
+Binghamton,2021,VIIRS,mid_greenup,149.0,781
+Binghamton,2021,VIIRS,mid_greenup,150.0,667
+Binghamton,2021,VIIRS,mid_greenup,151.0,556
+Binghamton,2021,VIIRS,mid_greenup,152.0,414
+Binghamton,2021,VIIRS,mid_greenup,153.0,259
+Binghamton,2021,VIIRS,mid_greenup,154.0,150
+Binghamton,2021,VIIRS,mid_greenup,155.0,88
+Binghamton,2021,VIIRS,mid_greenup,156.0,58
+Binghamton,2021,VIIRS,mid_greenup,157.0,26
+Binghamton,2021,VIIRS,mid_greenup,158.0,15
+Binghamton,2021,VIIRS,mid_greenup,159.0,4
+Binghamton,2021,VIIRS,mid_greenup,160.0,7
+Binghamton,2021,VIIRS,mid_greenup,163.0,2
+Binghamton,2021,VIIRS,mid_greenup,165.0,1
+Binghamton,2021,VIIRS,senescence,183.0,1
+Binghamton,2021,VIIRS,senescence,188.0,1
+Binghamton,2021,VIIRS,senescence,190.0,3
+Binghamton,2021,VIIRS,senescence,193.0,3
+Binghamton,2021,VIIRS,senescence,194.0,3
+Binghamton,2021,VIIRS,senescence,195.0,3
+Binghamton,2021,VIIRS,senescence,196.0,2
+Binghamton,2021,VIIRS,senescence,197.0,7
+Binghamton,2021,VIIRS,senescence,198.0,5
+Binghamton,2021,VIIRS,senescence,199.0,9
+Binghamton,2021,VIIRS,senescence,200.0,10
+Binghamton,2021,VIIRS,senescence,201.0,5
+Binghamton,2021,VIIRS,senescence,202.0,13
+Binghamton,2021,VIIRS,senescence,203.0,9
+Binghamton,2021,VIIRS,senescence,204.0,12
+Binghamton,2021,VIIRS,senescence,205.0,16
+Binghamton,2021,VIIRS,senescence,206.0,21
+Binghamton,2021,VIIRS,senescence,207.0,28
+Binghamton,2021,VIIRS,senescence,208.0,19
+Binghamton,2021,VIIRS,senescence,209.0,35
+Binghamton,2021,VIIRS,senescence,210.0,34
+Binghamton,2021,VIIRS,senescence,211.0,45
+Binghamton,2021,VIIRS,senescence,212.0,43
+Binghamton,2021,VIIRS,senescence,213.0,50
+Binghamton,2021,VIIRS,senescence,214.0,51
+Binghamton,2021,VIIRS,senescence,215.0,53
+Binghamton,2021,VIIRS,senescence,216.0,73
+Binghamton,2021,VIIRS,senescence,217.0,70
+Binghamton,2021,VIIRS,senescence,218.0,89
+Binghamton,2021,VIIRS,senescence,219.0,99
+Binghamton,2021,VIIRS,senescence,220.0,109
+Binghamton,2021,VIIRS,senescence,221.0,102
+Binghamton,2021,VIIRS,senescence,222.0,118
+Binghamton,2021,VIIRS,senescence,223.0,147
+Binghamton,2021,VIIRS,senescence,224.0,135
+Binghamton,2021,VIIRS,senescence,225.0,155
+Binghamton,2021,VIIRS,senescence,226.0,193
+Binghamton,2021,VIIRS,senescence,227.0,198
+Binghamton,2021,VIIRS,senescence,228.0,190
+Binghamton,2021,VIIRS,senescence,229.0,194
+Binghamton,2021,VIIRS,senescence,230.0,216
+Binghamton,2021,VIIRS,senescence,231.0,213
+Binghamton,2021,VIIRS,senescence,232.0,205
+Binghamton,2021,VIIRS,senescence,233.0,201
+Binghamton,2021,VIIRS,senescence,234.0,229
+Binghamton,2021,VIIRS,senescence,235.0,225
+Binghamton,2021,VIIRS,senescence,236.0,234
+Binghamton,2021,VIIRS,senescence,237.0,199
+Binghamton,2021,VIIRS,senescence,238.0,195
+Binghamton,2021,VIIRS,senescence,239.0,208
+Binghamton,2021,VIIRS,senescence,240.0,194
+Binghamton,2021,VIIRS,senescence,241.0,221
+Binghamton,2021,VIIRS,senescence,242.0,159
+Binghamton,2021,VIIRS,senescence,243.0,183
+Binghamton,2021,VIIRS,senescence,244.0,154
+Binghamton,2021,VIIRS,senescence,245.0,144
+Binghamton,2021,VIIRS,senescence,246.0,129
+Binghamton,2021,VIIRS,senescence,247.0,161
+Binghamton,2021,VIIRS,senescence,248.0,134
+Binghamton,2021,VIIRS,senescence,249.0,111
+Binghamton,2021,VIIRS,senescence,250.0,109
+Binghamton,2021,VIIRS,senescence,251.0,115
+Binghamton,2021,VIIRS,senescence,252.0,98
+Binghamton,2021,VIIRS,senescence,253.0,77
+Binghamton,2021,VIIRS,senescence,254.0,68
+Binghamton,2021,VIIRS,senescence,255.0,73
+Binghamton,2021,VIIRS,senescence,256.0,68
+Binghamton,2021,VIIRS,senescence,257.0,59
+Binghamton,2021,VIIRS,senescence,258.0,42
+Binghamton,2021,VIIRS,senescence,259.0,51
+Binghamton,2021,VIIRS,senescence,260.0,33
+Binghamton,2021,VIIRS,senescence,261.0,26
+Binghamton,2021,VIIRS,senescence,262.0,19
+Binghamton,2021,VIIRS,senescence,263.0,14
+Binghamton,2021,VIIRS,senescence,264.0,21
+Binghamton,2021,VIIRS,senescence,265.0,13
+Binghamton,2021,VIIRS,senescence,266.0,10
+Binghamton,2021,VIIRS,senescence,267.0,13
+Binghamton,2021,VIIRS,senescence,268.0,8
+Binghamton,2021,VIIRS,senescence,269.0,6
+Binghamton,2021,VIIRS,senescence,270.0,9
+Binghamton,2021,VIIRS,senescence,271.0,2
+Binghamton,2021,VIIRS,senescence,272.0,5
+Binghamton,2021,VIIRS,senescence,273.0,6
+Binghamton,2021,VIIRS,senescence,274.0,4
+Binghamton,2021,VIIRS,senescence,275.0,1
+Binghamton,2021,VIIRS,senescence,277.0,1
+Binghamton,2021,VIIRS,senescence,278.0,3
+Binghamton,2021,VIIRS,senescence,280.0,3
+Binghamton,2021,VIIRS,senescence,281.0,1
+Binghamton,2021,VIIRS,senescence,282.0,2
+Binghamton,2021,VIIRS,senescence,283.0,2
+Binghamton,2021,VIIRS,senescence,284.0,1
+Binghamton,2021,VIIRS,senescence,289.0,2
+Binghamton,2021,VIIRS,mid_greendown,246.0,1
+Binghamton,2021,VIIRS,mid_greendown,248.0,1
+Binghamton,2021,VIIRS,mid_greendown,253.0,1
+Binghamton,2021,VIIRS,mid_greendown,254.0,1
+Binghamton,2021,VIIRS,mid_greendown,256.0,1
+Binghamton,2021,VIIRS,mid_greendown,257.0,2
+Binghamton,2021,VIIRS,mid_greendown,258.0,4
+Binghamton,2021,VIIRS,mid_greendown,259.0,3
+Binghamton,2021,VIIRS,mid_greendown,260.0,5
+Binghamton,2021,VIIRS,mid_greendown,261.0,3
+Binghamton,2021,VIIRS,mid_greendown,262.0,11
+Binghamton,2021,VIIRS,mid_greendown,263.0,8
+Binghamton,2021,VIIRS,mid_greendown,264.0,19
+Binghamton,2021,VIIRS,mid_greendown,265.0,19
+Binghamton,2021,VIIRS,mid_greendown,266.0,18
+Binghamton,2021,VIIRS,mid_greendown,267.0,23
+Binghamton,2021,VIIRS,mid_greendown,268.0,34
+Binghamton,2021,VIIRS,mid_greendown,269.0,49
+Binghamton,2021,VIIRS,mid_greendown,270.0,56
+Binghamton,2021,VIIRS,mid_greendown,271.0,78
+Binghamton,2021,VIIRS,mid_greendown,272.0,104
+Binghamton,2021,VIIRS,mid_greendown,273.0,129
+Binghamton,2021,VIIRS,mid_greendown,274.0,175
+Binghamton,2021,VIIRS,mid_greendown,275.0,172
+Binghamton,2021,VIIRS,mid_greendown,276.0,173
+Binghamton,2021,VIIRS,mid_greendown,277.0,215
+Binghamton,2021,VIIRS,mid_greendown,278.0,258
+Binghamton,2021,VIIRS,mid_greendown,279.0,267
+Binghamton,2021,VIIRS,mid_greendown,280.0,303
+Binghamton,2021,VIIRS,mid_greendown,281.0,335
+Binghamton,2021,VIIRS,mid_greendown,282.0,324
+Binghamton,2021,VIIRS,mid_greendown,283.0,342
+Binghamton,2021,VIIRS,mid_greendown,284.0,393
+Binghamton,2021,VIIRS,mid_greendown,285.0,356
+Binghamton,2021,VIIRS,mid_greendown,286.0,342
+Binghamton,2021,VIIRS,mid_greendown,287.0,341
+Binghamton,2021,VIIRS,mid_greendown,288.0,335
+Binghamton,2021,VIIRS,mid_greendown,289.0,298
+Binghamton,2021,VIIRS,mid_greendown,290.0,230
+Binghamton,2021,VIIRS,mid_greendown,291.0,264
+Binghamton,2021,VIIRS,mid_greendown,292.0,238
+Binghamton,2021,VIIRS,mid_greendown,293.0,217
+Binghamton,2021,VIIRS,mid_greendown,294.0,187
+Binghamton,2021,VIIRS,mid_greendown,295.0,174
+Binghamton,2021,VIIRS,mid_greendown,296.0,93
+Binghamton,2021,VIIRS,mid_greendown,297.0,88
+Binghamton,2021,VIIRS,mid_greendown,298.0,72
+Binghamton,2021,VIIRS,mid_greendown,299.0,55
+Binghamton,2021,VIIRS,mid_greendown,300.0,48
+Binghamton,2021,VIIRS,mid_greendown,301.0,32
+Binghamton,2021,VIIRS,mid_greendown,302.0,31
+Binghamton,2021,VIIRS,mid_greendown,303.0,25
+Binghamton,2021,VIIRS,mid_greendown,304.0,13
+Binghamton,2021,VIIRS,mid_greendown,305.0,19
+Binghamton,2021,VIIRS,mid_greendown,306.0,9
+Binghamton,2021,VIIRS,mid_greendown,307.0,6
+Binghamton,2021,VIIRS,mid_greendown,308.0,6
+Binghamton,2021,VIIRS,mid_greendown,309.0,4
+Binghamton,2021,VIIRS,mid_greendown,310.0,4
+Binghamton,2021,VIIRS,mid_greendown,311.0,3
+Binghamton,2021,VIIRS,mid_greendown,312.0,1
+Binghamton,2021,VIIRS,mid_greendown,313.0,1
+Binghamton,2021,VIIRS,mid_greendown,314.0,3
+Binghamton,2021,VIIRS,mid_greendown,315.0,2
+Binghamton,2021,VIIRS,mid_greendown,317.0,1
+Binghamton,2021,VIIRS,mid_greendown,318.0,2
+Binghamton,2021,VIIRS,mid_greendown,319.0,2
+Binghamton,2021,VIIRS,mid_greendown,321.0,1
+Binghamton,2021,VIIRS,mid_greendown,323.0,2
+Binghamton,2021,VIIRS,mid_greendown,325.0,1
+Binghamton,2021,VIIRS,dormancy,300.0,1
+Binghamton,2021,VIIRS,dormancy,301.0,1
+Binghamton,2021,VIIRS,dormancy,302.0,1
+Binghamton,2021,VIIRS,dormancy,304.0,5
+Binghamton,2021,VIIRS,dormancy,305.0,4
+Binghamton,2021,VIIRS,dormancy,306.0,2
+Binghamton,2021,VIIRS,dormancy,307.0,4
+Binghamton,2021,VIIRS,dormancy,308.0,10
+Binghamton,2021,VIIRS,dormancy,309.0,7
+Binghamton,2021,VIIRS,dormancy,310.0,9
+Binghamton,2021,VIIRS,dormancy,311.0,8
+Binghamton,2021,VIIRS,dormancy,312.0,15
+Binghamton,2021,VIIRS,dormancy,313.0,22
+Binghamton,2021,VIIRS,dormancy,314.0,17
+Binghamton,2021,VIIRS,dormancy,315.0,47
+Binghamton,2021,VIIRS,dormancy,316.0,44
+Binghamton,2021,VIIRS,dormancy,317.0,42
+Binghamton,2021,VIIRS,dormancy,318.0,62
+Binghamton,2021,VIIRS,dormancy,319.0,62
+Binghamton,2021,VIIRS,dormancy,320.0,85
+Binghamton,2021,VIIRS,dormancy,321.0,90
+Binghamton,2021,VIIRS,dormancy,322.0,121
+Binghamton,2021,VIIRS,dormancy,323.0,141
+Binghamton,2021,VIIRS,dormancy,324.0,147
+Binghamton,2021,VIIRS,dormancy,325.0,169
+Binghamton,2021,VIIRS,dormancy,326.0,207
+Binghamton,2021,VIIRS,dormancy,327.0,210
+Binghamton,2021,VIIRS,dormancy,328.0,256
+Binghamton,2021,VIIRS,dormancy,329.0,272
+Binghamton,2021,VIIRS,dormancy,330.0,301
+Binghamton,2021,VIIRS,dormancy,331.0,302
+Binghamton,2021,VIIRS,dormancy,332.0,330
+Binghamton,2021,VIIRS,dormancy,333.0,357
+Binghamton,2021,VIIRS,dormancy,334.0,367
+Binghamton,2021,VIIRS,dormancy,335.0,321
+Binghamton,2021,VIIRS,dormancy,336.0,320
+Binghamton,2021,VIIRS,dormancy,337.0,279
+Binghamton,2021,VIIRS,dormancy,338.0,338
+Binghamton,2021,VIIRS,dormancy,339.0,275
+Binghamton,2021,VIIRS,dormancy,340.0,256
+Binghamton,2021,VIIRS,dormancy,341.0,263
+Binghamton,2021,VIIRS,dormancy,342.0,175
+Binghamton,2021,VIIRS,dormancy,343.0,176
+Binghamton,2021,VIIRS,dormancy,344.0,125
+Binghamton,2021,VIIRS,dormancy,345.0,138
+Binghamton,2021,VIIRS,dormancy,346.0,102
+Binghamton,2021,VIIRS,dormancy,347.0,96
+Binghamton,2021,VIIRS,dormancy,348.0,79
+Binghamton,2021,VIIRS,dormancy,349.0,60
+Binghamton,2021,VIIRS,dormancy,350.0,44
+Binghamton,2021,VIIRS,dormancy,351.0,50
+Binghamton,2021,VIIRS,dormancy,352.0,40
+Binghamton,2021,VIIRS,dormancy,353.0,42
+Binghamton,2021,VIIRS,dormancy,354.0,28
+Binghamton,2021,VIIRS,dormancy,355.0,16
+Binghamton,2021,VIIRS,dormancy,356.0,18
+Binghamton,2021,VIIRS,dormancy,357.0,21
+Binghamton,2021,VIIRS,dormancy,358.0,10
+Binghamton,2021,VIIRS,dormancy,359.0,6
+Binghamton,2021,VIIRS,dormancy,360.0,2
+Binghamton,2021,VIIRS,dormancy,361.0,4
+Binghamton,2021,VIIRS,dormancy,362.0,5
+Binghamton,2021,VIIRS,dormancy,363.0,4
+Binghamton,2021,VIIRS,dormancy,364.0,7
+Binghamton,2021,VIIRS,dormancy,365.0,4
+Binghamton,2021,VIIRS,dormancy,366.0,2
+Binghamton,2021,VIIRS,dormancy,367.0,2
+Binghamton,2021,VIIRS,dormancy,368.0,1
+Binghamton,2021,VIIRS,dormancy,370.0,1
+Binghamton,2021,VIIRS,dormancy,371.0,2
+Binghamton,2021,VIIRS,dormancy,375.0,1
+Binghamton,2021,VIIRS,dormancy,383.0,1
+Binghamton,2021,VIIRS,dormancy,387.0,1
+Binghamton,2021,VIIRS,forest_px,1.0,14947
+Scranton,2021,VIIRS,mid_greenup,121.0,1
+Scranton,2021,VIIRS,mid_greenup,123.0,1
+Scranton,2021,VIIRS,mid_greenup,135.0,3
+Scranton,2021,VIIRS,mid_greenup,136.0,2
+Scranton,2021,VIIRS,mid_greenup,137.0,1
+Scranton,2021,VIIRS,mid_greenup,138.0,3
+Scranton,2021,VIIRS,mid_greenup,140.0,3
+Scranton,2021,VIIRS,mid_greenup,141.0,10
+Scranton,2021,VIIRS,mid_greenup,142.0,17
+Scranton,2021,VIIRS,mid_greenup,143.0,22
+Scranton,2021,VIIRS,mid_greenup,144.0,37
+Scranton,2021,VIIRS,mid_greenup,145.0,58
+Scranton,2021,VIIRS,mid_greenup,146.0,60
+Scranton,2021,VIIRS,mid_greenup,147.0,85
+Scranton,2021,VIIRS,mid_greenup,148.0,121
+Scranton,2021,VIIRS,mid_greenup,149.0,145
+Scranton,2021,VIIRS,mid_greenup,150.0,119
+Scranton,2021,VIIRS,mid_greenup,151.0,154
+Scranton,2021,VIIRS,mid_greenup,152.0,145
+Scranton,2021,VIIRS,mid_greenup,153.0,146
+Scranton,2021,VIIRS,mid_greenup,154.0,115
+Scranton,2021,VIIRS,mid_greenup,155.0,113
+Scranton,2021,VIIRS,mid_greenup,156.0,84
+Scranton,2021,VIIRS,mid_greenup,157.0,60
+Scranton,2021,VIIRS,mid_greenup,158.0,57
+Scranton,2021,VIIRS,mid_greenup,159.0,39
+Scranton,2021,VIIRS,mid_greenup,160.0,20
+Scranton,2021,VIIRS,mid_greenup,161.0,11
+Scranton,2021,VIIRS,mid_greenup,162.0,4
+Scranton,2021,VIIRS,mid_greenup,163.0,2
+Scranton,2021,VIIRS,mid_greenup,164.0,1
+Scranton,2021,VIIRS,senescence,191.0,2
+Scranton,2021,VIIRS,senescence,196.0,1
+Scranton,2021,VIIRS,senescence,198.0,1
+Scranton,2021,VIIRS,senescence,200.0,1
+Scranton,2021,VIIRS,senescence,201.0,2
+Scranton,2021,VIIRS,senescence,202.0,2
+Scranton,2021,VIIRS,senescence,204.0,2
+Scranton,2021,VIIRS,senescence,205.0,1
+Scranton,2021,VIIRS,senescence,206.0,2
+Scranton,2021,VIIRS,senescence,207.0,1
+Scranton,2021,VIIRS,senescence,208.0,2
+Scranton,2021,VIIRS,senescence,209.0,5
+Scranton,2021,VIIRS,senescence,210.0,2
+Scranton,2021,VIIRS,senescence,211.0,6
+Scranton,2021,VIIRS,senescence,212.0,11
+Scranton,2021,VIIRS,senescence,213.0,13
+Scranton,2021,VIIRS,senescence,214.0,7
+Scranton,2021,VIIRS,senescence,215.0,7
+Scranton,2021,VIIRS,senescence,216.0,14
+Scranton,2021,VIIRS,senescence,217.0,10
+Scranton,2021,VIIRS,senescence,218.0,15
+Scranton,2021,VIIRS,senescence,219.0,19
+Scranton,2021,VIIRS,senescence,220.0,17
+Scranton,2021,VIIRS,senescence,221.0,21
+Scranton,2021,VIIRS,senescence,222.0,25
+Scranton,2021,VIIRS,senescence,223.0,23
+Scranton,2021,VIIRS,senescence,224.0,17
+Scranton,2021,VIIRS,senescence,225.0,28
+Scranton,2021,VIIRS,senescence,226.0,28
+Scranton,2021,VIIRS,senescence,227.0,33
+Scranton,2021,VIIRS,senescence,228.0,26
+Scranton,2021,VIIRS,senescence,229.0,38
+Scranton,2021,VIIRS,senescence,230.0,55
+Scranton,2021,VIIRS,senescence,231.0,40
+Scranton,2021,VIIRS,senescence,232.0,43
+Scranton,2021,VIIRS,senescence,233.0,53
+Scranton,2021,VIIRS,senescence,234.0,55
+Scranton,2021,VIIRS,senescence,235.0,56
+Scranton,2021,VIIRS,senescence,236.0,44
+Scranton,2021,VIIRS,senescence,237.0,54
+Scranton,2021,VIIRS,senescence,238.0,52
+Scranton,2021,VIIRS,senescence,239.0,55
+Scranton,2021,VIIRS,senescence,240.0,52
+Scranton,2021,VIIRS,senescence,241.0,62
+Scranton,2021,VIIRS,senescence,242.0,55
+Scranton,2021,VIIRS,senescence,243.0,53
+Scranton,2021,VIIRS,senescence,244.0,44
+Scranton,2021,VIIRS,senescence,245.0,44
+Scranton,2021,VIIRS,senescence,246.0,49
+Scranton,2021,VIIRS,senescence,247.0,37
+Scranton,2021,VIIRS,senescence,248.0,34
+Scranton,2021,VIIRS,senescence,249.0,37
+Scranton,2021,VIIRS,senescence,250.0,34
+Scranton,2021,VIIRS,senescence,251.0,37
+Scranton,2021,VIIRS,senescence,252.0,26
+Scranton,2021,VIIRS,senescence,253.0,20
+Scranton,2021,VIIRS,senescence,254.0,10
+Scranton,2021,VIIRS,senescence,255.0,25
+Scranton,2021,VIIRS,senescence,256.0,16
+Scranton,2021,VIIRS,senescence,257.0,14
+Scranton,2021,VIIRS,senescence,258.0,11
+Scranton,2021,VIIRS,senescence,259.0,14
+Scranton,2021,VIIRS,senescence,260.0,13
+Scranton,2021,VIIRS,senescence,261.0,8
+Scranton,2021,VIIRS,senescence,262.0,10
+Scranton,2021,VIIRS,senescence,263.0,6
+Scranton,2021,VIIRS,senescence,264.0,10
+Scranton,2021,VIIRS,senescence,265.0,6
+Scranton,2021,VIIRS,senescence,266.0,4
+Scranton,2021,VIIRS,senescence,268.0,3
+Scranton,2021,VIIRS,senescence,269.0,2
+Scranton,2021,VIIRS,senescence,270.0,2
+Scranton,2021,VIIRS,senescence,272.0,3
+Scranton,2021,VIIRS,senescence,273.0,2
+Scranton,2021,VIIRS,senescence,274.0,1
+Scranton,2021,VIIRS,senescence,275.0,1
+Scranton,2021,VIIRS,senescence,276.0,1
+Scranton,2021,VIIRS,senescence,277.0,1
+Scranton,2021,VIIRS,senescence,278.0,1
+Scranton,2021,VIIRS,senescence,281.0,2
+Scranton,2021,VIIRS,mid_greendown,252.0,1
+Scranton,2021,VIIRS,mid_greendown,257.0,2
+Scranton,2021,VIIRS,mid_greendown,265.0,2
+Scranton,2021,VIIRS,mid_greendown,266.0,1
+Scranton,2021,VIIRS,mid_greendown,267.0,1
+Scranton,2021,VIIRS,mid_greendown,268.0,3
+Scranton,2021,VIIRS,mid_greendown,269.0,4
+Scranton,2021,VIIRS,mid_greendown,270.0,1
+Scranton,2021,VIIRS,mid_greendown,271.0,3
+Scranton,2021,VIIRS,mid_greendown,272.0,10
+Scranton,2021,VIIRS,mid_greendown,273.0,14
+Scranton,2021,VIIRS,mid_greendown,274.0,9
+Scranton,2021,VIIRS,mid_greendown,275.0,9
+Scranton,2021,VIIRS,mid_greendown,276.0,19
+Scranton,2021,VIIRS,mid_greendown,277.0,22
+Scranton,2021,VIIRS,mid_greendown,278.0,30
+Scranton,2021,VIIRS,mid_greendown,279.0,40
+Scranton,2021,VIIRS,mid_greendown,280.0,42
+Scranton,2021,VIIRS,mid_greendown,281.0,67
+Scranton,2021,VIIRS,mid_greendown,282.0,56
+Scranton,2021,VIIRS,mid_greendown,283.0,67
+Scranton,2021,VIIRS,mid_greendown,284.0,68
+Scranton,2021,VIIRS,mid_greendown,285.0,89
+Scranton,2021,VIIRS,mid_greendown,286.0,99
+Scranton,2021,VIIRS,mid_greendown,287.0,90
+Scranton,2021,VIIRS,mid_greendown,288.0,102
+Scranton,2021,VIIRS,mid_greendown,289.0,95
+Scranton,2021,VIIRS,mid_greendown,290.0,94
+Scranton,2021,VIIRS,mid_greendown,291.0,98
+Scranton,2021,VIIRS,mid_greendown,292.0,78
+Scranton,2021,VIIRS,mid_greendown,293.0,84
+Scranton,2021,VIIRS,mid_greendown,294.0,57
+Scranton,2021,VIIRS,mid_greendown,295.0,46
+Scranton,2021,VIIRS,mid_greendown,296.0,52
+Scranton,2021,VIIRS,mid_greendown,297.0,48
+Scranton,2021,VIIRS,mid_greendown,298.0,32
+Scranton,2021,VIIRS,mid_greendown,299.0,23
+Scranton,2021,VIIRS,mid_greendown,300.0,21
+Scranton,2021,VIIRS,mid_greendown,301.0,16
+Scranton,2021,VIIRS,mid_greendown,302.0,12
+Scranton,2021,VIIRS,mid_greendown,303.0,8
+Scranton,2021,VIIRS,mid_greendown,304.0,7
+Scranton,2021,VIIRS,mid_greendown,305.0,7
+Scranton,2021,VIIRS,mid_greendown,306.0,2
+Scranton,2021,VIIRS,mid_greendown,307.0,2
+Scranton,2021,VIIRS,mid_greendown,308.0,1
+Scranton,2021,VIIRS,mid_greendown,310.0,1
+Scranton,2021,VIIRS,mid_greendown,311.0,1
+Scranton,2021,VIIRS,mid_greendown,313.0,2
+Scranton,2021,VIIRS,mid_greendown,316.0,1
+Scranton,2021,VIIRS,dormancy,287.0,1
+Scranton,2021,VIIRS,dormancy,299.0,1
+Scranton,2021,VIIRS,dormancy,304.0,1
+Scranton,2021,VIIRS,dormancy,305.0,2
+Scranton,2021,VIIRS,dormancy,313.0,1
+Scranton,2021,VIIRS,dormancy,314.0,3
+Scranton,2021,VIIRS,dormancy,315.0,2
+Scranton,2021,VIIRS,dormancy,316.0,1
+Scranton,2021,VIIRS,dormancy,317.0,1
+Scranton,2021,VIIRS,dormancy,318.0,2
+Scranton,2021,VIIRS,dormancy,319.0,4
+Scranton,2021,VIIRS,dormancy,320.0,4
+Scranton,2021,VIIRS,dormancy,321.0,2
+Scranton,2021,VIIRS,dormancy,322.0,5
+Scranton,2021,VIIRS,dormancy,323.0,7
+Scranton,2021,VIIRS,dormancy,324.0,11
+Scranton,2021,VIIRS,dormancy,325.0,11
+Scranton,2021,VIIRS,dormancy,326.0,18
+Scranton,2021,VIIRS,dormancy,327.0,25
+Scranton,2021,VIIRS,dormancy,328.0,25
+Scranton,2021,VIIRS,dormancy,329.0,32
+Scranton,2021,VIIRS,dormancy,330.0,43
+Scranton,2021,VIIRS,dormancy,331.0,53
+Scranton,2021,VIIRS,dormancy,332.0,58
+Scranton,2021,VIIRS,dormancy,333.0,70
+Scranton,2021,VIIRS,dormancy,334.0,78
+Scranton,2021,VIIRS,dormancy,335.0,94
+Scranton,2021,VIIRS,dormancy,336.0,99
+Scranton,2021,VIIRS,dormancy,337.0,94
+Scranton,2021,VIIRS,dormancy,338.0,84
+Scranton,2021,VIIRS,dormancy,339.0,101
+Scranton,2021,VIIRS,dormancy,340.0,97
+Scranton,2021,VIIRS,dormancy,341.0,96
+Scranton,2021,VIIRS,dormancy,342.0,76
+Scranton,2021,VIIRS,dormancy,343.0,74
+Scranton,2021,VIIRS,dormancy,344.0,73
+Scranton,2021,VIIRS,dormancy,345.0,55
+Scranton,2021,VIIRS,dormancy,346.0,45
+Scranton,2021,VIIRS,dormancy,347.0,39
+Scranton,2021,VIIRS,dormancy,348.0,33
+Scranton,2021,VIIRS,dormancy,349.0,24
+Scranton,2021,VIIRS,dormancy,350.0,17
+Scranton,2021,VIIRS,dormancy,351.0,20
+Scranton,2021,VIIRS,dormancy,352.0,15
+Scranton,2021,VIIRS,dormancy,353.0,12
+Scranton,2021,VIIRS,dormancy,354.0,8
+Scranton,2021,VIIRS,dormancy,355.0,3
+Scranton,2021,VIIRS,dormancy,356.0,2
+Scranton,2021,VIIRS,dormancy,357.0,6
+Scranton,2021,VIIRS,dormancy,358.0,4
+Scranton,2021,VIIRS,dormancy,359.0,2
+Scranton,2021,VIIRS,dormancy,360.0,1
+Scranton,2021,VIIRS,dormancy,362.0,1
+Scranton,2021,VIIRS,dormancy,366.0,1
+Scranton,2021,VIIRS,dormancy,367.0,2
+Scranton,2021,VIIRS,forest_px,1.0,3215
+State College,2021,VIIRS,mid_greenup,103.0,1
+State College,2021,VIIRS,mid_greenup,112.0,1
+State College,2021,VIIRS,mid_greenup,114.0,1
+State College,2021,VIIRS,mid_greenup,116.0,2
+State College,2021,VIIRS,mid_greenup,118.0,1
+State College,2021,VIIRS,mid_greenup,119.0,4
+State College,2021,VIIRS,mid_greenup,120.0,2
+State College,2021,VIIRS,mid_greenup,121.0,2
+State College,2021,VIIRS,mid_greenup,122.0,6
+State College,2021,VIIRS,mid_greenup,123.0,5
+State College,2021,VIIRS,mid_greenup,124.0,2
+State College,2021,VIIRS,mid_greenup,125.0,13
+State College,2021,VIIRS,mid_greenup,126.0,14
+State College,2021,VIIRS,mid_greenup,127.0,20
+State College,2021,VIIRS,mid_greenup,128.0,18
+State College,2021,VIIRS,mid_greenup,129.0,28
+State College,2021,VIIRS,mid_greenup,130.0,38
+State College,2021,VIIRS,mid_greenup,131.0,35
+State College,2021,VIIRS,mid_greenup,132.0,49
+State College,2021,VIIRS,mid_greenup,133.0,50
+State College,2021,VIIRS,mid_greenup,134.0,67
+State College,2021,VIIRS,mid_greenup,135.0,86
+State College,2021,VIIRS,mid_greenup,136.0,107
+State College,2021,VIIRS,mid_greenup,137.0,153
+State College,2021,VIIRS,mid_greenup,138.0,174
+State College,2021,VIIRS,mid_greenup,139.0,204
+State College,2021,VIIRS,mid_greenup,140.0,266
+State College,2021,VIIRS,mid_greenup,141.0,343
+State College,2021,VIIRS,mid_greenup,142.0,360
+State College,2021,VIIRS,mid_greenup,143.0,425
+State College,2021,VIIRS,mid_greenup,144.0,462
+State College,2021,VIIRS,mid_greenup,145.0,455
+State College,2021,VIIRS,mid_greenup,146.0,453
+State College,2021,VIIRS,mid_greenup,147.0,424
+State College,2021,VIIRS,mid_greenup,148.0,336
+State College,2021,VIIRS,mid_greenup,149.0,305
+State College,2021,VIIRS,mid_greenup,150.0,243
+State College,2021,VIIRS,mid_greenup,151.0,161
+State College,2021,VIIRS,mid_greenup,152.0,97
+State College,2021,VIIRS,mid_greenup,153.0,90
+State College,2021,VIIRS,mid_greenup,154.0,48
+State College,2021,VIIRS,mid_greenup,155.0,30
+State College,2021,VIIRS,mid_greenup,156.0,31
+State College,2021,VIIRS,mid_greenup,157.0,22
+State College,2021,VIIRS,mid_greenup,158.0,11
+State College,2021,VIIRS,mid_greenup,159.0,7
+State College,2021,VIIRS,mid_greenup,160.0,6
+State College,2021,VIIRS,mid_greenup,161.0,1
+State College,2021,VIIRS,mid_greenup,162.0,1
+State College,2021,VIIRS,mid_greenup,163.0,2
+State College,2021,VIIRS,mid_greenup,164.0,1
+State College,2021,VIIRS,mid_greenup,165.0,1
+State College,2021,VIIRS,senescence,173.0,1
+State College,2021,VIIRS,senescence,177.0,1
+State College,2021,VIIRS,senescence,178.0,1
+State College,2021,VIIRS,senescence,179.0,2
+State College,2021,VIIRS,senescence,180.0,1
+State College,2021,VIIRS,senescence,184.0,2
+State College,2021,VIIRS,senescence,185.0,1
+State College,2021,VIIRS,senescence,186.0,1
+State College,2021,VIIRS,senescence,187.0,3
+State College,2021,VIIRS,senescence,188.0,2
+State College,2021,VIIRS,senescence,189.0,2
+State College,2021,VIIRS,senescence,190.0,3
+State College,2021,VIIRS,senescence,191.0,5
+State College,2021,VIIRS,senescence,192.0,4
+State College,2021,VIIRS,senescence,193.0,9
+State College,2021,VIIRS,senescence,194.0,12
+State College,2021,VIIRS,senescence,195.0,13
+State College,2021,VIIRS,senescence,196.0,15
+State College,2021,VIIRS,senescence,197.0,16
+State College,2021,VIIRS,senescence,198.0,10
+State College,2021,VIIRS,senescence,199.0,6
+State College,2021,VIIRS,senescence,200.0,21
+State College,2021,VIIRS,senescence,201.0,8
+State College,2021,VIIRS,senescence,202.0,23
+State College,2021,VIIRS,senescence,203.0,14
+State College,2021,VIIRS,senescence,204.0,19
+State College,2021,VIIRS,senescence,205.0,18
+State College,2021,VIIRS,senescence,206.0,22
+State College,2021,VIIRS,senescence,207.0,19
+State College,2021,VIIRS,senescence,208.0,29
+State College,2021,VIIRS,senescence,209.0,23
+State College,2021,VIIRS,senescence,210.0,36
+State College,2021,VIIRS,senescence,211.0,37
+State College,2021,VIIRS,senescence,212.0,36
+State College,2021,VIIRS,senescence,213.0,44
+State College,2021,VIIRS,senescence,214.0,36
+State College,2021,VIIRS,senescence,215.0,61
+State College,2021,VIIRS,senescence,216.0,42
+State College,2021,VIIRS,senescence,217.0,45
+State College,2021,VIIRS,senescence,218.0,58
+State College,2021,VIIRS,senescence,219.0,52
+State College,2021,VIIRS,senescence,220.0,74
+State College,2021,VIIRS,senescence,221.0,69
+State College,2021,VIIRS,senescence,222.0,72
+State College,2021,VIIRS,senescence,223.0,68
+State College,2021,VIIRS,senescence,224.0,90
+State College,2021,VIIRS,senescence,225.0,80
+State College,2021,VIIRS,senescence,226.0,91
+State College,2021,VIIRS,senescence,227.0,73
+State College,2021,VIIRS,senescence,228.0,100
+State College,2021,VIIRS,senescence,229.0,105
+State College,2021,VIIRS,senescence,230.0,138
+State College,2021,VIIRS,senescence,231.0,115
+State College,2021,VIIRS,senescence,232.0,131
+State College,2021,VIIRS,senescence,233.0,117
+State College,2021,VIIRS,senescence,234.0,140
+State College,2021,VIIRS,senescence,235.0,140
+State College,2021,VIIRS,senescence,236.0,137
+State College,2021,VIIRS,senescence,237.0,139
+State College,2021,VIIRS,senescence,238.0,142
+State College,2021,VIIRS,senescence,239.0,138
+State College,2021,VIIRS,senescence,240.0,154
+State College,2021,VIIRS,senescence,241.0,128
+State College,2021,VIIRS,senescence,242.0,138
+State College,2021,VIIRS,senescence,243.0,138
+State College,2021,VIIRS,senescence,244.0,122
+State College,2021,VIIRS,senescence,245.0,153
+State College,2021,VIIRS,senescence,246.0,122
+State College,2021,VIIRS,senescence,247.0,132
+State College,2021,VIIRS,senescence,248.0,131
+State College,2021,VIIRS,senescence,249.0,117
+State College,2021,VIIRS,senescence,250.0,115
+State College,2021,VIIRS,senescence,251.0,106
+State College,2021,VIIRS,senescence,252.0,93
+State College,2021,VIIRS,senescence,253.0,110
+State College,2021,VIIRS,senescence,254.0,97
+State College,2021,VIIRS,senescence,255.0,74
+State College,2021,VIIRS,senescence,256.0,90
+State College,2021,VIIRS,senescence,257.0,69
+State College,2021,VIIRS,senescence,258.0,74
+State College,2021,VIIRS,senescence,259.0,61
+State College,2021,VIIRS,senescence,260.0,60
+State College,2021,VIIRS,senescence,261.0,53
+State College,2021,VIIRS,senescence,262.0,47
+State College,2021,VIIRS,senescence,263.0,53
+State College,2021,VIIRS,senescence,264.0,32
+State College,2021,VIIRS,senescence,265.0,33
+State College,2021,VIIRS,senescence,266.0,26
+State College,2021,VIIRS,senescence,267.0,31
+State College,2021,VIIRS,senescence,268.0,22
+State College,2021,VIIRS,senescence,269.0,28
+State College,2021,VIIRS,senescence,270.0,20
+State College,2021,VIIRS,senescence,271.0,14
+State College,2021,VIIRS,senescence,272.0,15
+State College,2021,VIIRS,senescence,273.0,16
+State College,2021,VIIRS,senescence,274.0,15
+State College,2021,VIIRS,senescence,275.0,7
+State College,2021,VIIRS,senescence,276.0,13
+State College,2021,VIIRS,senescence,277.0,9
+State College,2021,VIIRS,senescence,278.0,10
+State College,2021,VIIRS,senescence,279.0,2
+State College,2021,VIIRS,senescence,281.0,2
+State College,2021,VIIRS,senescence,282.0,3
+State College,2021,VIIRS,senescence,283.0,5
+State College,2021,VIIRS,senescence,285.0,5
+State College,2021,VIIRS,senescence,286.0,3
+State College,2021,VIIRS,senescence,287.0,1
+State College,2021,VIIRS,senescence,290.0,1
+State College,2021,VIIRS,senescence,293.0,2
+State College,2021,VIIRS,mid_greendown,232.0,1
+State College,2021,VIIRS,mid_greendown,240.0,1
+State College,2021,VIIRS,mid_greendown,248.0,1
+State College,2021,VIIRS,mid_greendown,251.0,2
+State College,2021,VIIRS,mid_greendown,256.0,2
+State College,2021,VIIRS,mid_greendown,258.0,2
+State College,2021,VIIRS,mid_greendown,259.0,2
+State College,2021,VIIRS,mid_greendown,260.0,4
+State College,2021,VIIRS,mid_greendown,261.0,4
+State College,2021,VIIRS,mid_greendown,262.0,8
+State College,2021,VIIRS,mid_greendown,263.0,7
+State College,2021,VIIRS,mid_greendown,264.0,6
+State College,2021,VIIRS,mid_greendown,265.0,10
+State College,2021,VIIRS,mid_greendown,266.0,15
+State College,2021,VIIRS,mid_greendown,267.0,18
+State College,2021,VIIRS,mid_greendown,268.0,15
+State College,2021,VIIRS,mid_greendown,269.0,21
+State College,2021,VIIRS,mid_greendown,270.0,33
+State College,2021,VIIRS,mid_greendown,271.0,36
+State College,2021,VIIRS,mid_greendown,272.0,45
+State College,2021,VIIRS,mid_greendown,273.0,63
+State College,2021,VIIRS,mid_greendown,274.0,53
+State College,2021,VIIRS,mid_greendown,275.0,59
+State College,2021,VIIRS,mid_greendown,276.0,78
+State College,2021,VIIRS,mid_greendown,277.0,77
+State College,2021,VIIRS,mid_greendown,278.0,94
+State College,2021,VIIRS,mid_greendown,279.0,111
+State College,2021,VIIRS,mid_greendown,280.0,134
+State College,2021,VIIRS,mid_greendown,281.0,151
+State College,2021,VIIRS,mid_greendown,282.0,157
+State College,2021,VIIRS,mid_greendown,283.0,159
+State College,2021,VIIRS,mid_greendown,284.0,188
+State College,2021,VIIRS,mid_greendown,285.0,226
+State College,2021,VIIRS,mid_greendown,286.0,219
+State College,2021,VIIRS,mid_greendown,287.0,236
+State College,2021,VIIRS,mid_greendown,288.0,272
+State College,2021,VIIRS,mid_greendown,289.0,284
+State College,2021,VIIRS,mid_greendown,290.0,262
+State College,2021,VIIRS,mid_greendown,291.0,245
+State College,2021,VIIRS,mid_greendown,292.0,270
+State College,2021,VIIRS,mid_greendown,293.0,254
+State College,2021,VIIRS,mid_greendown,294.0,258
+State College,2021,VIIRS,mid_greendown,295.0,206
+State College,2021,VIIRS,mid_greendown,296.0,207
+State College,2021,VIIRS,mid_greendown,297.0,202
+State College,2021,VIIRS,mid_greendown,298.0,164
+State College,2021,VIIRS,mid_greendown,299.0,135
+State College,2021,VIIRS,mid_greendown,300.0,127
+State College,2021,VIIRS,mid_greendown,301.0,89
+State College,2021,VIIRS,mid_greendown,302.0,85
+State College,2021,VIIRS,mid_greendown,303.0,62
+State College,2021,VIIRS,mid_greendown,304.0,50
+State College,2021,VIIRS,mid_greendown,305.0,51
+State College,2021,VIIRS,mid_greendown,306.0,34
+State College,2021,VIIRS,mid_greendown,307.0,32
+State College,2021,VIIRS,mid_greendown,308.0,24
+State College,2021,VIIRS,mid_greendown,309.0,25
+State College,2021,VIIRS,mid_greendown,310.0,20
+State College,2021,VIIRS,mid_greendown,311.0,9
+State College,2021,VIIRS,mid_greendown,312.0,13
+State College,2021,VIIRS,mid_greendown,313.0,11
+State College,2021,VIIRS,mid_greendown,314.0,5
+State College,2021,VIIRS,mid_greendown,315.0,2
+State College,2021,VIIRS,mid_greendown,316.0,4
+State College,2021,VIIRS,mid_greendown,317.0,4
+State College,2021,VIIRS,mid_greendown,318.0,8
+State College,2021,VIIRS,mid_greendown,319.0,2
+State College,2021,VIIRS,mid_greendown,320.0,1
+State College,2021,VIIRS,mid_greendown,322.0,3
+State College,2021,VIIRS,mid_greendown,323.0,1
+State College,2021,VIIRS,mid_greendown,325.0,1
+State College,2021,VIIRS,mid_greendown,327.0,1
+State College,2021,VIIRS,mid_greendown,329.0,1
+State College,2021,VIIRS,mid_greendown,330.0,1
+State College,2021,VIIRS,mid_greendown,344.0,1
+State College,2021,VIIRS,dormancy,19.0,1
+State College,2021,VIIRS,dormancy,285.0,1
+State College,2021,VIIRS,dormancy,300.0,1
+State College,2021,VIIRS,dormancy,302.0,1
+State College,2021,VIIRS,dormancy,303.0,1
+State College,2021,VIIRS,dormancy,306.0,1
+State College,2021,VIIRS,dormancy,309.0,1
+State College,2021,VIIRS,dormancy,310.0,1
+State College,2021,VIIRS,dormancy,312.0,2
+State College,2021,VIIRS,dormancy,314.0,1
+State College,2021,VIIRS,dormancy,315.0,3
+State College,2021,VIIRS,dormancy,316.0,7
+State College,2021,VIIRS,dormancy,317.0,6
+State College,2021,VIIRS,dormancy,318.0,3
+State College,2021,VIIRS,dormancy,319.0,12
+State College,2021,VIIRS,dormancy,320.0,15
+State College,2021,VIIRS,dormancy,321.0,18
+State College,2021,VIIRS,dormancy,322.0,18
+State College,2021,VIIRS,dormancy,323.0,15
+State College,2021,VIIRS,dormancy,324.0,28
+State College,2021,VIIRS,dormancy,325.0,43
+State College,2021,VIIRS,dormancy,326.0,40
+State College,2021,VIIRS,dormancy,327.0,45
+State College,2021,VIIRS,dormancy,328.0,56
+State College,2021,VIIRS,dormancy,329.0,99
+State College,2021,VIIRS,dormancy,330.0,99
+State College,2021,VIIRS,dormancy,331.0,117
+State College,2021,VIIRS,dormancy,332.0,149
+State College,2021,VIIRS,dormancy,333.0,175
+State College,2021,VIIRS,dormancy,334.0,197
+State College,2021,VIIRS,dormancy,335.0,226
+State College,2021,VIIRS,dormancy,336.0,243
+State College,2021,VIIRS,dormancy,337.0,268
+State College,2021,VIIRS,dormancy,338.0,262
+State College,2021,VIIRS,dormancy,339.0,301
+State College,2021,VIIRS,dormancy,340.0,294
+State College,2021,VIIRS,dormancy,341.0,298
+State College,2021,VIIRS,dormancy,342.0,347
+State College,2021,VIIRS,dormancy,343.0,313
+State College,2021,VIIRS,dormancy,344.0,282
+State College,2021,VIIRS,dormancy,345.0,243
+State College,2021,VIIRS,dormancy,346.0,242
+State College,2021,VIIRS,dormancy,347.0,218
+State College,2021,VIIRS,dormancy,348.0,173
+State College,2021,VIIRS,dormancy,349.0,164
+State College,2021,VIIRS,dormancy,350.0,133
+State College,2021,VIIRS,dormancy,351.0,106
+State College,2021,VIIRS,dormancy,352.0,88
+State College,2021,VIIRS,dormancy,353.0,70
+State College,2021,VIIRS,dormancy,354.0,46
+State College,2021,VIIRS,dormancy,355.0,48
+State College,2021,VIIRS,dormancy,356.0,21
+State College,2021,VIIRS,dormancy,357.0,19
+State College,2021,VIIRS,dormancy,358.0,18
+State College,2021,VIIRS,dormancy,359.0,18
+State College,2021,VIIRS,dormancy,360.0,6
+State College,2021,VIIRS,dormancy,361.0,9
+State College,2021,VIIRS,dormancy,362.0,12
+State College,2021,VIIRS,dormancy,363.0,8
+State College,2021,VIIRS,dormancy,364.0,5
+State College,2021,VIIRS,dormancy,365.0,4
+State College,2021,VIIRS,dormancy,366.0,2
+State College,2021,VIIRS,dormancy,367.0,2
+State College,2021,VIIRS,dormancy,368.0,2
+State College,2021,VIIRS,dormancy,369.0,1
+State College,2021,VIIRS,dormancy,370.0,3
+State College,2021,VIIRS,dormancy,371.0,2
+State College,2021,VIIRS,dormancy,372.0,1
+State College,2021,VIIRS,dormancy,373.0,2
+State College,2021,VIIRS,dormancy,375.0,1
+State College,2021,VIIRS,dormancy,377.0,1
+State College,2021,VIIRS,dormancy,378.0,1
+State College,2021,VIIRS,dormancy,379.0,1
+State College,2021,VIIRS,dormancy,380.0,1
+State College,2021,VIIRS,dormancy,383.0,1
+State College,2021,VIIRS,dormancy,384.0,1
+State College,2021,VIIRS,dormancy,387.0,1
+State College,2021,VIIRS,forest_px,1.0,11604
+Frostburg,2021,VIIRS,mid_greenup,120.0,2
+Frostburg,2021,VIIRS,mid_greenup,121.0,2
+Frostburg,2021,VIIRS,mid_greenup,122.0,1
+Frostburg,2021,VIIRS,mid_greenup,123.0,2
+Frostburg,2021,VIIRS,mid_greenup,124.0,1
+Frostburg,2021,VIIRS,mid_greenup,125.0,3
+Frostburg,2021,VIIRS,mid_greenup,126.0,1
+Frostburg,2021,VIIRS,mid_greenup,127.0,1
+Frostburg,2021,VIIRS,mid_greenup,128.0,4
+Frostburg,2021,VIIRS,mid_greenup,129.0,5
+Frostburg,2021,VIIRS,mid_greenup,130.0,3
+Frostburg,2021,VIIRS,mid_greenup,131.0,5
+Frostburg,2021,VIIRS,mid_greenup,132.0,10
+Frostburg,2021,VIIRS,mid_greenup,133.0,10
+Frostburg,2021,VIIRS,mid_greenup,134.0,23
+Frostburg,2021,VIIRS,mid_greenup,135.0,24
+Frostburg,2021,VIIRS,mid_greenup,136.0,36
+Frostburg,2021,VIIRS,mid_greenup,137.0,51
+Frostburg,2021,VIIRS,mid_greenup,138.0,66
+Frostburg,2021,VIIRS,mid_greenup,139.0,68
+Frostburg,2021,VIIRS,mid_greenup,140.0,90
+Frostburg,2021,VIIRS,mid_greenup,141.0,119
+Frostburg,2021,VIIRS,mid_greenup,142.0,108
+Frostburg,2021,VIIRS,mid_greenup,143.0,123
+Frostburg,2021,VIIRS,mid_greenup,144.0,145
+Frostburg,2021,VIIRS,mid_greenup,145.0,152
+Frostburg,2021,VIIRS,mid_greenup,146.0,178
+Frostburg,2021,VIIRS,mid_greenup,147.0,176
+Frostburg,2021,VIIRS,mid_greenup,148.0,185
+Frostburg,2021,VIIRS,mid_greenup,149.0,211
+Frostburg,2021,VIIRS,mid_greenup,150.0,207
+Frostburg,2021,VIIRS,mid_greenup,151.0,204
+Frostburg,2021,VIIRS,mid_greenup,152.0,222
+Frostburg,2021,VIIRS,mid_greenup,153.0,209
+Frostburg,2021,VIIRS,mid_greenup,154.0,200
+Frostburg,2021,VIIRS,mid_greenup,155.0,186
+Frostburg,2021,VIIRS,mid_greenup,156.0,131
+Frostburg,2021,VIIRS,mid_greenup,157.0,112
+Frostburg,2021,VIIRS,mid_greenup,158.0,80
+Frostburg,2021,VIIRS,mid_greenup,159.0,53
+Frostburg,2021,VIIRS,mid_greenup,160.0,40
+Frostburg,2021,VIIRS,mid_greenup,161.0,15
+Frostburg,2021,VIIRS,mid_greenup,162.0,10
+Frostburg,2021,VIIRS,mid_greenup,163.0,5
+Frostburg,2021,VIIRS,mid_greenup,164.0,3
+Frostburg,2021,VIIRS,mid_greenup,165.0,3
+Frostburg,2021,VIIRS,mid_greenup,167.0,1
+Frostburg,2021,VIIRS,mid_greenup,169.0,1
+Frostburg,2021,VIIRS,mid_greenup,173.0,1
+Frostburg,2021,VIIRS,senescence,172.0,1
+Frostburg,2021,VIIRS,senescence,174.0,1
+Frostburg,2021,VIIRS,senescence,180.0,2
+Frostburg,2021,VIIRS,senescence,181.0,1
+Frostburg,2021,VIIRS,senescence,182.0,1
+Frostburg,2021,VIIRS,senescence,189.0,1
+Frostburg,2021,VIIRS,senescence,191.0,2
+Frostburg,2021,VIIRS,senescence,192.0,2
+Frostburg,2021,VIIRS,senescence,193.0,3
+Frostburg,2021,VIIRS,senescence,194.0,3
+Frostburg,2021,VIIRS,senescence,196.0,3
+Frostburg,2021,VIIRS,senescence,197.0,4
+Frostburg,2021,VIIRS,senescence,198.0,1
+Frostburg,2021,VIIRS,senescence,200.0,1
+Frostburg,2021,VIIRS,senescence,201.0,3
+Frostburg,2021,VIIRS,senescence,202.0,5
+Frostburg,2021,VIIRS,senescence,203.0,4
+Frostburg,2021,VIIRS,senescence,204.0,6
+Frostburg,2021,VIIRS,senescence,205.0,6
+Frostburg,2021,VIIRS,senescence,206.0,10
+Frostburg,2021,VIIRS,senescence,207.0,8
+Frostburg,2021,VIIRS,senescence,208.0,9
+Frostburg,2021,VIIRS,senescence,209.0,12
+Frostburg,2021,VIIRS,senescence,210.0,15
+Frostburg,2021,VIIRS,senescence,211.0,9
+Frostburg,2021,VIIRS,senescence,212.0,14
+Frostburg,2021,VIIRS,senescence,213.0,9
+Frostburg,2021,VIIRS,senescence,214.0,10
+Frostburg,2021,VIIRS,senescence,215.0,17
+Frostburg,2021,VIIRS,senescence,216.0,25
+Frostburg,2021,VIIRS,senescence,217.0,13
+Frostburg,2021,VIIRS,senescence,218.0,26
+Frostburg,2021,VIIRS,senescence,219.0,26
+Frostburg,2021,VIIRS,senescence,220.0,29
+Frostburg,2021,VIIRS,senescence,221.0,32
+Frostburg,2021,VIIRS,senescence,222.0,41
+Frostburg,2021,VIIRS,senescence,223.0,32
+Frostburg,2021,VIIRS,senescence,224.0,36
+Frostburg,2021,VIIRS,senescence,225.0,39
+Frostburg,2021,VIIRS,senescence,226.0,39
+Frostburg,2021,VIIRS,senescence,227.0,60
+Frostburg,2021,VIIRS,senescence,228.0,57
+Frostburg,2021,VIIRS,senescence,229.0,53
+Frostburg,2021,VIIRS,senescence,230.0,52
+Frostburg,2021,VIIRS,senescence,231.0,63
+Frostburg,2021,VIIRS,senescence,232.0,74
+Frostburg,2021,VIIRS,senescence,233.0,76
+Frostburg,2021,VIIRS,senescence,234.0,80
+Frostburg,2021,VIIRS,senescence,235.0,69
+Frostburg,2021,VIIRS,senescence,236.0,84
+Frostburg,2021,VIIRS,senescence,237.0,89
+Frostburg,2021,VIIRS,senescence,238.0,88
+Frostburg,2021,VIIRS,senescence,239.0,106
+Frostburg,2021,VIIRS,senescence,240.0,81
+Frostburg,2021,VIIRS,senescence,241.0,84
+Frostburg,2021,VIIRS,senescence,242.0,99
+Frostburg,2021,VIIRS,senescence,243.0,97
+Frostburg,2021,VIIRS,senescence,244.0,93
+Frostburg,2021,VIIRS,senescence,245.0,120
+Frostburg,2021,VIIRS,senescence,246.0,102
+Frostburg,2021,VIIRS,senescence,247.0,110
+Frostburg,2021,VIIRS,senescence,248.0,125
+Frostburg,2021,VIIRS,senescence,249.0,101
+Frostburg,2021,VIIRS,senescence,250.0,94
+Frostburg,2021,VIIRS,senescence,251.0,93
+Frostburg,2021,VIIRS,senescence,252.0,90
+Frostburg,2021,VIIRS,senescence,253.0,91
+Frostburg,2021,VIIRS,senescence,254.0,84
+Frostburg,2021,VIIRS,senescence,255.0,76
+Frostburg,2021,VIIRS,senescence,256.0,56
+Frostburg,2021,VIIRS,senescence,257.0,72
+Frostburg,2021,VIIRS,senescence,258.0,56
+Frostburg,2021,VIIRS,senescence,259.0,36
+Frostburg,2021,VIIRS,senescence,260.0,37
+Frostburg,2021,VIIRS,senescence,261.0,35
+Frostburg,2021,VIIRS,senescence,262.0,40
+Frostburg,2021,VIIRS,senescence,263.0,26
+Frostburg,2021,VIIRS,senescence,264.0,27
+Frostburg,2021,VIIRS,senescence,265.0,21
+Frostburg,2021,VIIRS,senescence,266.0,12
+Frostburg,2021,VIIRS,senescence,267.0,9
+Frostburg,2021,VIIRS,senescence,268.0,10
+Frostburg,2021,VIIRS,senescence,269.0,12
+Frostburg,2021,VIIRS,senescence,270.0,8
+Frostburg,2021,VIIRS,senescence,271.0,9
+Frostburg,2021,VIIRS,senescence,272.0,4
+Frostburg,2021,VIIRS,senescence,273.0,6
+Frostburg,2021,VIIRS,senescence,274.0,1
+Frostburg,2021,VIIRS,senescence,275.0,5
+Frostburg,2021,VIIRS,senescence,276.0,1
+Frostburg,2021,VIIRS,senescence,277.0,2
+Frostburg,2021,VIIRS,senescence,278.0,2
+Frostburg,2021,VIIRS,senescence,279.0,2
+Frostburg,2021,VIIRS,senescence,280.0,2
+Frostburg,2021,VIIRS,senescence,283.0,2
+Frostburg,2021,VIIRS,senescence,284.0,1
+Frostburg,2021,VIIRS,senescence,291.0,1
+Frostburg,2021,VIIRS,senescence,293.0,1
+Frostburg,2021,VIIRS,mid_greendown,255.0,2
+Frostburg,2021,VIIRS,mid_greendown,256.0,3
+Frostburg,2021,VIIRS,mid_greendown,257.0,1
+Frostburg,2021,VIIRS,mid_greendown,259.0,1
+Frostburg,2021,VIIRS,mid_greendown,261.0,2
+Frostburg,2021,VIIRS,mid_greendown,262.0,2
+Frostburg,2021,VIIRS,mid_greendown,263.0,3
+Frostburg,2021,VIIRS,mid_greendown,264.0,4
+Frostburg,2021,VIIRS,mid_greendown,265.0,4
+Frostburg,2021,VIIRS,mid_greendown,266.0,6
+Frostburg,2021,VIIRS,mid_greendown,267.0,2
+Frostburg,2021,VIIRS,mid_greendown,268.0,6
+Frostburg,2021,VIIRS,mid_greendown,269.0,5
+Frostburg,2021,VIIRS,mid_greendown,270.0,9
+Frostburg,2021,VIIRS,mid_greendown,271.0,8
+Frostburg,2021,VIIRS,mid_greendown,272.0,20
+Frostburg,2021,VIIRS,mid_greendown,273.0,14
+Frostburg,2021,VIIRS,mid_greendown,274.0,27
+Frostburg,2021,VIIRS,mid_greendown,275.0,29
+Frostburg,2021,VIIRS,mid_greendown,276.0,36
+Frostburg,2021,VIIRS,mid_greendown,277.0,35
+Frostburg,2021,VIIRS,mid_greendown,278.0,45
+Frostburg,2021,VIIRS,mid_greendown,279.0,57
+Frostburg,2021,VIIRS,mid_greendown,280.0,72
+Frostburg,2021,VIIRS,mid_greendown,281.0,91
+Frostburg,2021,VIIRS,mid_greendown,282.0,113
+Frostburg,2021,VIIRS,mid_greendown,283.0,118
+Frostburg,2021,VIIRS,mid_greendown,284.0,122
+Frostburg,2021,VIIRS,mid_greendown,285.0,142
+Frostburg,2021,VIIRS,mid_greendown,286.0,172
+Frostburg,2021,VIIRS,mid_greendown,287.0,186
+Frostburg,2021,VIIRS,mid_greendown,288.0,167
+Frostburg,2021,VIIRS,mid_greendown,289.0,178
+Frostburg,2021,VIIRS,mid_greendown,290.0,214
+Frostburg,2021,VIIRS,mid_greendown,291.0,237
+Frostburg,2021,VIIRS,mid_greendown,292.0,187
+Frostburg,2021,VIIRS,mid_greendown,293.0,181
+Frostburg,2021,VIIRS,mid_greendown,294.0,170
+Frostburg,2021,VIIRS,mid_greendown,295.0,156
+Frostburg,2021,VIIRS,mid_greendown,296.0,128
+Frostburg,2021,VIIRS,mid_greendown,297.0,119
+Frostburg,2021,VIIRS,mid_greendown,298.0,98
+Frostburg,2021,VIIRS,mid_greendown,299.0,77
+Frostburg,2021,VIIRS,mid_greendown,300.0,59
+Frostburg,2021,VIIRS,mid_greendown,301.0,31
+Frostburg,2021,VIIRS,mid_greendown,302.0,48
+Frostburg,2021,VIIRS,mid_greendown,303.0,26
+Frostburg,2021,VIIRS,mid_greendown,304.0,14
+Frostburg,2021,VIIRS,mid_greendown,305.0,14
+Frostburg,2021,VIIRS,mid_greendown,306.0,12
+Frostburg,2021,VIIRS,mid_greendown,307.0,5
+Frostburg,2021,VIIRS,mid_greendown,308.0,6
+Frostburg,2021,VIIRS,mid_greendown,309.0,2
+Frostburg,2021,VIIRS,mid_greendown,310.0,3
+Frostburg,2021,VIIRS,mid_greendown,311.0,4
+Frostburg,2021,VIIRS,mid_greendown,312.0,5
+Frostburg,2021,VIIRS,mid_greendown,314.0,2
+Frostburg,2021,VIIRS,mid_greendown,316.0,1
+Frostburg,2021,VIIRS,mid_greendown,317.0,1
+Frostburg,2021,VIIRS,mid_greendown,321.0,1
+Frostburg,2021,VIIRS,mid_greendown,322.0,2
+Frostburg,2021,VIIRS,mid_greendown,323.0,1
+Frostburg,2021,VIIRS,mid_greendown,325.0,1
+Frostburg,2021,VIIRS,mid_greendown,339.0,1
+Frostburg,2021,VIIRS,dormancy,302.0,1
+Frostburg,2021,VIIRS,dormancy,304.0,1
+Frostburg,2021,VIIRS,dormancy,307.0,1
+Frostburg,2021,VIIRS,dormancy,309.0,1
+Frostburg,2021,VIIRS,dormancy,313.0,2
+Frostburg,2021,VIIRS,dormancy,315.0,3
+Frostburg,2021,VIIRS,dormancy,316.0,3
+Frostburg,2021,VIIRS,dormancy,317.0,5
+Frostburg,2021,VIIRS,dormancy,318.0,8
+Frostburg,2021,VIIRS,dormancy,319.0,6
+Frostburg,2021,VIIRS,dormancy,320.0,12
+Frostburg,2021,VIIRS,dormancy,321.0,15
+Frostburg,2021,VIIRS,dormancy,322.0,17
+Frostburg,2021,VIIRS,dormancy,323.0,23
+Frostburg,2021,VIIRS,dormancy,324.0,21
+Frostburg,2021,VIIRS,dormancy,325.0,36
+Frostburg,2021,VIIRS,dormancy,326.0,48
+Frostburg,2021,VIIRS,dormancy,327.0,64
+Frostburg,2021,VIIRS,dormancy,328.0,63
+Frostburg,2021,VIIRS,dormancy,329.0,107
+Frostburg,2021,VIIRS,dormancy,330.0,128
+Frostburg,2021,VIIRS,dormancy,331.0,158
+Frostburg,2021,VIIRS,dormancy,332.0,145
+Frostburg,2021,VIIRS,dormancy,333.0,168
+Frostburg,2021,VIIRS,dormancy,334.0,161
+Frostburg,2021,VIIRS,dormancy,335.0,199
+Frostburg,2021,VIIRS,dormancy,336.0,231
+Frostburg,2021,VIIRS,dormancy,337.0,206
+Frostburg,2021,VIIRS,dormancy,338.0,193
+Frostburg,2021,VIIRS,dormancy,339.0,211
+Frostburg,2021,VIIRS,dormancy,340.0,180
+Frostburg,2021,VIIRS,dormancy,341.0,174
+Frostburg,2021,VIIRS,dormancy,342.0,162
+Frostburg,2021,VIIRS,dormancy,343.0,117
+Frostburg,2021,VIIRS,dormancy,344.0,124
+Frostburg,2021,VIIRS,dormancy,345.0,89
+Frostburg,2021,VIIRS,dormancy,346.0,72
+Frostburg,2021,VIIRS,dormancy,347.0,75
+Frostburg,2021,VIIRS,dormancy,348.0,49
+Frostburg,2021,VIIRS,dormancy,349.0,45
+Frostburg,2021,VIIRS,dormancy,350.0,41
+Frostburg,2021,VIIRS,dormancy,351.0,27
+Frostburg,2021,VIIRS,dormancy,352.0,16
+Frostburg,2021,VIIRS,dormancy,353.0,22
+Frostburg,2021,VIIRS,dormancy,354.0,9
+Frostburg,2021,VIIRS,dormancy,355.0,9
+Frostburg,2021,VIIRS,dormancy,356.0,5
+Frostburg,2021,VIIRS,dormancy,357.0,5
+Frostburg,2021,VIIRS,dormancy,358.0,5
+Frostburg,2021,VIIRS,dormancy,359.0,5
+Frostburg,2021,VIIRS,dormancy,360.0,8
+Frostburg,2021,VIIRS,dormancy,362.0,2
+Frostburg,2021,VIIRS,dormancy,363.0,3
+Frostburg,2021,VIIRS,dormancy,366.0,2
+Frostburg,2021,VIIRS,dormancy,369.0,1
+Frostburg,2021,VIIRS,dormancy,370.0,1
+Frostburg,2021,VIIRS,dormancy,376.0,1
+Frostburg,2021,VIIRS,dormancy,380.0,1
+Frostburg,2021,VIIRS,dormancy,395.0,1
+Frostburg,2021,VIIRS,forest_px,1.0,6893
+Valley Head,2021,VIIRS,mid_greenup,120.0,2
+Valley Head,2021,VIIRS,mid_greenup,122.0,1
+Valley Head,2021,VIIRS,mid_greenup,124.0,2
+Valley Head,2021,VIIRS,mid_greenup,127.0,2
+Valley Head,2021,VIIRS,mid_greenup,128.0,4
+Valley Head,2021,VIIRS,mid_greenup,129.0,1
+Valley Head,2021,VIIRS,mid_greenup,130.0,4
+Valley Head,2021,VIIRS,mid_greenup,131.0,1
+Valley Head,2021,VIIRS,mid_greenup,132.0,1
+Valley Head,2021,VIIRS,mid_greenup,133.0,4
+Valley Head,2021,VIIRS,mid_greenup,134.0,8
+Valley Head,2021,VIIRS,mid_greenup,135.0,5
+Valley Head,2021,VIIRS,mid_greenup,136.0,10
+Valley Head,2021,VIIRS,mid_greenup,137.0,9
+Valley Head,2021,VIIRS,mid_greenup,138.0,12
+Valley Head,2021,VIIRS,mid_greenup,139.0,9
+Valley Head,2021,VIIRS,mid_greenup,140.0,18
+Valley Head,2021,VIIRS,mid_greenup,141.0,21
+Valley Head,2021,VIIRS,mid_greenup,142.0,15
+Valley Head,2021,VIIRS,mid_greenup,143.0,25
+Valley Head,2021,VIIRS,mid_greenup,144.0,36
+Valley Head,2021,VIIRS,mid_greenup,145.0,48
+Valley Head,2021,VIIRS,mid_greenup,146.0,84
+Valley Head,2021,VIIRS,mid_greenup,147.0,114
+Valley Head,2021,VIIRS,mid_greenup,148.0,169
+Valley Head,2021,VIIRS,mid_greenup,149.0,210
+Valley Head,2021,VIIRS,mid_greenup,150.0,291
+Valley Head,2021,VIIRS,mid_greenup,151.0,340
+Valley Head,2021,VIIRS,mid_greenup,152.0,368
+Valley Head,2021,VIIRS,mid_greenup,153.0,339
+Valley Head,2021,VIIRS,mid_greenup,154.0,323
+Valley Head,2021,VIIRS,mid_greenup,155.0,336
+Valley Head,2021,VIIRS,mid_greenup,156.0,269
+Valley Head,2021,VIIRS,mid_greenup,157.0,243
+Valley Head,2021,VIIRS,mid_greenup,158.0,178
+Valley Head,2021,VIIRS,mid_greenup,159.0,122
+Valley Head,2021,VIIRS,mid_greenup,160.0,91
+Valley Head,2021,VIIRS,mid_greenup,161.0,46
+Valley Head,2021,VIIRS,mid_greenup,162.0,42
+Valley Head,2021,VIIRS,mid_greenup,163.0,16
+Valley Head,2021,VIIRS,mid_greenup,164.0,16
+Valley Head,2021,VIIRS,mid_greenup,165.0,3
+Valley Head,2021,VIIRS,mid_greenup,166.0,3
+Valley Head,2021,VIIRS,mid_greenup,168.0,1
+Valley Head,2021,VIIRS,mid_greenup,170.0,1
+Valley Head,2021,VIIRS,senescence,173.0,1
+Valley Head,2021,VIIRS,senescence,185.0,1
+Valley Head,2021,VIIRS,senescence,186.0,1
+Valley Head,2021,VIIRS,senescence,189.0,1
+Valley Head,2021,VIIRS,senescence,191.0,1
+Valley Head,2021,VIIRS,senescence,192.0,1
+Valley Head,2021,VIIRS,senescence,193.0,1
+Valley Head,2021,VIIRS,senescence,197.0,1
+Valley Head,2021,VIIRS,senescence,200.0,1
+Valley Head,2021,VIIRS,senescence,201.0,3
+Valley Head,2021,VIIRS,senescence,203.0,4
+Valley Head,2021,VIIRS,senescence,204.0,2
+Valley Head,2021,VIIRS,senescence,205.0,4
+Valley Head,2021,VIIRS,senescence,206.0,3
+Valley Head,2021,VIIRS,senescence,207.0,2
+Valley Head,2021,VIIRS,senescence,208.0,7
+Valley Head,2021,VIIRS,senescence,209.0,4
+Valley Head,2021,VIIRS,senescence,210.0,4
+Valley Head,2021,VIIRS,senescence,211.0,3
+Valley Head,2021,VIIRS,senescence,212.0,6
+Valley Head,2021,VIIRS,senescence,213.0,5
+Valley Head,2021,VIIRS,senescence,214.0,5
+Valley Head,2021,VIIRS,senescence,215.0,10
+Valley Head,2021,VIIRS,senescence,216.0,9
+Valley Head,2021,VIIRS,senescence,217.0,7
+Valley Head,2021,VIIRS,senescence,218.0,10
+Valley Head,2021,VIIRS,senescence,219.0,21
+Valley Head,2021,VIIRS,senescence,220.0,13
+Valley Head,2021,VIIRS,senescence,221.0,13
+Valley Head,2021,VIIRS,senescence,222.0,25
+Valley Head,2021,VIIRS,senescence,223.0,19
+Valley Head,2021,VIIRS,senescence,224.0,28
+Valley Head,2021,VIIRS,senescence,225.0,29
+Valley Head,2021,VIIRS,senescence,226.0,27
+Valley Head,2021,VIIRS,senescence,227.0,23
+Valley Head,2021,VIIRS,senescence,228.0,41
+Valley Head,2021,VIIRS,senescence,229.0,34
+Valley Head,2021,VIIRS,senescence,230.0,56
+Valley Head,2021,VIIRS,senescence,231.0,61
+Valley Head,2021,VIIRS,senescence,232.0,71
+Valley Head,2021,VIIRS,senescence,233.0,53
+Valley Head,2021,VIIRS,senescence,234.0,59
+Valley Head,2021,VIIRS,senescence,235.0,69
+Valley Head,2021,VIIRS,senescence,236.0,88
+Valley Head,2021,VIIRS,senescence,237.0,86
+Valley Head,2021,VIIRS,senescence,238.0,93
+Valley Head,2021,VIIRS,senescence,239.0,109
+Valley Head,2021,VIIRS,senescence,240.0,101
+Valley Head,2021,VIIRS,senescence,241.0,105
+Valley Head,2021,VIIRS,senescence,242.0,108
+Valley Head,2021,VIIRS,senescence,243.0,109
+Valley Head,2021,VIIRS,senescence,244.0,117
+Valley Head,2021,VIIRS,senescence,245.0,123
+Valley Head,2021,VIIRS,senescence,246.0,116
+Valley Head,2021,VIIRS,senescence,247.0,107
+Valley Head,2021,VIIRS,senescence,248.0,136
+Valley Head,2021,VIIRS,senescence,249.0,137
+Valley Head,2021,VIIRS,senescence,250.0,114
+Valley Head,2021,VIIRS,senescence,251.0,108
+Valley Head,2021,VIIRS,senescence,252.0,115
+Valley Head,2021,VIIRS,senescence,253.0,114
+Valley Head,2021,VIIRS,senescence,254.0,105
+Valley Head,2021,VIIRS,senescence,255.0,106
+Valley Head,2021,VIIRS,senescence,256.0,98
+Valley Head,2021,VIIRS,senescence,257.0,95
+Valley Head,2021,VIIRS,senescence,258.0,79
+Valley Head,2021,VIIRS,senescence,259.0,66
+Valley Head,2021,VIIRS,senescence,260.0,72
+Valley Head,2021,VIIRS,senescence,261.0,61
+Valley Head,2021,VIIRS,senescence,262.0,54
+Valley Head,2021,VIIRS,senescence,263.0,52
+Valley Head,2021,VIIRS,senescence,264.0,54
+Valley Head,2021,VIIRS,senescence,265.0,35
+Valley Head,2021,VIIRS,senescence,266.0,34
+Valley Head,2021,VIIRS,senescence,267.0,30
+Valley Head,2021,VIIRS,senescence,268.0,20
+Valley Head,2021,VIIRS,senescence,269.0,26
+Valley Head,2021,VIIRS,senescence,270.0,30
+Valley Head,2021,VIIRS,senescence,271.0,18
+Valley Head,2021,VIIRS,senescence,272.0,14
+Valley Head,2021,VIIRS,senescence,273.0,13
+Valley Head,2021,VIIRS,senescence,274.0,11
+Valley Head,2021,VIIRS,senescence,275.0,7
+Valley Head,2021,VIIRS,senescence,276.0,5
+Valley Head,2021,VIIRS,senescence,277.0,8
+Valley Head,2021,VIIRS,senescence,278.0,5
+Valley Head,2021,VIIRS,senescence,279.0,5
+Valley Head,2021,VIIRS,senescence,280.0,5
+Valley Head,2021,VIIRS,senescence,281.0,3
+Valley Head,2021,VIIRS,senescence,282.0,1
+Valley Head,2021,VIIRS,senescence,283.0,3
+Valley Head,2021,VIIRS,senescence,285.0,1
+Valley Head,2021,VIIRS,senescence,288.0,1
+Valley Head,2021,VIIRS,senescence,289.0,1
+Valley Head,2021,VIIRS,mid_greendown,249.0,1
+Valley Head,2021,VIIRS,mid_greendown,250.0,1
+Valley Head,2021,VIIRS,mid_greendown,259.0,2
+Valley Head,2021,VIIRS,mid_greendown,261.0,1
+Valley Head,2021,VIIRS,mid_greendown,262.0,1
+Valley Head,2021,VIIRS,mid_greendown,263.0,1
+Valley Head,2021,VIIRS,mid_greendown,264.0,2
+Valley Head,2021,VIIRS,mid_greendown,266.0,4
+Valley Head,2021,VIIRS,mid_greendown,267.0,5
+Valley Head,2021,VIIRS,mid_greendown,268.0,3
+Valley Head,2021,VIIRS,mid_greendown,269.0,4
+Valley Head,2021,VIIRS,mid_greendown,270.0,3
+Valley Head,2021,VIIRS,mid_greendown,271.0,2
+Valley Head,2021,VIIRS,mid_greendown,272.0,7
+Valley Head,2021,VIIRS,mid_greendown,273.0,6
+Valley Head,2021,VIIRS,mid_greendown,274.0,11
+Valley Head,2021,VIIRS,mid_greendown,275.0,18
+Valley Head,2021,VIIRS,mid_greendown,276.0,17
+Valley Head,2021,VIIRS,mid_greendown,277.0,24
+Valley Head,2021,VIIRS,mid_greendown,278.0,33
+Valley Head,2021,VIIRS,mid_greendown,279.0,49
+Valley Head,2021,VIIRS,mid_greendown,280.0,46
+Valley Head,2021,VIIRS,mid_greendown,281.0,52
+Valley Head,2021,VIIRS,mid_greendown,282.0,79
+Valley Head,2021,VIIRS,mid_greendown,283.0,100
+Valley Head,2021,VIIRS,mid_greendown,284.0,107
+Valley Head,2021,VIIRS,mid_greendown,285.0,147
+Valley Head,2021,VIIRS,mid_greendown,286.0,147
+Valley Head,2021,VIIRS,mid_greendown,287.0,157
+Valley Head,2021,VIIRS,mid_greendown,288.0,166
+Valley Head,2021,VIIRS,mid_greendown,289.0,184
+Valley Head,2021,VIIRS,mid_greendown,290.0,211
+Valley Head,2021,VIIRS,mid_greendown,291.0,206
+Valley Head,2021,VIIRS,mid_greendown,292.0,222
+Valley Head,2021,VIIRS,mid_greendown,293.0,200
+Valley Head,2021,VIIRS,mid_greendown,294.0,206
+Valley Head,2021,VIIRS,mid_greendown,295.0,198
+Valley Head,2021,VIIRS,mid_greendown,296.0,179
+Valley Head,2021,VIIRS,mid_greendown,297.0,156
+Valley Head,2021,VIIRS,mid_greendown,298.0,154
+Valley Head,2021,VIIRS,mid_greendown,299.0,143
+Valley Head,2021,VIIRS,mid_greendown,300.0,145
+Valley Head,2021,VIIRS,mid_greendown,301.0,103
+Valley Head,2021,VIIRS,mid_greendown,302.0,82
+Valley Head,2021,VIIRS,mid_greendown,303.0,70
+Valley Head,2021,VIIRS,mid_greendown,304.0,39
+Valley Head,2021,VIIRS,mid_greendown,305.0,41
+Valley Head,2021,VIIRS,mid_greendown,306.0,38
+Valley Head,2021,VIIRS,mid_greendown,307.0,19
+Valley Head,2021,VIIRS,mid_greendown,308.0,22
+Valley Head,2021,VIIRS,mid_greendown,309.0,10
+Valley Head,2021,VIIRS,mid_greendown,310.0,8
+Valley Head,2021,VIIRS,mid_greendown,311.0,4
+Valley Head,2021,VIIRS,mid_greendown,312.0,2
+Valley Head,2021,VIIRS,mid_greendown,313.0,1
+Valley Head,2021,VIIRS,mid_greendown,314.0,2
+Valley Head,2021,VIIRS,mid_greendown,316.0,2
+Valley Head,2021,VIIRS,dormancy,302.0,1
+Valley Head,2021,VIIRS,dormancy,305.0,1
+Valley Head,2021,VIIRS,dormancy,311.0,1
+Valley Head,2021,VIIRS,dormancy,312.0,1
+Valley Head,2021,VIIRS,dormancy,313.0,1
+Valley Head,2021,VIIRS,dormancy,314.0,1
+Valley Head,2021,VIIRS,dormancy,315.0,2
+Valley Head,2021,VIIRS,dormancy,316.0,2
+Valley Head,2021,VIIRS,dormancy,317.0,1
+Valley Head,2021,VIIRS,dormancy,318.0,7
+Valley Head,2021,VIIRS,dormancy,319.0,7
+Valley Head,2021,VIIRS,dormancy,320.0,10
+Valley Head,2021,VIIRS,dormancy,321.0,17
+Valley Head,2021,VIIRS,dormancy,322.0,20
+Valley Head,2021,VIIRS,dormancy,323.0,32
+Valley Head,2021,VIIRS,dormancy,324.0,38
+Valley Head,2021,VIIRS,dormancy,325.0,46
+Valley Head,2021,VIIRS,dormancy,326.0,61
+Valley Head,2021,VIIRS,dormancy,327.0,61
+Valley Head,2021,VIIRS,dormancy,328.0,89
+Valley Head,2021,VIIRS,dormancy,329.0,109
+Valley Head,2021,VIIRS,dormancy,330.0,98
+Valley Head,2021,VIIRS,dormancy,331.0,122
+Valley Head,2021,VIIRS,dormancy,332.0,145
+Valley Head,2021,VIIRS,dormancy,333.0,152
+Valley Head,2021,VIIRS,dormancy,334.0,174
+Valley Head,2021,VIIRS,dormancy,335.0,188
+Valley Head,2021,VIIRS,dormancy,336.0,192
+Valley Head,2021,VIIRS,dormancy,337.0,191
+Valley Head,2021,VIIRS,dormancy,338.0,232
+Valley Head,2021,VIIRS,dormancy,339.0,228
+Valley Head,2021,VIIRS,dormancy,340.0,231
+Valley Head,2021,VIIRS,dormancy,341.0,225
+Valley Head,2021,VIIRS,dormancy,342.0,201
+Valley Head,2021,VIIRS,dormancy,343.0,182
+Valley Head,2021,VIIRS,dormancy,344.0,180
+Valley Head,2021,VIIRS,dormancy,345.0,153
+Valley Head,2021,VIIRS,dormancy,346.0,132
+Valley Head,2021,VIIRS,dormancy,347.0,88
+Valley Head,2021,VIIRS,dormancy,348.0,71
+Valley Head,2021,VIIRS,dormancy,349.0,39
+Valley Head,2021,VIIRS,dormancy,350.0,29
+Valley Head,2021,VIIRS,dormancy,351.0,24
+Valley Head,2021,VIIRS,dormancy,352.0,23
+Valley Head,2021,VIIRS,dormancy,353.0,6
+Valley Head,2021,VIIRS,dormancy,354.0,6
+Valley Head,2021,VIIRS,dormancy,355.0,6
+Valley Head,2021,VIIRS,dormancy,356.0,2
+Valley Head,2021,VIIRS,dormancy,357.0,4
+Valley Head,2021,VIIRS,dormancy,359.0,4
+Valley Head,2021,VIIRS,dormancy,360.0,1
+Valley Head,2021,VIIRS,dormancy,361.0,1
+Valley Head,2021,VIIRS,dormancy,364.0,3
+Valley Head,2021,VIIRS,dormancy,368.0,1
+Valley Head,2021,VIIRS,dormancy,374.0,1
+Valley Head,2021,VIIRS,forest_px,1.0,7469
+Shenandoah,2021,VIIRS,mid_greenup,112.0,1
+Shenandoah,2021,VIIRS,mid_greenup,115.0,1
+Shenandoah,2021,VIIRS,mid_greenup,120.0,3
+Shenandoah,2021,VIIRS,mid_greenup,121.0,1
+Shenandoah,2021,VIIRS,mid_greenup,122.0,2
+Shenandoah,2021,VIIRS,mid_greenup,123.0,7
+Shenandoah,2021,VIIRS,mid_greenup,124.0,9
+Shenandoah,2021,VIIRS,mid_greenup,125.0,19
+Shenandoah,2021,VIIRS,mid_greenup,126.0,21
+Shenandoah,2021,VIIRS,mid_greenup,127.0,31
+Shenandoah,2021,VIIRS,mid_greenup,128.0,51
+Shenandoah,2021,VIIRS,mid_greenup,129.0,70
+Shenandoah,2021,VIIRS,mid_greenup,130.0,84
+Shenandoah,2021,VIIRS,mid_greenup,131.0,121
+Shenandoah,2021,VIIRS,mid_greenup,132.0,144
+Shenandoah,2021,VIIRS,mid_greenup,133.0,152
+Shenandoah,2021,VIIRS,mid_greenup,134.0,164
+Shenandoah,2021,VIIRS,mid_greenup,135.0,158
+Shenandoah,2021,VIIRS,mid_greenup,136.0,135
+Shenandoah,2021,VIIRS,mid_greenup,137.0,132
+Shenandoah,2021,VIIRS,mid_greenup,138.0,150
+Shenandoah,2021,VIIRS,mid_greenup,139.0,124
+Shenandoah,2021,VIIRS,mid_greenup,140.0,124
+Shenandoah,2021,VIIRS,mid_greenup,141.0,93
+Shenandoah,2021,VIIRS,mid_greenup,142.0,95
+Shenandoah,2021,VIIRS,mid_greenup,143.0,93
+Shenandoah,2021,VIIRS,mid_greenup,144.0,81
+Shenandoah,2021,VIIRS,mid_greenup,145.0,78
+Shenandoah,2021,VIIRS,mid_greenup,146.0,85
+Shenandoah,2021,VIIRS,mid_greenup,147.0,86
+Shenandoah,2021,VIIRS,mid_greenup,148.0,66
+Shenandoah,2021,VIIRS,mid_greenup,149.0,58
+Shenandoah,2021,VIIRS,mid_greenup,150.0,55
+Shenandoah,2021,VIIRS,mid_greenup,151.0,42
+Shenandoah,2021,VIIRS,mid_greenup,152.0,50
+Shenandoah,2021,VIIRS,mid_greenup,153.0,31
+Shenandoah,2021,VIIRS,mid_greenup,154.0,33
+Shenandoah,2021,VIIRS,mid_greenup,155.0,22
+Shenandoah,2021,VIIRS,mid_greenup,156.0,26
+Shenandoah,2021,VIIRS,mid_greenup,157.0,11
+Shenandoah,2021,VIIRS,mid_greenup,158.0,5
+Shenandoah,2021,VIIRS,mid_greenup,159.0,6
+Shenandoah,2021,VIIRS,mid_greenup,160.0,6
+Shenandoah,2021,VIIRS,mid_greenup,161.0,5
+Shenandoah,2021,VIIRS,mid_greenup,162.0,1
+Shenandoah,2021,VIIRS,mid_greenup,165.0,1
+Shenandoah,2021,VIIRS,senescence,180.0,1
+Shenandoah,2021,VIIRS,senescence,182.0,1
+Shenandoah,2021,VIIRS,senescence,185.0,1
+Shenandoah,2021,VIIRS,senescence,186.0,1
+Shenandoah,2021,VIIRS,senescence,187.0,1
+Shenandoah,2021,VIIRS,senescence,188.0,2
+Shenandoah,2021,VIIRS,senescence,192.0,1
+Shenandoah,2021,VIIRS,senescence,193.0,1
+Shenandoah,2021,VIIRS,senescence,195.0,1
+Shenandoah,2021,VIIRS,senescence,196.0,2
+Shenandoah,2021,VIIRS,senescence,198.0,1
+Shenandoah,2021,VIIRS,senescence,199.0,1
+Shenandoah,2021,VIIRS,senescence,200.0,3
+Shenandoah,2021,VIIRS,senescence,201.0,2
+Shenandoah,2021,VIIRS,senescence,202.0,4
+Shenandoah,2021,VIIRS,senescence,203.0,1
+Shenandoah,2021,VIIRS,senescence,204.0,4
+Shenandoah,2021,VIIRS,senescence,205.0,4
+Shenandoah,2021,VIIRS,senescence,206.0,3
+Shenandoah,2021,VIIRS,senescence,207.0,3
+Shenandoah,2021,VIIRS,senescence,208.0,1
+Shenandoah,2021,VIIRS,senescence,209.0,3
+Shenandoah,2021,VIIRS,senescence,210.0,6
+Shenandoah,2021,VIIRS,senescence,211.0,5
+Shenandoah,2021,VIIRS,senescence,213.0,3
+Shenandoah,2021,VIIRS,senescence,214.0,3
+Shenandoah,2021,VIIRS,senescence,215.0,2
+Shenandoah,2021,VIIRS,senescence,216.0,8
+Shenandoah,2021,VIIRS,senescence,217.0,5
+Shenandoah,2021,VIIRS,senescence,218.0,6
+Shenandoah,2021,VIIRS,senescence,219.0,6
+Shenandoah,2021,VIIRS,senescence,220.0,7
+Shenandoah,2021,VIIRS,senescence,221.0,13
+Shenandoah,2021,VIIRS,senescence,222.0,14
+Shenandoah,2021,VIIRS,senescence,223.0,12
+Shenandoah,2021,VIIRS,senescence,224.0,6
+Shenandoah,2021,VIIRS,senescence,225.0,11
+Shenandoah,2021,VIIRS,senescence,226.0,12
+Shenandoah,2021,VIIRS,senescence,227.0,15
+Shenandoah,2021,VIIRS,senescence,228.0,15
+Shenandoah,2021,VIIRS,senescence,229.0,11
+Shenandoah,2021,VIIRS,senescence,230.0,30
+Shenandoah,2021,VIIRS,senescence,231.0,33
+Shenandoah,2021,VIIRS,senescence,232.0,28
+Shenandoah,2021,VIIRS,senescence,233.0,19
+Shenandoah,2021,VIIRS,senescence,234.0,33
+Shenandoah,2021,VIIRS,senescence,235.0,36
+Shenandoah,2021,VIIRS,senescence,236.0,46
+Shenandoah,2021,VIIRS,senescence,237.0,41
+Shenandoah,2021,VIIRS,senescence,238.0,46
+Shenandoah,2021,VIIRS,senescence,239.0,57
+Shenandoah,2021,VIIRS,senescence,240.0,61
+Shenandoah,2021,VIIRS,senescence,241.0,58
+Shenandoah,2021,VIIRS,senescence,242.0,49
+Shenandoah,2021,VIIRS,senescence,243.0,52
+Shenandoah,2021,VIIRS,senescence,244.0,65
+Shenandoah,2021,VIIRS,senescence,245.0,66
+Shenandoah,2021,VIIRS,senescence,246.0,62
+Shenandoah,2021,VIIRS,senescence,247.0,68
+Shenandoah,2021,VIIRS,senescence,248.0,72
+Shenandoah,2021,VIIRS,senescence,249.0,66
+Shenandoah,2021,VIIRS,senescence,250.0,79
+Shenandoah,2021,VIIRS,senescence,251.0,65
+Shenandoah,2021,VIIRS,senescence,252.0,69
+Shenandoah,2021,VIIRS,senescence,253.0,81
+Shenandoah,2021,VIIRS,senescence,254.0,66
+Shenandoah,2021,VIIRS,senescence,255.0,80
+Shenandoah,2021,VIIRS,senescence,256.0,69
+Shenandoah,2021,VIIRS,senescence,257.0,62
+Shenandoah,2021,VIIRS,senescence,258.0,81
+Shenandoah,2021,VIIRS,senescence,259.0,64
+Shenandoah,2021,VIIRS,senescence,260.0,64
+Shenandoah,2021,VIIRS,senescence,261.0,63
+Shenandoah,2021,VIIRS,senescence,262.0,52
+Shenandoah,2021,VIIRS,senescence,263.0,65
+Shenandoah,2021,VIIRS,senescence,264.0,44
+Shenandoah,2021,VIIRS,senescence,265.0,42
+Shenandoah,2021,VIIRS,senescence,266.0,54
+Shenandoah,2021,VIIRS,senescence,267.0,43
+Shenandoah,2021,VIIRS,senescence,268.0,44
+Shenandoah,2021,VIIRS,senescence,269.0,32
+Shenandoah,2021,VIIRS,senescence,270.0,41
+Shenandoah,2021,VIIRS,senescence,271.0,48
+Shenandoah,2021,VIIRS,senescence,272.0,26
+Shenandoah,2021,VIIRS,senescence,273.0,23
+Shenandoah,2021,VIIRS,senescence,274.0,22
+Shenandoah,2021,VIIRS,senescence,275.0,31
+Shenandoah,2021,VIIRS,senescence,276.0,19
+Shenandoah,2021,VIIRS,senescence,277.0,14
+Shenandoah,2021,VIIRS,senescence,278.0,16
+Shenandoah,2021,VIIRS,senescence,279.0,22
+Shenandoah,2021,VIIRS,senescence,280.0,12
+Shenandoah,2021,VIIRS,senescence,281.0,10
+Shenandoah,2021,VIIRS,senescence,282.0,9
+Shenandoah,2021,VIIRS,senescence,283.0,4
+Shenandoah,2021,VIIRS,senescence,284.0,6
+Shenandoah,2021,VIIRS,senescence,285.0,1
+Shenandoah,2021,VIIRS,senescence,286.0,2
+Shenandoah,2021,VIIRS,senescence,287.0,3
+Shenandoah,2021,VIIRS,senescence,288.0,5
+Shenandoah,2021,VIIRS,senescence,289.0,2
+Shenandoah,2021,VIIRS,senescence,290.0,1
+Shenandoah,2021,VIIRS,senescence,291.0,1
+Shenandoah,2021,VIIRS,senescence,292.0,1
+Shenandoah,2021,VIIRS,senescence,293.0,1
+Shenandoah,2021,VIIRS,senescence,294.0,1
+Shenandoah,2021,VIIRS,senescence,296.0,1
+Shenandoah,2021,VIIRS,senescence,297.0,1
+Shenandoah,2021,VIIRS,senescence,300.0,1
+Shenandoah,2021,VIIRS,mid_greendown,188.0,1
+Shenandoah,2021,VIIRS,mid_greendown,234.0,1
+Shenandoah,2021,VIIRS,mid_greendown,261.0,1
+Shenandoah,2021,VIIRS,mid_greendown,262.0,1
+Shenandoah,2021,VIIRS,mid_greendown,263.0,1
+Shenandoah,2021,VIIRS,mid_greendown,265.0,1
+Shenandoah,2021,VIIRS,mid_greendown,266.0,1
+Shenandoah,2021,VIIRS,mid_greendown,267.0,2
+Shenandoah,2021,VIIRS,mid_greendown,269.0,2
+Shenandoah,2021,VIIRS,mid_greendown,270.0,2
+Shenandoah,2021,VIIRS,mid_greendown,271.0,6
+Shenandoah,2021,VIIRS,mid_greendown,272.0,2
+Shenandoah,2021,VIIRS,mid_greendown,273.0,2
+Shenandoah,2021,VIIRS,mid_greendown,274.0,2
+Shenandoah,2021,VIIRS,mid_greendown,275.0,4
+Shenandoah,2021,VIIRS,mid_greendown,276.0,6
+Shenandoah,2021,VIIRS,mid_greendown,277.0,8
+Shenandoah,2021,VIIRS,mid_greendown,278.0,5
+Shenandoah,2021,VIIRS,mid_greendown,279.0,4
+Shenandoah,2021,VIIRS,mid_greendown,280.0,16
+Shenandoah,2021,VIIRS,mid_greendown,281.0,12
+Shenandoah,2021,VIIRS,mid_greendown,282.0,20
+Shenandoah,2021,VIIRS,mid_greendown,283.0,16
+Shenandoah,2021,VIIRS,mid_greendown,284.0,14
+Shenandoah,2021,VIIRS,mid_greendown,285.0,22
+Shenandoah,2021,VIIRS,mid_greendown,286.0,31
+Shenandoah,2021,VIIRS,mid_greendown,287.0,32
+Shenandoah,2021,VIIRS,mid_greendown,288.0,42
+Shenandoah,2021,VIIRS,mid_greendown,289.0,48
+Shenandoah,2021,VIIRS,mid_greendown,290.0,75
+Shenandoah,2021,VIIRS,mid_greendown,291.0,75
+Shenandoah,2021,VIIRS,mid_greendown,292.0,68
+Shenandoah,2021,VIIRS,mid_greendown,293.0,86
+Shenandoah,2021,VIIRS,mid_greendown,294.0,112
+Shenandoah,2021,VIIRS,mid_greendown,295.0,112
+Shenandoah,2021,VIIRS,mid_greendown,296.0,111
+Shenandoah,2021,VIIRS,mid_greendown,297.0,138
+Shenandoah,2021,VIIRS,mid_greendown,298.0,137
+Shenandoah,2021,VIIRS,mid_greendown,299.0,133
+Shenandoah,2021,VIIRS,mid_greendown,300.0,154
+Shenandoah,2021,VIIRS,mid_greendown,301.0,153
+Shenandoah,2021,VIIRS,mid_greendown,302.0,126
+Shenandoah,2021,VIIRS,mid_greendown,303.0,113
+Shenandoah,2021,VIIRS,mid_greendown,304.0,110
+Shenandoah,2021,VIIRS,mid_greendown,305.0,105
+Shenandoah,2021,VIIRS,mid_greendown,306.0,88
+Shenandoah,2021,VIIRS,mid_greendown,307.0,88
+Shenandoah,2021,VIIRS,mid_greendown,308.0,74
+Shenandoah,2021,VIIRS,mid_greendown,309.0,79
+Shenandoah,2021,VIIRS,mid_greendown,310.0,70
+Shenandoah,2021,VIIRS,mid_greendown,311.0,51
+Shenandoah,2021,VIIRS,mid_greendown,312.0,33
+Shenandoah,2021,VIIRS,mid_greendown,313.0,50
+Shenandoah,2021,VIIRS,mid_greendown,314.0,26
+Shenandoah,2021,VIIRS,mid_greendown,315.0,16
+Shenandoah,2021,VIIRS,mid_greendown,316.0,14
+Shenandoah,2021,VIIRS,mid_greendown,317.0,10
+Shenandoah,2021,VIIRS,mid_greendown,318.0,7
+Shenandoah,2021,VIIRS,mid_greendown,319.0,7
+Shenandoah,2021,VIIRS,mid_greendown,320.0,4
+Shenandoah,2021,VIIRS,mid_greendown,321.0,2
+Shenandoah,2021,VIIRS,mid_greendown,322.0,1
+Shenandoah,2021,VIIRS,dormancy,192.0,1
+Shenandoah,2021,VIIRS,dormancy,318.0,2
+Shenandoah,2021,VIIRS,dormancy,321.0,1
+Shenandoah,2021,VIIRS,dormancy,324.0,1
+Shenandoah,2021,VIIRS,dormancy,326.0,1
+Shenandoah,2021,VIIRS,dormancy,327.0,1
+Shenandoah,2021,VIIRS,dormancy,328.0,2
+Shenandoah,2021,VIIRS,dormancy,329.0,1
+Shenandoah,2021,VIIRS,dormancy,330.0,2
+Shenandoah,2021,VIIRS,dormancy,331.0,4
+Shenandoah,2021,VIIRS,dormancy,332.0,10
+Shenandoah,2021,VIIRS,dormancy,333.0,9
+Shenandoah,2021,VIIRS,dormancy,334.0,15
+Shenandoah,2021,VIIRS,dormancy,335.0,25
+Shenandoah,2021,VIIRS,dormancy,336.0,34
+Shenandoah,2021,VIIRS,dormancy,337.0,34
+Shenandoah,2021,VIIRS,dormancy,338.0,61
+Shenandoah,2021,VIIRS,dormancy,339.0,77
+Shenandoah,2021,VIIRS,dormancy,340.0,89
+Shenandoah,2021,VIIRS,dormancy,341.0,117
+Shenandoah,2021,VIIRS,dormancy,342.0,115
+Shenandoah,2021,VIIRS,dormancy,343.0,134
+Shenandoah,2021,VIIRS,dormancy,344.0,149
+Shenandoah,2021,VIIRS,dormancy,345.0,168
+Shenandoah,2021,VIIRS,dormancy,346.0,170
+Shenandoah,2021,VIIRS,dormancy,347.0,178
+Shenandoah,2021,VIIRS,dormancy,348.0,169
+Shenandoah,2021,VIIRS,dormancy,349.0,168
+Shenandoah,2021,VIIRS,dormancy,350.0,176
+Shenandoah,2021,VIIRS,dormancy,351.0,163
+Shenandoah,2021,VIIRS,dormancy,352.0,152
+Shenandoah,2021,VIIRS,dormancy,353.0,102
+Shenandoah,2021,VIIRS,dormancy,354.0,85
+Shenandoah,2021,VIIRS,dormancy,355.0,88
+Shenandoah,2021,VIIRS,dormancy,356.0,62
+Shenandoah,2021,VIIRS,dormancy,357.0,66
+Shenandoah,2021,VIIRS,dormancy,358.0,30
+Shenandoah,2021,VIIRS,dormancy,359.0,26
+Shenandoah,2021,VIIRS,dormancy,360.0,14
+Shenandoah,2021,VIIRS,dormancy,361.0,16
+Shenandoah,2021,VIIRS,dormancy,362.0,2
+Shenandoah,2021,VIIRS,dormancy,363.0,5
+Shenandoah,2021,VIIRS,dormancy,364.0,4
+Shenandoah,2021,VIIRS,dormancy,365.0,1
+Shenandoah,2021,VIIRS,dormancy,367.0,1
+Shenandoah,2021,VIIRS,dormancy,368.0,1
+Shenandoah,2021,VIIRS,dormancy,371.0,1
+Shenandoah,2021,VIIRS,forest_px,1.0,5476
+Roanoke,2021,VIIRS,mid_greenup,116.0,3
+Roanoke,2021,VIIRS,mid_greenup,118.0,3
+Roanoke,2021,VIIRS,mid_greenup,120.0,2
+Roanoke,2021,VIIRS,mid_greenup,121.0,2
+Roanoke,2021,VIIRS,mid_greenup,122.0,7
+Roanoke,2021,VIIRS,mid_greenup,123.0,10
+Roanoke,2021,VIIRS,mid_greenup,124.0,7
+Roanoke,2021,VIIRS,mid_greenup,125.0,20
+Roanoke,2021,VIIRS,mid_greenup,126.0,13
+Roanoke,2021,VIIRS,mid_greenup,127.0,36
+Roanoke,2021,VIIRS,mid_greenup,128.0,45
+Roanoke,2021,VIIRS,mid_greenup,129.0,69
+Roanoke,2021,VIIRS,mid_greenup,130.0,88
+Roanoke,2021,VIIRS,mid_greenup,131.0,106
+Roanoke,2021,VIIRS,mid_greenup,132.0,155
+Roanoke,2021,VIIRS,mid_greenup,133.0,182
+Roanoke,2021,VIIRS,mid_greenup,134.0,187
+Roanoke,2021,VIIRS,mid_greenup,135.0,252
+Roanoke,2021,VIIRS,mid_greenup,136.0,237
+Roanoke,2021,VIIRS,mid_greenup,137.0,293
+Roanoke,2021,VIIRS,mid_greenup,138.0,242
+Roanoke,2021,VIIRS,mid_greenup,139.0,247
+Roanoke,2021,VIIRS,mid_greenup,140.0,204
+Roanoke,2021,VIIRS,mid_greenup,141.0,184
+Roanoke,2021,VIIRS,mid_greenup,142.0,136
+Roanoke,2021,VIIRS,mid_greenup,143.0,138
+Roanoke,2021,VIIRS,mid_greenup,144.0,103
+Roanoke,2021,VIIRS,mid_greenup,145.0,72
+Roanoke,2021,VIIRS,mid_greenup,146.0,77
+Roanoke,2021,VIIRS,mid_greenup,147.0,55
+Roanoke,2021,VIIRS,mid_greenup,148.0,29
+Roanoke,2021,VIIRS,mid_greenup,149.0,36
+Roanoke,2021,VIIRS,mid_greenup,150.0,32
+Roanoke,2021,VIIRS,mid_greenup,151.0,26
+Roanoke,2021,VIIRS,mid_greenup,152.0,15
+Roanoke,2021,VIIRS,mid_greenup,153.0,11
+Roanoke,2021,VIIRS,mid_greenup,154.0,12
+Roanoke,2021,VIIRS,mid_greenup,155.0,5
+Roanoke,2021,VIIRS,mid_greenup,156.0,8
+Roanoke,2021,VIIRS,mid_greenup,157.0,7
+Roanoke,2021,VIIRS,mid_greenup,158.0,7
+Roanoke,2021,VIIRS,mid_greenup,159.0,5
+Roanoke,2021,VIIRS,mid_greenup,161.0,4
+Roanoke,2021,VIIRS,mid_greenup,162.0,1
+Roanoke,2021,VIIRS,mid_greenup,163.0,1
+Roanoke,2021,VIIRS,mid_greenup,168.0,1
+Roanoke,2021,VIIRS,mid_greenup,171.0,1
+Roanoke,2021,VIIRS,mid_greenup,196.0,1
+Roanoke,2021,VIIRS,mid_greenup,197.0,1
+Roanoke,2021,VIIRS,senescence,162.0,1
+Roanoke,2021,VIIRS,senescence,166.0,2
+Roanoke,2021,VIIRS,senescence,167.0,2
+Roanoke,2021,VIIRS,senescence,168.0,1
+Roanoke,2021,VIIRS,senescence,169.0,3
+Roanoke,2021,VIIRS,senescence,171.0,2
+Roanoke,2021,VIIRS,senescence,172.0,2
+Roanoke,2021,VIIRS,senescence,173.0,4
+Roanoke,2021,VIIRS,senescence,176.0,2
+Roanoke,2021,VIIRS,senescence,177.0,2
+Roanoke,2021,VIIRS,senescence,178.0,2
+Roanoke,2021,VIIRS,senescence,179.0,1
+Roanoke,2021,VIIRS,senescence,180.0,5
+Roanoke,2021,VIIRS,senescence,181.0,3
+Roanoke,2021,VIIRS,senescence,182.0,4
+Roanoke,2021,VIIRS,senescence,183.0,7
+Roanoke,2021,VIIRS,senescence,184.0,3
+Roanoke,2021,VIIRS,senescence,185.0,2
+Roanoke,2021,VIIRS,senescence,186.0,2
+Roanoke,2021,VIIRS,senescence,187.0,3
+Roanoke,2021,VIIRS,senescence,188.0,5
+Roanoke,2021,VIIRS,senescence,189.0,9
+Roanoke,2021,VIIRS,senescence,190.0,6
+Roanoke,2021,VIIRS,senescence,191.0,6
+Roanoke,2021,VIIRS,senescence,192.0,11
+Roanoke,2021,VIIRS,senescence,193.0,11
+Roanoke,2021,VIIRS,senescence,194.0,6
+Roanoke,2021,VIIRS,senescence,195.0,9
+Roanoke,2021,VIIRS,senescence,196.0,5
+Roanoke,2021,VIIRS,senescence,197.0,8
+Roanoke,2021,VIIRS,senescence,198.0,10
+Roanoke,2021,VIIRS,senescence,199.0,5
+Roanoke,2021,VIIRS,senescence,200.0,7
+Roanoke,2021,VIIRS,senescence,201.0,13
+Roanoke,2021,VIIRS,senescence,202.0,12
+Roanoke,2021,VIIRS,senescence,203.0,10
+Roanoke,2021,VIIRS,senescence,204.0,11
+Roanoke,2021,VIIRS,senescence,205.0,10
+Roanoke,2021,VIIRS,senescence,206.0,16
+Roanoke,2021,VIIRS,senescence,207.0,15
+Roanoke,2021,VIIRS,senescence,208.0,21
+Roanoke,2021,VIIRS,senescence,209.0,16
+Roanoke,2021,VIIRS,senescence,210.0,20
+Roanoke,2021,VIIRS,senescence,211.0,28
+Roanoke,2021,VIIRS,senescence,212.0,22
+Roanoke,2021,VIIRS,senescence,213.0,31
+Roanoke,2021,VIIRS,senescence,214.0,22
+Roanoke,2021,VIIRS,senescence,215.0,22
+Roanoke,2021,VIIRS,senescence,216.0,28
+Roanoke,2021,VIIRS,senescence,217.0,32
+Roanoke,2021,VIIRS,senescence,218.0,39
+Roanoke,2021,VIIRS,senescence,219.0,30
+Roanoke,2021,VIIRS,senescence,220.0,34
+Roanoke,2021,VIIRS,senescence,221.0,29
+Roanoke,2021,VIIRS,senescence,222.0,47
+Roanoke,2021,VIIRS,senescence,223.0,48
+Roanoke,2021,VIIRS,senescence,224.0,46
+Roanoke,2021,VIIRS,senescence,225.0,42
+Roanoke,2021,VIIRS,senescence,226.0,43
+Roanoke,2021,VIIRS,senescence,227.0,54
+Roanoke,2021,VIIRS,senescence,228.0,51
+Roanoke,2021,VIIRS,senescence,229.0,65
+Roanoke,2021,VIIRS,senescence,230.0,62
+Roanoke,2021,VIIRS,senescence,231.0,59
+Roanoke,2021,VIIRS,senescence,232.0,64
+Roanoke,2021,VIIRS,senescence,233.0,58
+Roanoke,2021,VIIRS,senescence,234.0,55
+Roanoke,2021,VIIRS,senescence,235.0,67
+Roanoke,2021,VIIRS,senescence,236.0,70
+Roanoke,2021,VIIRS,senescence,237.0,64
+Roanoke,2021,VIIRS,senescence,238.0,68
+Roanoke,2021,VIIRS,senescence,239.0,81
+Roanoke,2021,VIIRS,senescence,240.0,60
+Roanoke,2021,VIIRS,senescence,241.0,74
+Roanoke,2021,VIIRS,senescence,242.0,63
+Roanoke,2021,VIIRS,senescence,243.0,63
+Roanoke,2021,VIIRS,senescence,244.0,61
+Roanoke,2021,VIIRS,senescence,245.0,72
+Roanoke,2021,VIIRS,senescence,246.0,63
+Roanoke,2021,VIIRS,senescence,247.0,76
+Roanoke,2021,VIIRS,senescence,248.0,55
+Roanoke,2021,VIIRS,senescence,249.0,65
+Roanoke,2021,VIIRS,senescence,250.0,61
+Roanoke,2021,VIIRS,senescence,251.0,53
+Roanoke,2021,VIIRS,senescence,252.0,61
+Roanoke,2021,VIIRS,senescence,253.0,57
+Roanoke,2021,VIIRS,senescence,254.0,53
+Roanoke,2021,VIIRS,senescence,255.0,44
+Roanoke,2021,VIIRS,senescence,256.0,45
+Roanoke,2021,VIIRS,senescence,257.0,43
+Roanoke,2021,VIIRS,senescence,258.0,39
+Roanoke,2021,VIIRS,senescence,259.0,44
+Roanoke,2021,VIIRS,senescence,260.0,48
+Roanoke,2021,VIIRS,senescence,261.0,51
+Roanoke,2021,VIIRS,senescence,262.0,38
+Roanoke,2021,VIIRS,senescence,263.0,38
+Roanoke,2021,VIIRS,senescence,264.0,33
+Roanoke,2021,VIIRS,senescence,265.0,36
+Roanoke,2021,VIIRS,senescence,266.0,35
+Roanoke,2021,VIIRS,senescence,267.0,28
+Roanoke,2021,VIIRS,senescence,268.0,23
+Roanoke,2021,VIIRS,senescence,269.0,32
+Roanoke,2021,VIIRS,senescence,270.0,24
+Roanoke,2021,VIIRS,senescence,271.0,20
+Roanoke,2021,VIIRS,senescence,272.0,22
+Roanoke,2021,VIIRS,senescence,273.0,24
+Roanoke,2021,VIIRS,senescence,274.0,13
+Roanoke,2021,VIIRS,senescence,275.0,6
+Roanoke,2021,VIIRS,senescence,276.0,14
+Roanoke,2021,VIIRS,senescence,277.0,14
+Roanoke,2021,VIIRS,senescence,278.0,11
+Roanoke,2021,VIIRS,senescence,279.0,10
+Roanoke,2021,VIIRS,senescence,280.0,11
+Roanoke,2021,VIIRS,senescence,281.0,7
+Roanoke,2021,VIIRS,senescence,282.0,7
+Roanoke,2021,VIIRS,senescence,283.0,2
+Roanoke,2021,VIIRS,senescence,284.0,5
+Roanoke,2021,VIIRS,senescence,285.0,1
+Roanoke,2021,VIIRS,senescence,286.0,4
+Roanoke,2021,VIIRS,senescence,287.0,2
+Roanoke,2021,VIIRS,senescence,288.0,1
+Roanoke,2021,VIIRS,senescence,289.0,2
+Roanoke,2021,VIIRS,senescence,291.0,1
+Roanoke,2021,VIIRS,senescence,292.0,1
+Roanoke,2021,VIIRS,senescence,293.0,1
+Roanoke,2021,VIIRS,senescence,295.0,4
+Roanoke,2021,VIIRS,senescence,297.0,1
+Roanoke,2021,VIIRS,mid_greendown,216.0,1
+Roanoke,2021,VIIRS,mid_greendown,225.0,1
+Roanoke,2021,VIIRS,mid_greendown,236.0,1
+Roanoke,2021,VIIRS,mid_greendown,239.0,1
+Roanoke,2021,VIIRS,mid_greendown,245.0,1
+Roanoke,2021,VIIRS,mid_greendown,246.0,1
+Roanoke,2021,VIIRS,mid_greendown,247.0,2
+Roanoke,2021,VIIRS,mid_greendown,248.0,2
+Roanoke,2021,VIIRS,mid_greendown,249.0,1
+Roanoke,2021,VIIRS,mid_greendown,250.0,5
+Roanoke,2021,VIIRS,mid_greendown,252.0,3
+Roanoke,2021,VIIRS,mid_greendown,253.0,2
+Roanoke,2021,VIIRS,mid_greendown,254.0,4
+Roanoke,2021,VIIRS,mid_greendown,255.0,4
+Roanoke,2021,VIIRS,mid_greendown,256.0,3
+Roanoke,2021,VIIRS,mid_greendown,257.0,5
+Roanoke,2021,VIIRS,mid_greendown,258.0,3
+Roanoke,2021,VIIRS,mid_greendown,259.0,6
+Roanoke,2021,VIIRS,mid_greendown,260.0,3
+Roanoke,2021,VIIRS,mid_greendown,261.0,9
+Roanoke,2021,VIIRS,mid_greendown,262.0,11
+Roanoke,2021,VIIRS,mid_greendown,263.0,9
+Roanoke,2021,VIIRS,mid_greendown,264.0,12
+Roanoke,2021,VIIRS,mid_greendown,265.0,17
+Roanoke,2021,VIIRS,mid_greendown,266.0,13
+Roanoke,2021,VIIRS,mid_greendown,267.0,13
+Roanoke,2021,VIIRS,mid_greendown,268.0,17
+Roanoke,2021,VIIRS,mid_greendown,269.0,15
+Roanoke,2021,VIIRS,mid_greendown,270.0,15
+Roanoke,2021,VIIRS,mid_greendown,271.0,22
+Roanoke,2021,VIIRS,mid_greendown,272.0,19
+Roanoke,2021,VIIRS,mid_greendown,273.0,32
+Roanoke,2021,VIIRS,mid_greendown,274.0,36
+Roanoke,2021,VIIRS,mid_greendown,275.0,22
+Roanoke,2021,VIIRS,mid_greendown,276.0,40
+Roanoke,2021,VIIRS,mid_greendown,277.0,38
+Roanoke,2021,VIIRS,mid_greendown,278.0,40
+Roanoke,2021,VIIRS,mid_greendown,279.0,60
+Roanoke,2021,VIIRS,mid_greendown,280.0,64
+Roanoke,2021,VIIRS,mid_greendown,281.0,57
+Roanoke,2021,VIIRS,mid_greendown,282.0,62
+Roanoke,2021,VIIRS,mid_greendown,283.0,69
+Roanoke,2021,VIIRS,mid_greendown,284.0,82
+Roanoke,2021,VIIRS,mid_greendown,285.0,93
+Roanoke,2021,VIIRS,mid_greendown,286.0,71
+Roanoke,2021,VIIRS,mid_greendown,287.0,98
+Roanoke,2021,VIIRS,mid_greendown,288.0,95
+Roanoke,2021,VIIRS,mid_greendown,289.0,111
+Roanoke,2021,VIIRS,mid_greendown,290.0,125
+Roanoke,2021,VIIRS,mid_greendown,291.0,113
+Roanoke,2021,VIIRS,mid_greendown,292.0,105
+Roanoke,2021,VIIRS,mid_greendown,293.0,110
+Roanoke,2021,VIIRS,mid_greendown,294.0,118
+Roanoke,2021,VIIRS,mid_greendown,295.0,123
+Roanoke,2021,VIIRS,mid_greendown,296.0,132
+Roanoke,2021,VIIRS,mid_greendown,297.0,129
+Roanoke,2021,VIIRS,mid_greendown,298.0,112
+Roanoke,2021,VIIRS,mid_greendown,299.0,112
+Roanoke,2021,VIIRS,mid_greendown,300.0,101
+Roanoke,2021,VIIRS,mid_greendown,301.0,96
+Roanoke,2021,VIIRS,mid_greendown,302.0,100
+Roanoke,2021,VIIRS,mid_greendown,303.0,93
+Roanoke,2021,VIIRS,mid_greendown,304.0,93
+Roanoke,2021,VIIRS,mid_greendown,305.0,74
+Roanoke,2021,VIIRS,mid_greendown,306.0,70
+Roanoke,2021,VIIRS,mid_greendown,307.0,63
+Roanoke,2021,VIIRS,mid_greendown,308.0,43
+Roanoke,2021,VIIRS,mid_greendown,309.0,38
+Roanoke,2021,VIIRS,mid_greendown,310.0,39
+Roanoke,2021,VIIRS,mid_greendown,311.0,27
+Roanoke,2021,VIIRS,mid_greendown,312.0,15
+Roanoke,2021,VIIRS,mid_greendown,313.0,17
+Roanoke,2021,VIIRS,mid_greendown,314.0,11
+Roanoke,2021,VIIRS,mid_greendown,315.0,12
+Roanoke,2021,VIIRS,mid_greendown,316.0,5
+Roanoke,2021,VIIRS,mid_greendown,317.0,3
+Roanoke,2021,VIIRS,mid_greendown,318.0,2
+Roanoke,2021,VIIRS,mid_greendown,319.0,1
+Roanoke,2021,VIIRS,mid_greendown,320.0,1
+Roanoke,2021,VIIRS,mid_greendown,322.0,2
+Roanoke,2021,VIIRS,mid_greendown,331.0,1
+Roanoke,2021,VIIRS,mid_greendown,332.0,1
+Roanoke,2021,VIIRS,dormancy,248.0,1
+Roanoke,2021,VIIRS,dormancy,298.0,1
+Roanoke,2021,VIIRS,dormancy,299.0,1
+Roanoke,2021,VIIRS,dormancy,302.0,1
+Roanoke,2021,VIIRS,dormancy,308.0,1
+Roanoke,2021,VIIRS,dormancy,309.0,1
+Roanoke,2021,VIIRS,dormancy,310.0,1
+Roanoke,2021,VIIRS,dormancy,311.0,2
+Roanoke,2021,VIIRS,dormancy,313.0,1
+Roanoke,2021,VIIRS,dormancy,314.0,2
+Roanoke,2021,VIIRS,dormancy,315.0,2
+Roanoke,2021,VIIRS,dormancy,316.0,6
+Roanoke,2021,VIIRS,dormancy,317.0,6
+Roanoke,2021,VIIRS,dormancy,318.0,1
+Roanoke,2021,VIIRS,dormancy,319.0,3
+Roanoke,2021,VIIRS,dormancy,320.0,4
+Roanoke,2021,VIIRS,dormancy,321.0,3
+Roanoke,2021,VIIRS,dormancy,322.0,7
+Roanoke,2021,VIIRS,dormancy,323.0,4
+Roanoke,2021,VIIRS,dormancy,324.0,7
+Roanoke,2021,VIIRS,dormancy,325.0,13
+Roanoke,2021,VIIRS,dormancy,326.0,15
+Roanoke,2021,VIIRS,dormancy,327.0,14
+Roanoke,2021,VIIRS,dormancy,328.0,20
+Roanoke,2021,VIIRS,dormancy,329.0,25
+Roanoke,2021,VIIRS,dormancy,330.0,17
+Roanoke,2021,VIIRS,dormancy,331.0,24
+Roanoke,2021,VIIRS,dormancy,332.0,38
+Roanoke,2021,VIIRS,dormancy,333.0,34
+Roanoke,2021,VIIRS,dormancy,334.0,51
+Roanoke,2021,VIIRS,dormancy,335.0,65
+Roanoke,2021,VIIRS,dormancy,336.0,96
+Roanoke,2021,VIIRS,dormancy,337.0,91
+Roanoke,2021,VIIRS,dormancy,338.0,91
+Roanoke,2021,VIIRS,dormancy,339.0,150
+Roanoke,2021,VIIRS,dormancy,340.0,150
+Roanoke,2021,VIIRS,dormancy,341.0,152
+Roanoke,2021,VIIRS,dormancy,342.0,180
+Roanoke,2021,VIIRS,dormancy,343.0,169
+Roanoke,2021,VIIRS,dormancy,344.0,195
+Roanoke,2021,VIIRS,dormancy,345.0,185
+Roanoke,2021,VIIRS,dormancy,346.0,190
+Roanoke,2021,VIIRS,dormancy,347.0,192
+Roanoke,2021,VIIRS,dormancy,348.0,163
+Roanoke,2021,VIIRS,dormancy,349.0,156
+Roanoke,2021,VIIRS,dormancy,350.0,146
+Roanoke,2021,VIIRS,dormancy,351.0,122
+Roanoke,2021,VIIRS,dormancy,352.0,115
+Roanoke,2021,VIIRS,dormancy,353.0,115
+Roanoke,2021,VIIRS,dormancy,354.0,86
+Roanoke,2021,VIIRS,dormancy,355.0,71
+Roanoke,2021,VIIRS,dormancy,356.0,53
+Roanoke,2021,VIIRS,dormancy,357.0,34
+Roanoke,2021,VIIRS,dormancy,358.0,31
+Roanoke,2021,VIIRS,dormancy,359.0,31
+Roanoke,2021,VIIRS,dormancy,360.0,12
+Roanoke,2021,VIIRS,dormancy,361.0,4
+Roanoke,2021,VIIRS,dormancy,362.0,10
+Roanoke,2021,VIIRS,dormancy,363.0,8
+Roanoke,2021,VIIRS,dormancy,364.0,1
+Roanoke,2021,VIIRS,dormancy,365.0,3
+Roanoke,2021,VIIRS,dormancy,366.0,2
+Roanoke,2021,VIIRS,dormancy,369.0,1
+Roanoke,2021,VIIRS,dormancy,371.0,1
+Roanoke,2021,VIIRS,dormancy,380.0,1
+Roanoke,2021,VIIRS,forest_px,1.0,7055
+Boone,2021,VIIRS,mid_greenup,105.0,1
+Boone,2021,VIIRS,mid_greenup,116.0,1
+Boone,2021,VIIRS,mid_greenup,118.0,2
+Boone,2021,VIIRS,mid_greenup,119.0,3
+Boone,2021,VIIRS,mid_greenup,120.0,2
+Boone,2021,VIIRS,mid_greenup,121.0,1
+Boone,2021,VIIRS,mid_greenup,122.0,1
+Boone,2021,VIIRS,mid_greenup,123.0,1
+Boone,2021,VIIRS,mid_greenup,124.0,7
+Boone,2021,VIIRS,mid_greenup,125.0,13
+Boone,2021,VIIRS,mid_greenup,126.0,15
+Boone,2021,VIIRS,mid_greenup,127.0,37
+Boone,2021,VIIRS,mid_greenup,128.0,44
+Boone,2021,VIIRS,mid_greenup,129.0,76
+Boone,2021,VIIRS,mid_greenup,130.0,105
+Boone,2021,VIIRS,mid_greenup,131.0,145
+Boone,2021,VIIRS,mid_greenup,132.0,160
+Boone,2021,VIIRS,mid_greenup,133.0,134
+Boone,2021,VIIRS,mid_greenup,134.0,187
+Boone,2021,VIIRS,mid_greenup,135.0,184
+Boone,2021,VIIRS,mid_greenup,136.0,185
+Boone,2021,VIIRS,mid_greenup,137.0,203
+Boone,2021,VIIRS,mid_greenup,138.0,185
+Boone,2021,VIIRS,mid_greenup,139.0,208
+Boone,2021,VIIRS,mid_greenup,140.0,184
+Boone,2021,VIIRS,mid_greenup,141.0,215
+Boone,2021,VIIRS,mid_greenup,142.0,225
+Boone,2021,VIIRS,mid_greenup,143.0,231
+Boone,2021,VIIRS,mid_greenup,144.0,262
+Boone,2021,VIIRS,mid_greenup,145.0,300
+Boone,2021,VIIRS,mid_greenup,146.0,306
+Boone,2021,VIIRS,mid_greenup,147.0,317
+Boone,2021,VIIRS,mid_greenup,148.0,310
+Boone,2021,VIIRS,mid_greenup,149.0,296
+Boone,2021,VIIRS,mid_greenup,150.0,227
+Boone,2021,VIIRS,mid_greenup,151.0,246
+Boone,2021,VIIRS,mid_greenup,152.0,221
+Boone,2021,VIIRS,mid_greenup,153.0,179
+Boone,2021,VIIRS,mid_greenup,154.0,165
+Boone,2021,VIIRS,mid_greenup,155.0,119
+Boone,2021,VIIRS,mid_greenup,156.0,86
+Boone,2021,VIIRS,mid_greenup,157.0,68
+Boone,2021,VIIRS,mid_greenup,158.0,49
+Boone,2021,VIIRS,mid_greenup,159.0,32
+Boone,2021,VIIRS,mid_greenup,160.0,28
+Boone,2021,VIIRS,mid_greenup,161.0,21
+Boone,2021,VIIRS,mid_greenup,162.0,18
+Boone,2021,VIIRS,mid_greenup,163.0,16
+Boone,2021,VIIRS,mid_greenup,164.0,7
+Boone,2021,VIIRS,mid_greenup,165.0,6
+Boone,2021,VIIRS,mid_greenup,166.0,3
+Boone,2021,VIIRS,mid_greenup,167.0,3
+Boone,2021,VIIRS,mid_greenup,168.0,3
+Boone,2021,VIIRS,mid_greenup,169.0,1
+Boone,2021,VIIRS,senescence,165.0,2
+Boone,2021,VIIRS,senescence,169.0,1
+Boone,2021,VIIRS,senescence,173.0,2
+Boone,2021,VIIRS,senescence,175.0,1
+Boone,2021,VIIRS,senescence,176.0,3
+Boone,2021,VIIRS,senescence,178.0,1
+Boone,2021,VIIRS,senescence,179.0,1
+Boone,2021,VIIRS,senescence,180.0,1
+Boone,2021,VIIRS,senescence,181.0,1
+Boone,2021,VIIRS,senescence,182.0,2
+Boone,2021,VIIRS,senescence,184.0,1
+Boone,2021,VIIRS,senescence,185.0,5
+Boone,2021,VIIRS,senescence,186.0,3
+Boone,2021,VIIRS,senescence,187.0,3
+Boone,2021,VIIRS,senescence,188.0,5
+Boone,2021,VIIRS,senescence,189.0,1
+Boone,2021,VIIRS,senescence,190.0,5
+Boone,2021,VIIRS,senescence,191.0,2
+Boone,2021,VIIRS,senescence,192.0,3
+Boone,2021,VIIRS,senescence,193.0,2
+Boone,2021,VIIRS,senescence,194.0,5
+Boone,2021,VIIRS,senescence,195.0,6
+Boone,2021,VIIRS,senescence,196.0,6
+Boone,2021,VIIRS,senescence,197.0,10
+Boone,2021,VIIRS,senescence,198.0,4
+Boone,2021,VIIRS,senescence,199.0,8
+Boone,2021,VIIRS,senescence,200.0,9
+Boone,2021,VIIRS,senescence,201.0,8
+Boone,2021,VIIRS,senescence,202.0,10
+Boone,2021,VIIRS,senescence,203.0,10
+Boone,2021,VIIRS,senescence,204.0,9
+Boone,2021,VIIRS,senescence,205.0,14
+Boone,2021,VIIRS,senescence,206.0,14
+Boone,2021,VIIRS,senescence,207.0,23
+Boone,2021,VIIRS,senescence,208.0,13
+Boone,2021,VIIRS,senescence,209.0,14
+Boone,2021,VIIRS,senescence,210.0,19
+Boone,2021,VIIRS,senescence,211.0,21
+Boone,2021,VIIRS,senescence,212.0,28
+Boone,2021,VIIRS,senescence,213.0,30
+Boone,2021,VIIRS,senescence,214.0,35
+Boone,2021,VIIRS,senescence,215.0,24
+Boone,2021,VIIRS,senescence,216.0,40
+Boone,2021,VIIRS,senescence,217.0,45
+Boone,2021,VIIRS,senescence,218.0,48
+Boone,2021,VIIRS,senescence,219.0,47
+Boone,2021,VIIRS,senescence,220.0,52
+Boone,2021,VIIRS,senescence,221.0,48
+Boone,2021,VIIRS,senescence,222.0,58
+Boone,2021,VIIRS,senescence,223.0,65
+Boone,2021,VIIRS,senescence,224.0,77
+Boone,2021,VIIRS,senescence,225.0,84
+Boone,2021,VIIRS,senescence,226.0,80
+Boone,2021,VIIRS,senescence,227.0,85
+Boone,2021,VIIRS,senescence,228.0,104
+Boone,2021,VIIRS,senescence,229.0,95
+Boone,2021,VIIRS,senescence,230.0,106
+Boone,2021,VIIRS,senescence,231.0,118
+Boone,2021,VIIRS,senescence,232.0,122
+Boone,2021,VIIRS,senescence,233.0,151
+Boone,2021,VIIRS,senescence,234.0,135
+Boone,2021,VIIRS,senescence,235.0,143
+Boone,2021,VIIRS,senescence,236.0,132
+Boone,2021,VIIRS,senescence,237.0,140
+Boone,2021,VIIRS,senescence,238.0,166
+Boone,2021,VIIRS,senescence,239.0,157
+Boone,2021,VIIRS,senescence,240.0,176
+Boone,2021,VIIRS,senescence,241.0,172
+Boone,2021,VIIRS,senescence,242.0,167
+Boone,2021,VIIRS,senescence,243.0,150
+Boone,2021,VIIRS,senescence,244.0,158
+Boone,2021,VIIRS,senescence,245.0,144
+Boone,2021,VIIRS,senescence,246.0,151
+Boone,2021,VIIRS,senescence,247.0,156
+Boone,2021,VIIRS,senescence,248.0,151
+Boone,2021,VIIRS,senescence,249.0,150
+Boone,2021,VIIRS,senescence,250.0,143
+Boone,2021,VIIRS,senescence,251.0,119
+Boone,2021,VIIRS,senescence,252.0,127
+Boone,2021,VIIRS,senescence,253.0,129
+Boone,2021,VIIRS,senescence,254.0,117
+Boone,2021,VIIRS,senescence,255.0,87
+Boone,2021,VIIRS,senescence,256.0,84
+Boone,2021,VIIRS,senescence,257.0,82
+Boone,2021,VIIRS,senescence,258.0,100
+Boone,2021,VIIRS,senescence,259.0,90
+Boone,2021,VIIRS,senescence,260.0,78
+Boone,2021,VIIRS,senescence,261.0,79
+Boone,2021,VIIRS,senescence,262.0,77
+Boone,2021,VIIRS,senescence,263.0,54
+Boone,2021,VIIRS,senescence,264.0,65
+Boone,2021,VIIRS,senescence,265.0,41
+Boone,2021,VIIRS,senescence,266.0,50
+Boone,2021,VIIRS,senescence,267.0,33
+Boone,2021,VIIRS,senescence,268.0,24
+Boone,2021,VIIRS,senescence,269.0,32
+Boone,2021,VIIRS,senescence,270.0,29
+Boone,2021,VIIRS,senescence,271.0,26
+Boone,2021,VIIRS,senescence,272.0,21
+Boone,2021,VIIRS,senescence,273.0,18
+Boone,2021,VIIRS,senescence,274.0,15
+Boone,2021,VIIRS,senescence,275.0,15
+Boone,2021,VIIRS,senescence,276.0,10
+Boone,2021,VIIRS,senescence,277.0,9
+Boone,2021,VIIRS,senescence,278.0,4
+Boone,2021,VIIRS,senescence,279.0,5
+Boone,2021,VIIRS,senescence,280.0,4
+Boone,2021,VIIRS,senescence,281.0,6
+Boone,2021,VIIRS,senescence,282.0,6
+Boone,2021,VIIRS,senescence,283.0,4
+Boone,2021,VIIRS,senescence,284.0,5
+Boone,2021,VIIRS,senescence,285.0,4
+Boone,2021,VIIRS,senescence,286.0,3
+Boone,2021,VIIRS,senescence,287.0,3
+Boone,2021,VIIRS,senescence,288.0,4
+Boone,2021,VIIRS,senescence,289.0,2
+Boone,2021,VIIRS,senescence,292.0,1
+Boone,2021,VIIRS,senescence,293.0,1
+Boone,2021,VIIRS,mid_greendown,225.0,1
+Boone,2021,VIIRS,mid_greendown,230.0,1
+Boone,2021,VIIRS,mid_greendown,238.0,1
+Boone,2021,VIIRS,mid_greendown,239.0,1
+Boone,2021,VIIRS,mid_greendown,245.0,1
+Boone,2021,VIIRS,mid_greendown,246.0,1
+Boone,2021,VIIRS,mid_greendown,247.0,1
+Boone,2021,VIIRS,mid_greendown,248.0,2
+Boone,2021,VIIRS,mid_greendown,249.0,1
+Boone,2021,VIIRS,mid_greendown,250.0,2
+Boone,2021,VIIRS,mid_greendown,251.0,1
+Boone,2021,VIIRS,mid_greendown,253.0,1
+Boone,2021,VIIRS,mid_greendown,254.0,1
+Boone,2021,VIIRS,mid_greendown,255.0,3
+Boone,2021,VIIRS,mid_greendown,256.0,3
+Boone,2021,VIIRS,mid_greendown,257.0,3
+Boone,2021,VIIRS,mid_greendown,259.0,8
+Boone,2021,VIIRS,mid_greendown,260.0,5
+Boone,2021,VIIRS,mid_greendown,261.0,7
+Boone,2021,VIIRS,mid_greendown,262.0,8
+Boone,2021,VIIRS,mid_greendown,263.0,12
+Boone,2021,VIIRS,mid_greendown,264.0,7
+Boone,2021,VIIRS,mid_greendown,265.0,7
+Boone,2021,VIIRS,mid_greendown,266.0,9
+Boone,2021,VIIRS,mid_greendown,267.0,15
+Boone,2021,VIIRS,mid_greendown,268.0,19
+Boone,2021,VIIRS,mid_greendown,269.0,12
+Boone,2021,VIIRS,mid_greendown,270.0,21
+Boone,2021,VIIRS,mid_greendown,271.0,31
+Boone,2021,VIIRS,mid_greendown,272.0,33
+Boone,2021,VIIRS,mid_greendown,273.0,45
+Boone,2021,VIIRS,mid_greendown,274.0,49
+Boone,2021,VIIRS,mid_greendown,275.0,51
+Boone,2021,VIIRS,mid_greendown,276.0,49
+Boone,2021,VIIRS,mid_greendown,277.0,71
+Boone,2021,VIIRS,mid_greendown,278.0,77
+Boone,2021,VIIRS,mid_greendown,279.0,101
+Boone,2021,VIIRS,mid_greendown,280.0,99
+Boone,2021,VIIRS,mid_greendown,281.0,119
+Boone,2021,VIIRS,mid_greendown,282.0,141
+Boone,2021,VIIRS,mid_greendown,283.0,154
+Boone,2021,VIIRS,mid_greendown,284.0,210
+Boone,2021,VIIRS,mid_greendown,285.0,218
+Boone,2021,VIIRS,mid_greendown,286.0,229
+Boone,2021,VIIRS,mid_greendown,287.0,250
+Boone,2021,VIIRS,mid_greendown,288.0,243
+Boone,2021,VIIRS,mid_greendown,289.0,224
+Boone,2021,VIIRS,mid_greendown,290.0,283
+Boone,2021,VIIRS,mid_greendown,291.0,279
+Boone,2021,VIIRS,mid_greendown,292.0,276
+Boone,2021,VIIRS,mid_greendown,293.0,295
+Boone,2021,VIIRS,mid_greendown,294.0,259
+Boone,2021,VIIRS,mid_greendown,295.0,220
+Boone,2021,VIIRS,mid_greendown,296.0,222
+Boone,2021,VIIRS,mid_greendown,297.0,200
+Boone,2021,VIIRS,mid_greendown,298.0,186
+Boone,2021,VIIRS,mid_greendown,299.0,194
+Boone,2021,VIIRS,mid_greendown,300.0,172
+Boone,2021,VIIRS,mid_greendown,301.0,158
+Boone,2021,VIIRS,mid_greendown,302.0,117
+Boone,2021,VIIRS,mid_greendown,303.0,136
+Boone,2021,VIIRS,mid_greendown,304.0,92
+Boone,2021,VIIRS,mid_greendown,305.0,86
+Boone,2021,VIIRS,mid_greendown,306.0,75
+Boone,2021,VIIRS,mid_greendown,307.0,57
+Boone,2021,VIIRS,mid_greendown,308.0,45
+Boone,2021,VIIRS,mid_greendown,309.0,31
+Boone,2021,VIIRS,mid_greendown,310.0,33
+Boone,2021,VIIRS,mid_greendown,311.0,15
+Boone,2021,VIIRS,mid_greendown,312.0,15
+Boone,2021,VIIRS,mid_greendown,313.0,9
+Boone,2021,VIIRS,mid_greendown,314.0,6
+Boone,2021,VIIRS,mid_greendown,315.0,8
+Boone,2021,VIIRS,mid_greendown,316.0,8
+Boone,2021,VIIRS,mid_greendown,317.0,5
+Boone,2021,VIIRS,mid_greendown,318.0,2
+Boone,2021,VIIRS,mid_greendown,319.0,7
+Boone,2021,VIIRS,mid_greendown,320.0,4
+Boone,2021,VIIRS,mid_greendown,337.0,1
+Boone,2021,VIIRS,dormancy,285.0,1
+Boone,2021,VIIRS,dormancy,297.0,1
+Boone,2021,VIIRS,dormancy,300.0,1
+Boone,2021,VIIRS,dormancy,306.0,1
+Boone,2021,VIIRS,dormancy,308.0,2
+Boone,2021,VIIRS,dormancy,309.0,1
+Boone,2021,VIIRS,dormancy,311.0,1
+Boone,2021,VIIRS,dormancy,312.0,4
+Boone,2021,VIIRS,dormancy,313.0,3
+Boone,2021,VIIRS,dormancy,314.0,4
+Boone,2021,VIIRS,dormancy,315.0,4
+Boone,2021,VIIRS,dormancy,316.0,3
+Boone,2021,VIIRS,dormancy,317.0,2
+Boone,2021,VIIRS,dormancy,318.0,5
+Boone,2021,VIIRS,dormancy,319.0,6
+Boone,2021,VIIRS,dormancy,320.0,11
+Boone,2021,VIIRS,dormancy,321.0,9
+Boone,2021,VIIRS,dormancy,322.0,15
+Boone,2021,VIIRS,dormancy,323.0,21
+Boone,2021,VIIRS,dormancy,324.0,25
+Boone,2021,VIIRS,dormancy,325.0,34
+Boone,2021,VIIRS,dormancy,326.0,38
+Boone,2021,VIIRS,dormancy,327.0,53
+Boone,2021,VIIRS,dormancy,328.0,92
+Boone,2021,VIIRS,dormancy,329.0,87
+Boone,2021,VIIRS,dormancy,330.0,111
+Boone,2021,VIIRS,dormancy,331.0,138
+Boone,2021,VIIRS,dormancy,332.0,193
+Boone,2021,VIIRS,dormancy,333.0,218
+Boone,2021,VIIRS,dormancy,334.0,233
+Boone,2021,VIIRS,dormancy,335.0,228
+Boone,2021,VIIRS,dormancy,336.0,274
+Boone,2021,VIIRS,dormancy,337.0,275
+Boone,2021,VIIRS,dormancy,338.0,320
+Boone,2021,VIIRS,dormancy,339.0,308
+Boone,2021,VIIRS,dormancy,340.0,340
+Boone,2021,VIIRS,dormancy,341.0,349
+Boone,2021,VIIRS,dormancy,342.0,322
+Boone,2021,VIIRS,dormancy,343.0,278
+Boone,2021,VIIRS,dormancy,344.0,260
+Boone,2021,VIIRS,dormancy,345.0,235
+Boone,2021,VIIRS,dormancy,346.0,212
+Boone,2021,VIIRS,dormancy,347.0,201
+Boone,2021,VIIRS,dormancy,348.0,155
+Boone,2021,VIIRS,dormancy,349.0,139
+Boone,2021,VIIRS,dormancy,350.0,132
+Boone,2021,VIIRS,dormancy,351.0,123
+Boone,2021,VIIRS,dormancy,352.0,92
+Boone,2021,VIIRS,dormancy,353.0,101
+Boone,2021,VIIRS,dormancy,354.0,97
+Boone,2021,VIIRS,dormancy,355.0,67
+Boone,2021,VIIRS,dormancy,356.0,47
+Boone,2021,VIIRS,dormancy,357.0,51
+Boone,2021,VIIRS,dormancy,358.0,35
+Boone,2021,VIIRS,dormancy,359.0,28
+Boone,2021,VIIRS,dormancy,360.0,23
+Boone,2021,VIIRS,dormancy,361.0,15
+Boone,2021,VIIRS,dormancy,362.0,9
+Boone,2021,VIIRS,dormancy,363.0,6
+Boone,2021,VIIRS,dormancy,364.0,2
+Boone,2021,VIIRS,dormancy,365.0,1
+Boone,2021,VIIRS,dormancy,367.0,1
+Boone,2021,VIIRS,dormancy,386.0,1
+Boone,2021,VIIRS,forest_px,1.0,18346
+Asheville,2021,VIIRS,mid_greenup,109.0,1
+Asheville,2021,VIIRS,mid_greenup,110.0,1
+Asheville,2021,VIIRS,mid_greenup,115.0,1
+Asheville,2021,VIIRS,mid_greenup,116.0,3
+Asheville,2021,VIIRS,mid_greenup,117.0,1
+Asheville,2021,VIIRS,mid_greenup,118.0,2
+Asheville,2021,VIIRS,mid_greenup,119.0,5
+Asheville,2021,VIIRS,mid_greenup,121.0,4
+Asheville,2021,VIIRS,mid_greenup,122.0,5
+Asheville,2021,VIIRS,mid_greenup,123.0,8
+Asheville,2021,VIIRS,mid_greenup,124.0,10
+Asheville,2021,VIIRS,mid_greenup,125.0,16
+Asheville,2021,VIIRS,mid_greenup,126.0,16
+Asheville,2021,VIIRS,mid_greenup,127.0,34
+Asheville,2021,VIIRS,mid_greenup,128.0,48
+Asheville,2021,VIIRS,mid_greenup,129.0,67
+Asheville,2021,VIIRS,mid_greenup,130.0,79
+Asheville,2021,VIIRS,mid_greenup,131.0,100
+Asheville,2021,VIIRS,mid_greenup,132.0,148
+Asheville,2021,VIIRS,mid_greenup,133.0,192
+Asheville,2021,VIIRS,mid_greenup,134.0,214
+Asheville,2021,VIIRS,mid_greenup,135.0,263
+Asheville,2021,VIIRS,mid_greenup,136.0,318
+Asheville,2021,VIIRS,mid_greenup,137.0,319
+Asheville,2021,VIIRS,mid_greenup,138.0,334
+Asheville,2021,VIIRS,mid_greenup,139.0,325
+Asheville,2021,VIIRS,mid_greenup,140.0,334
+Asheville,2021,VIIRS,mid_greenup,141.0,306
+Asheville,2021,VIIRS,mid_greenup,142.0,307
+Asheville,2021,VIIRS,mid_greenup,143.0,266
+Asheville,2021,VIIRS,mid_greenup,144.0,243
+Asheville,2021,VIIRS,mid_greenup,145.0,218
+Asheville,2021,VIIRS,mid_greenup,146.0,196
+Asheville,2021,VIIRS,mid_greenup,147.0,188
+Asheville,2021,VIIRS,mid_greenup,148.0,168
+Asheville,2021,VIIRS,mid_greenup,149.0,148
+Asheville,2021,VIIRS,mid_greenup,150.0,106
+Asheville,2021,VIIRS,mid_greenup,151.0,98
+Asheville,2021,VIIRS,mid_greenup,152.0,79
+Asheville,2021,VIIRS,mid_greenup,153.0,77
+Asheville,2021,VIIRS,mid_greenup,154.0,63
+Asheville,2021,VIIRS,mid_greenup,155.0,46
+Asheville,2021,VIIRS,mid_greenup,156.0,45
+Asheville,2021,VIIRS,mid_greenup,157.0,35
+Asheville,2021,VIIRS,mid_greenup,158.0,24
+Asheville,2021,VIIRS,mid_greenup,159.0,17
+Asheville,2021,VIIRS,mid_greenup,160.0,13
+Asheville,2021,VIIRS,mid_greenup,161.0,10
+Asheville,2021,VIIRS,mid_greenup,162.0,11
+Asheville,2021,VIIRS,mid_greenup,163.0,5
+Asheville,2021,VIIRS,mid_greenup,164.0,4
+Asheville,2021,VIIRS,mid_greenup,165.0,7
+Asheville,2021,VIIRS,mid_greenup,166.0,3
+Asheville,2021,VIIRS,mid_greenup,168.0,2
+Asheville,2021,VIIRS,mid_greenup,169.0,2
+Asheville,2021,VIIRS,mid_greenup,171.0,1
+Asheville,2021,VIIRS,mid_greenup,172.0,1
+Asheville,2021,VIIRS,mid_greenup,173.0,1
+Asheville,2021,VIIRS,senescence,166.0,1
+Asheville,2021,VIIRS,senescence,171.0,2
+Asheville,2021,VIIRS,senescence,174.0,1
+Asheville,2021,VIIRS,senescence,175.0,1
+Asheville,2021,VIIRS,senescence,177.0,6
+Asheville,2021,VIIRS,senescence,178.0,1
+Asheville,2021,VIIRS,senescence,179.0,1
+Asheville,2021,VIIRS,senescence,180.0,2
+Asheville,2021,VIIRS,senescence,182.0,2
+Asheville,2021,VIIRS,senescence,183.0,3
+Asheville,2021,VIIRS,senescence,185.0,2
+Asheville,2021,VIIRS,senescence,186.0,3
+Asheville,2021,VIIRS,senescence,187.0,2
+Asheville,2021,VIIRS,senescence,188.0,4
+Asheville,2021,VIIRS,senescence,189.0,5
+Asheville,2021,VIIRS,senescence,190.0,8
+Asheville,2021,VIIRS,senescence,191.0,4
+Asheville,2021,VIIRS,senescence,192.0,6
+Asheville,2021,VIIRS,senescence,193.0,11
+Asheville,2021,VIIRS,senescence,194.0,7
+Asheville,2021,VIIRS,senescence,195.0,9
+Asheville,2021,VIIRS,senescence,196.0,9
+Asheville,2021,VIIRS,senescence,197.0,8
+Asheville,2021,VIIRS,senescence,198.0,9
+Asheville,2021,VIIRS,senescence,199.0,12
+Asheville,2021,VIIRS,senescence,200.0,11
+Asheville,2021,VIIRS,senescence,201.0,12
+Asheville,2021,VIIRS,senescence,202.0,11
+Asheville,2021,VIIRS,senescence,203.0,13
+Asheville,2021,VIIRS,senescence,204.0,21
+Asheville,2021,VIIRS,senescence,205.0,21
+Asheville,2021,VIIRS,senescence,206.0,15
+Asheville,2021,VIIRS,senescence,207.0,16
+Asheville,2021,VIIRS,senescence,208.0,32
+Asheville,2021,VIIRS,senescence,209.0,30
+Asheville,2021,VIIRS,senescence,210.0,31
+Asheville,2021,VIIRS,senescence,211.0,28
+Asheville,2021,VIIRS,senescence,212.0,27
+Asheville,2021,VIIRS,senescence,213.0,31
+Asheville,2021,VIIRS,senescence,214.0,39
+Asheville,2021,VIIRS,senescence,215.0,36
+Asheville,2021,VIIRS,senescence,216.0,41
+Asheville,2021,VIIRS,senescence,217.0,53
+Asheville,2021,VIIRS,senescence,218.0,55
+Asheville,2021,VIIRS,senescence,219.0,47
+Asheville,2021,VIIRS,senescence,220.0,66
+Asheville,2021,VIIRS,senescence,221.0,66
+Asheville,2021,VIIRS,senescence,222.0,68
+Asheville,2021,VIIRS,senescence,223.0,73
+Asheville,2021,VIIRS,senescence,224.0,99
+Asheville,2021,VIIRS,senescence,225.0,87
+Asheville,2021,VIIRS,senescence,226.0,84
+Asheville,2021,VIIRS,senescence,227.0,90
+Asheville,2021,VIIRS,senescence,228.0,100
+Asheville,2021,VIIRS,senescence,229.0,109
+Asheville,2021,VIIRS,senescence,230.0,112
+Asheville,2021,VIIRS,senescence,231.0,122
+Asheville,2021,VIIRS,senescence,232.0,123
+Asheville,2021,VIIRS,senescence,233.0,121
+Asheville,2021,VIIRS,senescence,234.0,120
+Asheville,2021,VIIRS,senescence,235.0,129
+Asheville,2021,VIIRS,senescence,236.0,118
+Asheville,2021,VIIRS,senescence,237.0,132
+Asheville,2021,VIIRS,senescence,238.0,145
+Asheville,2021,VIIRS,senescence,239.0,134
+Asheville,2021,VIIRS,senescence,240.0,146
+Asheville,2021,VIIRS,senescence,241.0,141
+Asheville,2021,VIIRS,senescence,242.0,136
+Asheville,2021,VIIRS,senescence,243.0,131
+Asheville,2021,VIIRS,senescence,244.0,131
+Asheville,2021,VIIRS,senescence,245.0,141
+Asheville,2021,VIIRS,senescence,246.0,121
+Asheville,2021,VIIRS,senescence,247.0,126
+Asheville,2021,VIIRS,senescence,248.0,109
+Asheville,2021,VIIRS,senescence,249.0,121
+Asheville,2021,VIIRS,senescence,250.0,122
+Asheville,2021,VIIRS,senescence,251.0,102
+Asheville,2021,VIIRS,senescence,252.0,93
+Asheville,2021,VIIRS,senescence,253.0,88
+Asheville,2021,VIIRS,senescence,254.0,76
+Asheville,2021,VIIRS,senescence,255.0,82
+Asheville,2021,VIIRS,senescence,256.0,65
+Asheville,2021,VIIRS,senescence,257.0,77
+Asheville,2021,VIIRS,senescence,258.0,79
+Asheville,2021,VIIRS,senescence,259.0,65
+Asheville,2021,VIIRS,senescence,260.0,44
+Asheville,2021,VIIRS,senescence,261.0,52
+Asheville,2021,VIIRS,senescence,262.0,48
+Asheville,2021,VIIRS,senescence,263.0,46
+Asheville,2021,VIIRS,senescence,264.0,58
+Asheville,2021,VIIRS,senescence,265.0,50
+Asheville,2021,VIIRS,senescence,266.0,34
+Asheville,2021,VIIRS,senescence,267.0,37
+Asheville,2021,VIIRS,senescence,268.0,22
+Asheville,2021,VIIRS,senescence,269.0,26
+Asheville,2021,VIIRS,senescence,270.0,29
+Asheville,2021,VIIRS,senescence,271.0,16
+Asheville,2021,VIIRS,senescence,272.0,19
+Asheville,2021,VIIRS,senescence,273.0,11
+Asheville,2021,VIIRS,senescence,274.0,13
+Asheville,2021,VIIRS,senescence,275.0,13
+Asheville,2021,VIIRS,senescence,276.0,8
+Asheville,2021,VIIRS,senescence,277.0,13
+Asheville,2021,VIIRS,senescence,278.0,11
+Asheville,2021,VIIRS,senescence,279.0,6
+Asheville,2021,VIIRS,senescence,280.0,2
+Asheville,2021,VIIRS,senescence,281.0,10
+Asheville,2021,VIIRS,senescence,282.0,4
+Asheville,2021,VIIRS,senescence,284.0,5
+Asheville,2021,VIIRS,senescence,285.0,4
+Asheville,2021,VIIRS,senescence,286.0,4
+Asheville,2021,VIIRS,senescence,287.0,1
+Asheville,2021,VIIRS,senescence,288.0,4
+Asheville,2021,VIIRS,senescence,289.0,3
+Asheville,2021,VIIRS,senescence,291.0,1
+Asheville,2021,VIIRS,senescence,292.0,2
+Asheville,2021,VIIRS,senescence,293.0,2
+Asheville,2021,VIIRS,senescence,295.0,1
+Asheville,2021,VIIRS,mid_greendown,236.0,1
+Asheville,2021,VIIRS,mid_greendown,241.0,1
+Asheville,2021,VIIRS,mid_greendown,243.0,1
+Asheville,2021,VIIRS,mid_greendown,246.0,2
+Asheville,2021,VIIRS,mid_greendown,248.0,1
+Asheville,2021,VIIRS,mid_greendown,249.0,4
+Asheville,2021,VIIRS,mid_greendown,250.0,3
+Asheville,2021,VIIRS,mid_greendown,252.0,1
+Asheville,2021,VIIRS,mid_greendown,253.0,4
+Asheville,2021,VIIRS,mid_greendown,254.0,2
+Asheville,2021,VIIRS,mid_greendown,255.0,1
+Asheville,2021,VIIRS,mid_greendown,256.0,4
+Asheville,2021,VIIRS,mid_greendown,257.0,5
+Asheville,2021,VIIRS,mid_greendown,258.0,6
+Asheville,2021,VIIRS,mid_greendown,259.0,3
+Asheville,2021,VIIRS,mid_greendown,260.0,12
+Asheville,2021,VIIRS,mid_greendown,261.0,8
+Asheville,2021,VIIRS,mid_greendown,262.0,6
+Asheville,2021,VIIRS,mid_greendown,263.0,12
+Asheville,2021,VIIRS,mid_greendown,264.0,11
+Asheville,2021,VIIRS,mid_greendown,265.0,9
+Asheville,2021,VIIRS,mid_greendown,266.0,17
+Asheville,2021,VIIRS,mid_greendown,267.0,16
+Asheville,2021,VIIRS,mid_greendown,268.0,25
+Asheville,2021,VIIRS,mid_greendown,269.0,26
+Asheville,2021,VIIRS,mid_greendown,270.0,33
+Asheville,2021,VIIRS,mid_greendown,271.0,34
+Asheville,2021,VIIRS,mid_greendown,272.0,36
+Asheville,2021,VIIRS,mid_greendown,273.0,46
+Asheville,2021,VIIRS,mid_greendown,274.0,62
+Asheville,2021,VIIRS,mid_greendown,275.0,57
+Asheville,2021,VIIRS,mid_greendown,276.0,60
+Asheville,2021,VIIRS,mid_greendown,277.0,64
+Asheville,2021,VIIRS,mid_greendown,278.0,79
+Asheville,2021,VIIRS,mid_greendown,279.0,76
+Asheville,2021,VIIRS,mid_greendown,280.0,102
+Asheville,2021,VIIRS,mid_greendown,281.0,137
+Asheville,2021,VIIRS,mid_greendown,282.0,115
+Asheville,2021,VIIRS,mid_greendown,283.0,144
+Asheville,2021,VIIRS,mid_greendown,284.0,163
+Asheville,2021,VIIRS,mid_greendown,285.0,178
+Asheville,2021,VIIRS,mid_greendown,286.0,178
+Asheville,2021,VIIRS,mid_greendown,287.0,171
+Asheville,2021,VIIRS,mid_greendown,288.0,197
+Asheville,2021,VIIRS,mid_greendown,289.0,218
+Asheville,2021,VIIRS,mid_greendown,290.0,221
+Asheville,2021,VIIRS,mid_greendown,291.0,245
+Asheville,2021,VIIRS,mid_greendown,292.0,238
+Asheville,2021,VIIRS,mid_greendown,293.0,217
+Asheville,2021,VIIRS,mid_greendown,294.0,225
+Asheville,2021,VIIRS,mid_greendown,295.0,200
+Asheville,2021,VIIRS,mid_greendown,296.0,187
+Asheville,2021,VIIRS,mid_greendown,297.0,179
+Asheville,2021,VIIRS,mid_greendown,298.0,185
+Asheville,2021,VIIRS,mid_greendown,299.0,169
+Asheville,2021,VIIRS,mid_greendown,300.0,152
+Asheville,2021,VIIRS,mid_greendown,301.0,140
+Asheville,2021,VIIRS,mid_greendown,302.0,131
+Asheville,2021,VIIRS,mid_greendown,303.0,132
+Asheville,2021,VIIRS,mid_greendown,304.0,96
+Asheville,2021,VIIRS,mid_greendown,305.0,76
+Asheville,2021,VIIRS,mid_greendown,306.0,68
+Asheville,2021,VIIRS,mid_greendown,307.0,78
+Asheville,2021,VIIRS,mid_greendown,308.0,44
+Asheville,2021,VIIRS,mid_greendown,309.0,55
+Asheville,2021,VIIRS,mid_greendown,310.0,41
+Asheville,2021,VIIRS,mid_greendown,311.0,28
+Asheville,2021,VIIRS,mid_greendown,312.0,27
+Asheville,2021,VIIRS,mid_greendown,313.0,20
+Asheville,2021,VIIRS,mid_greendown,314.0,10
+Asheville,2021,VIIRS,mid_greendown,315.0,15
+Asheville,2021,VIIRS,mid_greendown,316.0,14
+Asheville,2021,VIIRS,mid_greendown,317.0,4
+Asheville,2021,VIIRS,mid_greendown,318.0,3
+Asheville,2021,VIIRS,mid_greendown,319.0,5
+Asheville,2021,VIIRS,mid_greendown,320.0,1
+Asheville,2021,VIIRS,mid_greendown,323.0,1
+Asheville,2021,VIIRS,dormancy,292.0,1
+Asheville,2021,VIIRS,dormancy,309.0,2
+Asheville,2021,VIIRS,dormancy,310.0,2
+Asheville,2021,VIIRS,dormancy,312.0,3
+Asheville,2021,VIIRS,dormancy,313.0,3
+Asheville,2021,VIIRS,dormancy,314.0,6
+Asheville,2021,VIIRS,dormancy,315.0,2
+Asheville,2021,VIIRS,dormancy,316.0,4
+Asheville,2021,VIIRS,dormancy,317.0,5
+Asheville,2021,VIIRS,dormancy,318.0,5
+Asheville,2021,VIIRS,dormancy,319.0,10
+Asheville,2021,VIIRS,dormancy,320.0,13
+Asheville,2021,VIIRS,dormancy,321.0,12
+Asheville,2021,VIIRS,dormancy,322.0,9
+Asheville,2021,VIIRS,dormancy,323.0,11
+Asheville,2021,VIIRS,dormancy,324.0,36
+Asheville,2021,VIIRS,dormancy,325.0,17
+Asheville,2021,VIIRS,dormancy,326.0,35
+Asheville,2021,VIIRS,dormancy,327.0,32
+Asheville,2021,VIIRS,dormancy,328.0,43
+Asheville,2021,VIIRS,dormancy,329.0,55
+Asheville,2021,VIIRS,dormancy,330.0,75
+Asheville,2021,VIIRS,dormancy,331.0,84
+Asheville,2021,VIIRS,dormancy,332.0,105
+Asheville,2021,VIIRS,dormancy,333.0,120
+Asheville,2021,VIIRS,dormancy,334.0,124
+Asheville,2021,VIIRS,dormancy,335.0,141
+Asheville,2021,VIIRS,dormancy,336.0,167
+Asheville,2021,VIIRS,dormancy,337.0,174
+Asheville,2021,VIIRS,dormancy,338.0,188
+Asheville,2021,VIIRS,dormancy,339.0,205
+Asheville,2021,VIIRS,dormancy,340.0,238
+Asheville,2021,VIIRS,dormancy,341.0,227
+Asheville,2021,VIIRS,dormancy,342.0,252
+Asheville,2021,VIIRS,dormancy,343.0,279
+Asheville,2021,VIIRS,dormancy,344.0,292
+Asheville,2021,VIIRS,dormancy,345.0,287
+Asheville,2021,VIIRS,dormancy,346.0,284
+Asheville,2021,VIIRS,dormancy,347.0,306
+Asheville,2021,VIIRS,dormancy,348.0,281
+Asheville,2021,VIIRS,dormancy,349.0,222
+Asheville,2021,VIIRS,dormancy,350.0,239
+Asheville,2021,VIIRS,dormancy,351.0,205
+Asheville,2021,VIIRS,dormancy,352.0,182
+Asheville,2021,VIIRS,dormancy,353.0,146
+Asheville,2021,VIIRS,dormancy,354.0,117
+Asheville,2021,VIIRS,dormancy,355.0,81
+Asheville,2021,VIIRS,dormancy,356.0,64
+Asheville,2021,VIIRS,dormancy,357.0,38
+Asheville,2021,VIIRS,dormancy,358.0,35
+Asheville,2021,VIIRS,dormancy,359.0,22
+Asheville,2021,VIIRS,dormancy,360.0,13
+Asheville,2021,VIIRS,dormancy,361.0,15
+Asheville,2021,VIIRS,dormancy,362.0,7
+Asheville,2021,VIIRS,dormancy,363.0,5
+Asheville,2021,VIIRS,dormancy,364.0,3
+Asheville,2021,VIIRS,dormancy,365.0,5
+Asheville,2021,VIIRS,dormancy,366.0,1
+Asheville,2021,VIIRS,dormancy,367.0,2
+Asheville,2021,VIIRS,dormancy,370.0,1
+Asheville,2021,VIIRS,forest_px,1.0,16973
