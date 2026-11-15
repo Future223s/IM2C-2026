@@ -1,0 +1,10 @@
+scale,slope
+"Between locations (μ ~ lat + elev, n = 11)",-1.1042492052058372
+"Within locations, pooled linear (all pixels)",-0.031049230374265827
+"Within, North (VT, NY, PA): below 500 m",0.756971741411843
+"Within, Central (MD, WV, VA): below 700 m",0.4004185592110615
+"Within, South (NC Blue Ridge): below 1300 m",0.2757315222405085
+"Within, North (VT, NY, PA): above 500 m",-0.6843597037205417
+"Within, Central (MD, WV, VA): above 700 m",-0.7440526066984184
+"Within, South (NC Blue Ridge): above 1300 m",-2.916618922204793
+Free-air lapse rate (6.5 °C/km) × Sep temp sensitivity,-1.2912858356771313

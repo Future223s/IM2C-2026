@@ -1,0 +1,7 @@
+approach,MAE
+Grand mean (no predictor),3.3243636363636297
+Latitude + elevation (fixed a priori),1.4994961724440878
+Thermal date 15 °C (fixed a priori),1.3304798180738648
+"Best single predictor, chosen in each fold",1.5403754013170627
+"Best 1- or 2-predictor model, chosen in each fold",2.139242119701919
+Best model in-sample LOLO (optimistic),1.3300043481040171
