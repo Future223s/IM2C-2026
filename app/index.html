@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peak Foliage Explorer</title>
+<style>
+:root{
+  --bg:#f6f5f1; --surface:#fcfcfb; --surface2:#f0efec; --ink:#0b0b0b; --ink2:#52514e; --muted:#8a8984; --grid:#e4e3df;
+  --blue:#2a78d6; --blue-soft:rgba(42,120,214,.16); --orange:#eb6834; --aqua:#1baf7a; --red:#e34948; --yellow:#eda100;
+  --pos:#e34948; --neg:#2a78d6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#121211; --surface:#1a1a19; --surface2:#242422; --ink:#f0efec; --ink2:#c3c2b7; --muted:#8a8984; --grid:#33332f;
+    --blue:#3987e5; --blue-soft:rgba(57,135,229,.22); --orange:#d95926; --aqua:#199e70; --red:#e66767; --yellow:#c98500;
+    --pos:#e66767; --neg:#3987e5;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121211; --surface:#1a1a19; --surface2:#242422; --ink:#f0efec; --ink2:#c3c2b7; --muted:#8a8984; --grid:#33332f;
+  --blue:#3987e5; --blue-soft:rgba(57,135,229,.22); --orange:#d95926; --aqua:#199e70; --red:#e66767; --yellow:#c98500;
+  --pos:#e66767; --neg:#3987e5;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:18px 24px 10px;display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 20px}
+header h1{font-size:20px;margin:0}
+header p{margin:0;color:var(--ink2);font-size:13px;flex:1 1 400px}
+main{display:grid;grid-template-columns:330px 1fr;gap:16px;padding:8px 24px 24px;max-width:1500px;margin:0 auto}
+@media (max-width:980px){main{grid-template-columns:1fr;padding:8px 16px 24px}}
+.card{background:var(--surface);border:1px solid var(--grid);border-radius:10px;padding:14px 16px}
+.card h2{font-size:14px;color:var(--ink2);margin:0 0 10px;font-weight:600}
+.stack{display:flex;flex-direction:column;gap:16px;min-width:0}
+label{font-size:12px;color:var(--ink2);display:block;margin-bottom:4px}
+select,input[type=range]{width:100%}
+select{padding:7px 8px;border-radius:6px;border:1px solid var(--grid);background:var(--surface2);color:var(--ink);font:inherit}
+.yearrow{display:flex;align-items:center;gap:10px}
+.yearrow output{font-weight:700;font-size:18px;min-width:48px;text-align:right}
+.btns{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+button{font:inherit;font-size:12px;padding:5px 10px;border-radius:6px;border:1px solid var(--grid);background:var(--surface2);color:var(--ink);cursor:pointer}
+button:hover{border-color:var(--blue)}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.meta{font-size:12px;color:var(--ink2);display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin-top:10px}
+.meta b{color:var(--ink);font-weight:600}
+.hero{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+@media (max-width:700px){.hero{grid-template-columns:repeat(2,1fr)}}
+.tile{background:var(--surface2);border-radius:8px;padding:10px 12px}
+.tile .k{font-size:11px;color:var(--ink2);letter-spacing:.02em}
+.tile .v{font-size:24px;font-weight:700;margin-top:2px}
+.tile .s{font-size:12px;color:var(--ink2)}
+.verdict{margin-top:12px;font-size:13px;color:var(--ink2)}
+.verdict b{color:var(--ink)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:1150px){.row2{grid-template-columns:1fr}}
+svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{fill:var(--ink2);font-size:11px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--ink2);margin-top:6px}
+.sw{display:inline-block;width:12px;height:12px;border-radius:3px;vertical-align:-2px;margin-right:5px}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{padding:6px 6px;border-bottom:1px solid var(--grid);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{color:var(--ink2);font-weight:600;font-size:11.5px}
+.tip{position:fixed;pointer-events:none;background:var(--surface);border:1px solid var(--grid);border-radius:6px;padding:6px 8px;font-size:12px;box-shadow:0 4px 14px rgba(0,0,0,.12);display:none;z-index:9;max-width:260px}
+.foot{font-size:12px;color:var(--ink2);padding:0 24px 24px;max-width:1500px;margin:0 auto}
+.foot li{margin:3px 0}
+.mapdot{cursor:pointer}
+.formula{font-family:ui-monospace,Menlo,monospace;font-size:12px;background:var(--surface2);padding:8px 10px;border-radius:6px;color:var(--ink);overflow-x:auto}
+.scroll{overflow-x:auto}
+</style>
+</head>
+<body>
+<header>
+  <h1>Peak Foliage Explorer</h1>
+  <p>Pick a location and a year. See that season's weather, our <b>μ + δ</b> prediction of the peak-foliage proxy date, and when it actually happened.</p>
+  <button id="theme" aria-label="Toggle light or dark theme">Theme</button>
+</header>
+
+<main>
+  <div class="stack">
+    <section class="card">
+      <h2>Choose</h2>
+      <label for="loc">Location (north → south)</label>
+      <select id="loc"></select>
+      <div style="height:12px"></div>
+      <label for="year">Year</label>
+      <div class="yearrow"><input id="year" type="range" min="2001" max="2026" step="1"><output id="yearOut"></output></div>
+      <div class="btns">
+        <button data-y="2026">2026 forecast</button>
+        <button data-y="2024">2024</button>
+        <button data-y="2016">2016 (late)</button>
+        <button id="prev" aria-label="Previous year">◀</button>
+        <button id="next" aria-label="Next year">▶</button>
+      </div>
+      <div class="meta" id="meta"></div>
+    </section>
+
+    <section class="card">
+      <h2>Map: click a location</h2>
+      <svg id="map" viewBox="0 0 300 330" role="img" aria-label="Map of the 11 study locations"></svg>
+      <div class="legend"><span>Dot color = typical peak (lighter = earlier)</span></div>
+    </section>
+
+    <section class="card">
+      <h2>How the model works</h2>
+      <div class="formula">peak = μ + δ<br>μ = mean of the 3 previous years<br>δ = Σ wₖ · (xₖ − normalₖ)</div>
+      <p style="font-size:12px;color:var(--ink2);margin:8px 0 0">δ uses five weather anomalies, all known before the typical peak, with weights shared by every location. For past years, the weights are refit <b>without</b> that year (an honest test). The interval is the 80% range of real out-of-sample errors.</p>
+    </section>
+  </div>
+
+  <div class="stack">
+    <section class="card">
+      <h2 id="heroTitle">Prediction</h2>
+      <div class="hero" id="hero"></div>
+      <div class="verdict" id="verdict"></div>
+    </section>
+
+    <section class="card">
+      <h2 id="tlTitle">Every year at this location: predicted vs. actual</h2>
+      <svg id="timeline" viewBox="0 0 900 260" role="img" aria-label="Predicted and actual peak by year"></svg>
+      <div class="legend">
+        <span><span class="sw" style="background:var(--blue-soft);border:1px solid var(--blue)"></span>80% prediction interval</span>
+        <span><span class="sw" style="background:var(--blue)"></span>Prediction (μ + δ)</span>
+        <span><span class="sw" style="background:var(--ink);border-radius:50%"></span>Actual MODIS peak</span>
+        <span><span class="sw" style="background:var(--muted);height:2px"></span>Rolling mean μ</span>
+      </div>
+    </section>
+
+    <div class="row2">
+      <section class="card">
+        <h2>Why δ is what it is</h2>
+        <svg id="delta" viewBox="0 0 440 230" role="img" aria-label="Contribution of each weather factor to delta"></svg>
+        <div class="scroll"><table id="ftable"></table></div>
+      </section>
+      <section class="card">
+        <h2 id="wxTitle">Weather that year vs. normal</h2>
+        <svg id="temp" viewBox="0 0 440 190" role="img" aria-label="Monthly mean temperature vs normal"></svg>
+        <div class="legend">
+          <span><span class="sw" style="background:var(--orange)"></span>Selected year</span>
+          <span><span class="sw" style="background:var(--muted)"></span>2001–2025 normal</span>
+        </div>
+        <svg id="precip" viewBox="0 0 440 170" role="img" aria-label="Monthly precipitation vs normal" style="margin-top:10px"></svg>
+        <div class="legend">
+          <span><span class="sw" style="background:var(--blue)"></span>Selected year precip</span>
+          <span><span class="sw" style="background:var(--muted)"></span>Normal</span>
+        </div>
+      </section>
+    </div>
+  </div>
+</main>
+
+<div class="foot card" style="margin:0 24px 24px;max-width:1452px">
+  <b>Read before quoting a date</b>
+  <ul>
+    <li>Dates are the <b>MODIS mid-greendown</b> satellite proxy: the day forest greenness is halfway through its autumn decline, over a 40 km region. People usually report peak color <b>about 1–3 weeks later</b>. That offset is an assumption and has not been calibrated against news reports.</li>
+    <li>For 2026 there is no actual date yet; the 2026 MODIS product has not been released. 2026 weather runs through <span id="lastwx"></span>.</li>
+    <li>Past-year predictions are honest hindcasts: μ uses only earlier years and the δ weights exclude the year shown. 2001 has no μ because there are no prior years.</li>
+    <li>Source: IMMC 2026 team. Data: data/panel_v1; model: analysis/delta_model/DELTA_MODEL.md.</li>
+  </ul>
+</div>
+<div class="tip" id="tip"></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const NS = "http://www.w3.org/2000/svg";
+let DATA, byKey = {}, state = {loc: "Asheville", year: 2026};
+const MONTHS = ["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+
+function doyDate(doy, year){ if(doy==null) return "—"; const d=new Date(Date.UTC(year,0,1)); d.setUTCDate(d.getUTCDate()+Math.floor(doy)-1);
+  return d.toLocaleDateString("en-US",{month:"short",day:"numeric",timeZone:"UTC"}); }
+const fmt = (v,d=1) => (v>0?"+":"") + v.toFixed(d);
+function el(tag, attrs={}, parent){ const e=document.createElementNS(NS,tag); for(const k in attrs) e.setAttribute(k,attrs[k]); if(parent) parent.appendChild(e); return e; }
+function clear(svg){ while(svg.firstChild) svg.removeChild(svg.firstChild); }
+const tip = $("#tip");
+function showTip(ev, html){ tip.innerHTML=html; tip.style.display="block"; const x=ev.clientX+14, y=ev.clientY+14;
+  tip.style.left=Math.min(x, innerWidth-tip.offsetWidth-8)+"px"; tip.style.top=Math.min(y, innerHeight-tip.offsetHeight-8)+"px"; }
+function hideTip(){ tip.style.display="none"; }
+function hover(node, html){ node.addEventListener("mousemove", e=>showTip(e, typeof html==="function"?html():html)); node.addEventListener("mouseleave", hideTip); }
+
+fetch("data.json").then(r=>r.json()).then(d=>{
+  DATA=d; d.rows.forEach(r=> byKey[r.location+"|"+r.year]=r);
+  const sel=$("#loc"); d.locations.forEach(l=>{ const o=document.createElement("option"); o.value=l.name; o.textContent=`${l.name}, ${l.state}`; sel.appendChild(o); });
+  try{ const s=JSON.parse(localStorage.getItem("pfe")||"{}"); if(s.loc) state.loc=s.loc; if(s.year) state.year=s.year; }catch(e){}
+  sel.value=state.loc; $("#year").value=state.year;
+  sel.onchange=()=>{state.loc=sel.value; render();};
+  $("#year").oninput=e=>{state.year=+e.target.value; render();};
+  document.querySelectorAll("[data-y]").forEach(b=>b.onclick=()=>{state.year=+b.dataset.y; $("#year").value=state.year; render();});
+  $("#prev").onclick=()=>{state.year=Math.max(2001,state.year-1); $("#year").value=state.year; render();};
+  $("#next").onclick=()=>{state.year=Math.min(2026,state.year+1); $("#year").value=state.year; render();};
+  $("#lastwx").textContent=d.last_weather_date;
+  render();
+});
+
+$("#theme").onclick=()=>{ const r=document.documentElement; const dark = r.dataset.theme ? r.dataset.theme==="dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  r.dataset.theme = dark ? "light":"dark"; render(); };
+
+function render(){
+  try{ localStorage.setItem("pfe", JSON.stringify(state)); }catch(e){}
+  $("#yearOut").textContent=state.year;
+  const L=DATA.locations.find(l=>l.name===state.loc), R=byKey[state.loc+"|"+state.year], I=DATA.interval;
+  $("#meta").innerHTML=`<span>Ecoregion</span><b>${L.ecoregion}</b><span>Lat / lon</span><b>${L.lat.toFixed(2)}°, ${L.lon.toFixed(2)}°</b>
+    <span>Forest elevation</span><b>${L.elev} m (median)</b><span>Typical peak</span><b>${doyDate(L.mean_peak,2001)} ± ${L.sd.toFixed(1)} d (2001–25)</b>
+    <span>Northern hardwood</span><b>${Math.round(L.nh*100)}% of forest</b><span>Oak–hickory</span><b>${Math.round(L.oak*100)}% of forest</b>`;
+  renderMap(); renderHero(L,R,I); renderTimeline(L,I); renderDelta(R); renderWeather(R);
+}
+
+function renderHero(L,R,I){
+  const y=state.year; $("#heroTitle").textContent=`${state.loc} · ${y}`;
+  const pred = R.mu!=null ? R.mu+R.delta : null;
+  const tiles=[];
+  tiles.push({k:"Rolling mean μ", v: R.mu!=null?doyDate(R.mu,y):"—", s: R.mu!=null?`avg of ${R.n_prior} prior yr`:"no prior years"});
+  tiles.push({k:"Weather δ", v: fmt(R.delta)+" d", s: R.delta<0?"earlier than normal":"later than normal"});
+  tiles.push({k:"Prediction (μ + δ)", v: pred!=null?doyDate(pred,y):"—", s: pred!=null?`80%: ${doyDate(pred+I.q10,y)} – ${doyDate(pred+I.q90,y)}`:""});
+  tiles.push({k:"Actual (MODIS)", v: R.actual!=null?doyDate(R.actual,y):"Not yet", s: R.actual!=null?(R.viirs!=null?`VIIRS: ${doyDate(R.viirs,y)}`:"VIIRS n/a before 2013"):"2026 data not released"});
+  $("#hero").innerHTML=tiles.map(t=>`<div class="tile"><div class="k">${t.k}</div><div class="v">${t.v}</div><div class="s">${t.s}</div></div>`).join("");
+  let v="";
+  if(pred!=null && R.actual!=null){
+    const err=R.actual-pred, inside = err>=I.q10 && err<=I.q90;
+    const muErr=R.actual-R.mu;
+    v=`Error: <b>${fmt(err)} d</b> (actual minus predicted), ${inside?"<b>inside</b>":"<b>outside</b>"} the 80% interval. `+
+      `Using μ alone the error would have been ${fmt(muErr)} d, so δ ${Math.abs(err)<Math.abs(muErr)?"<b>helped</b>":"<b>did not help</b>"} this year.`+
+      (R.helene?" Note: Hurricane Helene year at this site.":"");
+  } else if(pred!=null){
+    v=`80% chance the proxy date falls between <b>${doyDate(pred+I.q10,y)}</b> and <b>${doyDate(pred+I.q90,y)}</b>; about ${Math.round(I.p3*100)}% chance it is within ±3 days of ${doyDate(pred,y)}. People typically report peak color 1–3 weeks after this date.`;
+  } else v="2001 has no earlier years, so no rolling mean. Pick a later year.";
+  $("#verdict").innerHTML=v;
+}
+
+function renderMap(){
+  const svg=$("#map"); clear(svg); const L=DATA.locations;
+  const lonMin=-83.4, lonMax=-71.8, latMin=35.0, latMax=45.0, W=300, H=330, pad=18;
+  const kx=Math.cos(40*Math.PI/180);
+  const sx=lon=> pad + (lon-lonMin)/(lonMax-lonMin)*(W-2*pad);
+  const sy=lat=> H-pad - (lat-latMin)/(latMax-latMin)*(H-2*pad);
+  for(let lat=36; lat<=44; lat+=2){ el("line",{x1:pad,x2:W-pad,y1:sy(lat),y2:sy(lat),stroke:css("--grid")},svg); el("text",{x:2,y:sy(lat)+3,"font-size":9},svg).textContent=lat+"°"; }
+  const pk=L.map(l=>l.mean_peak), lo=Math.min(...pk), hi=Math.max(...pk);
+  const ramp=["#cde2fb","#9ec5f4","#6da7ec","#3987e5","#256abf","#184f95","#0d366b"];
+  L.forEach(l=>{
+    const t=(l.mean_peak-lo)/(hi-lo), c=ramp[Math.min(6,Math.floor(t*6.999))];
+    const sel=l.name===state.loc;
+    const g=el("g",{class:"mapdot",tabindex:0,role:"button","aria-label":l.name},svg);
+    el("circle",{cx:sx(l.lon),cy:sy(l.lat),r:16,fill:"transparent"},g);
+    el("circle",{cx:sx(l.lon),cy:sy(l.lat),r:sel?9:7,fill:c,stroke:sel?css("--orange"):css("--surface"),"stroke-width":sel?3:2},g);
+    const left = ["Montpelier","Old Forge","Binghamton","State College","Valley Head"].includes(l.name);
+    const dy = l.name==="Shenandoah" ? 14 : (l.name==="Valley Head" ? -8 : 4);
+    const tx=el("text",{x:sx(l.lon)+(left?-11:11),y:sy(l.lat)+dy,"text-anchor":left?"end":"start","font-size":10.5,
+      "font-weight":sel?700:400},g); tx.textContent=l.name; if(sel) tx.style.fill=css("--ink");
+    const pick=()=>{state.loc=l.name; $("#loc").value=l.name; render();};
+    g.addEventListener("click",pick); g.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();pick();}});
+    hover(g, `<b>${l.name}, ${l.state}</b><br>Typical peak ${doyDate(l.mean_peak,2001)}<br>${l.elev} m · ${l.ecoregion}`);
+  });
+}
+
+function renderTimeline(L,I){
+  const svg=$("#timeline"); clear(svg);
+  $("#tlTitle").textContent=`Every year at ${state.loc}: predicted vs. actual`;
+  const W=900,H=260,m={l:52,r:14,t:10,b:28};
+  const rows=[]; for(let y=2001;y<=2026;y++) rows.push(byKey[state.loc+"|"+y]);
+  const vals=[]; rows.forEach(r=>{ if(r.actual!=null) vals.push(r.actual); if(r.mu!=null) vals.push(r.mu+r.delta+I.q10, r.mu+r.delta+I.q90); });
+  const ymin=Math.floor(Math.min(...vals)-2), ymax=Math.ceil(Math.max(...vals)+2);
+  const x=y=> m.l + (y-2001)/(2026-2001)*(W-m.l-m.r), yy=v=> m.t + (ymax-v)/(ymax-ymin)*(H-m.t-m.b);
+  for(let v=Math.ceil(ymin/4)*4; v<=ymax; v+=4){ el("line",{x1:m.l,x2:W-m.r,y1:yy(v),y2:yy(v),stroke:css("--grid")},svg);
+    el("text",{x:m.l-6,y:yy(v)+4,"text-anchor":"end"},svg).textContent=doyDate(v,2001); }
+  for(let y=2001;y<=2026;y+=5){ el("text",{x:x(y),y:H-8,"text-anchor":"middle"},svg).textContent=y; }
+  el("text",{x:x(2026),y:H-8,"text-anchor":"middle"},svg).textContent="2026";
+  // selected year highlight
+  el("rect",{x:x(state.year)-14,y:m.t,width:28,height:H-m.t-m.b,fill:css("--surface2")},svg);
+  const pr=rows.filter(r=>r.mu!=null);
+  // interval band
+  let top=pr.map(r=>`${x(r.year)},${yy(r.mu+r.delta+I.q90)}`), bot=pr.slice().reverse().map(r=>`${x(r.year)},${yy(r.mu+r.delta+I.q10)}`);
+  el("polygon",{points:top.concat(bot).join(" "),fill:css("--blue-soft"),stroke:"none"},svg);
+  el("polyline",{points:pr.map(r=>`${x(r.year)},${yy(r.mu)}`).join(" "),fill:"none",stroke:css("--muted"),"stroke-width":1.5,"stroke-dasharray":"4 3"},svg);
+  el("polyline",{points:pr.map(r=>`${x(r.year)},${yy(r.mu+r.delta)}`).join(" "),fill:"none",stroke:css("--blue"),"stroke-width":2},svg);
+  rows.forEach(r=>{
+    const p=r.mu!=null? r.mu+r.delta:null;
+    if(p!=null) el("circle",{cx:x(r.year),cy:yy(p),r:3.5,fill:css("--blue")},svg);
+    if(r.actual!=null) el("circle",{cx:x(r.year),cy:yy(r.actual),r:r.year===state.year?6:4.5,fill:css("--ink"),stroke:css("--surface"),"stroke-width":2},svg);
+    const hit=el("rect",{x:x(r.year)-14,y:m.t,width:28,height:H-m.t-m.b,fill:"transparent",style:"cursor:pointer"},svg);
+    hit.addEventListener("click",()=>{state.year=r.year; $("#year").value=r.year; render();});
+    hover(hit,()=>`<b>${r.year}</b><br>Predicted: ${p!=null?doyDate(p,r.year):"—"}<br>Actual: ${r.actual!=null?doyDate(r.actual,r.year):"not yet"}`+
+      (p!=null&&r.actual!=null?`<br>Error: ${fmt(r.actual-p)} d`:"")+`<br><i>click to select</i>`);
+  });
+}
+
+function renderDelta(R){
+  const svg=$("#delta"); clear(svg); const F=DATA.features;
+  const W=440,H=230,m={l:178,r:40,t:8,b:26}, rowH=(H-m.t-m.b)/(F.length+1);
+  const vals=F.map(f=>R.contrib[f.key]).concat([R.delta]); const lim=Math.max(2,...vals.map(Math.abs))*1.1;
+  const x=v=> m.l + (v+lim)/(2*lim)*(W-m.l-m.r);
+  el("line",{x1:x(0),x2:x(0),y1:m.t,y2:H-m.b,stroke:css("--ink2")},svg);
+  [-lim,0,lim].forEach(v=>{ el("text",{x:x(v),y:H-8,"text-anchor":"middle"},svg).textContent=(v>0?"+":"")+v.toFixed(0)+" d"; });
+  const items=F.map(f=>({label:f.label,v:R.contrib[f.key],f})).concat([{label:"δ total",v:R.delta,total:true}]);
+  items.forEach((it,i)=>{
+    const yc=m.t+rowH*(i+.5), x0=x(Math.min(0,it.v)), w=Math.abs(x(it.v)-x(0));
+    const t=el("text",{x:m.l-8,y:yc+4,"text-anchor":"end","font-weight":it.total?700:400},svg); t.textContent=it.label; if(it.total) t.style.fill=css("--ink");
+    const r=el("rect",{x:x0,y:yc-rowH*.32,width:Math.max(w,1),height:rowH*.64,rx:3,fill:it.total?css("--ink"):(it.v<0?css("--neg"):css("--pos"))},svg);
+    const inside = w>46, lt=el("text",{x:it.v<0?(inside?x0+5:x0-4):(inside?x0+w-5:x0+w+4),y:yc+4,
+      "text-anchor":(it.v<0)===inside?"start":"end"},svg); lt.textContent=fmt(it.v)+" d";
+    if(inside) lt.style.fill = it.total ? css("--surface") : "#ffffff";
+    if(!it.total){ const f=it.f, a=R.values[f.key]-R.normals[f.key];
+      hover(r,`<b>${f.label}</b><br>This year ${R.values[f.key].toFixed(1)} ${f.unit} vs normal ${R.normals[f.key].toFixed(1)}<br>Anomaly ${fmt(a)} ${f.unit} × weight ${R.weights[f.key].toFixed(3)} d/${f.unit}<br>= ${fmt(it.v,2)} d`); }
+  });
+  let h=`<tr><th>Factor</th><th>This year</th><th>Normal</th><th>Anomaly</th><th>Weight (d/unit)</th><th>Effect</th></tr>`;
+  F.forEach(f=>{ const a=R.values[f.key]-R.normals[f.key];
+    h+=`<tr><td>${f.label}</td><td>${R.values[f.key].toFixed(1)} ${f.unit}</td><td>${R.normals[f.key].toFixed(1)}</td><td>${fmt(a)}</td><td>${R.weights[f.key].toFixed(3)}</td><td><b>${fmt(R.contrib[f.key])} d</b></td></tr>`; });
+  $("#ftable").innerHTML=h;
+}
+
+function renderWeather(R){
+  const y=String(state.year), mon=(DATA.monthly[state.loc]||{})[y]||[], cl=DATA.climatology[state.loc];
+  $("#wxTitle").textContent=`Weather in ${state.year} vs. normal (Mar–Nov)`;
+  const months=cl.map(c=>c.m);
+  // temperature
+  let svg=$("#temp"); clear(svg); let W=440,H=190,m={l:40,r:10,t:16,b:24};
+  const tv=cl.map(c=>c.tmean).concat(mon.map(c=>c.tmean)); const tmin=Math.floor(Math.min(...tv)-1), tmax=Math.ceil(Math.max(...tv)+1);
+  const x=mm=> m.l + (mm-months[0])/(months[months.length-1]-months[0])*(W-m.l-m.r), yy=v=> m.t+(tmax-v)/(tmax-tmin)*(H-m.t-m.b);
+  el("text",{x:m.l,y:10},svg).textContent="Mean temperature (°C)";
+  for(let v=Math.ceil(tmin/5)*5; v<=tmax; v+=5){ el("line",{x1:m.l,x2:W-m.r,y1:yy(v),y2:yy(v),stroke:css("--grid")},svg); el("text",{x:m.l-5,y:yy(v)+4,"text-anchor":"end"},svg).textContent=v; }
+  months.forEach(mm=> el("text",{x:x(mm),y:H-6,"text-anchor":"middle"},svg).textContent=MONTHS[mm]);
+  el("polyline",{points:cl.map(c=>`${x(c.m)},${yy(c.tmean)}`).join(" "),fill:"none",stroke:css("--muted"),"stroke-width":2,"stroke-dasharray":"5 3"},svg);
+  if(mon.length) el("polyline",{points:mon.map(c=>`${x(c.m)},${yy(c.tmean)}`).join(" "),fill:"none",stroke:css("--orange"),"stroke-width":2},svg);
+  mon.forEach(c=>{ const n=cl.find(q=>q.m===c.m); const d=el("circle",{cx:x(c.m),cy:yy(c.tmean),r:4.5,fill:css("--orange"),stroke:css("--surface"),"stroke-width":2},svg);
+    const hit=el("circle",{cx:x(c.m),cy:yy(c.tmean),r:14,fill:"transparent"},svg);
+    hover(hit,`<b>${MONTHS[c.m]} ${state.year}</b><br>Mean ${c.tmean.toFixed(1)} °C (normal ${n.tmean.toFixed(1)}, ${fmt(c.tmean-n.tmean)} °C)<br>Max ${c.tmax.toFixed(1)} · Min ${c.tmin.toFixed(1)}`+(c.n<25?`<br><i>partial month (${c.n} days)</i>`:"")); });
+  // precip
+  svg=$("#precip"); clear(svg); H=170; m={l:40,r:10,t:16,b:24};
+  const pv=cl.map(c=>c.pr).concat(mon.map(c=>c.pr)); const pmax=Math.ceil(Math.max(...pv)/25)*25;
+  const yp=v=> m.t+(pmax-v)/pmax*(H-m.t-m.b), bw=(W-m.l-m.r)/months.length;
+  const xb=mm=> m.l + (mm-months[0])*bw;
+  el("text",{x:m.l,y:10},svg).textContent="Precipitation (mm per month)";
+  for(let v=0; v<=pmax; v+=pmax/4){ el("line",{x1:m.l,x2:W-m.r,y1:yp(v),y2:yp(v),stroke:css("--grid")},svg); el("text",{x:m.l-5,y:yp(v)+4,"text-anchor":"end"},svg).textContent=Math.round(v); }
+  months.forEach(mm=>{
+    const n=cl.find(q=>q.m===mm), c=mon.find(q=>q.m===mm);
+    el("rect",{x:xb(mm)+bw*.14,y:yp(n.pr),width:bw*.34,height:yp(0)-yp(n.pr),rx:3,fill:css("--muted")},svg);
+    if(c) el("rect",{x:xb(mm)+bw*.5,y:yp(c.pr),width:bw*.34,height:yp(0)-yp(c.pr),rx:3,fill:css("--blue")},svg);
+    el("text",{x:xb(mm)+bw*.5,y:H-6,"text-anchor":"middle"},svg).textContent=MONTHS[mm];
+    const hit=el("rect",{x:xb(mm),y:m.t,width:bw,height:H-m.t-m.b,fill:"transparent"},svg);
+    hover(hit,`<b>${MONTHS[mm]} ${state.year}</b><br>${c?c.pr.toFixed(0)+" mm":"no data"} (normal ${n.pr.toFixed(0)} mm)`+(c&&c.n<25?`<br><i>partial month</i>`:""));
+  });
+}
+</script>
+</body>
+</html>
