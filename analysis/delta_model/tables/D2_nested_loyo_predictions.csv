@@ -1,0 +1,276 @@
+location,year,peak_doy,mu,delta,pred,feats
+Montpelier,2001,271.0,271.5833333333333,4.455409126616684,276.03874245995,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2001,272.0,271.125,2.6750346051588623,273.8000346051589,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2001,277.0,273.9583333333333,2.1507613383338193,276.10909467166715,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2001,277.0,277.8333333333333,3.6198110937504024,281.4531444270837,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2001,279.0,277.4166666666667,3.822506436078074,281.23917310274476,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2001,278.0,275.0,-0.29714682206136334,274.70285317793866,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2001,273.0,275.125,-1.5425686933620073,273.582431306638,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2001,284.0,283.3333333333333,-0.27630033429397516,283.05703299903934,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2001,278.0,278.875,1.9542419103722517,280.8292419103723,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2001,275.0,278.625,-0.7642172553336959,277.8607827446663,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2001,278.0,281.0833333333333,-1.1604490174457947,279.92288431588753,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2002,278.0,271.2916666666667,3.962800966321704,275.2544676329884,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Old Forge,2002,278.0,270.875,5.593421161346518,276.4684211613465,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Binghamton,2002,282.0,273.75,5.238173849075456,278.98817384907545,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Scranton,2002,288.0,277.375,5.613067505195849,282.98806750519583,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+State College,2002,286.0,277.125,4.891186768329272,282.01618676832925,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Frostburg,2002,284.0,274.75,3.0747163894454745,277.8247163894455,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Valley Head,2002,283.0,274.7083333333333,3.1662300016350216,277.87456333496834,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Shenandoah,2002,289.0,283.125,2.848583202466583,285.97358320246656,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Roanoke,2002,288.0,278.4583333333333,4.1858961778815456,282.64422951121486,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Boone,2002,282.0,278.3333333333333,3.8209840051051334,282.15431733843843,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Asheville,2002,282.0,280.9166666666667,3.5569717792124496,284.47363844587915,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Montpelier,2003,274.0,271.4583333333333,0.9292158472081138,272.38754918054144,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Old Forge,2003,271.0,271.1666666666667,2.6938921840475594,273.86055885071426,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Binghamton,2003,275.0,274.0416666666667,2.9848782411458767,277.02654490781254,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Scranton,2003,278.0,277.7916666666667,2.0701849007244224,279.8618515673911,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+State College,2003,278.0,277.4583333333333,1.5276999827620537,278.98603331609536,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Frostburg,2003,279.0,274.9583333333333,2.1058962212354992,277.06422955456884,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Valley Head,2003,273.0,275.125,1.7807969748208743,276.9057969748209,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Shenandoah,2003,280.0,283.5,1.6258921822285903,285.1258921822286,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Roanoke,2003,275.0,279.0,0.5484303467157001,279.5484303467157,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Boone,2003,276.0,278.5833333333333,-1.0628262480284527,277.52050708530487,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Asheville,2003,278.0,281.0833333333333,-1.3564052241359579,279.72692810919733,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Montpelier,2004,271.0,271.5833333333333,-0.19479566627307454,271.38853766706023,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2004,270.0,271.2083333333333,-1.1583946367683593,270.04993869656494,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2004,275.0,274.0416666666667,-1.7493747467317782,272.2922919199349,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2004,278.0,277.7916666666667,-2.28515817094042,275.5065084957263,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2004,276.0,277.5416666666667,-3.438375763458759,274.10329090320795,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2004,274.0,275.1666666666667,-3.9810550514044714,271.1856116152622,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2004,275.0,275.0416666666667,-3.7193443874440177,271.32232227922265,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2004,281.0,283.4583333333333,-4.703117220391904,278.7552161129414,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2004,277.0,278.9166666666667,-4.33272986704749,274.5839367996192,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2004,275.0,278.625,-4.649258781721248,273.97574121827876,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2004,275.0,281.2083333333333,-4.3086903237707075,276.8996430095626,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2005,274.0,271.4583333333333,5.97442266021857,277.4327559935519,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2005,274.0,271.0416666666667,6.726175374126844,277.76784204079354,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2005,281.0,273.7916666666667,7.5810558284072,281.3727224950739,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2005,280.0,277.7083333333333,7.975674421365448,285.68400775469877,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2005,283.0,277.25,7.458591601436412,284.7085916014364,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2005,278.0,275.0,7.617615202865147,282.6176152028651,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2005,283.0,274.7083333333333,6.603693378265518,281.31202671159883,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2005,290.0,283.0833333333333,9.648050733649407,292.73138406698274,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2005,283.0,278.6666666666667,9.321488703948834,287.9881553706155,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2005,285.0,278.2083333333333,8.322436351685608,286.5307696850189,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2005,289.0,280.625,9.176527154309742,289.8015271543097,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2006,265.0,271.8333333333333,-5.291219210336262,266.5421141229971,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2006,262.0,271.5416666666667,-5.138404012081129,266.40326265458555,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2006,271.0,274.2083333333333,-4.6370795286054,269.5712538047279,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2006,277.0,277.8333333333333,-3.4994284116879304,274.3339049216454,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2006,277.0,277.5,-1.6870435597488007,275.8129564402512,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2006,278.0,275.0,0.2827921645915117,275.2827921645915,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2006,277.0,274.9583333333333,-0.3978474022677312,274.56048593106556,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2006,284.0,283.3333333333333,-0.17730000828759973,283.1560333250457,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2006,280.0,278.7916666666667,-0.6390548589235725,278.1526118077431,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2006,279.0,278.4583333333333,0.4036067998767179,278.86194013321006,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2006,280.0,281.0,-0.44088931709723145,280.55911068290277,gdd5_MarMay+tmean_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2007,271.0,271.5833333333333,0.13644412777921455,271.7197774611125,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2007,272.0,271.125,0.5345700732541283,271.65957007325414,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2007,281.0,273.7916666666667,0.2822092358729219,274.0738759025396,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2007,285.0,277.5,0.8891845986176459,278.38918459861765,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2007,284.0,277.2083333333333,-0.644324285508575,276.56400904782475,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2007,284.0,274.75,-0.06586961264530189,274.6841303873547,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2007,281.0,274.7916666666667,2.2032931027672964,276.994959769434,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2007,291.0,283.0416666666667,2.4418080769442803,285.48347474361094,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2007,287.0,278.5,3.7583127228996354,282.25831272289963,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2007,287.0,278.125,4.019546167118561,282.14454616711856,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2007,290.0,280.5833333333333,4.012653670562811,284.59598700389614,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2008,271.0,271.5833333333333,-2.85898499042578,268.72434834290755,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Old Forge,2008,271.0,271.1666666666667,-2.5910749508816115,268.5755917157851,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Binghamton,2008,274.0,274.0833333333333,-0.9858438679824364,273.09748946535086,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Scranton,2008,280.0,277.7083333333333,-0.701807263969642,277.00652606936364,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+State College,2008,281.0,277.3333333333333,0.47087599034462224,277.8042093236779,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Frostburg,2008,280.0,274.9166666666667,-0.40986423819320517,274.50680242847346,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Valley Head,2008,279.0,274.875,0.7882257390369537,275.66322573903693,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Shenandoah,2008,288.0,283.1666666666667,-2.4446488899136534,280.72201777675303,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Roanoke,2008,287.0,278.5,-0.5261895460390031,277.973810453961,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Boone,2008,285.0,278.2083333333333,0.20227538900808462,278.4106087223414,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Asheville,2008,289.0,280.625,1.540155733691378,282.1651557336914,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Montpelier,2009,274.0,271.4583333333333,-0.0017773571199094507,271.4565559762134,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Old Forge,2009,273.0,271.0833333333333,-0.641566106995373,270.44176722633796,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Binghamton,2009,272.0,274.1666666666667,-0.27058383906906225,273.89608282759764,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Scranton,2009,276.0,277.875,-0.28398063916250194,277.5910193608375,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+State College,2009,275.0,277.5833333333333,1.495615240004463,279.07894857333775,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Frostburg,2009,271.0,275.2916666666667,1.5541053119747592,276.84577197864144,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Valley Head,2009,275.0,275.0416666666667,0.16389417970677295,275.20556084637343,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Shenandoah,2009,281.0,283.4583333333333,2.518576082154639,285.97690941548797,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Roanoke,2009,277.0,278.9166666666667,0.5710982550051674,279.48776492167184,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Boone,2009,276.0,278.5833333333333,0.9806169344859431,279.5639502678193,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Asheville,2009,278.0,281.0833333333333,0.82908070928677,281.91241404262007,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Montpelier,2010,269.0,271.6666666666667,-3.091505577377281,268.5751610892894,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2010,267.0,271.3333333333333,-4.592196802881155,266.74113653045214,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2010,269.0,274.2916666666667,-3.8708812138714865,270.4207854527952,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2010,274.0,277.9583333333333,-4.200772540654419,273.7575607926789,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2010,275.0,277.5833333333333,-3.7334551387020998,273.84987819463123,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2010,267.0,275.4583333333333,-1.2587998161055987,274.19953351722774,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2010,271.0,275.2083333333333,-1.7720159409518685,273.43631739238145,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2010,283.0,283.375,-3.1245985731072436,280.2504014268928,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2010,277.0,278.9166666666667,-1.8272662070001529,277.08940045966654,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2010,276.0,278.5833333333333,-0.11908029943891135,278.4642530338944,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2010,280.0,281.0,0.3374585428784882,281.3374585428785,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2011,270.0,271.625,1.0131890829264165,272.63818908292643,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2011,268.0,271.2916666666667,0.7132212541742018,272.0048879208409,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2011,269.0,274.2916666666667,0.03315314714369766,274.3248198138104,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2011,271.0,278.0833333333333,-2.6324996335050828,275.45083369982825,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2011,276.0,277.5416666666667,-1.6350299238698247,275.9066367427969,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2011,272.0,275.25,-0.8771198433317589,274.37288015666826,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2011,271.0,275.2083333333333,0.21651858522974732,275.42485191856304,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2011,281.0,283.4583333333333,0.07772858321115184,283.53606191654444,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2011,275.0,279.0,0.6305605489912813,279.6305605489913,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2011,275.0,278.625,-1.3785193316886077,277.2464806683114,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2011,278.0,281.0833333333333,-2.031300758300485,279.05203257503285,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2012,270.0,271.625,0.31915343104349114,271.9441534310435,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2012,272.0,271.125,1.3664652187669355,272.49146521876696,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2012,274.0,274.0833333333333,-1.4295449650791907,272.65378836825414,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2012,273.0,278.0,-2.0156032304817533,275.98439676951824,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2012,271.0,277.75,-3.9372164735096304,273.81278352649036,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2012,271.0,275.2916666666667,-2.5487221610348567,272.74294450563184,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2012,271.0,275.2083333333333,-2.412006774587735,272.7963265587456,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2012,278.0,283.5833333333333,-4.227783033122122,279.3555503002112,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2012,272.0,279.125,-3.4098681088197145,275.7151318911803,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2012,275.0,278.625,-5.304958477715999,273.320041522284,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2012,277.0,281.125,-6.249154066418664,274.87584593358133,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2013,266.0,271.7916666666667,-2.800001450774785,268.9916652158919,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2013,268.0,271.2916666666667,-3.2236384746545586,268.06802819201215,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2013,272.0,274.1666666666667,-2.456877903685146,271.70978876298153,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2013,273.0,278.0,-1.9847034997186028,276.0152965002814,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2013,273.0,277.6666666666667,-0.3114774701058822,277.3551891965608,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2013,274.0,275.1666666666667,-1.6454450219289702,273.5212216447377,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2013,274.0,275.0833333333333,-1.809729375633589,273.2736039576997,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2013,281.0,283.4583333333333,0.4909118902324725,283.9492452235658,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2013,275.0,279.0,1.5834836364101499,280.58348363641016,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2013,279.0,278.4583333333333,1.0419901886629503,279.5003235219963,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2013,281.0,280.9583333333333,1.5654742828714872,282.5238076162048,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2014,270.0,271.625,-1.8737032577415071,269.7512967422585,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2014,268.0,271.2916666666667,-3.147566930900898,268.1440997357658,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2014,273.0,274.125,-0.2483776990618885,273.8766223009381,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2014,276.0,277.875,1.0631524706425983,278.9381524706426,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2014,276.0,277.5416666666667,-0.5626158232260794,276.97905084344063,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2014,271.0,275.2916666666667,0.7465102977600069,276.03817696442667,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2014,270.0,275.25,0.6214680954707641,275.8714680954708,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2014,280.0,283.5,-0.31184977144011766,283.1881502285599,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2014,279.0,278.8333333333333,0.5435206762023628,279.3768540095357,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2014,277.0,278.5416666666667,1.376935843742158,279.91860251040885,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2014,280.0,281.0,1.7897619630252755,282.7897619630253,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2015,278.0,271.2916666666667,0.5993994693663034,271.891066136033,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2015,274.0,271.0416666666667,-0.26932742770928475,270.7723392389574,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2015,270.0,274.25,-0.38635310143174206,273.8636468985683,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2015,280.0,277.7083333333333,-1.5594291575360273,276.14890417579727,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2015,276.0,277.5416666666667,-0.9325522399998529,276.60911442666685,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2015,270.0,275.3333333333333,-0.40906261498031227,274.924270718353,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2015,273.0,275.125,-0.7897359022372542,274.3352640977627,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2015,280.0,283.5,-3.1231942516993496,280.3768057483006,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2015,276.0,278.9583333333333,-2.8952590635088264,276.0630742698245,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2015,276.0,278.5833333333333,-2.4798563523116615,276.10347698102163,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2015,278.0,281.0833333333333,-2.3358484718549106,278.7474848614784,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2016,279.0,271.25,1.7115884042364853,272.96158840423647,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Old Forge,2016,277.0,270.9166666666667,2.4175822504245135,273.3342489170912,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Binghamton,2016,283.0,273.7083333333333,2.1258124143606043,275.8341457476939,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Scranton,2016,286.0,277.4583333333333,1.2367000187098487,278.69503335204314,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+State College,2016,284.0,277.2083333333333,3.348458581191145,280.55679191452447,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Frostburg,2016,281.0,274.875,2.6912944419319005,277.5662944419319,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Valley Head,2016,279.0,274.875,1.9107082025793558,276.78570820257937,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Shenandoah,2016,287.0,283.2083333333333,2.1631000945044434,285.37143342783776,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Roanoke,2016,281.0,278.75,0.5850897081466164,279.3350897081466,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Boone,2016,282.0,278.3333333333333,1.9388790880268705,280.27221242136017,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Asheville,2016,283.0,280.875,0.3686737337649728,281.243673733765,gdd5_MarMay+cdd_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Montpelier,2017,270.0,271.625,0.5048041833800355,272.12980418338003,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Old Forge,2017,270.0,271.2083333333333,-0.4404821843339628,270.76785114899934,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Binghamton,2017,270.0,274.25,-2.0819583346127866,272.1680416653872,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Scranton,2017,276.0,277.875,-2.3116781391868955,275.5633218608131,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+State College,2017,277.0,277.5,-3.0567402759774773,274.44325972402254,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Frostburg,2017,271.0,275.2916666666667,-3.4711536171872615,271.8205130494794,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Valley Head,2017,272.0,275.1666666666667,-5.916256040395113,269.25041062627156,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Shenandoah,2017,283.0,283.375,-1.3922097527060353,281.98279024729396,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Roanoke,2017,274.0,279.0416666666667,-3.1630273471807113,275.87863931948596,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Boone,2017,277.0,278.5416666666667,-3.5601248418125455,274.98154182485416,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Asheville,2017,280.0,281.0,-2.847134471259537,278.15286552874045,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Montpelier,2018,275.0,271.4166666666667,2.2009858202176455,273.6176524868843,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Old Forge,2018,273.0,271.0833333333333,3.309994830813284,274.3933281641466,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Binghamton,2018,276.0,274.0,2.0414164357860454,276.04141643578606,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Scranton,2018,277.0,277.8333333333333,1.9106048715814032,279.74393820491474,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+State College,2018,274.0,277.625,1.530286213009866,279.15528621300984,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Frostburg,2018,271.0,275.2916666666667,2.4008432281130165,277.6925098947797,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Valley Head,2018,276.0,275.0,2.7806576146316697,277.78065761463165,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Shenandoah,2018,279.0,283.5416666666667,3.7706734998481384,287.31234016651484,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Roanoke,2018,282.0,278.7083333333333,5.786048406283443,284.49438173961676,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Boone,2018,280.0,278.4166666666667,6.024412167866122,284.4410788345328,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Asheville,2018,283.0,280.875,6.739529244806327,287.6145292448063,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+precip_JunJul
+Montpelier,2019,272.0,271.5416666666667,-0.8204554274080409,270.72121123925865,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Old Forge,2019,273.0,271.0833333333333,-2.038802281725706,269.04453105160763,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Binghamton,2019,271.0,274.2083333333333,-1.174936742738703,273.03339659059463,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Scranton,2019,272.0,278.0416666666667,-1.1182941994264486,276.92337246724026,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+State College,2019,274.0,277.625,0.08406655835321608,277.70906655835324,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Frostburg,2019,275.0,275.125,0.006114877818347075,275.13111487781833,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Valley Head,2019,272.0,275.1666666666667,1.2337988149619825,276.40046548162866,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Shenandoah,2019,285.0,283.2916666666667,1.1998349304089357,284.4915015970756,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Roanoke,2019,274.0,279.0416666666667,3.6438835658261826,282.68555023249286,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Boone,2019,278.0,278.5,4.2106598236066795,282.7106598236067,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Asheville,2019,282.0,280.9166666666667,4.0947041285258905,285.0113707951926,gdd5_MarMay+tmean_pre30+tmax_Aug+tmax_JunJul+tmean_MarApr
+Montpelier,2020,270.0,271.625,2.1918713994251786,273.81687139942517,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Old Forge,2020,273.0,271.0833333333333,2.6190525389427406,273.70238587227607,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Binghamton,2020,273.0,274.125,4.200944336449624,278.32594433644965,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Scranton,2020,281.0,277.6666666666667,3.78614766125604,281.45281432792274,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+State College,2020,280.0,277.375,4.352331073575244,281.7273310735753,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Frostburg,2020,276.0,275.0833333333333,3.4090047316088787,278.4923380649422,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Valley Head,2020,274.0,275.0833333333333,2.5988073966968037,277.68214073003014,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Shenandoah,2020,280.0,283.5,1.518210635915316,285.0182106359153,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Roanoke,2020,275.0,279.0,-1.4095217727373315,277.5904782272627,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Boone,2020,276.0,278.5833333333333,0.470728942038263,279.05406227537156,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Asheville,2020,279.0,281.0416666666667,0.2884559956943804,281.3301226623611,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+precip_JunJul
+Montpelier,2021,271.0,271.5833333333333,2.3278239473304088,273.9111572806637,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Old Forge,2021,270.0,271.2083333333333,3.323363843241273,274.5316971765746,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Binghamton,2021,273.0,274.125,2.527957627986271,276.65295762798627,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Scranton,2021,277.0,277.8333333333333,2.110098660823034,279.94343199415636,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+State College,2021,280.0,277.375,3.4897290691133356,280.8647290691133,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Frostburg,2021,279.0,274.9583333333333,4.018653303945137,278.97698663727846,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Valley Head,2021,281.0,274.7916666666667,3.3055228452081122,278.0971895118748,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Shenandoah,2021,291.0,283.0416666666667,5.438565466645114,288.4802321333118,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Roanoke,2021,287.0,278.5,5.49780605516387,283.9978060551639,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Boone,2021,282.0,278.3333333333333,4.3325226629718525,282.66585599630514,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Asheville,2021,285.0,280.7916666666667,2.6087452535710036,283.4004119202377,gdd5_MarMay+cdd_pre30+tmax_Aug+cold_nights_pre30+srad_pre30
+Montpelier,2022,273.0,271.5,0.7335280453077375,272.23352804530776,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2022,273.0,271.0833333333333,1.6581802413672868,272.7415135747006,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2022,276.0,274.0,0.8847313867374998,274.8847313867375,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2022,279.0,277.75,0.050371355789311734,277.8003713557893,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2022,279.0,277.4166666666667,-0.6861488651048303,276.73051780156186,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2022,276.0,275.0833333333333,-1.149884555750516,273.9334487775828,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2022,275.0,275.0416666666667,-2.3073315768054847,272.7343350898612,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2022,281.0,283.4583333333333,-2.657237461707092,280.8010958716262,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2022,277.0,278.9166666666667,-3.840522489499393,275.0761441771673,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2022,278.0,278.5,-4.362617426988375,274.1373825730116,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2022,280.0,281.0,-4.742106738225803,276.2578932617742,gdd5_MarMay+tmean_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Montpelier,2023,272.0,271.5416666666667,-4.543577175767745,266.99808949089896,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2023,271.0,271.1666666666667,-3.2236849039038424,267.9429817627628,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2023,274.0,274.0833333333333,-2.5436175135353727,271.53971581979795,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2023,279.0,277.75,-2.2107485582424244,275.5392514417576,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2023,279.0,277.4166666666667,-1.3269604421491592,276.0897062245175,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2023,278.0,275.0,0.24233140605173198,275.24233140605173,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2023,279.0,274.875,1.9724324392932218,276.84743243929324,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2023,286.0,283.25,1.2312687734025118,284.4812687734025,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2023,281.0,278.75,1.0382799090666424,279.78827990906666,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2023,283.0,278.2916666666667,2.8018538195863396,281.093520486253,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2023,285.0,280.7916666666667,3.544123355403345,284.33579002207006,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2024,268.0,271.7083333333333,-5.403758189099959,266.30457514423335,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Old Forge,2024,268.0,271.2916666666667,-5.885019164363575,265.4066475023031,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Binghamton,2024,270.0,274.25,-5.461971766349499,268.7880282336505,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Scranton,2024,275.0,277.9166666666667,-3.93504169727069,273.981624969396,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+State College,2024,272.0,277.7083333333333,-5.607760881225961,272.1005724521074,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Frostburg,2024,271.0,275.2916666666667,-3.1776410621231364,272.11402560454354,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Valley Head,2024,271.0,275.2083333333333,-2.2161813051699153,272.9921520281634,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Shenandoah,2024,281.0,283.4583333333333,-1.688208633042736,281.7701247002906,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Roanoke,2024,279.0,278.8333333333333,-2.853960166017345,275.97937316731594,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Boone,2024,274.0,278.6666666666667,-1.5392328702259899,277.1274337964407,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Asheville,2024,277.0,281.125,-1.0159348108065551,280.1090651891935,gdd5_MarMay+cdd_pre30+tmax_Aug+precip_JunJul+tmax_JunJul
+Montpelier,2025,267.0,271.75,0.050463416174738596,271.80046341617475,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Old Forge,2025,271.0,271.1666666666667,-0.321203822208365,270.8454628444583,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Binghamton,2025,271.0,274.2083333333333,-0.07899357575193577,274.12933975758136,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Scranton,2025,277.0,277.8333333333333,0.6834581960966286,278.51679152942995,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+State College,2025,272.0,277.7083333333333,-0.7375792142842479,276.97075411904905,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Frostburg,2025,269.0,275.375,-2.377872785983824,272.9971272140162,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Valley Head,2025,268.0,275.3333333333333,-3.201943310391526,272.1313900229418,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Shenandoah,2025,280.0,283.5,-4.295753632409591,279.20424636759043,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Roanoke,2025,275.0,279.0,-5.227270277827597,273.7727297221724,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Boone,2025,274.0,278.6666666666667,-4.930541577192731,273.73612508947394,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
+Asheville,2025,277.0,281.125,-4.28281062556176,276.84218937443825,gdd5_MarMay+cdd_pre30+tmax_Aug+tmean_MarApr+tmax_JunJul
