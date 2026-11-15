@@ -1,0 +1,8 @@
+.pytest_cache/
+__pycache__/
+cache/
+
+# Rebuilt by run_pipeline.py; omitted because these expanded tables are large.
+outputs/tables/environment_daily.csv
+outputs/tables/imagery_metadata.csv
+outputs/tables/phenology_observations.csv

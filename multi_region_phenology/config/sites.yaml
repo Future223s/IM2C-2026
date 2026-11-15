@@ -1,0 +1,117 @@
+analysis_end_year: 2025
+environment_start_year: 2000
+autumn_start: "09-01"
+autumn_end: "11-30"
+minimum_usable_autumn_days: 45
+minimum_autumn_fraction: 0.60
+maximum_long_gap_days: 14
+
+sites:
+  - site_id: harvard_forest
+    name: Harvard Forest EMS Tower
+    research_region: New England
+    state: Massachusetts
+    status: primary
+    canonical_platform: harvard
+    platforms: [harvard]
+    network_ids: {phenocam: harvard, ameriflux: US-Ha1, neon: HARV, lter: Harvard Forest}
+
+  - site_id: bartlett_forest
+    name: Bartlett Experimental Forest
+    research_region: Northern Appalachians
+    state: New Hampshire
+    status: primary
+    canonical_platform: bartlettir
+    platforms: [bartlettir, NEON.D01.BART.DP1.00033]
+    network_ids: {phenocam: bartlettir, ameriflux: US-Bar, neon: BART}
+
+  - site_id: grsm_purchase_knob
+    name: Great Smoky Mountains — Purchase Knob
+    research_region: Southern Appalachians high elevation
+    state: North Carolina
+    status: primary
+    canonical_platform: smokypurchase
+    platforms: [smokypurchase]
+    network_ids: {phenocam: smokypurchase}
+
+  - site_id: grsm_neon
+    name: Great Smoky Mountains — NEON tower
+    research_region: Southern Appalachians lower elevation
+    state: Tennessee
+    status: primary
+    canonical_platform: NEON.D07.GRSM.DP1.00033
+    platforms: [NEON.D07.GRSM.DP1.00033]
+    network_ids: {phenocam: NEON.D07.GRSM.DP1.00033, ameriflux: US-xGR, neon: GRSM}
+
+  - site_id: morgan_monroe
+    name: Morgan–Monroe State Forest
+    research_region: Interior Midwest
+    state: Indiana
+    status: primary
+    canonical_platform: morganmonroe
+    platforms: [morganmonroe, morganmonroe2]
+    network_ids: {phenocam: morganmonroe, ameriflux: US-MMS}
+
+  - site_id: umbs_flux
+    name: University of Michigan Biological Station
+    research_region: Upper Midwest / Great Lakes
+    state: Michigan
+    status: primary
+    canonical_platform: umichbiological
+    platforms: [umichbiological]
+    network_ids: {phenocam: umichbiological, ameriflux: US-UMB}
+
+  - site_id: umbs_faset
+    name: UMBS FASET experimental tower
+    research_region: Upper Midwest / Great Lakes
+    state: Michigan
+    status: complementary
+    canonical_platform: umichbiological2
+    platforms: [umichbiological2]
+    network_ids: {phenocam: umichbiological2, ameriflux: US-UMd}
+
+  - site_id: cary_institute
+    name: Cary Institute of Ecosystem Studies
+    research_region: Hudson Valley
+    state: New York
+    status: secondary
+    canonical_platform: caryinstitute
+    platforms: [caryinstitute, caryinstitute2]
+    network_ids: {phenocam: caryinstitute}
+
+  - site_id: oakridge_chestnut
+    name: Oak Ridge — Chestnut Ridge
+    research_region: Cumberland Plateau
+    state: Tennessee
+    status: secondary
+    canonical_platform: oakridge1
+    platforms: [oakridge1, oakridge2]
+    network_ids: {phenocam: oakridge1, ameriflux: US-ChR}
+
+  - site_id: oakridge_neon
+    name: Oak Ridge — NEON tower
+    research_region: Cumberland Plateau
+    state: Tennessee
+    status: secondary
+    canonical_platform: NEON.D07.ORNL.DP1.00033
+    platforms: [NEON.D07.ORNL.DP1.00033]
+    network_ids: {phenocam: NEON.D07.ORNL.DP1.00033, ameriflux: US-xRN, neon: ORNL}
+
+  - site_id: dolly_sods
+    name: Dolly Sods / Canaan Valley
+    research_region: Central Appalachians high elevation
+    state: West Virginia
+    status: historical
+    canonical_platform: dollysods
+    platforms: [dollysods]
+    network_ids: {phenocam: dollysods}
+
+  - site_id: shining_rock
+    name: Shining Rock Wilderness
+    research_region: Southern Appalachians high elevation
+    state: North Carolina
+    status: historical
+    canonical_platform: shiningrock
+    platforms: [shiningrock]
+    network_ids: {phenocam: shiningrock}
+

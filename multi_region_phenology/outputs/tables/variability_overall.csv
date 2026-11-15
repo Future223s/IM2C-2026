@@ -1,0 +1,2 @@
+metric,site_count,site_year_count,median_within_site_sd_days,between_site_sd_of_site_means_days,between_site_range_of_site_means_days,median_same_site_year_platform_spread_days,caution
+rcc90_observed_autumn_maximum,12,158,6.018616383607421,7.590370873244507,24.444444444444457,1.0,"RCC90 maxima are operational camera metrics; platform spread is measurement/footprint disagreement, not pure biological uncertainty."

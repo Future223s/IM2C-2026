@@ -1,0 +1,38 @@
+{
+  "release": "0.1.0",
+  "built_at": "2026-11-15T19:29:09.902675+00:00",
+  "analysis_end_year": 2025,
+  "table_rows": {
+    "sites": 12,
+    "platforms": 16,
+    "camera_rois": 30,
+    "site_years": 312,
+    "environment_daily": 113880,
+    "phenology_observations": 146692,
+    "phenology_events": 179,
+    "species_composition": 48,
+    "imagery_metadata": 73346,
+    "data_provenance": 46,
+    "coverage_audit": 312,
+    "dataset_inventory": 72
+  },
+  "tables": {
+    "sites": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/sites.parquet",
+    "platforms": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/platforms.parquet",
+    "camera_rois": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/camera_rois.parquet",
+    "site_years": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/site_years.parquet",
+    "environment_daily": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/environment_daily.parquet",
+    "phenology_observations": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/phenology_observations.parquet",
+    "phenology_events": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/phenology_events.parquet",
+    "species_composition": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/species_composition.parquet",
+    "imagery_metadata": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/imagery_metadata.parquet",
+    "data_provenance": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/data_provenance.parquet",
+    "coverage_audit": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/coverage_audit.parquet",
+    "dataset_inventory": "/Users/sebas/Coding/IM2C/multi_region_phenology/outputs/tables/dataset_inventory.parquet"
+  },
+  "notes": [
+    "PhenoCam and Daymet records are downloaded; other modalities remain explicit verified/pending inventory entries.",
+    "Observations retain platform, ROI, timestamp, footprint, quality, and provenance identifiers.",
+    "No modality is discarded for lack of same-day observations in another modality."
+  ]
+}
